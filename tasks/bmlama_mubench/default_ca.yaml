@@ -1,0 +1,3 @@
+include: default_af.yaml
+task: bmlama_ca_mubench
+dataset_name: BMLAMADataset_lighteval_ca

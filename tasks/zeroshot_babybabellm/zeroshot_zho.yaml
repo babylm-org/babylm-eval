@@ -1,0 +1,13 @@
+group: zeroshot_zho
+task:
+  - winogrande_zh_mubench
+  - xstorycloze_zh_mubench
+  - hellaswag_zh_mubench
+  - xcomps_zh
+  - zhoblimp
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 1.0

@@ -1,0 +1,4 @@
+# zhoblimp_singular_PN_but_plural_pron.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_singular_PN_but_plural_pron
+dataset_name: singular_PN_but_plural_pron

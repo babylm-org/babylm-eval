@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_kat_Geor
+dataset_name: kat_Geor

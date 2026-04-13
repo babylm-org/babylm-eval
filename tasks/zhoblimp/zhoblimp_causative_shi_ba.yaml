@@ -1,0 +1,4 @@
+# zhoblimp_causative_shi_ba.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_causative_shi_ba
+dataset_name: causative_shi_ba

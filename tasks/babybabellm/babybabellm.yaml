@@ -1,0 +1,11 @@
+group: babybabellm
+task:
+  - babybabellm_zho
+  - babybabellm_nld
+  - babybabellm_eng
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 1.0

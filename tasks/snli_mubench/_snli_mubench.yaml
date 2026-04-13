@@ -1,0 +1,69 @@
+group: snli_mubench
+task:
+- snli_af_mubench
+- snli_ar_mubench
+- snli_az_mubench
+- snli_bg_mubench
+- snli_bn_mubench
+- snli_ca_mubench
+- snli_ceb_mubench
+- snli_cs_mubench
+- snli_da_mubench
+- snli_de_mubench
+- snli_el_mubench
+- snli_en_mubench
+- snli_es_mubench
+- snli_et_mubench
+- snli_fa_mubench
+- snli_fi_mubench
+- snli_fr_mubench
+- snli_ga_mubench
+- snli_gu_mubench
+- snli_he_mubench
+- snli_hi_mubench
+- snli_hr_mubench
+- snli_hu_mubench
+- snli_id_mubench
+- snli_is_mubench
+- snli_it_mubench
+- snli_ja_mubench
+- snli_jv_mubench
+- snli_kk_mubench
+- snli_km_mubench
+- snli_kn_mubench
+- snli_ko_mubench
+- snli_lt_mubench
+- snli_lv_mubench
+- snli_ml_mubench
+- snli_mr_mubench
+- snli_ms_mubench
+- snli_my_mubench
+- snli_nl_mubench
+- snli_no_mubench
+- snli_pa_mubench
+- snli_pl_mubench
+- snli_pt_mubench
+- snli_ro_mubench
+- snli_ru_mubench
+- snli_sk_mubench
+- snli_sl_mubench
+- snli_sq_mubench
+- snli_sr_mubench
+- snli_sv_mubench
+- snli_sw_mubench
+- snli_ta_mubench
+- snli_te_mubench
+- snli_th_mubench
+- snli_tl_mubench
+- snli_tr_mubench
+- snli_uk_mubench
+- snli_ur_mubench
+- snli_uz_mubench
+- snli_vi_mubench
+- snli_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

@@ -1,0 +1,72 @@
+group: hellaswag_mubench
+task:
+- hellaswag_af_mubench
+- hellaswag_ar_mubench
+- hellaswag_az_mubench
+- hellaswag_bg_mubench
+- hellaswag_bn_mubench
+- hellaswag_ca_mubench
+- hellaswag_ceb_mubench
+- hellaswag_cs_mubench
+- hellaswag_da_mubench
+- hellaswag_de_mubench
+- hellaswag_el_mubench
+- hellaswag_en_mubench
+- hellaswag_es_mubench
+- hellaswag_et_mubench
+- hellaswag_fa_mubench
+- hellaswag_fi_mubench
+- hellaswag_fr_mubench
+- hellaswag_ga_mubench
+- hellaswag_gu_mubench
+- hellaswag_he_mubench
+- hellaswag_hi_mubench
+- hellaswag_hr_mubench
+- hellaswag_hu_mubench
+- hellaswag_id_mubench
+- hellaswag_is_mubench
+- hellaswag_it_mubench
+- hellaswag_ja_mubench
+- hellaswag_jv_mubench
+- hellaswag_kk_mubench
+- hellaswag_km_mubench
+- hellaswag_kn_mubench
+- hellaswag_ko_mubench
+- hellaswag_lt_mubench
+- hellaswag_lv_mubench
+- hellaswag_ml_mubench
+- hellaswag_mr_mubench
+- hellaswag_ms_mubench
+- hellaswag_my_mubench
+- hellaswag_nl_mubench
+- hellaswag_no_mubench
+- hellaswag_pa_mubench
+- hellaswag_pl_mubench
+- hellaswag_pt_mubench
+- hellaswag_ro_mubench
+- hellaswag_ru_mubench
+- hellaswag_sk_mubench
+- hellaswag_sl_mubench
+- hellaswag_sq_mubench
+- hellaswag_sr_mubench
+- hellaswag_sv_mubench
+- hellaswag_sw_mubench
+- hellaswag_ta_mubench
+- hellaswag_te_mubench
+- hellaswag_th_mubench
+- hellaswag_tl_mubench
+- hellaswag_tr_mubench
+- hellaswag_uk_mubench
+- hellaswag_ur_mubench
+- hellaswag_uz_mubench
+- hellaswag_vi_mubench
+- hellaswag_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+- metric: acc_norm
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

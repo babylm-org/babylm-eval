@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_dan_Latn
+dataset_name: dan_Latn

@@ -1,0 +1,3 @@
+include: default_af.yaml
+task: xstorycloze_ur_mubench
+dataset_name: StoryClozeDataset_lighteval_ur

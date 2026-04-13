@@ -1,0 +1,4 @@
+# zhoblimp_agent_deletion.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_agent_deletion
+dataset_name: agent_deletion

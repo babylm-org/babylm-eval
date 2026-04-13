@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_tel_Telu
+dataset_name: tel_Telu

@@ -1,0 +1,72 @@
+group: arc_challenge_mubench
+task:
+- arc_challenge_af_mubench
+- arc_challenge_ar_mubench
+- arc_challenge_az_mubench
+- arc_challenge_bg_mubench
+- arc_challenge_bn_mubench
+- arc_challenge_ca_mubench
+- arc_challenge_ceb_mubench
+- arc_challenge_cs_mubench
+- arc_challenge_da_mubench
+- arc_challenge_de_mubench
+- arc_challenge_el_mubench
+- arc_challenge_en_mubench
+- arc_challenge_es_mubench
+- arc_challenge_et_mubench
+- arc_challenge_fa_mubench
+- arc_challenge_fi_mubench
+- arc_challenge_fr_mubench
+- arc_challenge_ga_mubench
+- arc_challenge_gu_mubench
+- arc_challenge_he_mubench
+- arc_challenge_hi_mubench
+- arc_challenge_hr_mubench
+- arc_challenge_hu_mubench
+- arc_challenge_id_mubench
+- arc_challenge_is_mubench
+- arc_challenge_it_mubench
+- arc_challenge_ja_mubench
+- arc_challenge_jv_mubench
+- arc_challenge_kk_mubench
+- arc_challenge_km_mubench
+- arc_challenge_kn_mubench
+- arc_challenge_ko_mubench
+- arc_challenge_lt_mubench
+- arc_challenge_lv_mubench
+- arc_challenge_ml_mubench
+- arc_challenge_mr_mubench
+- arc_challenge_ms_mubench
+- arc_challenge_my_mubench
+- arc_challenge_nl_mubench
+- arc_challenge_no_mubench
+- arc_challenge_pa_mubench
+- arc_challenge_pl_mubench
+- arc_challenge_pt_mubench
+- arc_challenge_ro_mubench
+- arc_challenge_ru_mubench
+- arc_challenge_sk_mubench
+- arc_challenge_sl_mubench
+- arc_challenge_sq_mubench
+- arc_challenge_sr_mubench
+- arc_challenge_sv_mubench
+- arc_challenge_sw_mubench
+- arc_challenge_ta_mubench
+- arc_challenge_te_mubench
+- arc_challenge_th_mubench
+- arc_challenge_tl_mubench
+- arc_challenge_tr_mubench
+- arc_challenge_uk_mubench
+- arc_challenge_ur_mubench
+- arc_challenge_uz_mubench
+- arc_challenge_vi_mubench
+- arc_challenge_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+- metric: acc_norm
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

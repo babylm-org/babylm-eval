@@ -1,0 +1,15 @@
+task: bl2mp
+dataset_path: orai-nlp/bl2mp
+dataset_name: default
+training_split: null
+validation_split: null
+test_split: train
+output_type: multiple_choice
+doc_to_text: ""
+doc_to_target: 0
+doc_to_choice: "{{[sentence_good,sentence_bad]}}"
+target_delimiter: ""
+metric_list:
+  - metric: acc
+metadata:
+  version: 1.0

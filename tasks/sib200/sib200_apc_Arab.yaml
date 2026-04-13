@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_apc_Arab
+dataset_name: apc_Arab

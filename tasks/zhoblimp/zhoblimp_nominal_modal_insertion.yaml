@@ -1,0 +1,4 @@
+# zhoblimp_nominal_modal_insertion.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_nominal_modal_insertion
+dataset_name: nominal_modal_insertion

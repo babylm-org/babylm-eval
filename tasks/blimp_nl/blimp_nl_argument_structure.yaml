@@ -1,0 +1,4 @@
+# blimp_nl_argument_structure.yaml
+include: blimp_nl_anaphor_agreement.yaml
+task: blimp_nl_argument_structure
+dataset_name: argument_structure

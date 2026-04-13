@@ -1,0 +1,3 @@
+include: default_af.yaml
+task: hellaswag_uk_mubench
+dataset_name: HellaswagDataset_lighteval_uk

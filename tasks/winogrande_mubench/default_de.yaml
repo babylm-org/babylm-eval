@@ -1,0 +1,3 @@
+include: default_af.yaml
+task: winogrande_de_mubench
+dataset_name: WinoGrandeDataset_lighteval_de

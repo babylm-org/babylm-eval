@@ -1,0 +1,4 @@
+# zhoblimp_BA_duplicate_argument.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_BA_duplicate_argument
+dataset_name: BA_duplicate_argument

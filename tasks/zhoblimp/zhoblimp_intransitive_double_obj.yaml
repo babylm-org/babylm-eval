@@ -1,0 +1,4 @@
+# zhoblimp_intransitive_double_obj.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_intransitive_double_obj
+dataset_name: intransitive_double_obj

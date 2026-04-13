@@ -1,0 +1,18 @@
+# blimp_nl_anaphor_agreement.yaml
+task: blimp_nl_anaphor_agreement
+dataset_path: juletxara/blimp-nl
+dataset_name: anaphor_agreement
+test_split: train
+training_split: null
+validation_split: null
+output_type: multiple_choice
+doc_to_text: ''
+doc_to_target: 0
+doc_to_choice: '{{[sentence_good, sentence_bad]}}'
+num_fewshot: 0
+metric_list:
+- metric: acc
+  aggregation: mean
+  higher_is_better: true
+metadata:
+  version: 1.0

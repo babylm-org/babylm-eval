@@ -1,0 +1,4 @@
+# blimp_nl_passive.yaml
+include: blimp_nl_anaphor_agreement.yaml
+task: blimp_nl_passive
+dataset_name: passive

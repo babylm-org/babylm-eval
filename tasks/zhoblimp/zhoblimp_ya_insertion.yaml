@@ -1,0 +1,4 @@
+# zhoblimp_ya_insertion.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_ya_insertion
+dataset_name: ya_insertion

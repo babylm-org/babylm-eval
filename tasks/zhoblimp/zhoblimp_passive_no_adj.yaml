@@ -1,0 +1,4 @@
+# zhoblimp_passive_no_adj.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_passive_no_adj
+dataset_name: passive_no_adj

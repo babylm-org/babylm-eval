@@ -1,0 +1,4 @@
+# zhoblimp_principle_A_c_command_number.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_principle_A_c_command_number
+dataset_name: principle_A_c_command_number

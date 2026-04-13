@@ -1,0 +1,3 @@
+include: multiblimp_krl.yaml
+task: multiblimp_heb
+dataset_name: heb

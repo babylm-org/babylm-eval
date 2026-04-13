@@ -1,0 +1,4 @@
+# zhoblimp_intransitive_no_obj.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_intransitive_no_obj
+dataset_name: intransitive_no_obj

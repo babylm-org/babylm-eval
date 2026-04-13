@@ -1,0 +1,4 @@
+# zhoblimp_classifier_noun_agreement.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_classifier_noun_agreement
+dataset_name: classifier_noun_agreement

@@ -1,0 +1,72 @@
+group: xstorycloze_mubench
+task:
+- xstorycloze_af_mubench
+- xstorycloze_ar_mubench
+- xstorycloze_az_mubench
+- xstorycloze_bg_mubench
+- xstorycloze_bn_mubench
+- xstorycloze_ca_mubench
+- xstorycloze_ceb_mubench
+- xstorycloze_cs_mubench
+- xstorycloze_da_mubench
+- xstorycloze_de_mubench
+- xstorycloze_el_mubench
+- xstorycloze_en_mubench
+- xstorycloze_es_mubench
+- xstorycloze_et_mubench
+- xstorycloze_fa_mubench
+- xstorycloze_fi_mubench
+- xstorycloze_fr_mubench
+- xstorycloze_ga_mubench
+- xstorycloze_gu_mubench
+- xstorycloze_he_mubench
+- xstorycloze_hi_mubench
+- xstorycloze_hr_mubench
+- xstorycloze_hu_mubench
+- xstorycloze_id_mubench
+- xstorycloze_is_mubench
+- xstorycloze_it_mubench
+- xstorycloze_ja_mubench
+- xstorycloze_jv_mubench
+- xstorycloze_kk_mubench
+- xstorycloze_km_mubench
+- xstorycloze_kn_mubench
+- xstorycloze_ko_mubench
+- xstorycloze_lt_mubench
+- xstorycloze_lv_mubench
+- xstorycloze_ml_mubench
+- xstorycloze_mr_mubench
+- xstorycloze_ms_mubench
+- xstorycloze_my_mubench
+- xstorycloze_nl_mubench
+- xstorycloze_no_mubench
+- xstorycloze_pa_mubench
+- xstorycloze_pl_mubench
+- xstorycloze_pt_mubench
+- xstorycloze_ro_mubench
+- xstorycloze_ru_mubench
+- xstorycloze_sk_mubench
+- xstorycloze_sl_mubench
+- xstorycloze_sq_mubench
+- xstorycloze_sr_mubench
+- xstorycloze_sv_mubench
+- xstorycloze_sw_mubench
+- xstorycloze_ta_mubench
+- xstorycloze_te_mubench
+- xstorycloze_th_mubench
+- xstorycloze_tl_mubench
+- xstorycloze_tr_mubench
+- xstorycloze_uk_mubench
+- xstorycloze_ur_mubench
+- xstorycloze_uz_mubench
+- xstorycloze_vi_mubench
+- xstorycloze_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+- metric: acc_norm
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

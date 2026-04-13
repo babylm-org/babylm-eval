@@ -1,0 +1,3 @@
+include: default_af.yaml
+task: truthfulqa_vi_mubench
+dataset_name: TruthfulQADataset_lighteval_vi

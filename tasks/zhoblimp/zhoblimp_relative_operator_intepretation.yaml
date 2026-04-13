@@ -1,0 +1,4 @@
+# zhoblimp_relative_operator_intepretation.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_relative_operator_intepretation
+dataset_name: relative_operator_intepretation

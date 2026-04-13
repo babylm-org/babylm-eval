@@ -1,0 +1,4 @@
+# blimp_nl_nominalization.yaml
+include: blimp_nl_anaphor_agreement.yaml
+task: blimp_nl_nominalization
+dataset_name: nominalization

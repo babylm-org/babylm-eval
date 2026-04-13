@@ -1,0 +1,69 @@
+group: bmlama_mubench
+task:
+- bmlama_af_mubench
+- bmlama_ar_mubench
+- bmlama_az_mubench
+- bmlama_bg_mubench
+- bmlama_bn_mubench
+- bmlama_ca_mubench
+- bmlama_ceb_mubench
+- bmlama_cs_mubench
+- bmlama_da_mubench
+- bmlama_de_mubench
+- bmlama_el_mubench
+- bmlama_en_mubench
+- bmlama_es_mubench
+- bmlama_et_mubench
+- bmlama_fa_mubench
+- bmlama_fi_mubench
+- bmlama_fr_mubench
+- bmlama_ga_mubench
+- bmlama_gu_mubench
+- bmlama_he_mubench
+- bmlama_hi_mubench
+- bmlama_hr_mubench
+- bmlama_hu_mubench
+- bmlama_id_mubench
+- bmlama_is_mubench
+- bmlama_it_mubench
+- bmlama_ja_mubench
+- bmlama_jv_mubench
+- bmlama_kk_mubench
+- bmlama_km_mubench
+- bmlama_kn_mubench
+- bmlama_ko_mubench
+- bmlama_lt_mubench
+- bmlama_lv_mubench
+- bmlama_ml_mubench
+- bmlama_mr_mubench
+- bmlama_ms_mubench
+- bmlama_my_mubench
+- bmlama_nl_mubench
+- bmlama_no_mubench
+- bmlama_pa_mubench
+- bmlama_pl_mubench
+- bmlama_pt_mubench
+- bmlama_ro_mubench
+- bmlama_ru_mubench
+- bmlama_sk_mubench
+- bmlama_sl_mubench
+- bmlama_sq_mubench
+- bmlama_sr_mubench
+- bmlama_sv_mubench
+- bmlama_sw_mubench
+- bmlama_ta_mubench
+- bmlama_te_mubench
+- bmlama_th_mubench
+- bmlama_tl_mubench
+- bmlama_tr_mubench
+- bmlama_uk_mubench
+- bmlama_ur_mubench
+- bmlama_uz_mubench
+- bmlama_vi_mubench
+- bmlama_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

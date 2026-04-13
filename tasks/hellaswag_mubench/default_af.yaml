@@ -1,0 +1,18 @@
+task: hellaswag_af_mubench
+dataset_path: aialt/MuBench
+dataset_name: HellaswagDataset_lighteval_af
+output_type: multiple_choice
+validation_split: validation
+test_split: test
+doc_to_text: prompt
+doc_to_target: label
+doc_to_choice: choices
+metric_list:
+- metric: acc
+  aggregation: mean
+  higher_is_better: true
+- metric: acc_norm
+  aggregation: mean
+  higher_is_better: true
+metadata:
+  version: 1.0

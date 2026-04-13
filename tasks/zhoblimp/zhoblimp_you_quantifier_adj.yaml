@@ -1,0 +1,4 @@
+# zhoblimp_you_quantifier_adj.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_you_quantifier_adj
+dataset_name: you_quantifier_adj

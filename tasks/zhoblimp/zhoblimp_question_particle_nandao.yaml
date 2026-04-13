@@ -1,0 +1,4 @@
+# zhoblimp_question_particle_nandao.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_question_particle_nandao
+dataset_name: question_particle_nandao

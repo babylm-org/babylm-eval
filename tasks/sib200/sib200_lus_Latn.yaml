@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_lus_Latn
+dataset_name: lus_Latn

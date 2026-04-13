@@ -1,0 +1,4 @@
+# zhoblimp_question_daodi_nandao_A_not_A_tran.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_question_daodi_nandao_A_not_A_tran
+dataset_name: question_daodi_nandao_A_not_A_tran

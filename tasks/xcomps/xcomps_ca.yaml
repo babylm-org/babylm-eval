@@ -1,0 +1,3 @@
+include: xcomps_de.yaml
+task: xcomps_ca
+test_split: comps_ca

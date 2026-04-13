@@ -1,0 +1,4 @@
+# zhoblimp_question_V_not_VP_1.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_question_V_not_VP_1
+dataset_name: question_V_not_VP_1

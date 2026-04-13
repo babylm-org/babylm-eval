@@ -1,0 +1,4 @@
+# zhoblimp_BA_suo_adverbial_a.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_BA_suo_adverbial_a
+dataset_name: BA_suo_adverbial_a

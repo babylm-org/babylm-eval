@@ -1,0 +1,72 @@
+group: gpqa_mubench
+task:
+- gpqa_af_mubench
+- gpqa_ar_mubench
+- gpqa_az_mubench
+- gpqa_bg_mubench
+- gpqa_bn_mubench
+- gpqa_ca_mubench
+- gpqa_ceb_mubench
+- gpqa_cs_mubench
+- gpqa_da_mubench
+- gpqa_de_mubench
+- gpqa_el_mubench
+- gpqa_en_mubench
+- gpqa_es_mubench
+- gpqa_et_mubench
+- gpqa_fa_mubench
+- gpqa_fi_mubench
+- gpqa_fr_mubench
+- gpqa_ga_mubench
+- gpqa_gu_mubench
+- gpqa_he_mubench
+- gpqa_hi_mubench
+- gpqa_hr_mubench
+- gpqa_hu_mubench
+- gpqa_id_mubench
+- gpqa_is_mubench
+- gpqa_it_mubench
+- gpqa_ja_mubench
+- gpqa_jv_mubench
+- gpqa_kk_mubench
+- gpqa_km_mubench
+- gpqa_kn_mubench
+- gpqa_ko_mubench
+- gpqa_lt_mubench
+- gpqa_lv_mubench
+- gpqa_ml_mubench
+- gpqa_mr_mubench
+- gpqa_ms_mubench
+- gpqa_my_mubench
+- gpqa_nl_mubench
+- gpqa_no_mubench
+- gpqa_pa_mubench
+- gpqa_pl_mubench
+- gpqa_pt_mubench
+- gpqa_ro_mubench
+- gpqa_ru_mubench
+- gpqa_sk_mubench
+- gpqa_sl_mubench
+- gpqa_sq_mubench
+- gpqa_sr_mubench
+- gpqa_sv_mubench
+- gpqa_sw_mubench
+- gpqa_ta_mubench
+- gpqa_te_mubench
+- gpqa_th_mubench
+- gpqa_tl_mubench
+- gpqa_tr_mubench
+- gpqa_uk_mubench
+- gpqa_ur_mubench
+- gpqa_uz_mubench
+- gpqa_vi_mubench
+- gpqa_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+- metric: acc_norm
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

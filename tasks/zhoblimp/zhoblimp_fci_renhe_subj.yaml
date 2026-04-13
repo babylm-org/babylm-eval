@@ -1,0 +1,4 @@
+# zhoblimp_fci_renhe_subj.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_fci_renhe_subj
+dataset_name: fci_renhe_subj

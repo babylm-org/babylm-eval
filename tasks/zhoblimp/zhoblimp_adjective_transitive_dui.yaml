@@ -1,0 +1,4 @@
+# zhoblimp_adjective_transitive_dui.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_adjective_transitive_dui
+dataset_name: adjective_transitive_dui

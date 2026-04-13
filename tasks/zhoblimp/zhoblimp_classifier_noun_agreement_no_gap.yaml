@@ -1,0 +1,4 @@
+# zhoblimp_classifier_noun_agreement_no_gap.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_classifier_noun_agreement_no_gap
+dataset_name: classifier_noun_agreement_no_gap

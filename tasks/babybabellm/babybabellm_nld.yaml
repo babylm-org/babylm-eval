@@ -1,0 +1,22 @@
+group: babybabellm_nld
+task:
+  - multiblimp_nld
+  - winogrande_nl_mubench
+  - xstorycloze_nl_mubench
+  - bmlama_nl_mubench
+  - hellaswag_nl_mubench
+  - multinli_nl_mubench
+  - arc_easy_nl_mubench
+  - truthfulqa_nl_mubench
+  - xcomps_nl
+  - global_mmlu_full_nl
+  - include_base_44_dutch
+  - belebele_nld_Latn
+  - sib200_nld_Latn
+  - blimp_nl
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 1.0

@@ -1,0 +1,4 @@
+# blimp_nl_adpositional_phrases.yaml
+include: blimp_nl_anaphor_agreement.yaml
+task: blimp_nl_adpositional_phrases
+dataset_name: adpositional_phrases

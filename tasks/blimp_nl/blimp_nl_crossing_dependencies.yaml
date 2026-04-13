@@ -1,0 +1,4 @@
+# blimp_nl_crossing_dependencies.yaml
+include: blimp_nl_anaphor_agreement.yaml
+task: blimp_nl_crossing_dependencies
+dataset_name: crossing_dependencies

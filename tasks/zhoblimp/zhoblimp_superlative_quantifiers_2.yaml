@@ -1,0 +1,4 @@
+# zhoblimp_superlative_quantifiers_2.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_superlative_quantifiers_2
+dataset_name: superlative_quantifiers_2

@@ -1,0 +1,3 @@
+include: default_af.yaml
+task: multinli_gu_mubench
+dataset_name: MNLIDataset_en_template_gu

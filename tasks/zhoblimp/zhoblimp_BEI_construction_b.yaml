@@ -1,0 +1,4 @@
+# zhoblimp_BEI_construction_b.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_BEI_construction_b
+dataset_name: BEI_construction_b

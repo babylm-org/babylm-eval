@@ -1,0 +1,4 @@
+# zhoblimp_verb_negation_particle.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_verb_negation_particle
+dataset_name: verb_negation_particle

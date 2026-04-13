@@ -1,0 +1,72 @@
+group: arc_easy_mubench
+task:
+- arc_easy_af_mubench
+- arc_easy_ar_mubench
+- arc_easy_az_mubench
+- arc_easy_bg_mubench
+- arc_easy_bn_mubench
+- arc_easy_ca_mubench
+- arc_easy_ceb_mubench
+- arc_easy_cs_mubench
+- arc_easy_da_mubench
+- arc_easy_de_mubench
+- arc_easy_el_mubench
+- arc_easy_en_mubench
+- arc_easy_es_mubench
+- arc_easy_et_mubench
+- arc_easy_fa_mubench
+- arc_easy_fi_mubench
+- arc_easy_fr_mubench
+- arc_easy_ga_mubench
+- arc_easy_gu_mubench
+- arc_easy_he_mubench
+- arc_easy_hi_mubench
+- arc_easy_hr_mubench
+- arc_easy_hu_mubench
+- arc_easy_id_mubench
+- arc_easy_is_mubench
+- arc_easy_it_mubench
+- arc_easy_ja_mubench
+- arc_easy_jv_mubench
+- arc_easy_kk_mubench
+- arc_easy_km_mubench
+- arc_easy_kn_mubench
+- arc_easy_ko_mubench
+- arc_easy_lt_mubench
+- arc_easy_lv_mubench
+- arc_easy_ml_mubench
+- arc_easy_mr_mubench
+- arc_easy_ms_mubench
+- arc_easy_my_mubench
+- arc_easy_nl_mubench
+- arc_easy_no_mubench
+- arc_easy_pa_mubench
+- arc_easy_pl_mubench
+- arc_easy_pt_mubench
+- arc_easy_ro_mubench
+- arc_easy_ru_mubench
+- arc_easy_sk_mubench
+- arc_easy_sl_mubench
+- arc_easy_sq_mubench
+- arc_easy_sr_mubench
+- arc_easy_sv_mubench
+- arc_easy_sw_mubench
+- arc_easy_ta_mubench
+- arc_easy_te_mubench
+- arc_easy_th_mubench
+- arc_easy_tl_mubench
+- arc_easy_tr_mubench
+- arc_easy_uk_mubench
+- arc_easy_ur_mubench
+- arc_easy_uz_mubench
+- arc_easy_vi_mubench
+- arc_easy_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+- metric: acc_norm
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

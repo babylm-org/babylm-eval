@@ -1,0 +1,3 @@
+include: default_af.yaml
+task: gpqa_km_mubench
+dataset_name: GPQADataset_lighteval_km

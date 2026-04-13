@@ -1,0 +1,4 @@
+# zhoblimp_modal_raising_topicalization.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_modal_raising_topicalization
+dataset_name: modal_raising_topicalization

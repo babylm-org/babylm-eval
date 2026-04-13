@@ -1,0 +1,4 @@
+# zhoblimp_BA_deletion.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_BA_deletion
+dataset_name: BA_deletion

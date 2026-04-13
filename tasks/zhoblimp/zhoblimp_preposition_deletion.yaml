@@ -1,0 +1,4 @@
+# zhoblimp_preposition_deletion.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_preposition_deletion
+dataset_name: preposition_deletion

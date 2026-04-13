@@ -1,0 +1,4 @@
+# zhoblimp_relativization_movement_no_gap.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_relativization_movement_no_gap
+dataset_name: relativization_movement_no_gap

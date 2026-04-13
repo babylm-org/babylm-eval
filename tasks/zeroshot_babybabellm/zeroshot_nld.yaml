@@ -1,0 +1,14 @@
+group: zeroshot_nld
+task:
+  - multiblimp_nld
+  - winogrande_nl_mubench
+  - hellaswag_nl_mubench
+  - xcomps_nl
+  - blimp_nl
+  - xstorycloze_nl_mubench
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 1.0

@@ -1,0 +1,3 @@
+include: default_af.yaml
+task: arc_challenge_ur_mubench
+dataset_name: ARCChallengeDataset_lighteval_ur

@@ -1,0 +1,4 @@
+# zhoblimp_renhe_non_factive_verb.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_renhe_non_factive_verb
+dataset_name: renhe_non_factive_verb

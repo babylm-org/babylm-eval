@@ -1,0 +1,4 @@
+# zhoblimp_plural_cardinal_men_b.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_plural_cardinal_men_b
+dataset_name: plural_cardinal_men_b

@@ -1,0 +1,4 @@
+# zhoblimp_relativization_movement_when_where.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_relativization_movement_when_where
+dataset_name: relativization_movement_when_where

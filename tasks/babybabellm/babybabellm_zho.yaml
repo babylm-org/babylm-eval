@@ -1,0 +1,23 @@
+group: babybabellm_zho
+task:
+  - winogrande_zh_mubench
+  - xstorycloze_zh_mubench
+  - bmlama_zh_mubench
+  - hellaswag_zh_mubench
+  - multinli_zh_mubench
+  - arc_easy_zh_mubench
+  - truthfulqa_zh_mubench
+  - xnli_zh
+  - xcopa_zh
+  - xcomps_zh
+  - global_mmlu_full_zh
+  - include_base_44_chinese
+  - belebele_zho_Hans
+  - sib200_zho_Hans
+  - zhoblimp
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 1.0

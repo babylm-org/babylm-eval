@@ -1,0 +1,4 @@
+# zhoblimp_noun_phrase_conjunction_jian.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_noun_phrase_conjunction_jian
+dataset_name: noun_phrase_conjunction_jian

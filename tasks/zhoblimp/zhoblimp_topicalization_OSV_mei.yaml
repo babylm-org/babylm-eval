@@ -1,0 +1,4 @@
+# zhoblimp_topicalization_OSV_mei.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_topicalization_OSV_mei
+dataset_name: topicalization_OSV_mei

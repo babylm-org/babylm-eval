@@ -1,0 +1,4 @@
+# zhoblimp_modal_raising_hui.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_modal_raising_hui
+dataset_name: modal_raising_hui

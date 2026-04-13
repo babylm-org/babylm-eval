@@ -1,0 +1,4 @@
+# zhoblimp_agent_animacy_subj.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_agent_animacy_subj
+dataset_name: agent_animacy_subj

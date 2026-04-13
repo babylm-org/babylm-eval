@@ -1,0 +1,4 @@
+# zhoblimp_ellipsis_adj.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_ellipsis_adj
+dataset_name: ellipsis_adj

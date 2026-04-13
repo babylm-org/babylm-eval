@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_khm_Khmr
+dataset_name: khm_Khmr

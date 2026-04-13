@@ -1,0 +1,4 @@
+# zhoblimp_question_particle_daodi_choice_tran.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_question_particle_daodi_choice_tran
+dataset_name: question_particle_daodi_choice_tran

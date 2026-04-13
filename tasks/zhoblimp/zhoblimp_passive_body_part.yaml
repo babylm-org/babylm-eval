@@ -1,0 +1,4 @@
+# zhoblimp_passive_body_part.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_passive_body_part
+dataset_name: passive_body_part

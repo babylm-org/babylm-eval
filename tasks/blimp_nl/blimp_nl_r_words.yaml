@@ -1,0 +1,4 @@
+# blimp_nl_r_words.yaml
+include: blimp_nl_anaphor_agreement.yaml
+task: blimp_nl_r_words
+dataset_name: r_words

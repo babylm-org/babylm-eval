@@ -1,0 +1,14 @@
+task: xcomps_de
+dataset_path: fpadovani/xcomps-dataset
+output_type: multiple_choice
+test_split: comps_de
+doc_to_text: ''
+doc_to_target: 0
+doc_to_choice: '{{[acceptable_sent, unacceptable_sent]}}'
+num_fewshot: 0
+metric_list:
+- metric: acc
+  aggregation: mean
+  higher_is_better: true
+metadata:
+  version: 1.0

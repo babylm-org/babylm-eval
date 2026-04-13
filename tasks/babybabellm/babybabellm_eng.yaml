@@ -1,0 +1,22 @@
+group: babybabellm_eng
+task:
+  - multiblimp_eng
+  - winogrande_en_mubench
+  - xstorycloze_en_mubench
+  - bmlama_en_mubench
+  - hellaswag_en_mubench
+  - multinli_en_mubench
+  - arc_easy_en_mubench
+  - truthfulqa_en_mubench
+  - xnli_en
+  - uhura-arc-easy_en_prompt_1
+  - copa
+  - blimp
+  - belebele_eng_Latn
+  - sib200_eng_Latn
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+metadata:
+  version: 1.0

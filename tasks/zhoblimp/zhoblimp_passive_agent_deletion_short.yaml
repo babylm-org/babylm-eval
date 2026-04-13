@@ -1,0 +1,4 @@
+# zhoblimp_passive_agent_deletion_short.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_passive_agent_deletion_short
+dataset_name: passive_agent_deletion_short

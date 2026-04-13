@@ -1,0 +1,4 @@
+# zhoblimp_relative_operator_who.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_relative_operator_who
+dataset_name: relative_operator_who

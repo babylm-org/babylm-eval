@@ -1,0 +1,72 @@
+group: truthfulqa_mubench
+task:
+- truthfulqa_af_mubench
+- truthfulqa_ar_mubench
+- truthfulqa_az_mubench
+- truthfulqa_bg_mubench
+- truthfulqa_bn_mubench
+- truthfulqa_ca_mubench
+- truthfulqa_ceb_mubench
+- truthfulqa_cs_mubench
+- truthfulqa_da_mubench
+- truthfulqa_de_mubench
+- truthfulqa_el_mubench
+- truthfulqa_en_mubench
+- truthfulqa_es_mubench
+- truthfulqa_et_mubench
+- truthfulqa_fa_mubench
+- truthfulqa_fi_mubench
+- truthfulqa_fr_mubench
+- truthfulqa_ga_mubench
+- truthfulqa_gu_mubench
+- truthfulqa_he_mubench
+- truthfulqa_hi_mubench
+- truthfulqa_hr_mubench
+- truthfulqa_hu_mubench
+- truthfulqa_id_mubench
+- truthfulqa_is_mubench
+- truthfulqa_it_mubench
+- truthfulqa_ja_mubench
+- truthfulqa_jv_mubench
+- truthfulqa_kk_mubench
+- truthfulqa_km_mubench
+- truthfulqa_kn_mubench
+- truthfulqa_ko_mubench
+- truthfulqa_lt_mubench
+- truthfulqa_lv_mubench
+- truthfulqa_ml_mubench
+- truthfulqa_mr_mubench
+- truthfulqa_ms_mubench
+- truthfulqa_my_mubench
+- truthfulqa_nl_mubench
+- truthfulqa_no_mubench
+- truthfulqa_pa_mubench
+- truthfulqa_pl_mubench
+- truthfulqa_pt_mubench
+- truthfulqa_ro_mubench
+- truthfulqa_ru_mubench
+- truthfulqa_sk_mubench
+- truthfulqa_sl_mubench
+- truthfulqa_sq_mubench
+- truthfulqa_sr_mubench
+- truthfulqa_sv_mubench
+- truthfulqa_sw_mubench
+- truthfulqa_ta_mubench
+- truthfulqa_te_mubench
+- truthfulqa_th_mubench
+- truthfulqa_tl_mubench
+- truthfulqa_tr_mubench
+- truthfulqa_uk_mubench
+- truthfulqa_ur_mubench
+- truthfulqa_uz_mubench
+- truthfulqa_vi_mubench
+- truthfulqa_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+- metric: acc_norm
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

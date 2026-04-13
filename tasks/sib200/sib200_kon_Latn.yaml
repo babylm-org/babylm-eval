@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_kon_Latn
+dataset_name: kon_Latn

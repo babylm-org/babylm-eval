@@ -1,0 +1,4 @@
+# zhoblimp_control_modal_vs_raising_modal.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_control_modal_vs_raising_modal
+dataset_name: control_modal_vs_raising_modal

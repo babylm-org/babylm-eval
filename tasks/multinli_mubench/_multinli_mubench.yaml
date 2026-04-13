@@ -1,0 +1,69 @@
+group: multinli_mubench
+task:
+- multinli_af_mubench
+- multinli_ar_mubench
+- multinli_az_mubench
+- multinli_bg_mubench
+- multinli_bn_mubench
+- multinli_ca_mubench
+- multinli_ceb_mubench
+- multinli_cs_mubench
+- multinli_da_mubench
+- multinli_de_mubench
+- multinli_el_mubench
+- multinli_en_mubench
+- multinli_es_mubench
+- multinli_et_mubench
+- multinli_fa_mubench
+- multinli_fi_mubench
+- multinli_fr_mubench
+- multinli_ga_mubench
+- multinli_gu_mubench
+- multinli_he_mubench
+- multinli_hi_mubench
+- multinli_hr_mubench
+- multinli_hu_mubench
+- multinli_id_mubench
+- multinli_is_mubench
+- multinli_it_mubench
+- multinli_ja_mubench
+- multinli_jv_mubench
+- multinli_kk_mubench
+- multinli_km_mubench
+- multinli_kn_mubench
+- multinli_ko_mubench
+- multinli_lt_mubench
+- multinli_lv_mubench
+- multinli_ml_mubench
+- multinli_mr_mubench
+- multinli_ms_mubench
+- multinli_my_mubench
+- multinli_nl_mubench
+- multinli_no_mubench
+- multinli_pa_mubench
+- multinli_pl_mubench
+- multinli_pt_mubench
+- multinli_ro_mubench
+- multinli_ru_mubench
+- multinli_sk_mubench
+- multinli_sl_mubench
+- multinli_sq_mubench
+- multinli_sr_mubench
+- multinli_sv_mubench
+- multinli_sw_mubench
+- multinli_ta_mubench
+- multinli_te_mubench
+- multinli_th_mubench
+- multinli_tl_mubench
+- multinli_tr_mubench
+- multinli_uk_mubench
+- multinli_ur_mubench
+- multinli_uz_mubench
+- multinli_vi_mubench
+- multinli_zh_mubench
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

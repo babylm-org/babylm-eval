@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_nob_Latn
+dataset_name: nob_Latn

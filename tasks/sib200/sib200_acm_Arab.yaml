@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_acm_Arab
+dataset_name: acm_Arab

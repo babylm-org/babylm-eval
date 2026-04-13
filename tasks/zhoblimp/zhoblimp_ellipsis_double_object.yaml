@@ -1,0 +1,4 @@
+# zhoblimp_ellipsis_double_object.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_ellipsis_double_object
+dataset_name: ellipsis_double_object

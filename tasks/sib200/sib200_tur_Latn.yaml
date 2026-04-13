@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_tur_Latn
+dataset_name: tur_Latn

@@ -1,0 +1,31 @@
+# _blimp_nl.yaml
+group: blimp_nl
+task:
+- blimp_nl_anaphor_agreement
+- blimp_nl_binding_principle_a
+- blimp_nl_argument_structure
+- blimp_nl_complementive
+- blimp_nl_passive
+- blimp_nl_infinitival_argument_clause
+- blimp_nl_finite_argument_clause
+- blimp_nl_auxiliaries
+- blimp_nl_adverbial_modification
+- blimp_nl_verb_second
+- blimp_nl_wh_movement
+- blimp_nl_wh_movement_restrictions
+- blimp_nl_relativization
+- blimp_nl_topicalization
+- blimp_nl_parasitic_gaps
+- blimp_nl_r_words
+- blimp_nl_nominalization
+- blimp_nl_determiners
+- blimp_nl_quantifiers
+- blimp_nl_adpositional_phrases
+- blimp_nl_crossing_dependencies
+- blimp_nl_extraposition
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

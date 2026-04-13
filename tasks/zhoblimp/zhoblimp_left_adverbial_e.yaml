@@ -1,0 +1,4 @@
+# zhoblimp_left_adverbial_e.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_left_adverbial_e
+dataset_name: left_adverbial_e

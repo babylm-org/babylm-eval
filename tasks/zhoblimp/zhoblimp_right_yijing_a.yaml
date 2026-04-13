@@ -1,0 +1,4 @@
+# zhoblimp_right_yijing_a.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_right_yijing_a
+dataset_name: right_yijing_a

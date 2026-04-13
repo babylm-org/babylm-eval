@@ -1,0 +1,4 @@
+# zhoblimp_nominal_definite_men.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_nominal_definite_men
+dataset_name: nominal_definite_men

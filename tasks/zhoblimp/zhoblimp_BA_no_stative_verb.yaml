@@ -1,0 +1,4 @@
+# zhoblimp_BA_no_stative_verb.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_BA_no_stative_verb
+dataset_name: BA_no_stative_verb

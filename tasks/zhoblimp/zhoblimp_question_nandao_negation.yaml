@@ -1,0 +1,4 @@
+# zhoblimp_question_nandao_negation.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_question_nandao_negation
+dataset_name: question_nandao_negation

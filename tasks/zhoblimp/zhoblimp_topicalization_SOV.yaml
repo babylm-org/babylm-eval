@@ -1,0 +1,4 @@
+# zhoblimp_topicalization_SOV.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_topicalization_SOV
+dataset_name: topicalization_SOV

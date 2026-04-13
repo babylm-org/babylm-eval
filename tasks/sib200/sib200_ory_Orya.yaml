@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_ory_Orya
+dataset_name: ory_Orya

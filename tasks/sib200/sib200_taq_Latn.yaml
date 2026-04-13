@@ -1,0 +1,3 @@
+include: sib200_eng_Latn.yaml
+task: sib200_taq_Latn
+dataset_name: taq_Latn

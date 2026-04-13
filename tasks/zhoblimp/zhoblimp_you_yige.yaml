@@ -1,0 +1,4 @@
+# zhoblimp_you_yige.yaml
+include: zhoblimp_BA_BEI_subj_drop.yaml
+task: zhoblimp_you_yige
+dataset_name: you_yige
