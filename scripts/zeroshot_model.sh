@@ -22,7 +22,7 @@ for lang in $langs; do
         --model_args pretrained=${model_name} \
         --tasks ${task_name} \
         --device cuda \
-        --output_path ../results/${model_name} \
+        --output_path ../results \
         --batch_size auto:10 \
         --num_fewshot 0 \
         --log_samples \
