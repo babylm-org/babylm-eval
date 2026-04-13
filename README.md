@@ -55,9 +55,9 @@ Custom tasks are located in `tasks/`. Notable ones:
 | xstorycloze_nl_mubench |  |  | 47.60 |  | 47.99 |  | **49.23** | 47.37 |
 | *avg* |  |  | **59.61** |  | 58.56 |  | 58.63 | 57.81 |
 | **zeroshot_zho** |  |  |  |  |  |  |  |  |
-| hellaswag_zh_mubench |  |  |  | **27.78** |  |  | 27.20 | 27.05 |
-| winogrande_zh_mubench |  |  |  | **51.85** |  |  | 50.37 | 49.71 |
-| xcomps_zh |  |  |  | **55.70** |  |  | 53.59 | 53.90 |
-| xstorycloze_zh_mubench |  |  |  | 50.23 |  |  | 50.54 | **50.62** |
-| zhoblimp |  |  |  | **78.79** |  |  | 77.23 | 75.44 |
-| *avg* |  |  |  | **52.87** |  |  | 51.79 | 51.34 |
+| hellaswag_zh_mubench |  |  |  | **27.78** |  | 26.72 | 27.20 | 27.05 |
+| winogrande_zh_mubench |  |  |  | **51.85** |  | 50.62 | 50.37 | 49.71 |
+| xcomps_zh |  |  |  | **55.70** |  | 53.74 | 53.59 | 53.90 |
+| xstorycloze_zh_mubench |  |  |  | 50.23 |  | **51.55** | 50.54 | 50.62 |
+| zhoblimp |  |  |  | **78.79** |  | 78.60 | 77.23 | 75.44 |
+| *avg* |  |  |  | **52.87** |  | 52.25 | 51.79 | 51.34 |
