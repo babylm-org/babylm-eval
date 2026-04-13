@@ -37,27 +37,27 @@ Custom tasks are located in `tasks/`. Notable ones:
 
 ## Baselines
 
-| task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small | gpt2-baseline-babylm-nld | gpt2-baseline-babylm-zho | gpt2-baseline-en_nld_zho_equal | gpt2-baseline-nld_zho_equal |
-| --- | --- | --- | --- | --- | --- | --- |
-| **zeroshot_eng** |  |  |  |  |  |  |
-| blimp | 73.43 | 64.39 |  |  | 69.18 |  |
-| hellaswag_en_mubench | 26.49 | 25.70 |  |  | 26.66 |  |
-| multiblimp_eng | 88.57 | 80.39 |  |  | 87.14 |  |
-| winogrande_en_mubench | 51.44 | 51.03 |  |  | 48.80 |  |
-| xstorycloze_en_mubench | 49.23 | 48.37 |  |  | 49.92 |  |
-| *avg* | 57.83 | 53.98 |  |  | 56.34 |  |
-| **zeroshot_nld** |  |  |  |  |  |  |
-| blimp_nl |  |  | 84.12 |  | 79.27 | 80.47 |
-| hellaswag_nl_mubench |  |  | 26.79 |  | 26.37 | 26.71 |
-| multiblimp_nld |  |  | 94.72 |  | 91.85 | 94.04 |
-| winogrande_nl_mubench |  |  | 49.88 |  | 49.30 | 48.47 |
-| xcomps_nl |  |  | 54.54 |  | 52.68 | 52.87 |
-| xstorycloze_nl_mubench |  |  | 47.60 |  | 47.37 | 49.23 |
-| *avg* |  |  | 59.61 |  | 57.81 | 58.63 |
-| **zeroshot_zho** |  |  |  |  |  |  |
-| hellaswag_zh_mubench |  |  |  | 27.78 | 27.05 | 27.20 |
-| winogrande_zh_mubench |  |  |  | 51.85 | 49.71 | 50.37 |
-| xcomps_zh |  |  |  | 55.70 | 53.90 | 53.59 |
-| xstorycloze_zh_mubench |  |  |  | 50.23 | 50.62 | 50.54 |
-| zhoblimp |  |  |  | 78.79 | 75.44 | 77.23 |
-| *avg* |  |  |  | 52.87 | 51.34 | 51.79 |
+| task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small | gpt2-baseline-babylm-nld | gpt2-baseline-babylm-zho | gpt2-baseline-en_nld_equal | gpt2-baseline-en_nld_zho_equal | gpt2-baseline-nld_zho_equal |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **zeroshot_eng** |  |  |  |  |  |  |  |
+| blimp | 73.43 | 64.39 |  |  | 71.77 | 69.18 |  |
+| hellaswag_en_mubench | 26.49 | 25.70 |  |  | 26.43 | 26.66 |  |
+| multiblimp_eng | 88.57 | 80.39 |  |  | 87.92 | 87.14 |  |
+| winogrande_en_mubench | 51.44 | 51.03 |  |  | 50.54 | 48.80 |  |
+| xstorycloze_en_mubench | 49.23 | 48.37 |  |  | 47.37 | 49.92 |  |
+| *avg* | 57.83 | 53.98 |  |  | 56.81 | 56.34 |  |
+| **zeroshot_nld** |  |  |  |  |  |  |  |
+| blimp_nl |  |  | 84.12 |  | 81.70 | 79.27 | 80.47 |
+| hellaswag_nl_mubench |  |  | 26.79 |  | 26.38 | 26.37 | 26.71 |
+| multiblimp_nld |  |  | 94.72 |  | 92.62 | 91.85 | 94.04 |
+| winogrande_nl_mubench |  |  | 49.88 |  | 48.80 | 49.30 | 48.47 |
+| xcomps_nl |  |  | 54.54 |  | 53.87 | 52.68 | 52.87 |
+| xstorycloze_nl_mubench |  |  | 47.60 |  | 47.99 | 47.37 | 49.23 |
+| *avg* |  |  | 59.61 |  | 58.56 | 57.81 | 58.63 |
+| **zeroshot_zho** |  |  |  |  |  |  |  |
+| hellaswag_zh_mubench |  |  |  | 27.78 |  | 27.05 | 27.20 |
+| winogrande_zh_mubench |  |  |  | 51.85 |  | 49.71 | 50.37 |
+| xcomps_zh |  |  |  | 55.70 |  | 53.90 | 53.59 |
+| xstorycloze_zh_mubench |  |  |  | 50.23 |  | 50.62 | 50.54 |
+| zhoblimp |  |  |  | 78.79 |  | 75.44 | 77.23 |
+| *avg* |  |  |  | 52.87 |  | 51.34 | 51.79 |

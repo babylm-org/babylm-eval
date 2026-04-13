@@ -1,4 +1,2 @@
-lm-eval==0.4.9
-torch==2.6.0
-flash_attn==2.7.4.post1
-vllm==0.8.4
+lm-eval
+transformers
