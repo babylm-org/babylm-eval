@@ -28,14 +28,17 @@ Results are written to `results/<model_name>/`.
 
 Custom tasks are located in `tasks/`. Notable ones:
 
-- `babybabellm` — main BabyLM task, available per language (e.g. `babybabellm_eng`)
-- `multiblimp` — morphosyntactic evaluation
-- `bl2mp`, `zhoblimp` — additional BLiMP-style tasks
-- `hellaswag_mubench`, `xstorycloze`, `xcomps` — commonsense reasoning
-- `arc_challenge_mubench`, `arc_easy_mubench` — reading comprehension
-- `bmlama_mubench`, `sib200`, `multinli_mubench`, `snli_mubench`, `truthfulqa_mubench`, `winogrande_mubench`, `gpqa_mubench` — additional benchmarks
+- `zeroshot_babybabellm` — main BabyLM task, available per language (e.g. `zeroshot_eng`)
+- `multiblimp` — Multilingual subject-verb agreement evaluation.
+- `blimp`, `blimp_nl`, `zhoblimp` — additional language-specific linguistic evaluation for English, Dutch and Chinese.
+- `hellaswag_mubench`, `xstorycloze`, `xcomps` — Commonsense reasoning
+- `arc_challenge_mubench`, `arc_easy_mubench` — Reading comprehension (evaluated through finetuning)
+- `bmlama_mubench`, `sib200`, `multinli_mubench`, `snli_mubench`, `truthfulqa_mubench`, `winogrande_mubench`, `gpqa_mubench` — additional benchmarks (evaluated through finetuning)
 
 ## Baselines
+We train GPT-2 baseline models on the datasets. We provide monolingual models, as well as bi- and trilingual models, trained on equal language splits. The models are available on HuggingFace [here](https://huggingface.co/BabyLM-community/models).
+
+Following [BabyBabelLM](https://arxiv.org/pdf/2510.10159), we divide evaluation for the multilingual models up in zero-shot and fine-tuning evaluation. Zero-shot evaluation is done through `lm-eval`. Fine-tuning is adapted from a script of previous BabyLM editions.
 
 | task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small | gpt2-baseline-babylm-nld | gpt2-baseline-babylm-zho | gpt2-baseline-en_nld_equal | gpt2-baseline-en_zho_equal | gpt2-baseline-nld_zho_equal | gpt2-baseline-en_nld_zho_equal |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
