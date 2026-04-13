@@ -40,6 +40,53 @@ def fmt_row(cells: list[str]) -> str:
     return "| " + " | ".join(cells) + " |"
 
 
+_LANG_COMBO_ORDER = [
+    frozenset({"eng"}),
+    frozenset({"nld"}),
+    frozenset({"zho"}),
+    frozenset({"eng", "nld"}),
+    frozenset({"eng", "zho"}),
+    frozenset({"nld", "zho"}),
+    frozenset({"eng", "nld", "zho"}),
+]
+
+
+def training_languages(model_name: str) -> frozenset[str]:
+    """Infer the training language(s) from a model name."""
+    name = model_name.lower()
+
+    # "Strict" / "Strict-Small" → English only
+    if "strict" in name:
+        return frozenset({"eng"})
+
+    # *babylm-nld / *babylm-zho → single non-English language
+    for lang in ("nld", "zho"):
+        if f"babylm-{lang}" in name:
+            return frozenset({lang})
+
+    # en_nld_equal / nld_zho_equal / en_nld_zho_equal style
+    langs: set[str] = set()
+    if "en_" in name or "_en_" in name or name.startswith("en"):
+        langs.add("eng")
+    if "nld" in name:
+        langs.add("nld")
+    if "zho" in name:
+        langs.add("zho")
+    if langs:
+        return frozenset(langs)
+
+    return frozenset()
+
+
+def model_sort_key(model_name: str) -> tuple[int, str]:
+    langs = training_languages(model_name)
+    try:
+        order = _LANG_COMBO_ORDER.index(langs)
+    except ValueError:
+        order = len(_LANG_COMBO_ORDER)
+    return (order, model_name)
+
+
 def main():
     results_dir = Path(__file__).parent.parent / "results"
     json_files = sorted(glob(str(results_dir / "**/results*.json"), recursive=True))
@@ -68,7 +115,7 @@ def main():
                 if task not in group_tasks[group]:
                     group_tasks[group].append(task)
 
-    models = sorted(all_models.keys())
+    models = sorted(all_models.keys(), key=model_sort_key)
 
     # Header: task | model1 | model2 | ...
     print(fmt_row(["task"] + models))
@@ -80,19 +127,33 @@ def main():
 
         # One row per task
         for task in tasks:
+            vals = [all_models[model].get(group, {}).get(task) for model in models]
+            best = max((v for v in vals if v is not None), default=None)
             row = [task]
-            for model in models:
-                val = all_models[model].get(group, {}).get(task)
-                row.append(f"{val:.2f}" if val is not None else "")
+            for val in vals:
+                if val is None:
+                    row.append("")
+                elif val == best:
+                    row.append(f"**{val:.2f}**")
+                else:
+                    row.append(f"{val:.2f}")
             print(fmt_row(row))
 
         # Average row for this language group
-        avg_row = ["*avg*"]
+        avgs = []
         for model in models:
             scores = [all_models[model].get(group, {}).get(t) for t in tasks]
             valid = [s for s in scores if s is not None]
-            avg = round(sum(valid) / len(valid), 2) if valid else None
-            avg_row.append(f"{avg:.2f}" if avg is not None else "")
+            avgs.append(round(sum(valid) / len(valid), 2) if valid else None)
+        best_avg = max((a for a in avgs if a is not None), default=None)
+        avg_row = ["*avg*"]
+        for avg in avgs:
+            if avg is None:
+                avg_row.append("")
+            elif avg == best_avg:
+                avg_row.append(f"**{avg:.2f}**")
+            else:
+                avg_row.append(f"{avg:.2f}")
         print(fmt_row(avg_row))
 
 
