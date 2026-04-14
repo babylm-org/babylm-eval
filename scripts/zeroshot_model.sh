@@ -19,7 +19,7 @@ for lang in $langs; do
     echo "Evaluating ${lang}"
     python3 -m lm_eval \
         --model hf \
-        --model_args pretrained=${model_name} \
+        --model_args pretrained=${model_name},trust_remote_code=True \
         --tasks ${task_name} \
         --device cuda \
         --output_path ../results \
