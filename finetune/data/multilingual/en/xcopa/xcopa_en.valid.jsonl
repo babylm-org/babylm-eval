@@ -1,0 +1,300 @@
+{"idx": 1116, "sentence1": "The water boiled. Steam rose off of the pot of water.", "sentence2": "I covered the pot. Steam rose off of the pot of water.", "label": 0}
+{"idx": 1368, "sentence1": "She received alimony payment. The woman declared bankruptcy.", "sentence2": "She acquired massive debt. The woman declared bankruptcy.", "label": 1}
+{"idx": 422, "sentence1": "The police interrogated her. The police eliminated the woman from the list of suspects.", "sentence2": "Her alibi checked out. The police eliminated the woman from the list of suspects.", "label": 1}
+{"idx": 413, "sentence1": "They neglected to pay their rent. The tenants lease for the apartment was extended.", "sentence2": "They got along with their landlord. The tenants lease for the apartment was extended.", "label": 1}
+{"idx": 451, "sentence1": "I was unhappy. My face dropped.", "sentence2": "I was shocked. My face dropped.", "label": 0}
+{"idx": 861, "sentence1": "The caller drove through a long tunnel. The caller waited on the line.", "sentence2": "The caller drove through a long tunnel. The caller's phone lost reception.", "label": 1}
+{"idx": 1063, "sentence1": "I wrote the essay by hand. My hand cramped up.", "sentence2": "My wife and I held hands. My hand cramped up.", "label": 0}
+{"idx": 741, "sentence1": "The city cut its budget. The city had spent too much money.", "sentence2": "The mayor fulfilled his promises. The city had spent too much money.", "label": 0}
+{"idx": 1272, "sentence1": "The client approved the architect's plans for the building. The architect constructed the building.", "sentence2": "The client approved the architect's plans for the building. The architect adjusted the plans.", "label": 0}
+{"idx": 259, "sentence1": "The producted was replaced. The product became outdated.", "sentence2": "The producted was replaced. Consumers recognized the product.", "label": 0}
+{"idx": 888, "sentence1": "The journalist was intrigued by the humanitarian's work. The journalist wrote a biography about the humanitarian's life.", "sentence2": "The humanitarian was difficult for the journalist to interview. The journalist wrote a biography about the humanitarian's life.", "label": 0}
+{"idx": 1432, "sentence1": "They didn't want to debate in court. The disputing parties reached a settlement.", "sentence2": "They wanted to repair their personal relationship. The disputing parties reached a settlement.", "label": 0}
+{"idx": 712, "sentence1": "The magnet attracted the paperclip. The paperclip dropped from the magnet.", "sentence2": "The magnet attracted the paperclip. The paperclip stuck to the magnet.", "label": 1}
+{"idx": 1382, "sentence1": "The dip tasted bland. I served it.", "sentence2": "The dip tasted bland. I put salt in it.", "label": 1}
+{"idx": 70, "sentence1": "He wanted to shut off the alarm clock. The man urgently leaped out of bed.", "sentence2": "He wanted to iron his pants before work. The man urgently leaped out of bed.", "label": 0}
+{"idx": 1268, "sentence1": "He clipped his nails. The man cursed.", "sentence2": "He stubbed his toe. The man cursed.", "label": 1}
+{"idx": 1491, "sentence1": "My office door was open. I talked to my colleague at my desk.", "sentence2": "My office door was open. I overheard the conversation in the hall.", "label": 1}
+{"idx": 607, "sentence1": "The sun shined very brightly. The swimmers returned towards the shore.", "sentence2": "The sun shined very brightly. The swimmers put on more sunscreen.", "label": 1}
+{"idx": 433, "sentence1": "The company was seeking highly specialized talent. It moved its headquarters to a suburban location.", "sentence2": "The company was seeking highly specialized talent. It increased its marketing efforts for new products.", "label": 0}
+{"idx": 51, "sentence1": "She opened her parachute. The skydiver started to fall down.", "sentence2": "She jumped out of the plane. The skydiver started to fall down.", "label": 1}
+{"idx": 1199, "sentence1": "The house was on fire. I exited my bedroom through the window.", "sentence2": "The house was empty. I exited my bedroom through the window.", "label": 0}
+{"idx": 1128, "sentence1": "The secretary went home for the day. The lawyer took the stairs up to her office.", "sentence2": "The elevator was out of order. The lawyer took the stairs up to her office.", "label": 1}
+{"idx": 1190, "sentence1": "The evidence implicated him. The criminal turned himself in.", "sentence2": "There was no evidence against him. The criminal turned himself in.", "label": 0}
+{"idx": 1249, "sentence1": "It passed over the mine. The enemy ship blew up.", "sentence2": "It sailed into the harbor. The enemy ship blew up.", "label": 0}
+{"idx": 1419, "sentence1": "I tossed a coin into the fountain of water. The coin sunk to the bottom.", "sentence2": "I tossed a coin into the fountain of water. The coin broke in half.", "label": 0}
+{"idx": 432, "sentence1": "The company's profits started to level off. It increased its marketing efforts for new products.", "sentence2": "The company's profits started to level off. It moved its headquarters to a suburban location.", "label": 0}
+{"idx": 1452, "sentence1": "The child let go of the balloon string. The balloon deflated.", "sentence2": "The child let go of the balloon string. The balloon rose into the air.", "label": 1}
+{"idx": 1470, "sentence1": "It contained vulgar language. The television show was censored.", "sentence2": "It had a complicated plot. The television show was censored.", "label": 0}
+{"idx": 1234, "sentence1": "The student received tutoring. His grades improved.", "sentence2": "The student received tutoring. He cheated on the exam.", "label": 0}
+{"idx": 1281, "sentence1": "The charity made a goal to raise money. They fed the homeless.", "sentence2": "The charity made a goal to raise money. They held an auction.", "label": 1}
+{"idx": 1085, "sentence1": "He had a nightmare. The child woke up screaming.", "sentence2": "He wet the bed. The child woke up screaming.", "label": 0}
+{"idx": 610, "sentence1": "I read several chapters of the book. I ran out of breath.", "sentence2": "I climbed several flights of stairs. I ran out of breath.", "label": 1}
+{"idx": 1284, "sentence1": "The man wanted to watch the sunrise. He travelled north.", "sentence2": "The man wanted to watch the sunrise. He got up early.", "label": 1}
+{"idx": 1041, "sentence1": "I bit into the peach. The peach bruised.", "sentence2": "I bit into the peach. Juice spilled out.", "label": 1}
+{"idx": 220, "sentence1": "The book was deemed inappropriate for children. Teachers required students to read it.", "sentence2": "The book was deemed inappropriate for children. Schools banned it from its libraries.", "label": 1}
+{"idx": 339, "sentence1": "I wiped the desk with a cloth. The desk was light.", "sentence2": "I removed the books from the desk. The desk was light.", "label": 1}
+{"idx": 423, "sentence1": "Her alibi checked out. The police kept the woman on the list of suspects.", "sentence2": "The police interrogated her. The police kept the woman on the list of suspects.", "label": 1}
+{"idx": 428, "sentence1": "The fortune teller's revelations were convincing. She received many returning customers.", "sentence2": "The fortune teller's revelations were convincing. Many customers asked for refunds.", "label": 0}
+{"idx": 1105, "sentence1": "The elevator arrived at the designated floor. The elevator doors opened.", "sentence2": "The elevator got stuck between floors. The elevator doors opened.", "label": 0}
+{"idx": 76, "sentence1": "The seamstress pushed the threaded needle into the fabric. The thread wrapped around the needle.", "sentence2": "The seamstress pushed the threaded needle into the fabric. The thread went through the fabric.", "label": 1}
+{"idx": 1391, "sentence1": "The town received several inches of snow. Schools shut down.", "sentence2": "The town received several inches of snow. People hid underground.", "label": 0}
+{"idx": 439, "sentence1": "The detective flashed his fake badge to the police officer. The police officer confiscated the detective's badge.", "sentence2": "The detective flashed his fake badge to the police officer. The police officer let the detective enter the crime scene.", "label": 0}
+{"idx": 1336, "sentence1": "I believed his intentions were good. I excused my colleague's blunder.", "sentence2": "I believed that he knew better. I excused my colleague's blunder.", "label": 0}
+{"idx": 864, "sentence1": "I inhaled smoke. I coughed.", "sentence2": "I lowered my voice. I coughed.", "label": 0}
+{"idx": 1080, "sentence1": "I turned on the fan. Water sprinkled onto my skin.", "sentence2": "I turned on the fan. I felt cool air pass over me.", "label": 1}
+{"idx": 354, "sentence1": "I clumsily bumped into the stranger. I apologized to him.", "sentence2": "I clumsily bumped into the stranger. I ran away.", "label": 0}
+{"idx": 365, "sentence1": "The soil was dry. I watered the soil.", "sentence2": "The soil was dry. The seeds sprouted.", "label": 0}
+{"idx": 309, "sentence1": "She graduated from college. The woman aimed for a diploma.", "sentence2": "She enrolled in college. The woman aimed for a diploma.", "label": 1}
+{"idx": 736, "sentence1": "The child drew on the table. The glasses on the table spilled.", "sentence2": "The child yanked the tablecloth. The glasses on the table spilled.", "label": 1}
+{"idx": 998, "sentence1": "The woman was in a bad mood. She told her friend to leave her alone.", "sentence2": "The woman was in a bad mood. She engaged in small talk with her friend.", "label": 0}
+{"idx": 621, "sentence1": "I applied ointment on my wound regularly. It stopped bleeding.", "sentence2": "I applied ointment on my wound regularly. It healed.", "label": 1}
+{"idx": 543, "sentence1": "The woman stood by her friend. Her friend cut off contact with her.", "sentence2": "The woman stood by her friend. Her friend sent her a greeting card.", "label": 1}
+{"idx": 1140, "sentence1": "It was cheap. The boy sharpened the pencil.", "sentence2": "It was dull. The boy sharpened the pencil.", "label": 1}
+{"idx": 1296, "sentence1": "The girl ruffled it. The boy's hair was sticking up.", "sentence2": "The girl pulled it. The boy's hair was sticking up.", "label": 0}
+{"idx": 554, "sentence1": "The woman looked like her sister. The woman was mistaken for her sister.", "sentence2": "The woman was close with her sister. The woman was mistaken for her sister.", "label": 0}
+{"idx": 679, "sentence1": "The parents picked out a name for the baby. The parents received a birth certificate.", "sentence2": "The parents shook a rattle in front of the baby. The parents received a birth certificate.", "label": 0}
+{"idx": 49, "sentence1": "She was attracted to him. The woman ignored the man.", "sentence2": "She was repulsed by him. The woman ignored the man.", "label": 1}
+{"idx": 490, "sentence1": "I clenched the candy wrapper in my fist. The wrapper ripped.", "sentence2": "I clenched the candy wrapper in my fist. The wrapper crinkled.", "label": 1}
+{"idx": 316, "sentence1": "The archeologist dug up the site. She excavated ancient artifacts.", "sentence2": "The archeologist dug up the site. She read about the site's history.", "label": 0}
+{"idx": 904, "sentence1": "The detective revealed an anomaly in the case. He finalized his theory.", "sentence2": "The detective revealed an anomaly in the case. He scrapped his theory.", "label": 1}
+{"idx": 636, "sentence1": "The administrator cleared her throat. The meeting was postponed.", "sentence2": "The administrator cleared her throat. The meeting commenced.", "label": 1}
+{"idx": 560, "sentence1": "The shopper wondered about the cost of the item. He decided to buy it.", "sentence2": "The shopper wondered about the cost of the item. He checked its price tag.", "label": 1}
+{"idx": 486, "sentence1": "There was a hole in it. Air leaked out of the beach ball.", "sentence2": "It was inflated. Air leaked out of the beach ball.", "label": 0}
+{"idx": 67, "sentence1": "The patient said his leg felt numb. The nurse gave him an IV.", "sentence2": "The patient said his leg felt numb. The nurse tested his reflexes.", "label": 1}
+{"idx": 811, "sentence1": "I salesman's pitch was very good. He persuaded me to buy the product.", "sentence2": "I salesman's pitch was very good. I turned his offer down.", "label": 0}
+{"idx": 493, "sentence1": "The woman dropped syrup on the piano. The key got stuck.", "sentence2": "The woman dropped syrup on the piano. A sound played.", "label": 0}
+{"idx": 310, "sentence1": "I walked upstairs. I chugged the pitcher of water.", "sentence2": "I ran five miles. I chugged the pitcher of water.", "label": 1}
+{"idx": 1096, "sentence1": "The shelves were covered with dust. Books fell out of the bookcase.", "sentence2": "An earthquake shook the bookcase. Books fell out of the bookcase.", "label": 1}
+{"idx": 1247, "sentence1": "He asked her questions about herself. The woman became bored with her date.", "sentence2": "He talked incessantly about himself. The woman became bored with her date.", "label": 1}
+{"idx": 184, "sentence1": "The glass was stained. The window was opaque.", "sentence2": "The blinds were open. The window was opaque.", "label": 0}
+{"idx": 306, "sentence1": "The boy turned the lid on the jar. The jar became warm.", "sentence2": "The boy turned the lid on the jar. The lid came off.", "label": 1}
+{"idx": 852, "sentence1": "The couple behind me was whispering. My view of the movie screen was blocked.", "sentence2": "A tall person was sitting in front of me. My view of the movie screen was blocked.", "label": 1}
+{"idx": 792, "sentence1": "The print on the brochure was tiny. The man put his glasses on.", "sentence2": "The print on the brochure was tiny. The man retrieved a pen from his pocket.", "label": 0}
+{"idx": 289, "sentence1": "They stormed the city. The army won the battle.", "sentence2": "They were outnumbered. The army won the battle.", "label": 0}
+{"idx": 706, "sentence1": "She was intoxicated. The woman stayed away from public places.", "sentence2": "She was contagious. The woman stayed away from public places.", "label": 1}
+{"idx": 1329, "sentence1": "The writer avoided bias in her stories. The editor fired the writer.", "sentence2": "The writer missed an important deadline. The editor fired the writer.", "label": 1}
+{"idx": 654, "sentence1": "My friend was recovering from surgery. I brought her a card and flowers.", "sentence2": "My friend was recovering from surgery. I dropped her off at the hospital.", "label": 0}
+{"idx": 522, "sentence1": "He trusted the therapist. The man revealed personal information to the therapist.", "sentence2": "He disagreed with the therapist. The man revealed personal information to the therapist.", "label": 0}
+{"idx": 461, "sentence1": "The girl clenched the paper her in her fist. The paper crinkled.", "sentence2": "The girl clenched the paper her in her fist. The paper sliced apart.", "label": 0}
+{"idx": 930, "sentence1": "The woman got her hair cut. The man perceived that the woman looked different.", "sentence2": "The woman wore a bracelet. The man perceived that the woman looked different.", "label": 0}
+{"idx": 1034, "sentence1": "The circus performer juggled while riding a unicycle. The audience cheered in astonishment.", "sentence2": "The circus performer juggled while riding a unicycle. The acrobat swung from a trapeze.", "label": 0}
+{"idx": 29, "sentence1": "I made my friend very tired. My friend snored.", "sentence2": "I made my friend very tired. My friend awoke.", "label": 0}
+{"idx": 240, "sentence1": "The girl went down the hill on her bike. Her bike sped up.", "sentence2": "The girl went down the hill on her bike. Her bike swerved.", "label": 0}
+{"idx": 798, "sentence1": "They were armed with rifles. The soldiers were concealed in the brush.", "sentence2": "They wore camouflage uniforms. The soldiers were concealed in the brush.", "label": 1}
+{"idx": 817, "sentence1": "I put a match to the wick. The candle lit up.", "sentence2": "I blew on the wick. The candle lit up.", "label": 0}
+{"idx": 65, "sentence1": "The police shot the fugitive. The fugitive fell to the ground.", "sentence2": "The police shot the fugitive. The fugitive dropped his gun.", "label": 0}
+{"idx": 601, "sentence1": "She received her monthly bill. The woman never used her credit card.", "sentence2": "She preferred paying by cash. The woman never used her credit card.", "label": 1}
+{"idx": 924, "sentence1": "I made a duplicate of the key. The lock opened.", "sentence2": "I turned the key in the lock. The lock opened.", "label": 1}
+{"idx": 754, "sentence1": "He suffered emotional trauma. The patient went into a coma.", "sentence2": "He suffered brain damage. The patient went into a coma.", "label": 1}
+{"idx": 926, "sentence1": "I was preparing to wash my hands. I put rubber gloves on.", "sentence2": "I was preparing to clean the bathroom. I put rubber gloves on.", "label": 1}
+{"idx": 1101, "sentence1": "The speaker made politically incorrect comments. He bored the audience.", "sentence2": "The speaker made politically incorrect comments. He offended the audience.", "label": 1}
+{"idx": 247, "sentence1": "The man had a heart attack. He felt in awe.", "sentence2": "The man had a heart attack. He collapsed.", "label": 1}
+{"idx": 277, "sentence1": "She sent me a gift. I wrote a reminder note to my grandmother.", "sentence2": "She became forgetful. I wrote a reminder note to my grandmother.", "label": 1}
+{"idx": 1402, "sentence1": "The woman stomped on the flames. The flames went out.", "sentence2": "The woman stomped on the flames. Smoke arose from the flames.", "label": 0}
+{"idx": 1066, "sentence1": "She wanted to watch the sunset. The woman sat outside on the porch.", "sentence2": "She thought she saw lightning. The woman sat outside on the porch.", "label": 0}
+{"idx": 479, "sentence1": "The family reminisced over the photos. The photo album collection was treasured.", "sentence2": "They remained untouched for years. The photo album collection was treasured.", "label": 0}
+{"idx": 426, "sentence1": "The vandals threw a rock at the window. The window cracked.", "sentence2": "The vandals threw a rock at the window. The window fogged up.", "label": 0}
+{"idx": 123, "sentence1": "I was full from breakfast. My stomach was heavy.", "sentence2": "I forgot to eat breakfast. My stomach was heavy.", "label": 0}
+{"idx": 1169, "sentence1": "I felt exhausted. I went to bed early.", "sentence2": "I felt exhausted. I stayed up all night.", "label": 0}
+{"idx": 394, "sentence1": "I burnt my dinner. The smoke alarm went off.", "sentence2": "I lit a candle. The smoke alarm went off.", "label": 0}
+{"idx": 985, "sentence1": "The parking meter expired. The man saw an empty parking spot.", "sentence2": "He parallel parked on the street. The man saw an empty parking spot.", "label": 1}
+{"idx": 715, "sentence1": "The gardener did not pull out the weeds. The weeds came out of the soil.", "sentence2": "The gardener did not pull out the weeds. The weeds produced seeds.", "label": 1}
+{"idx": 1134, "sentence1": "My friend pointed out that I had food stuck in my teeth. I felt embarrassed.", "sentence2": "My friend pointed out that I had food stuck in my teeth. I felt proud.", "label": 0}
+{"idx": 1084, "sentence1": "I waited for the ink to dry. The ink on the poster smeared.", "sentence2": "I spilled water on the poster. The ink on the poster smeared.", "label": 1}
+{"idx": 497, "sentence1": "It was foggy. The people carried the umbrellas.", "sentence2": "It was cloudy. The people carried the umbrellas.", "label": 1}
+{"idx": 44, "sentence1": "The farmland needed irrigation. A flood occurred.", "sentence2": "The farmland needed irrigation. A canal was constructed.", "label": 1}
+{"idx": 59, "sentence1": "The friends saw eye to eye. The friends did not have a debate.", "sentence2": "The friends were splitting hairs. The friends did not have a debate.", "label": 0}
+{"idx": 1161, "sentence1": "I encountered an old friend. I revealed a secret to him.", "sentence2": "I encountered an old friend. I gave him a hug.", "label": 1}
+{"idx": 23, "sentence1": "The elderly woman made a phone call. The woman's daughter came over to clean her house.", "sentence2": "The elderly woman made a phone call. The woman's daughter moved in to take care of her.", "label": 0}
+{"idx": 874, "sentence1": "He promised his friend that he would go. The man felt obligated to attend the event.", "sentence2": "He turned down his friend's invitation to go. The man felt obligated to attend the event.", "label": 0}
+{"idx": 481, "sentence1": "Everyone in the room was talking. I got hooked to my conversation with the woman.", "sentence2": "The woman was telling a funny story. I got hooked to my conversation with the woman.", "label": 1}
+{"idx": 1324, "sentence1": "The gambler was confident. He bet all of his money.", "sentence2": "The gambler was confident. He went home broke.", "label": 0}
+{"idx": 745, "sentence1": "The woman did not want to work anymore. She went sky diving.", "sentence2": "The woman did not want to work anymore. She retired.", "label": 1}
+{"idx": 231, "sentence1": "My son was born. I was moved.", "sentence2": "I found a better-paying job. I was moved.", "label": 0}
+{"idx": 124, "sentence1": "The boaters set off a flare. Their boat was rescued.", "sentence2": "The boaters set off a flare. Their boat drifted to shore.", "label": 0}
+{"idx": 427, "sentence1": "The vandals blew cold air at the window. The window fogged up.", "sentence2": "The vandals blew cold air at the window. The window cracked.", "label": 0}
+{"idx": 818, "sentence1": "The man drank heavily at the party. He had a runny nose the next day.", "sentence2": "The man drank heavily at the party. He had a headache the next day.", "label": 1}
+{"idx": 168, "sentence1": "The restaurant was crowded. The service at the restaurant was slow.", "sentence2": "There were many empty tables. The service at the restaurant was slow.", "label": 0}
+{"idx": 115, "sentence1": "The woman felt creative. She renovated her kitchen.", "sentence2": "The woman felt creative. She adopted a cat.", "label": 0}
+{"idx": 1088, "sentence1": "The government oppressed its citizens. The citizens staged a revolt.", "sentence2": "The government oppressed its citizens. The citizens registered to vote.", "label": 0}
+{"idx": 986, "sentence1": "The woman became famous. Photographers followed her.", "sentence2": "The woman became famous. Her family avoided her.", "label": 0}
+{"idx": 1395, "sentence1": "The couple announced that they were separating. The family congratulated the couple.", "sentence2": "The couple announced that they were having a baby. The family congratulated the couple.", "label": 1}
+{"idx": 1424, "sentence1": "The family went to the zoo. The children admired the animals.", "sentence2": "The family went to the zoo. The children chased the animals.", "label": 0}
+{"idx": 415, "sentence1": "The man woke up late. He made an appointment with the dentist.", "sentence2": "The man woke up late. He missed an appointment with the dentist.", "label": 1}
+{"idx": 141, "sentence1": "The police found the bomb. The bomb was deactivated.", "sentence2": "The police found the bomb. The bomb exploded.", "label": 0}
+{"idx": 1233, "sentence1": "A tornado came through the town. The roof of the courthouse blew off.", "sentence2": "A tornado came through the town. The highway became dangerously icy.", "label": 0}
+{"idx": 1293, "sentence1": "She realized the card was missing. The woman cancelled her credit card account.", "sentence2": "She realized the card was expired. The woman cancelled her credit card account.", "label": 0}
+{"idx": 762, "sentence1": "She made a right turn at the light. The driver honked her horn.", "sentence2": "Another car swerved into her lane. The driver honked her horn.", "label": 1}
+{"idx": 1206, "sentence1": "The boy was locked out of his house. He crawled in through an open window.", "sentence2": "The boy was locked out of his house. He climbed up to the roof.", "label": 0}
+{"idx": 462, "sentence1": "She missed them. The woman visited her family.", "sentence2": "She distrusted them. The woman visited her family.", "label": 0}
+{"idx": 1243, "sentence1": "The towel was wet. I wiped my hands with a towel.", "sentence2": "My hands were wet. I wiped my hands with a towel.", "label": 1}
+{"idx": 78, "sentence1": "She decided to run for office. The woman hired a lawyer.", "sentence2": "She decided to sue her employer. The woman hired a lawyer.", "label": 1}
+{"idx": 1004, "sentence1": "It was a holiday. The office was closed.", "sentence2": "It was summer. The office was closed.", "label": 0}
+{"idx": 1490, "sentence1": "My ankle was swollen. I put ice on it.", "sentence2": "My ankle was swollen. I rubbed lotion on it.", "label": 0}
+{"idx": 571, "sentence1": "My daughter suffered an panic attack. I encouraged her to take deep breaths.", "sentence2": "My daughter suffered an panic attack. I took her to the emergency room.", "label": 0}
+{"idx": 15, "sentence1": "He greeted the cashier. The man looked friendly.", "sentence2": "He used a coupon. The man looked friendly.", "label": 0}
+{"idx": 494, "sentence1": "The girl met her favorite actor. She went to see his new film.", "sentence2": "The girl met her favorite actor. She asked him for his autograph.", "label": 1}
+{"idx": 350, "sentence1": "It was bedtime for the children. The father shut off the children's television.", "sentence2": "The children were watching cartoons. The father shut off the children's television.", "label": 0}
+{"idx": 999, "sentence1": "The woman was in a good mood. She engaged in small talk with her friend.", "sentence2": "The woman was in a good mood. She told her friend to leave her alone.", "label": 0}
+{"idx": 274, "sentence1": "I scratched my skin. My scar faded.", "sentence2": "I scratched my skin. My itch went away.", "label": 1}
+{"idx": 1191, "sentence1": "The heavyset man decided to lose weight. He cut out sweets.", "sentence2": "The heavyset man decided to lose weight. He avoided caffeine.", "label": 0}
+{"idx": 271, "sentence1": "The flashlight was broken. I took it apart.", "sentence2": "The flashlight was broken. I replaced the batteries.", "label": 0}
+{"idx": 1473, "sentence1": "The phone rang. The man hung up the phone.", "sentence2": "The phone rang. The man picked up the phone.", "label": 1}
+{"idx": 237, "sentence1": "He planned to ask the girl out. The boy's friends were scared.", "sentence2": "His palms were cold and sweaty. The boy's friends were scared.", "label": 1}
+{"idx": 585, "sentence1": "The documents were loose. I kept them in a secure place.", "sentence2": "The documents were loose. I paper clipped them together.", "label": 1}
+{"idx": 1312, "sentence1": "School let out for the summer. The girl switched schools.", "sentence2": "She moved to a new town. The girl switched schools.", "label": 1}
+{"idx": 694, "sentence1": "I misplaced my wallet. I retraced my steps.", "sentence2": "I misplaced my wallet. I retrieved my phone.", "label": 0}
+{"idx": 1001, "sentence1": "I emptied my pockets. I retrieved a ticket stub.", "sentence2": "I emptied my pockets. I found a weapon.", "label": 0}
+{"idx": 322, "sentence1": "I tossed the ball upwards. The ball hit the ceiling.", "sentence2": "I tossed the ball upwards. The ball rolled across the ground.", "label": 0}
+{"idx": 782, "sentence1": "The swimmer won the race. Her team lost the meet.", "sentence2": "The swimmer won the race. She received a gold medal.", "label": 1}
+{"idx": 1358, "sentence1": "The puppy soiled the carpet. The owner scolded the puppy.", "sentence2": "The puppy soiled the carpet. The owner gave the puppy a treat.", "label": 0}
+{"idx": 1203, "sentence1": "The truck collided with the car. The truck sped up.", "sentence2": "The truck collided with the car. The car got smashed.", "label": 1}
+{"idx": 970, "sentence1": "The woman read the newspaper. She discovered the outcome of the election.", "sentence2": "The woman read the newspaper. She casted a vote in the election.", "label": 0}
+{"idx": 1466, "sentence1": "I bit into a slice of watermelon. I accidentally swallowed a seed.", "sentence2": "I bit into a slice of watermelon. I accidentally chipped my tooth.", "label": 0}
+{"idx": 526, "sentence1": "He looked familiar. I approached the man.", "sentence2": "He looked busy. I approached the man.", "label": 0}
+{"idx": 1425, "sentence1": "His kidneys were failing. The man's breathing was loud.", "sentence2": "His lungs were congested. The man's breathing was loud.", "label": 1}
+{"idx": 1170, "sentence1": "He was growing out his hair. The man went to the barber.", "sentence2": "His hair was getting long. The man went to the barber.", "label": 1}
+{"idx": 175, "sentence1": "I finished eating. I didn't have to do the dishes.", "sentence2": "I skipped dinner. I didn't have to do the dishes.", "label": 1}
+{"idx": 358, "sentence1": "He refused to talk to her. The mother suspected that her son was lying.", "sentence2": "He avoided making eye contact with her. The mother suspected that her son was lying.", "label": 1}
+{"idx": 43, "sentence1": "The woman's date wanted to have Japanese cuisine. He asked her if she liked sushi.", "sentence2": "The woman's date wanted to have Japanese cuisine. He opened the door for her.", "label": 0}
+{"idx": 416, "sentence1": "Their coach pumped them up. The team lost the game.", "sentence2": "Their best player was injured. The team lost the game.", "label": 1}
+{"idx": 344, "sentence1": "The host served dinner to his guests. His guests went hungry.", "sentence2": "The host served dinner to his guests. His guests were gracious.", "label": 1}
+{"idx": 1026, "sentence1": "He caught the student cheating. The teacher tore up the student's exam.", "sentence2": "The student's answers were incorrect. The teacher tore up the student's exam.", "label": 0}
+{"idx": 1401, "sentence1": "The wealthy man died of old age. His son got into legal trouble.", "sentence2": "The wealthy man died of old age. His son inherited his fortune.", "label": 1}
+{"idx": 101, "sentence1": "I was thirsty. I went to the toilet.", "sentence2": "I felt nauseous. I went to the toilet.", "label": 1}
+{"idx": 107, "sentence1": "The cook boiled the ingredients in the bowl. The ingredients melted.", "sentence2": "The cook boiled the ingredients in the bowl. The ingredients blended together.", "label": 0}
+{"idx": 1489, "sentence1": "The man ate half of the entree. He refrigerated the leftovers.", "sentence2": "The man ate half of the entree. He saved the recipe.", "label": 0}
+{"idx": 1052, "sentence1": "The tree shed its leaves. The leaves turned colors.", "sentence2": "The tree shed its leaves. The leaves accumulated on the ground.", "label": 1}
+{"idx": 964, "sentence1": "The jewelry thieves were caught. The stolen jewelry was returned to its owners.", "sentence2": "The jewelry thieves were caught. The cost of the stolen jewelry was calculated.", "label": 0}
+{"idx": 380, "sentence1": "The woman had a religious awakening. She began going to church.", "sentence2": "The woman had a religious awakening. She began travelling abroad.", "label": 0}
+{"idx": 244, "sentence1": "The train travelled through a tunnel. The inside of the train went dark.", "sentence2": "The train ran off the tracks. The inside of the train went dark.", "label": 0}
+{"idx": 1099, "sentence1": "I poured butter into the bag. The bag of popcorn began to pop.", "sentence2": "I heated it in the microwave. The bag of popcorn began to pop.", "label": 1}
+{"idx": 500, "sentence1": "It scratched me. The cat purred.", "sentence2": "I petted it. The cat purred.", "label": 1}
+{"idx": 700, "sentence1": "I ran the ice cube under warm water. The ice cube stuck to my fingers.", "sentence2": "I ran the ice cube under warm water. The ice cube vanished.", "label": 1}
+{"idx": 128, "sentence1": "The dog injured his paw. The family took their dog to the veterinarian.", "sentence2": "The dog chewed on a bone. The family took their dog to the veterinarian.", "label": 0}
+{"idx": 239, "sentence1": "The game ended in a tie. The fans in the stadium were apathetic.", "sentence2": "The player scored. The fans in the stadium were apathetic.", "label": 0}
+{"idx": 1114, "sentence1": "I baked an apple pie. A rotting smell filled the kitchen.", "sentence2": "I baked an apple pie. A warm aroma filled the kitchen.", "label": 1}
+{"idx": 682, "sentence1": "Her friend forgot to bring his lunch. The girl shared her lunch with her friend.", "sentence2": "Her friend sat next to her at lunch. The girl shared her lunch with her friend.", "label": 0}
+{"idx": 482, "sentence1": "I put coins in the washing machine at the laundromat. The machine powered on.", "sentence2": "I put coins in the washing machine at the laundromat. I ran out of laundry detergent.", "label": 0}
+{"idx": 1305, "sentence1": "The curtain on the stage went up. The opening scene of the play began.", "sentence2": "The curtain on the stage went up. The actors in the play exited the stage.", "label": 0}
+{"idx": 275, "sentence1": "I cleaned my skin. My scar faded.", "sentence2": "I cleaned my skin. My itch went away.", "label": 0}
+{"idx": 582, "sentence1": "I scrubbed the stain on the floor. I got dirt on the floor.", "sentence2": "I scrubbed the stain on the floor. I got rid of the stain.", "label": 1}
+{"idx": 203, "sentence1": "I blocked the pendulum. It swung back and forth.", "sentence2": "I blocked the pendulum. It slowed to a stop.", "label": 1}
+{"idx": 32, "sentence1": "I poured bleach on it. The shirt shrunk.", "sentence2": "I put it in the dryer. The shirt shrunk.", "label": 1}
+{"idx": 1319, "sentence1": "The boy wore braces. He got a cavity.", "sentence2": "The boy wore braces. His teeth became straight.", "label": 1}
+{"idx": 813, "sentence1": "My friends urged me to go out. I decided not to stay home.", "sentence2": "The forecast called for storms. I decided not to stay home.", "label": 0}
+{"idx": 997, "sentence1": "The computer was cheap to fix. I got it repaired.", "sentence2": "The computer was cheap to fix. I bought a new one.", "label": 0}
+{"idx": 381, "sentence1": "The woman wanted to change her environment. She began going to church.", "sentence2": "The woman wanted to change her environment. She began travelling abroad.", "label": 1}
+{"idx": 1073, "sentence1": "The researchers proved the theory. The researchers retracted the theory.", "sentence2": "The researchers proved the theory. Individuals accepted the theory.", "label": 1}
+{"idx": 1348, "sentence1": "It was struck by lightning. The famous statue burned down.", "sentence2": "People came to venerate it. The famous statue burned down.", "label": 0}
+{"idx": 578, "sentence1": "The competition ended. The teams got pumped up.", "sentence2": "The competition ended. The teams shook hands.", "label": 1}
+{"idx": 887, "sentence1": "The student enjoyed cooking. He brought his lunch to school.", "sentence2": "The student enjoyed cooking. He left his assignment at home.", "label": 0}
+{"idx": 1325, "sentence1": "The winds became stronger. The forest fire spread.", "sentence2": "The arsonists were apprehended. The forest fire spread.", "label": 0}
+{"idx": 1326, "sentence1": "The child skinned his knee. His mother sent him to his room.", "sentence2": "The child skinned his knee. His mother put a bandage on the wound.", "label": 1}
+{"idx": 941, "sentence1": "He thanked her. The woman made the man a compliment.", "sentence2": "He insulted her. The woman made the man a compliment.", "label": 0}
+{"idx": 163, "sentence1": "She came from a wealthy family. The woman was rich.", "sentence2": "She migrated from another country. The woman was rich.", "label": 0}
+{"idx": 909, "sentence1": "He began attending school. The child was much smaller than his classmates.", "sentence2": "He skipped a grade in school. The child was much smaller than his classmates.", "label": 1}
+{"idx": 297, "sentence1": "He noticed a stranded vehicle. The driver crashed over to the side of the road.", "sentence2": "He went through an intersection. The driver crashed over to the side of the road.", "label": 1}
+{"idx": 755, "sentence1": "He suffered emotional trauma. The patient went into a fugue state.", "sentence2": "He suffered brain damage. The patient went into a fugue state.", "label": 0}
+{"idx": 405, "sentence1": "The gardener wanted more plants to flourish. He planted a variety of seeds.", "sentence2": "The gardener wanted more plants to flourish. He put fertilizer in the soil.", "label": 0}
+{"idx": 968, "sentence1": "She checked into rehab. The woman was arrested.", "sentence2": "She committed assault. The woman was arrested.", "label": 1}
+{"idx": 605, "sentence1": "The man stalked her. The woman answered the phone.", "sentence2": "The man called her. The woman answered the phone.", "label": 1}
+{"idx": 420, "sentence1": "The sender requested a response from her. The woman deleted the email.", "sentence2": "The sender tried to solicit money from her. The woman deleted the email.", "label": 1}
+{"idx": 464, "sentence1": "I burst into a fit of laughter. My eyes welled up with tears.", "sentence2": "I burst into a fit of laughter. My teeth began to chatter.", "label": 0}
+{"idx": 1187, "sentence1": "The resort was booked. The vacationers took a ferry to the resort.", "sentence2": "The resort was on an island. The vacationers took a ferry to the resort.", "label": 1}
+{"idx": 939, "sentence1": "The couple was very tired. They kissed.", "sentence2": "The couple was very tired. They rested.", "label": 1}
+{"idx": 192, "sentence1": "Her husband was snoring. The woman awakened.", "sentence2": "She took sleeping pills. The woman awakened.", "label": 0}
+{"idx": 674, "sentence1": "The scientist conducted an experiment. She validated her theory.", "sentence2": "The scientist conducted an experiment. She fabricated her data.", "label": 0}
+{"idx": 351, "sentence1": "The children were watching cartoons. The father laughed at the children's television.", "sentence2": "It was bedtime for the children. The father laughed at the children's television.", "label": 0}
+{"idx": 858, "sentence1": "She sneezed. The woman covered her mouth with her hand.", "sentence2": "She exhaled. The woman covered her mouth with her hand.", "label": 0}
+{"idx": 63, "sentence1": "The man hated the shape of his chin. He wore a hat.", "sentence2": "The man hated the shape of his chin. He grew a beard.", "label": 1}
+{"idx": 1173, "sentence1": "It began to rain. The driver turned on the headlights.", "sentence2": "It began to rain. The driver shifted the car into reverse.", "label": 0}
+{"idx": 765, "sentence1": "The man wanted to spend money. He withdrew money from his savings account.", "sentence2": "The man wanted to spend money. He cut back on making frivolous purchases.", "label": 0}
+{"idx": 1440, "sentence1": "The floor was uneven. The table wobbled.", "sentence2": "The floor was slippery. The table wobbled.", "label": 0}
+{"idx": 261, "sentence1": "I slammed my hands in the door. My hands went numb.", "sentence2": "I slammed my hands in the door. The soap foamed.", "label": 0}
+{"idx": 342, "sentence1": "The teacher caught the student chewing gum. The gum stuck to the student's shoe.", "sentence2": "The teacher caught the student chewing gum. The student spit out the gum.", "label": 1}
+{"idx": 1220, "sentence1": "He incited pity. The hungry vagrant stole food.", "sentence2": "He had no money. The hungry vagrant stole food.", "label": 1}
+{"idx": 471, "sentence1": "I wanted to tense up the mood of the conversation. I remained quiet.", "sentence2": "I wanted to tense up the mood of the conversation. I told a joke.", "label": 0}
+{"idx": 1334, "sentence1": "He flexed his arms. The man's arm muscles bulged.", "sentence2": "He rubbed his arms. The man's arm muscles bulged.", "label": 0}
+{"idx": 198, "sentence1": "He was parking. The driver got pulled over by the police.", "sentence2": "He was speeding. The driver got pulled over by the police.", "label": 1}
+{"idx": 1231, "sentence1": "The man wanted to act romantic. He met his ex-girlfriend for lunch.", "sentence2": "The man wanted to act romantic. He bought his girlfriend chocolates.", "label": 1}
+{"idx": 917, "sentence1": "He took a nap. The man felt refreshed.", "sentence2": "He ran a marathon. The man felt refreshed.", "label": 0}
+{"idx": 743, "sentence1": "She wanted attention. The woman did not tell the story to anyone.", "sentence2": "She felt shy. The woman did not tell the story to anyone.", "label": 1}
+{"idx": 570, "sentence1": "My daughter suffered an allergy attack. I took her to the emergency room.", "sentence2": "My daughter suffered an allergy attack. I encouraged her to take deep breaths.", "label": 0}
+{"idx": 218, "sentence1": "I was confused by the professor's lecture. I asked the professor questions.", "sentence2": "I was confused by the professor's lecture. I paid attention to the professor.", "label": 0}
+{"idx": 453, "sentence1": "The child obeyed her parents. Her parents punished her.", "sentence2": "The child obeyed her parents. Her parents hugged her.", "label": 1}
+{"idx": 30, "sentence1": "Her friend gave her a pat on the back. The girl gasped.", "sentence2": "Her friend stuck an ice cube down her back. The girl gasped.", "label": 1}
+{"idx": 56, "sentence1": "The grape juice fermented. The juice evaporated.", "sentence2": "The grape juice fermented. The juice turned to wine.", "label": 1}
+{"idx": 1210, "sentence1": "Civilian deaths from the war surged. Pacifists staged a protest.", "sentence2": "Civilian deaths from the war surged. Pacifists held a parade.", "label": 0}
+{"idx": 1385, "sentence1": "The plane hit some turbulence. The man tightened his seatbelt.", "sentence2": "The plane hit some turbulence. The man looked out the window.", "label": 0}
+{"idx": 1065, "sentence1": "The couple signed a lease for an apartment. The couple moved into the apartment.", "sentence2": "The couple signed a lease for an apartment. The city condemned the apartment.", "label": 0}
+{"idx": 430, "sentence1": "She brushed her hair. The woman's makeup smeared.", "sentence2": "She wiped her eyes. The woman's makeup smeared.", "label": 1}
+{"idx": 724, "sentence1": "He left a note. The investigators deemed the man's death a suicide.", "sentence2": "He had children. The investigators deemed the man's death a suicide.", "label": 0}
+{"idx": 1144, "sentence1": "The child left crumbs on the floor. Ants crawled to the crumbs.", "sentence2": "The child left crumbs on the floor. The child put the bread away.", "label": 0}
+{"idx": 1005, "sentence1": "She played checkers. The girl ran out of energy.", "sentence2": "She jumped rope. The girl ran out of energy.", "label": 1}
+{"idx": 1050, "sentence1": "He missed his parents. The little boy cried to his babysitter.", "sentence2": "It was snack time. The little boy cried to his babysitter.", "label": 0}
+{"idx": 1345, "sentence1": "The company wanted to gauge customer satisfaction. They offered a discount to new customers.", "sentence2": "The company wanted to gauge customer satisfaction. They distributed a survey to customers.", "label": 1}
+{"idx": 1236, "sentence1": "I polished the stone. It became slippery.", "sentence2": "I polished the stone. It became shiny.", "label": 1}
+{"idx": 1235, "sentence1": "I kneeled down on the ground. I felt comfortable.", "sentence2": "I wrapped myself in a blanket. I felt comfortable.", "label": 1}
+{"idx": 1448, "sentence1": "The woman's business succeeded. She fired her employees.", "sentence2": "The woman's business succeeded. She became wealthy.", "label": 1}
+{"idx": 620, "sentence1": "I applied pressure to the cut on my arm. It healed.", "sentence2": "I applied pressure to the cut on my arm. It stopped bleeding.", "label": 1}
+{"idx": 1067, "sentence1": "He couldn't swim. The man wore a lifejacket in the water.", "sentence2": "The water was shallow. The man wore a lifejacket in the water.", "label": 0}
+{"idx": 838, "sentence1": "She put a diamond ring on her finger. The woman ran her finger under cold water.", "sentence2": "She burned her finger on the toaster. The woman ran her finger under cold water.", "label": 1}
+{"idx": 99, "sentence1": "They had a pillow fight. The children bumped their heads on the ceiling.", "sentence2": "They jumped on the bed. The children bumped their heads on the ceiling.", "label": 1}
+{"idx": 532, "sentence1": "I went on vacation for two weeks. My mailbox was overflowing with letters.", "sentence2": "The lid on the mailbox broke. My mailbox was overflowing with letters.", "label": 0}
+{"idx": 528, "sentence1": "He raised taxes. The leader received praise.", "sentence2": "He fought poverty. The leader received praise.", "label": 1}
+{"idx": 1346, "sentence1": "The boy threw the cushions off the couch. The wood floor became scratched.", "sentence2": "The boy dragged a chair across the floor. The wood floor became scratched.", "label": 1}
+{"idx": 1172, "sentence1": "I was eating cookies. I craved a glass of milk.", "sentence2": "I was baking bread. I craved a glass of milk.", "label": 0}
+{"idx": 1178, "sentence1": "I unplugged the lamp. The electricity in my house shut off.", "sentence2": "I blew a fuse. The electricity in my house shut off.", "label": 1}
+{"idx": 629, "sentence1": "It was severely infected. The doctor put an ice pack on the leg.", "sentence2": "It was badly bruised. The doctor put an ice pack on the leg.", "label": 1}
+{"idx": 1027, "sentence1": "I lost my voice. I paused to stop talking.", "sentence2": "I ran out of breath. I paused to stop talking.", "label": 1}
+{"idx": 270, "sentence1": "The flashlight was dead. I took it apart.", "sentence2": "The flashlight was dead. I replaced the batteries.", "label": 1}
+{"idx": 1341, "sentence1": "I was too tired to prepare anything. I suggested to my houseguest that we go out to dinner.", "sentence2": "My houseguest overstayed her welcome. I suggested to my houseguest that we go out to dinner.", "label": 0}
+{"idx": 626, "sentence1": "The air conditioner in the room broke. The woman fanned herself with her hand.", "sentence2": "She installed the air conditioner in the room. The woman fanned herself with her hand.", "label": 0}
+{"idx": 1042, "sentence1": "I ate a doughnut. My hands became sticky.", "sentence2": "I had a sweet tooth. My hands became sticky.", "label": 0}
+{"idx": 976, "sentence1": "The woman needed to clean her house. The woman contacted the real estate agent.", "sentence2": "The woman planned to buy a condo. The woman contacted the real estate agent.", "label": 1}
+{"idx": 371, "sentence1": "The doctor discovered the patient's arm was broken. He put the patient's arm in a cast.", "sentence2": "The doctor discovered the patient's arm was broken. He discovered that the patient's arm was broken.", "label": 0}
+{"idx": 588, "sentence1": "The girl pushed her friend. Her friend fell over.", "sentence2": "The girl pushed her friend. Her friend choked.", "label": 0}
+{"idx": 967, "sentence1": "Political violence finally ended in the nation. Many citizens took refuge in other territories.", "sentence2": "Political violence finally ended in the nation. Many citizens relocated to the capitol.", "label": 1}
+{"idx": 1165, "sentence1": "An accident occurred on the main road. The driver took a detour.", "sentence2": "She followed the truck in front of her. The driver took a detour.", "label": 0}
+{"idx": 1146, "sentence1": "His lips were chapped. The man took a mint.", "sentence2": "He worried about bad breath. The man took a mint.", "label": 1}
+{"idx": 236, "sentence1": "His palms were cold and sweaty. The boy's hands were shaking.", "sentence2": "He planned to ask the girl out. The boy's hands were shaking.", "label": 1}
+{"idx": 596, "sentence1": "The book became a huge bestseller. It was adapted into a movie.", "sentence2": "The book became a huge bestseller. The author faded into obscurity.", "label": 0}
+{"idx": 962, "sentence1": "A fly bit the horse. The horse bucked.", "sentence2": "The rider stroked the horse. The horse bucked.", "label": 0}
+{"idx": 1445, "sentence1": "She swallowed her food. The woman clutched her throat.", "sentence2": "She choked on her food. The woman clutched her throat.", "label": 1}
+{"idx": 1163, "sentence1": "His umbrella was broken. The student arrived to class soaking wet.", "sentence2": "His bike was stolen. The student arrived to class soaking wet.", "label": 0}
+{"idx": 590, "sentence1": "A group of teenagers crashed the party. The host of the party invited them in.", "sentence2": "A group of teenagers crashed the party. The host of the party kicked them out.", "label": 1}
+{"idx": 208, "sentence1": "The interviewer asked difficult questions. I botched the job interview.", "sentence2": "I anticipated the interviewer's questions. I botched the job interview.", "label": 0}
+{"idx": 1074, "sentence1": "The game went into overtime. The fans at the game booed.", "sentence2": "The referee made a bad call. The fans at the game booed.", "label": 1}
+{"idx": 899, "sentence1": "The hot sun shined onto the cement all summer. My handprint dried in the cement.", "sentence2": "The hot sun shined onto the cement all summer. Cracks emerged in the cement.", "label": 1}
+{"idx": 353, "sentence1": "He treaded water. The man exhaled his breath.", "sentence2": "He went underwater. The man exhaled his breath.", "label": 0}
+{"idx": 58, "sentence1": "The friends saw eye to eye. The friends' debate dragged on interminably.", "sentence2": "The friends were splitting hairs. The friends' debate dragged on interminably.", "label": 1}
+{"idx": 303, "sentence1": "The opening credits finished playing. The film began.", "sentence2": "The opening credits finished playing. We sat down.", "label": 0}
+{"idx": 1447, "sentence1": "The dog eyed the juicy steak on the table. It drooled.", "sentence2": "The dog eyed the juicy steak on the table. It laid down.", "label": 0}
+{"idx": 843, "sentence1": "My heart pounded. I noticed that I was very nervous.", "sentence2": "I took deep breaths. I noticed that I was very nervous.", "label": 0}
+{"idx": 1261, "sentence1": "He wanted to impress his date. The man sprayed himself with cologne.", "sentence2": "He put gel in his hair. The man sprayed himself with cologne.", "label": 0}
+{"idx": 1430, "sentence1": "A bee stung the gardener. The daffodils in the garden were destroyed.", "sentence2": "Squirrels dug up the bulbs. The daffodils in the garden were destroyed.", "label": 1}
+{"idx": 1209, "sentence1": "The girl squeezed the tube of toothpaste. The toothpaste squirted out of the tube.", "sentence2": "The girl squeezed the tube of toothpaste. The girl spit out the toothpaste.", "label": 0}
+{"idx": 367, "sentence1": "He wanted to maintain his privacy. The benefactor looked extremely excited.", "sentence2": "He supported the cause behind his donation. The benefactor looked extremely excited.", "label": 1}
+{"idx": 1357, "sentence1": "I had a headache. I left work early.", "sentence2": "My boss held a meeting. I left work early.", "label": 0}
+{"idx": 1197, "sentence1": "He sold his company stock. The executive went bankrupt.", "sentence2": "He squandered his fortune. The executive went bankrupt.", "label": 1}
+{"idx": 1304, "sentence1": "My brother was released from the hospital. I welcomed him back home.", "sentence2": "My brother was released from the hospital. I gave him the cold shoulder.", "label": 0}
+{"idx": 1232, "sentence1": "I dropped the thermometer. The mercury in the thermometer rose.", "sentence2": "The weather got warmer. The mercury in the thermometer rose.", "label": 1}
+{"idx": 704, "sentence1": "His meal was cold. The man drank water with his meal.", "sentence2": "His meal was spicy. The man drank water with his meal.", "label": 1}
+{"idx": 233, "sentence1": "The question made me uncomfortable. I promised to give a straight answer to the question.", "sentence2": "I wanted to be honest. I promised to give a straight answer to the question.", "label": 1}
+{"idx": 618, "sentence1": "The woman complimented the man. He blushed.", "sentence2": "The woman complimented the man. He sneezed.", "label": 0}
+{"idx": 196, "sentence1": "It was crowded. The bar closed.", "sentence2": "It was 3 AM. The bar closed.", "label": 1}
+{"idx": 1259, "sentence1": "She received an invitation. The girl attended her classmate's birthday party.", "sentence2": "She bought a gift. The girl attended her classmate's birthday party.", "label": 0}
+{"idx": 81, "sentence1": "The tenant broke the door of his apartment. His landlord unlocked the door.", "sentence2": "The tenant broke the door of his apartment. His landlord repaired the door.", "label": 1}
+{"idx": 1404, "sentence1": "I slept through my alarm. I made breakfast.", "sentence2": "I slept through my alarm. I missed breakfast.", "label": 1}
+{"idx": 597, "sentence1": "The book became a huge failure. The author faded into obscurity.", "sentence2": "The book became a huge failure. It was adapted into a movie.", "label": 0}
+{"idx": 1156, "sentence1": "She got a cramp in her side. The woman stopped jogging.", "sentence2": "She got a second wind. The woman stopped jogging.", "label": 0}
+{"idx": 111, "sentence1": "The police officer shot the gun. The gun recoiled.", "sentence2": "The police officer shot the gun. The gun went off.", "label": 0}
+{"idx": 1276, "sentence1": "His family paid his bail. The man was released from jail.", "sentence2": "He attacked a fellow inmate. The man was released from jail.", "label": 0}
+{"idx": 780, "sentence1": "Its sales were lagging. The retail shop shut down.", "sentence2": "It renewed its lease. The retail shop shut down.", "label": 0}
+{"idx": 983, "sentence1": "I slipped at the pool. My face got sunburned.", "sentence2": "I slipped at the pool. I sprained my ankle.", "label": 1}
+{"idx": 799, "sentence1": "They were armed with rifles. The soldiers had a lot of ammunition.", "sentence2": "They wore camouflage uniforms. The soldiers had a lot of ammunition.", "label": 0}
+{"idx": 1265, "sentence1": "The machine spit out the change. The boy kicked the vending machine.", "sentence2": "The bag of chips was stuck. The boy kicked the vending machine.", "label": 1}
+{"idx": 1150, "sentence1": "He had stage fright. The actor's heart was fluttering before his performance.", "sentence2": "He memorized his lines. The actor's heart was fluttering before his performance.", "label": 0}
+{"idx": 824, "sentence1": "My computer crashed. I installed new speakers.", "sentence2": "My computer crashed. I lost all my data.", "label": 1}

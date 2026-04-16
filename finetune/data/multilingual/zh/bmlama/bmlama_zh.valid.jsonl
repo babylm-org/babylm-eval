@@ -1,0 +1,1213 @@
+{"idx": 476, "sentence": "埃斯波的官方语言是_。\nA: 芬兰语\nB: 韩语\nC: 斯洛文尼亚语\nD: 加泰罗尼亚语\nE: 匈牙利语\nF: 西班牙语\nG: 波斯语\nH: 威尼斯语\nI: 冰岛语\nJ: 斯洛伐克语", "label": "A"}
+{"idx": 1393, "sentence": "叙利亚与_接壤。\nA: 巴拿马\nB: 格洛斯特郡\nC: 黎巴嫩\nD: 白金汉郡\nE: 加泰罗尼亚\nF: 冰岛\nG: 威尔士\nH: 沃里克郡\nI: 兰开夏郡\nJ: 昆士兰", "label": "C"}
+{"idx": 5075, "sentence": "墨西哥城和_是姐妹城市。\nA: 巴格达\nB: 悉尼\nC: 洛桑\nD: 迈阿密\nE: 都柏林\nF: 第比利斯\nG: 德累斯顿\nH: 亚历山大\nI: 敖德萨\nJ: 上海", "label": "B"}
+{"idx": 2972, "sentence": "哈巴罗夫斯克位于_。\nA: 大洋洲\nB: 欧洲\nC: 亚洲\nD: 南极洲\nE: 非洲\nF: 美洲", "label": "C"}
+{"idx": 5714, "sentence": "阿克什胡斯的首都是_。\nA: 塔林\nB: 北京\nC: 利默里克\nD: 达尼丁\nE: 奥斯陆\nF: 阿勒颇\nG: 锡拉丘兹\nH: 俾斯麦\nI: 皮埃尔\nJ: 布里斯班", "label": "E"}
+{"idx": 3550, "sentence": "玛丽莎·梅耶尔为_工作。\nA: 苹果公司\nB: 任天堂\nC: 亚历山大\nD: 雅虎\nE: 柏林\nF: 微软\nG: 德国\nH: 英国广播公司\nI: WWE\nJ: 谷歌", "label": "J"}
+{"idx": 1874, "sentence": "Georgy Lvov 的职业是_。\nA: 图书管理员\nB: 哲学家\nC: 作词人\nD: 政治家\nE: 钢琴家\nF: 演员\nG: 摄影师\nH: 数学家\nI: 小说家\nJ: 编剧", "label": "D"}
+{"idx": 1916, "sentence": "文科教育包括_。\nA: 马耳他\nB: 白俄罗斯\nC: 牛奶\nD: 委内瑞拉\nE: 语言\nF: 算术\nG: 火山\nH: 冰岛\nI: 土星\nJ: W", "label": "F"}
+{"idx": 576, "sentence": "马什哈德的官方语言是_。\nA: 波斯语\nB: 阿尔巴尼亚语\nC: 蒙古语\nD: 加泰罗尼亚语\nE: 马拉地语\nF: 匈牙利语\nG: 塞尔维亚语\nH: 索马里语\nI: 白俄罗斯语\nJ: 越南语", "label": "A"}
+{"idx": 3413, "sentence": "米德尔斯堡足球俱乐部位于_。\nA: 温哥华\nB: 叙利亚\nC: 西雅图\nD: 阿肯色州\nE: 米德尔斯堡\nF: 阿拉贡\nG: 博洛尼亚\nH: 西班牙\nI: 达拉斯\nJ: 意大利", "label": "E"}
+{"idx": 5468, "sentence": "麦吉尔大学的总部在_。\nA: 普罗维登斯\nB: 日内瓦\nC: 莱比锡\nD: 首尔\nE: 丰田\nF: 蒙特利尔\nG: 法兰克福\nH: 剑桥\nI: 罗马\nJ: 伦敦", "label": "F"}
+{"idx": 5551, "sentence": "佛罗伦萨省的首都是_。\nA: 维也纳\nB: 江户\nC: 马尼拉\nD: 罗利\nE: 布拉格\nF: 托莱多\nG: 加拉加斯\nH: 佛罗伦萨\nI: 里尔\nJ: 安纳波利斯", "label": "H"}
+{"idx": 4588, "sentence": "阿卡普尔科和_是姐妹城市。\nA: 图卢兹\nB: 奥斯陆\nC: 贝鲁特\nD: 温哥华\nE: 都柏林\nF: 加拉加斯\nG: 拉合尔\nH: 马尼拉\nI: 华沙\nJ: 斯巴达", "label": "H"}
+{"idx": 5061, "sentence": "蒙得维的亚和_是姐妹城市。\nA: 多伦多\nB: 维尔纽斯\nC: 波士顿\nD: 里斯本\nE: 维也纳\nF: 萨格勒布\nG: 梅斯\nH: 地拉那\nI: 巴格达\nJ: 马德里", "label": "J"}
+{"idx": 346, "sentence": "法属南部和南极领地的官方语言是_。\nA: 法语\nB: 巴斯克语\nC: 德语\nD: 亚美尼亚语\nE: 丹麦语\nF: 罗马尼亚语\nG: 乌克兰语\nH: 斯洛伐克语\nI: 埃及语\nJ: 中文", "label": "A"}
+{"idx": 4792, "sentence": "巴塞罗那和_是姐妹城市。\nA: 汤加\nB: 罗萨里奥\nC: 夏威夷\nD: 迪拜酋长国\nE: 戈尔韦\nF: 哈瓦那\nG: 大马士革\nH: 瓜达拉哈拉\nI: 尼斯\nJ: 达拉斯", "label": "F"}
+{"idx": 1840, "sentence": "奥古斯丁-让·菲涅耳的职业是_。\nA: 政治家\nB: 摄影师\nC: 作曲家\nD: 剧作家\nE: 词曲作者\nF: 钢琴家\nG: 图书管理员\nH: 外交官\nI: 物理学家\nJ: 哲学家", "label": "I"}
+{"idx": 5914, "sentence": "毒理学是_的一部分。\nA: 大脑\nB: 西西里\nC: 性别\nD: 清真寺\nE: 血液\nF: 化学\nG: 圣经\nH: 亚洲\nI: 犹太教\nJ: 马鞍", "label": "F"}
+{"idx": 79, "sentence": "克莱门特三世死于_。\nA: 伦敦\nB: 华沙\nC: 罗马\nD: 巴格达\nE: 大马士革\nF: 麦地那\nG: 威尼斯\nH: 斯德哥尔摩\nI: 贝尔格莱德\nJ: 萨里", "label": "C"}
+{"idx": 3632, "sentence": "奥沙瓦位于_。\nA: 希腊\nB: 德国\nC: 土耳其\nD: 日本\nE: 也门\nF: 瑞士\nG: 阿富汗\nH: 俄罗斯\nI: 加拿大\nJ: 荷兰", "label": "I"}
+{"idx": 1433, "sentence": "玻利维亚与_接壤。\nA: 多塞特\nB: 非洲\nC: 明尼苏达\nD: 亚利桑那\nE: 伯利兹\nF: 蒙大拿\nG: 萨福克\nH: 塔吉克斯坦\nI: 斯洛伐克\nJ: 秘鲁", "label": "J"}
+{"idx": 5813, "sentence": "汉堡王成立于_。\nA: 阿姆斯特丹\nB: 巴黎\nC: 芝加哥\nD: 利默里克\nE: 卢布林\nF: 北京\nG: 亚特兰大\nH: 迈阿密\nI: 温哥华\nJ: 法兰克福", "label": "H"}
+{"idx": 3346, "sentence": "威斯巴登是_的首都。\nA: 勃艮第\nB: 马来西亚\nC: 白俄罗斯\nD: 宾夕法尼亚\nE: 卡纳塔克邦\nF: 皮埃蒙特\nG: 阿塞拜疆\nH: 维多利亚\nI: 黑森\nJ: 老挝", "label": "I"}
+{"idx": 1315, "sentence": "乌兹别克斯坦与_接壤。\nA: 萨尔茨堡\nB: 秘鲁\nC: 爱达荷州\nD: 多特蒙德\nE: 赫尔辛基\nF: 明斯克\nG: 古吉拉特\nH: 也门\nI: 剑桥郡\nJ: 吉尔吉斯斯坦", "label": "J"}
+{"idx": 5973, "sentence": "发票是_的一部分。\nA: 黑森州\nB: 非洲\nC: 会计\nD: 法律\nE: 电池\nF: 军队\nG: 马萨诸塞州\nH: 印度教\nI: 机场\nJ: 眼睛", "label": "C"}
+{"idx": 5374, "sentence": "名侦探柯南是一个_。\nA: 机场\nB: 偏见\nC: 扩散\nD: 群岛\nE: 动漫\nF: 逻辑\nG: 灯塔\nH: 市政\nI: 海\nJ: 科学", "label": "E"}
+{"idx": 5281, "sentence": "卡拉奇和_是姐妹城市。\nA: 亚历山大\nB: 奥格斯堡\nC: 科伦坡\nD: 佛罗伦萨\nE: 萨拉热窝\nF: 地拉那\nG: 名古屋\nH: 奥克兰\nI: 巴库\nJ: 达卡", "label": "J"}
+{"idx": 3516, "sentence": "托马斯·皮凯蒂过去用_交流。\nA: 英语\nB: 荷兰语\nC: 挪威语\nD: 俄语\nE: 拉丁语\nF: 法语\nG: 瑞典语\nH: 波斯语\nI: 阿塞拜疆语\nJ: 罗马尼亚语", "label": "F"}
+{"idx": 747, "sentence": "敖德萨州的官方语言是_。\nA: 波兰语\nB: 西西里语\nC: 布列塔尼语\nD: 保加利亚语\nE: 乌克兰语\nF: 爱尔兰语\nG: 黑山语\nH: 加泰罗尼亚语\nI: 芬兰语\nJ: 德语", "label": "E"}
+{"idx": 1038, "sentence": "田纳西州与_接壤。\nA: 密苏里州\nB: 约旦\nC: 也门\nD: 剑桥郡\nE: 俄亥俄州\nF: 乍得\nG: 乌克兰\nH: 伯利兹\nI: 德国\nJ: 哥伦比亚", "label": "A"}
+{"idx": 3008, "sentence": "干城章嘉位于_。\nA: 美洲\nB: 欧洲\nC: 南极洲\nD: 大洋洲\nE: 非洲\nF: 亚洲", "label": "F"}
+{"idx": 2268, "sentence": "毛里求斯与_保持外交关系。\nA: 澳大利亚\nB: 塞浦路斯\nC: 乌干达\nD: 圭亚那\nE: 智利\nF: 也门\nG: 黎巴嫩\nH: 匈牙利\nI: 肯尼亚\nJ: 坦桑尼亚", "label": "A"}
+{"idx": 2409, "sentence": "澳大利亚与_保持外交关系。\nA: 乍得\nB: 莫桑比克\nC: 印度尼西亚\nD: 摩纳哥\nE: 利比亚\nF: 巴哈马\nG: 爱尔兰\nH: 希腊\nI: 塞浦路斯\nJ: 亚美尼亚", "label": "H"}
+{"idx": 167, "sentence": "社会哲学是_的一个子类。\nA: 航天器\nB: 创造力\nC: 哲学\nD: 行星\nE: 选举权\nF: 物理学\nG: 恶魔\nH: 桥梁\nI: 地质学家\nJ: 界面", "label": "C"}
+{"idx": 263, "sentence": "敖德萨州的官方语言是_。\nA: 希腊语\nB: 罗马尼亚语\nC: 荷兰语\nD: 孟加拉语\nE: 高棉语\nF: 俄语\nG: 马耳他语\nH: 威尔士语\nI: 马其顿语\nJ: 阿尔巴尼亚语", "label": "F"}
+{"idx": 3085, "sentence": "几内亚比绍位于_。\nA: 南极洲\nB: 非洲\nC: 大洋洲\nD: 美洲\nE: 亚洲\nF: 欧洲", "label": "B"}
+{"idx": 1695, "sentence": "克劳德·伯纳德工作的领域是_。\nA: 生理学\nB: 几何学\nC: 种族隔离\nD: 生物学\nE: 化学\nF: 历史\nG: 经济学家\nH: 经济学\nI: 医学\nJ: 拓扑学", "label": "A"}
+{"idx": 4144, "sentence": "布拉德·德尔森演奏_。\nA: 钢琴\nB: 小提琴\nC: 口琴\nD: 中提琴\nE: 吉他\nF: 单簧管", "label": "E"}
+{"idx": 5449, "sentence": "谢菲尔德星期三足球俱乐部的总部在_。\nA: 喀布尔\nB: 谢菲尔德\nC: 斯德哥尔摩\nD: 底特律\nE: 伦敦\nF: 基辅\nG: 佛罗伦萨\nH: 剑桥\nI: 普罗维登斯\nJ: 科隆", "label": "B"}
+{"idx": 1782, "sentence": "爱德华·泰勒从事_领域的工作。\nA: 逻辑学\nB: 爵士乐\nC: 天文学家\nD: 遗传学\nE: 解剖学\nF: 物理学\nG: 经济学\nH: 佛教\nI: 社会学\nJ: 数学", "label": "F"}
+{"idx": 1557, "sentence": "汉堡机场以_命名。\nA: 敖德萨\nB: 都灵\nC: 大卫\nD: 里斯本\nE: 普罗旺斯\nF: 汉堡\nG: 亚伯拉罕\nH: 慕尼黑\nI: 开罗\nJ: 卢瓦尔", "label": "F"}
+{"idx": 1321, "sentence": "内布拉斯加州与_接壤。\nA: 密苏里州\nB: 挪威\nC: 叙利亚\nD: 埃及\nE: 伊利诺伊州\nF: 乌克兰\nG: 索马里\nH: 剑桥郡\nI: 德比郡\nJ: 维多利亚州", "label": "A"}
+{"idx": 5774, "sentence": "西德的首都是_。\nA: 布里斯托尔\nB: 巴勒莫\nC: 加尔各答\nD: 哈里斯堡\nE: 西雅图\nF: 波恩\nG: 喀山\nH: 塞维利亚\nI: 布加勒斯特\nJ: 内罗毕", "label": "F"}
+{"idx": 3942, "sentence": "列奥纳多·达·芬奇曾在_工作。\nA: 多伦多\nB: 哥本哈根\nC: 赫尔辛基\nD: 慕尼黑\nE: 布达佩斯\nF: 巴塞罗那\nG: 克利夫兰\nH: 罗马\nI: 巴塞尔\nJ: 剑桥", "label": "H"}
+{"idx": 3752, "sentence": "凯撒利亚的巴西尔的职位是_。\nA: 市长\nB: 州长\nC: 教皇\nD: 牧师\nE: 红衣主教\nF: 沙阿\nG: 主教\nH: 大主教\nI: 经济学家\nJ: 上帝", "label": "G"}
+{"idx": 4211, "sentence": "LinkedIn 由 _ 拥有。\nA: 卡塔尔\nB: 巴黎\nC: 阿姆斯特丹\nD: 索尼\nE: 芝加哥\nF: 那不勒斯\nG: 丰田\nH: 奥迪\nI: 微软\nJ: 巴勒莫", "label": "I"}
+{"idx": 4578, "sentence": "大马士革和_是姐妹城市。\nA: 亚特兰大\nB: 斯巴达\nC: 布加勒斯特\nD: 安卡拉\nE: 蒙特利尔\nF: 瓦伦西亚\nG: 关岛\nH: 美因河畔法兰克福\nI: 剑桥\nJ: 新加坡", "label": "D"}
+{"idx": 535, "sentence": "圭亚那的官方语言是_。\nA: 旁遮普语\nB: 泰米尔语\nC: 孟加拉语\nD: 匈牙利语\nE: 拉丁语\nF: 白俄罗斯语\nG: 斯洛伐克语\nH: 英语\nI: 希伯来语\nJ: 马拉雅拉姆语", "label": "H"}
+{"idx": 2644, "sentence": "澳大利亚与_保持外交关系。\nA: 埃塞俄比亚\nB: 厄瓜多尔\nC: 毛里求斯\nD: 哈萨克斯坦\nE: 亚美尼亚\nF: 俄罗斯\nG: 葡萄牙\nH: 阿塞拜疆\nI: 墨西哥\nJ: 科索沃", "label": "G"}
+{"idx": 5384, "sentence": "渗透是一个_。\nA: 扩散\nB: 共和国\nC: 村庄\nD: 电影\nE: 科学\nF: 分支\nG: 谷物\nH: 灯塔\nI: 字母表\nJ: 药物", "label": "A"}
+{"idx": 2124, "sentence": "巴拉圭与_保持外交关系。\nA: 罗马尼亚\nB: 尼加拉瓜\nC: 叙利亚\nD: 希腊\nE: 越南\nF: 德国\nG: 斯洛文尼亚\nH: 菲律宾\nI: 土耳其\nJ: 加纳", "label": "F"}
+{"idx": 4305, "sentence": "阿方斯·都德的母语是_。\nA: 拉丁语\nB: 瑞典语\nC: 荷兰语\nD: 俄语\nE: 法语\nF: 塞尔维亚语\nG: 丹麦语\nH: 希伯来语\nI: 西班牙语\nJ: 波兰语", "label": "E"}
+{"idx": 1302, "sentence": "保加利亚王国与_接壤。\nA: 德文郡\nB: 葡萄牙\nC: 厄瓜多尔\nD: 土耳其\nE: 阿尔伯塔\nF: 韦拉克鲁斯\nG: 布鲁克林\nH: 伊利诺伊\nI: 英格兰\nJ: 加蓬", "label": "D"}
+{"idx": 783, "sentence": "诺福克岛的官方语言是_。\nA: 波斯语\nB: 埃及语\nC: 立陶宛语\nD: 英语\nE: 丹麦语\nF: 拉脱维亚语\nG: 西班牙语\nH: 孟加拉语\nI: 乌克兰语\nJ: 匈牙利语", "label": "D"}
+{"idx": 3133, "sentence": "Xbox One 是由_开发的。\nA: 空中客车基本\nB: 波音\nC: 英特尔\nD: 微软\nE: 诺基亚\nF: IBM\nG: 苹果公司\nH: Adobe\nI: 任天堂\nJ: 谷歌", "label": "D"}
+{"idx": 4631, "sentence": "维也纳和_是姐妹城市。\nA: 科伦坡\nB: 费城\nC: 悉尼\nD: 蒙得维的亚\nE: 伊斯坦布尔\nF: 巴哈马\nG: 休斯顿\nH: 维也纳\nI: 耶路撒冷\nJ: 马赛", "label": "E"}
+{"idx": 3488, "sentence": "贝内德托·克罗齐过去常用_交流。\nA: 波斯语\nB: 俄语\nC: 韩语\nD: 匈牙利语\nE: 埃及语\nF: 挪威语\nG: 拉丁语\nH: 西班牙语\nI: 瑞典语\nJ: 意大利语", "label": "J"}
+{"idx": 5336, "sentence": "日本天皇是_的法律术语。\nA: 摩纳哥\nB: 罗马尼亚\nC: 瑞典\nD: 立陶宛\nE: 土耳其\nF: 巴基斯坦\nG: 日本\nH: 爱尔兰\nI: 克罗地亚\nJ: 菲律宾", "label": "G"}
+{"idx": 472, "sentence": "阿根廷的官方语言是_。\nA: 泰卢固语\nB: 诺曼语\nC: 夏威夷语\nD: 塞尔维亚语\nE: 西班牙语\nF: 中文\nG: 葡萄牙语\nH: 埃及语\nI: 乌克兰语\nJ: 格鲁吉亚语", "label": "E"}
+{"idx": 4641, "sentence": "阿姆斯特丹和_是姐妹城市。\nA: 明尼阿波利斯\nB: 墨尔本\nC: 博洛尼亚\nD: 柏林\nE: 卡尔加里\nF: 北京\nG: 威尼斯\nH: 纽卡斯尔\nI: 第比利斯\nJ: 科隆", "label": "F"}
+{"idx": 4350, "sentence": "曼谷和_是姐妹城市。\nA: 瓜达拉哈拉\nB: 利马\nC: 科伦坡\nD: 洛桑\nE: 克利夫兰\nF: 休斯顿\nG: 横滨\nH: 萨尔茨堡\nI: 的黎波里\nJ: 邓迪", "label": "D"}
+{"idx": 3154, "sentence": "Adobe Photoshop 是由 _ 开发的。\nA: 苹果公司\nB: Adobe\nC: 英特尔\nD: 谷歌\nE: IBM\nF: 诺基亚\nG: 微软\nH: 空中客车基础\nI: 任天堂\nJ: 波音", "label": "B"}
+{"idx": 469, "sentence": "西西里王国的官方语言是_。\nA: 印地语\nB: 西西里语\nC: 越南语\nD: 克罗地亚语\nE: 波兰语\nF: 马其顿语\nG: 斯洛伐克语\nH: 马来语\nI: 法语\nJ: 匈牙利语", "label": "B"}
+{"idx": 1163, "sentence": "利比亚与_接壤。\nA: 萨尔茨堡\nB: 乍得\nC: 德比郡\nD: 喀麦隆\nE: 白金汉郡\nF: 伯利兹\nG: 比利时\nH: 爱达荷州\nI: 沙巴\nJ: 纳米比亚", "label": "B"}
+{"idx": 4040, "sentence": "查理曼与_宗教有关。\nA: 佛教\nB: 科学\nC: 伊斯兰教\nD: 基督教\nE: 天主教\nF: 穆斯林\nG: 印度教\nH: 犹太教", "label": "D"}
+{"idx": 5790, "sentence": "智利的首都是_。\nA: 圣地亚哥\nB: 喀布尔\nC: 广州\nD: 亚历山大\nE: 丹佛\nF: 加尔各答\nG: 图尔\nH: 达尔文\nI: 纳什维尔\nJ: 莫斯科", "label": "A"}
+{"idx": 5750, "sentence": "法国大革命的首都是_。\nA: 巴黎\nB: 阿德莱德\nC: 雅典\nD: 多伦多\nE: 内罗毕\nF: 布拉迪斯拉发\nG: 基督城\nH: 广州\nI: 里尔\nJ: 波士顿", "label": "A"}
+{"idx": 2399, "sentence": "巴西与_保持外交关系。\nA: 突尼斯\nB: 匈牙利\nC: 西班牙\nD: 孟加拉国\nE: 法国\nF: 马耳他\nG: 古巴\nH: 乌兹别克斯坦\nI: 阿根廷\nJ: 挪威", "label": "G"}
+{"idx": 4629, "sentence": "萨格勒布和_是姐妹城市。\nA: 西雅图\nB: 洛桑\nC: 巴塞罗那\nD: 惠灵顿\nE: 巴哈马\nF: 华沙\nG: 布莱顿\nH: 伯明翰\nI: 维罗纳\nJ: 基辅", "label": "F"}
+{"idx": 5381, "sentence": "维萨亚斯是一个_。\nA: 群岛\nB: 字母\nC: 漫画\nD: 动画\nE: 偏见\nF: 村庄\nG: 科学\nH: 机场\nI: 谱系\nJ: 药物", "label": "A"}
+{"idx": 534, "sentence": "清朝的官方语言是_。\nA: 泰卢固语\nB: 蒙古语\nC: 英语\nD: 韩语\nE: 拉丁语\nF: 西西里语\nG: 马拉地语\nH: 俄语\nI: 阿尔巴尼亚语\nJ: 立陶宛语", "label": "B"}
+{"idx": 1027, "sentence": "蒙大拿州与_接壤。\nA: 路易斯安那州\nB: 加纳\nC: 爱达荷州\nD: 旁遮普邦\nE: 尼加拉瓜\nF: 阿萨姆邦\nG: 帕萨迪纳\nH: 伍斯特郡\nI: 加蓬\nJ: 四川省", "label": "C"}
+{"idx": 2862, "sentence": "《埃涅阿斯纪》是用_写的。\nA: 匈牙利语\nB: 拉丁语\nC: 英语\nD: 意大利语\nE: 越南语\nF: 波兰语\nG: 俄语\nH: 加泰罗尼亚语\nI: 捷克语\nJ: 孟加拉语", "label": "B"}
+{"idx": 23, "sentence": "沙特阿拉伯与_保持外交关系。\nA: 塔吉克斯坦\nB: 尼日利亚\nC: 约旦\nD: 叙利亚\nE: 巴哈马\nF: 日本\nG: 菲律宾\nH: 越南\nI: 阿塞拜疆\nJ: 索马里", "label": "G"}
+{"idx": 5471, "sentence": "谢菲尔德联足球俱乐部的总部在_。\nA: 德黑兰\nB: 莫斯科\nC: 南锡\nD: 芝加哥\nE: 斯德哥尔摩\nF: 罗马\nG: 底特律\nH: 谢菲尔德\nI: 慕尼黑\nJ: 斯坦福", "label": "H"}
+{"idx": 4523, "sentence": "威尼斯和_是姐妹城市。\nA: 加尔各答\nB: 布加勒斯特\nC: 里尔\nD: 尼斯\nE: 戈尔韦\nF: 的黎波里\nG: 奥克兰\nH: 基辅\nI: 克利夫兰\nJ: 伯利恒", "label": "D"}
+{"idx": 2794, "sentence": "宝马X3是由_生产的。\nA: 微软\nB: 上帝\nC: 宝马\nD: 苹果公司\nE: 英特尔\nF: 丰田\nG: 法拉利\nH: 任天堂\nI: 本田\nJ: 空中客车基础", "label": "C"}
+{"idx": 4581, "sentence": "多伦多和_是姐妹城市。\nA: 基督城\nB: 布雷斯特\nC: 亚特兰大\nD: 弗拉基米尔\nE: 慕尼黑\nF: 斯特拉斯堡\nG: 利物浦\nH: 伊斯坦布尔\nI: 澳门\nJ: 汉诺威", "label": "H"}
+{"idx": 6042, "sentence": "矿物学是_的一部分。\nA: 炮兵\nB: 机场\nC: 北约\nD: 分子\nE: 地质学\nF: 经济学\nG: 神经\nH: 软件\nI: 佛教\nJ: 银河", "label": "E"}
+{"idx": 1520, "sentence": "奥利机场是以_命名的。\nA: 明治\nB: 贝尔格莱德\nC: 布莱克本\nD: Unix\nE: 巴黎\nF: 卢瓦尔河\nG: 维纳斯\nH: 巴伐利亚\nI: 柏拉图\nJ: 珀斯", "label": "E"}
+{"idx": 5048, "sentence": "汉诺威和_是姐妹城市。\nA: 约翰内斯堡\nB: 托莱多\nC: 布里斯托尔\nD: 汉堡\nE: 索尔兹伯里\nF: 瓦伦西亚\nG: 博尔德\nH: 基辅\nI: 图卢兹\nJ: 波尔多", "label": "C"}
+{"idx": 2600, "sentence": "中非共和国与_保持外交关系。\nA: 圭亚那\nB: 赞比亚\nC: 也门\nD: 比利时\nE: 西班牙\nF: 奥地利\nG: 肯尼亚\nH: 尼泊尔\nI: 文莱\nJ: 卡塔尔", "label": "D"}
+{"idx": 2406, "sentence": "澳大利亚与_保持外交关系。\nA: 马拉维\nB: 喀麦隆\nC: 瑞典\nD: 格鲁吉亚\nE: 老挝\nF: 乌克兰\nG: 津巴布韦\nH: 玻利维亚\nI: 保加利亚\nJ: 葡萄牙", "label": "C"}
+{"idx": 3240, "sentence": "斯德哥尔摩是_的首都。\nA: 埃及\nB: 哈萨克斯坦\nC: 津巴布韦\nD: 瑞典\nE: 乌克兰\nF: 玻利维亚\nG: 夏威夷\nH: 托斯卡纳\nI: 萨尔茨堡\nJ: 秘鲁", "label": "D"}
+{"idx": 2168, "sentence": "韩国与_保持外交关系。\nA: 肯尼亚\nB: 印度\nC: 阿曼\nD: 尼日利亚\nE: 纳米比亚\nF: 坦桑尼亚\nG: 厄瓜多尔\nH: 德国\nI: 巴拿马\nJ: 爱沙尼亚", "label": "H"}
+{"idx": 5637, "sentence": "格洛斯特郡的首府是_。\nA: 格洛斯特\nB: 贝鲁特\nC: 佐贺\nD: 维多利亚\nE: 塞维利亚\nF: 东京\nG: 开罗\nH: 里加\nI: 巴勒莫\nJ: 慕尼黑", "label": "A"}
+{"idx": 3026, "sentence": "阿拔斯王朝位于_。\nA: 南极洲\nB: 欧洲\nC: 亚洲\nD: 大洋洲\nE: 美洲\nF: 非洲", "label": "F"}
+{"idx": 4934, "sentence": "圣彼得堡和_是姐妹城市。\nA: 曼谷\nB: 不来梅\nC: 萨拉热窝\nD: 布加勒斯特\nE: 魁北克\nF: 德里\nG: 里斯本\nH: 莫斯科\nI: 爱丁堡\nJ: 戈尔韦", "label": "I"}
+{"idx": 3504, "sentence": "穆罕默德·阿里过去用_交流。\nA: 匈牙利语\nB: 英语\nC: 德语\nD: 西班牙语\nE: 埃及语\nF: 中文\nG: 拉丁语\nH: 法语\nI: 印尼语\nJ: 韩语", "label": "B"}
+{"idx": 3477, "sentence": "Willem Einthoven 曾经用 _ 交流。\nA: 荷兰语\nB: 英语\nC: 意大利语\nD: 波兰语\nE: 匈牙利语\nF: 波斯语\nG: 印尼语\nH: 韩语\nI: 俄语\nJ: 德语", "label": "A"}
+{"idx": 3639, "sentence": "Colombes 位于 _。\nA: 叙利亚\nB: 希腊\nC: 西班牙\nD: 波兰\nE: 德国\nF: 俄罗斯\nG: 埃及\nH: 日本\nI: 法国\nJ: 土耳其", "label": "I"}
+{"idx": 1545, "sentence": "约克夏梗是以_命名的。\nA: 芝加哥\nB: 迪拜酋长国\nC: 汉堡\nD: 约克郡\nE: 金星\nF: 波兰\nG: 开罗\nH: 直布罗陀\nI: 阿姆斯特丹\nJ: 谢菲尔德", "label": "D"}
+{"idx": 4943, "sentence": "布拉格和_是姐妹城市。\nA: 安卡拉\nB: 里加\nC: 科伦坡\nD: 奥尔巴尼\nE: 北京\nF: 基尔\nG: 里昂\nH: 美因茨\nI: 卡尔加里\nJ: 伊斯坦布尔", "label": "J"}
+{"idx": 4575, "sentence": "罗萨里奥和_是姐妹城市。\nA: 博尔德\nB: 蒙得维的亚\nC: 耶路撒冷\nD: 安卡拉\nE: 惠灵顿\nF: 温哥华\nG: 曼谷\nH: 魁北克\nI: 加拉加斯\nJ: 都柏林", "label": "B"}
+{"idx": 1032, "sentence": "马来西亚与_接壤。\nA: 马尼拉\nB: 新加坡\nC: 卡纳塔克邦\nD: 斯洛伐克\nE: 乌兹别克斯坦\nF: 柴郡\nG: 比利时\nH: 伊利诺伊州\nI: 泰国\nJ: 英格兰", "label": "I"}
+{"idx": 5265, "sentence": "旧金山和_是姐妹城市。\nA: 马德里\nB: 阿伯丁\nC: 奥尔巴尼\nD: 那不勒斯\nE: 德累斯顿\nF: 博尔德\nG: 麦地那\nH: 芝加哥\nI: 卡拉奇\nJ: 费城", "label": "D"}
+{"idx": 4025, "sentence": "摩西·本·迈蒙与_宗教有关。\nA: 穆斯林\nB: 基督教\nC: 犹太教\nD: 科学\nE: 印度教\nF: 伊斯兰教\nG: 佛教\nH: 天主教", "label": "C"}
+{"idx": 626, "sentence": "卢森堡的官方语言是_。\nA: 孟加拉语\nB: 诺曼语\nC: 马耳他语\nD: 索马里语\nE: 法语\nF: 希伯来语\nG: 罗马尼亚语\nH: 葡萄牙语\nI: 埃及语\nJ: 加泰罗尼亚语", "label": "E"}
+{"idx": 706, "sentence": "苏丹的官方语言是_。\nA: 英语\nB: 日语\nC: 孟加拉语\nD: 马其顿语\nE: 尼泊尔语\nF: 白俄罗斯语\nG: 泰卢固语\nH: 马拉雅拉姆语\nI: 马来语\nJ: 克罗地亚语", "label": "A"}
+{"idx": 3866, "sentence": "威尼斯电影节位于_。\nA: 多伦多\nB: 乌克兰\nC: 古巴\nD: 芬兰\nE: 伊朗\nF: 洛桑\nG: 莫斯科\nH: 柏林\nI: 威尼斯\nJ: 英格兰王国", "label": "I"}
+{"idx": 37, "sentence": "上海和_是姐妹城市。\nA: 哥本哈根\nB: 萨拉热窝\nC: 那不勒斯\nD: 巴格达\nE: 伯利恒\nF: 西雅图\nG: 多伦多\nH: 弗拉基米尔\nI: 班加罗尔\nJ: 迪拜酋长国", "label": "J"}
+{"idx": 1039, "sentence": "埃及与_接壤。\nA: 菲律宾\nB: 蒙古\nC: 瑞士\nD: 孟加拉国\nE: 老挝\nF: 苏丹\nG: 越南\nH: 堪萨斯州\nI: 比利时\nJ: 密苏里州", "label": "F"}
+{"idx": 4653, "sentence": "Kotka 和 _ 是双子城市。\nA: 丹佛\nB: 迈阿密\nC: 慕尼黑\nD: 安卡拉\nE: 波尔图\nF: 拉合尔\nG: 奥斯陆\nH: 斯特拉斯堡\nI: 那不勒斯\nJ: 塔林", "label": "J"}
+{"idx": 4664, "sentence": "科威特城和_是姐妹城市。\nA: 里昂\nB: 萨格勒布\nC: 基尔\nD: 奥克兰\nE: 华沙\nF: 赫尔辛基\nG: 戛纳\nH: 圣地亚哥\nI: 曼彻斯特\nJ: 巴哈马", "label": "G"}
+{"idx": 1129, "sentence": "芬兰与_接壤。\nA: 伊拉克\nB: 立陶宛\nC: 俄罗斯\nD: 温莎\nE: 多特蒙德\nF: 意大利\nG: 越南\nH: 佛罗里达\nI: 坦桑尼亚\nJ: 马里兰", "label": "C"}
+{"idx": 4601, "sentence": "赫尔辛基和_是姐妹城市。\nA: 蒙特利尔\nB: 明尼阿波利斯\nC: 奥尔巴尼\nD: 不来梅\nE: 巴勒莫\nF: 安卡拉\nG: 谢菲尔德\nH: 索菲亚\nI: 塔林\nJ: 鹿特丹", "label": "H"}
+{"idx": 2543, "sentence": "巴西与_保持外交关系。\nA: 阿塞拜疆\nB: 埃及\nC: 克罗地亚\nD: 加蓬\nE: 丹麦\nF: 斐济\nG: 卡塔尔\nH: 也门\nI: 塞内加尔\nJ: 索马里", "label": "B"}
+{"idx": 3403, "sentence": "希望位于_。\nA: 蒙古\nB: 萨克森\nC: 西班牙\nD: 约旦\nE: 巴伐利亚\nF: 意大利\nG: 西雅图\nH: 乌克兰\nI: 阿肯色州\nJ: 塞尔维亚", "label": "I"}
+{"idx": 2569, "sentence": "澳大利亚与_保持外交关系。\nA: 苏丹\nB: 马耳他\nC: 土耳其\nD: 坦桑尼亚\nE: 萨摩亚\nF: 乌兹别克斯坦\nG: 马里\nH: 塞内加尔\nI: 阿富汗\nJ: 乍得", "label": "I"}
+{"idx": 4962, "sentence": "布里斯托尔和_是姐妹城市。\nA: 托莱多\nB: 芝加哥\nC: 巴库\nD: 布达佩斯\nE: 里昂\nF: 柏林\nG: 图卢兹\nH: 赫尔辛基\nI: 耶路撒冷\nJ: 达拉斯", "label": "G"}
+{"idx": 1807, "sentence": "阿那克萨哥拉斯的工作领域是_。\nA: 天文学家\nB: 哲学\nC: 逻辑学\nD: 天文学\nE: 解剖学\nF: 种族隔离\nG: 历史\nH: 拓扑学\nI: 社会学\nJ: 遗传学", "label": "D"}
+{"idx": 1872, "sentence": "詹姆斯·费尼莫尔·库珀的职业是_。\nA: 演员\nB: 诗人\nC: 模特\nD: 数学家\nE: 词曲作者\nF: 编剧\nG: 小说家\nH: 作曲家\nI: 图书管理员\nJ: 物理学家", "label": "G"}
+{"idx": 5059, "sentence": "关岛和_是姐妹城市。\nA: 的黎波里\nB: 喀山\nC: 广州\nD: 巴里\nE: 新加坡\nF: 台北\nG: 塞维利亚\nH: 东京\nI: 上海\nJ: 迈阿密", "label": "F"}
+{"idx": 4793, "sentence": "伯明翰和_是姐妹城市。\nA: 萨格勒布\nB: 广岛\nC: 华沙\nD: 安卡拉\nE: 美因河畔法兰克福\nF: 鹿特丹\nG: 都灵\nH: 亚历山大\nI: 卡尔加里\nJ: 基督城", "label": "E"}
+{"idx": 308, "sentence": "印度的官方语言是_。\nA: 塞尔维亚语\nB: 乌尔都语\nC: 马拉地语\nD: 日语\nE: 爱沙尼亚语\nF: 罗马尼亚语\nG: 泰卢固语\nH: 英语\nI: 乌克兰语\nJ: 法语", "label": "H"}
+{"idx": 4487, "sentence": "卡萨布兰卡和_是姐妹城市。\nA: 达卡\nB: 鹿特丹\nC: 费城\nD: 博洛尼亚\nE: 都柏林\nF: 利兹\nG: 爱丁堡\nH: 上海\nI: 瓦伦西亚\nJ: 索菲亚", "label": "H"}
+{"idx": 4712, "sentence": "马尼拉和_是姐妹城市。\nA: 阿德莱德\nB: 法兰克福\nC: 拉各斯\nD: 澳门\nE: 贝鲁特\nF: 蒙特利尔\nG: 邓迪\nH: 北京\nI: 德黑兰\nJ: 布拉迪斯拉发", "label": "I"}
+{"idx": 4979, "sentence": "德黑兰和_是姐妹城市。\nA: 罗马\nB: 马德里\nC: 加拉加斯\nD: 考文垂\nE: 托莱多\nF: 克利夫兰\nG: 图卢兹\nH: 加的夫\nI: 拉合尔\nJ: 斯德哥尔摩", "label": "C"}
+{"idx": 2704, "sentence": "冰岛与_保持外交关系。\nA: 奥地利\nB: 海地\nC: 阿尔巴尼亚\nD: 秘鲁\nE: 委内瑞拉\nF: 瑞士\nG: 印度尼西亚\nH: 德国\nI: 卡塔尔\nJ: 尼泊尔", "label": "H"}
+{"idx": 5953, "sentence": "道德是_的一部分。\nA: 炮兵\nB: 眼睛\nC: 国防军\nD: 议会\nE: 斯堪的纳维亚\nF: 航天器\nG: 血液\nH: 英格兰\nI: 伊斯兰教\nJ: 伦理", "label": "J"}
+{"idx": 1199, "sentence": "阿拉巴马州与_接壤。\nA: 德克萨斯州\nB: 俄克拉荷马州\nC: 黎巴嫩\nD: 密西西比州\nE: 尼日尔\nF: 奥地利\nG: 斯洛伐克\nH: 阿肯色州\nI: 乍得\nJ: 旁遮普", "label": "D"}
+{"idx": 2886, "sentence": "波兰维基百科是用_写的。\nA: 加泰罗尼亚语\nB: 芬兰语\nC: 意大利语\nD: 爱沙尼亚语\nE: 荷兰语\nF: 丹麦语\nG: 波兰语\nH: 法语\nI: 捷克语\nJ: 西班牙语", "label": "G"}
+{"idx": 1694, "sentence": "海因里希·施里曼的工作领域是_。\nA: 天文学\nB: 逻辑学\nC: 剧作家\nD: 音乐家\nE: 物理学\nF: 爵士乐\nG: 经济学\nH: 生物学\nI: 歌剧\nJ: 考古学", "label": "J"}
+{"idx": 4094, "sentence": "玄奘与_宗教有关。\nA: 伊斯兰教\nB: 犹太教\nC: 天主教\nD: 印度教\nE: 穆斯林\nF: 基督教\nG: 科学\nH: 佛教", "label": "H"}
+{"idx": 5294, "sentence": "布拉迪斯拉发和_是姐妹城市。\nA: 都柏林\nB: 卢布尔雅那\nC: 哥本哈根\nD: 悉尼\nE: 利马\nF: 瓜达拉哈拉\nG: 斯巴达\nH: 威尼斯\nI: 德里\nJ: 喀山", "label": "A"}
+{"idx": 3608, "sentence": "2004年印度洋地震位于_。\nA: 阿塞拜疆\nB: 叙利亚\nC: 波兰\nD: 巴西\nE: 海地\nF: 西班牙\nG: 阿根廷\nH: 希腊\nI: 印度尼西亚\nJ: 瑞士", "label": "I"}
+{"idx": 2776, "sentence": "空客A330由_生产。\nA: 苹果公司\nB: 微软\nC: 任天堂\nD: 空客基础\nE: 丰田\nF: 法拉利\nG: 英特尔\nH: 波音\nI: 宝马\nJ: 本田", "label": "D"}
+{"idx": 5123, "sentence": "圣彼得堡和_是姐妹城市。\nA: 德累斯顿\nB: 卡萨布兰卡\nC: 布莱顿\nD: 邓迪\nE: 斯德哥尔摩\nF: 西雅图\nG: 拉合尔\nH: 剑桥\nI: 京都\nJ: 马德里", "label": "A"}
+{"idx": 5653, "sentence": "下萨克森州的首都是 _。\nA: 沃特福德\nB: 大马士革\nC: 普雷斯顿\nD: 广岛\nE: 基辅\nF: 金斯顿\nG: 特伦顿\nH: 汉诺威\nI: 安卡拉\nJ: 巴库", "label": "H"}
+{"idx": 4006, "sentence": "海因里希·施里曼曾在_工作。\nA: 慕尼黑\nB: 布拉格\nC: 波恩\nD: 鹿特丹\nE: 莫斯科\nF: 柏林\nG: 渥太华\nH: 汉堡\nI: 雅典\nJ: 底特律", "label": "I"}
+{"idx": 4888, "sentence": "札幌和_是姐妹城市。\nA: 邓迪\nB: 贝鲁特\nC: 明斯克\nD: 斯巴达\nE: 开罗\nF: 费城\nG: 地拉那\nH: 慕尼黑\nI: 锡耶纳\nJ: 哥本哈根", "label": "H"}
+{"idx": 84, "sentence": "利奥十世死于_。\nA: 台北\nB: 威尼斯\nC: 萨里\nD: 罗马\nE: 巴黎\nF: 迦太基\nG: 贝尔格莱德\nH: 耶路撒冷\nI: 麦迪逊\nJ: 开罗", "label": "D"}
+{"idx": 5405, "sentence": "《等待戈多》创作于_。\nA: 澳大利亚\nB: 法国\nC: 土耳其\nD: 苏格兰\nE: 日本\nF: 德国\nG: 牙买加\nH: 爱尔兰\nI: 意大利\nJ: 比利时", "label": "B"}
+{"idx": 5725, "sentence": "米兰省的首都是_。\nA: 埃里温\nB: 维也纳\nC: 米兰\nD: 俾斯麦\nE: 伯尔尼\nF: 河滨\nG: 霍巴特\nH: 悉尼\nI: 但尼丁\nJ: 里贾纳", "label": "C"}
+{"idx": 1620, "sentence": "德国是_的成员。\nA: 北大西洋公约组织\nB: 翅膀\nC: 中北美洲及加勒比海足球协会\nD: 哈马斯\nE: 世界摔跤娱乐\nF: U2\nG: 国际足球联合会\nH: 联合国教科文组织\nI: 复仇者联盟", "label": "A"}
+{"idx": 1354, "sentence": "诺福克与_接壤。\nA: 马来西亚\nB: 格洛斯特郡\nC: 非洲\nD: 吉尔吉斯斯坦\nE: 利比亚\nF: 巴基斯坦\nG: 也门\nH: 阿拉贡\nI: 林肯郡\nJ: 德比郡", "label": "I"}
+{"idx": 5804, "sentence": "绿色和平组织成立于_。\nA: 东京\nB: 伯明翰\nC: 北京\nD: 温哥华\nE: 法兰克福\nF: 西雅图\nG: 芝加哥\nH: 斯德哥尔摩\nI: 英格兰\nJ: 底特律", "label": "D"}
+{"idx": 1706, "sentence": "伽利略·伽利莱的工作领域是_。\nA: 数学\nB: 社会学\nC: 小说家\nD: 经济学家\nE: 剧作家\nF: 心理学\nG: 遗传学\nH: 夜总会\nI: 神学\nJ: 考古学", "label": "A"}
+{"idx": 2803, "sentence": "A310 是由 _ 生产的。\nA: 本田\nB: 空中客车基础\nC: 宝马\nD: 丰田\nE: 苹果公司\nF: 微软\nG: 上帝\nH: 任天堂\nI: 英特尔\nJ: 波音", "label": "B"}
+{"idx": 2650, "sentence": "瑞典与_保持外交关系。\nA: 挪威\nB: 斯洛伐克\nC: 荷兰\nD: 孟加拉国\nE: 科威特\nF: 德国\nG: 突尼斯\nH: 印度\nI: 巴林\nJ: 马耳他", "label": "F"}
+{"idx": 1344, "sentence": "喀麦隆与_接壤。\nA: 马萨诸塞州\nB: 印度\nC: 马尼拉\nD: 以色列\nE: 尼日利亚\nF: 尼泊尔\nG: 几内亚\nH: 乍得\nI: 赫尔辛基\nJ: 古吉拉特邦", "label": "E"}
+{"idx": 5429, "sentence": "A.S. Nancy-Lorraine 的总部在 _。\nA: 南锡\nB: 罗马\nC: 萨拉热窝\nD: 柏林\nE: 雅典\nF: 科隆\nG: 伦敦\nH: 普罗维登斯\nI: 基辅\nJ: 首尔", "label": "A"}
+{"idx": 4113, "sentence": "泰姬陵与_宗教有关。\nA: 佛教\nB: 犹太教\nC: 基督教\nD: 穆斯林\nE: 印度教\nF: 天主教\nG: 伊斯兰教\nH: 科学", "label": "G"}
+{"idx": 4323, "sentence": "让·德·拉封丹的母语是_。\nA: 西班牙语\nB: 塞尔维亚语\nC: 瑞典语\nD: 德语\nE: 荷兰语\nF: 泰米尔语\nG: 希伯来语\nH: 法语\nI: 俄语\nJ: 波兰语", "label": "H"}
+{"idx": 3650, "sentence": "Qarshi 位于 _。\nA: 日本\nB: 海地\nC: 乌兹别克斯坦\nD: 芬兰\nE: 阿塞拜疆\nF: 摩尔多瓦\nG: 法国\nH: 土耳其\nI: 匈牙利\nJ: 加拿大", "label": "C"}
+{"idx": 1049, "sentence": "新墨西哥与_接壤。\nA: 爱达荷\nB: 旁遮普\nC: 博茨瓦纳\nD: 苏格兰\nE: 波兰\nF: 北京\nG: 德克萨斯\nH: 俄勒冈\nI: 老挝\nJ: 砂拉越", "label": "G"}
+{"idx": 2439, "sentence": "白俄罗斯与_保持外交关系。\nA: 萨摩亚\nB: 摩洛哥\nC: 津巴布韦\nD: 立陶宛\nE: 巴巴多斯\nF: 突尼斯\nG: 波兰\nH: 意大利\nI: 喀麦隆\nJ: 阿富汗", "label": "G"}
+{"idx": 5840, "sentence": "微分几何是_的一部分。\nA: 犹太教\nB: 性\nC: 大脑\nD: 圣经\nE: 几何\nF: 电池\nG: 三位一体\nH: 图书馆\nI: 原子\nJ: 星系", "label": "E"}
+{"idx": 501, "sentence": "东帝汶的官方语言是_。\nA: 马耳他语\nB: 拉脱维亚语\nC: 泰卢固语\nD: 泰米尔语\nE: 保加利亚语\nF: 希腊语\nG: 罗马尼亚语\nH: 马来语\nI: 葡萄牙语\nJ: 加泰罗尼亚语", "label": "I"}
+{"idx": 4313, "sentence": "维拉·林恩的母语是_。\nA: 法语\nB: 波兰语\nC: 俄语\nD: 英语\nE: 德语\nF: 西班牙语\nG: 意大利语\nH: 日语\nI: 丹麦语\nJ: 泰米尔语", "label": "D"}
+{"idx": 5542, "sentence": "康涅狄格州的首都是_。\nA: 印第安纳波利斯\nB: 大马士革\nC: 塞萨洛尼基\nD: 埃克塞特\nE: 巴勒莫\nF: 海得拉巴\nG: 西雅图\nH: 麦迪逊\nI: 维也纳\nJ: 哈特福德", "label": "J"}
+{"idx": 5582, "sentence": "斯里兰卡的首都是 _。\nA: 沃特福德\nB: 托莱多\nC: 金奈\nD: 科伦坡\nE: 汉密尔顿\nF: 克尔曼\nG: 里斯本\nH: 乔治敦\nI: 埃克塞特\nJ: 温尼伯", "label": "D"}
+{"idx": 2337, "sentence": "哥伦比亚与_保持外交关系。\nA: 莫桑比克\nB: 乍得\nC: 塞浦路斯\nD: 印度\nE: 葡萄牙\nF: 澳大利亚\nG: 乌干达\nH: 以色列\nI: 危地马拉\nJ: 伯利兹", "label": "F"}
+{"idx": 5713, "sentence": "信德省的首都是_。\nA: 哈里斯堡\nB: 哥本哈根\nC: 赫里福德\nD: 特伦顿\nE: 柏林\nF: 普罗维登斯\nG: 圣地亚哥\nH: 钦奈\nI: 卡拉奇\nJ: 锡耶纳", "label": "I"}
+{"idx": 544, "sentence": "瓦莱州的官方语言是_。\nA: 法语\nB: 索马里语\nC: 威尼斯语\nD: 克罗地亚语\nE: 诺曼语\nF: 马耳他语\nG: 罗马尼亚语\nH: 塞尔维亚语\nI: 希腊语\nJ: 爱尔兰语", "label": "A"}
+{"idx": 2513, "sentence": "日本与_保持外交关系。\nA: 瑞士\nB: 孟加拉国\nC: 汤加\nD: 爱沙尼亚\nE: 日本\nF: 俄罗斯\nG: 塞浦路斯\nH: 澳大利亚\nI: 马达加斯加\nJ: 马拉维", "label": "H"}
+{"idx": 1253, "sentence": "洪都拉斯与_接壤。\nA: 危地马拉\nB: 德文\nC: 奥斯陆\nD: 牛津郡\nE: 马萨诸塞\nF: 那不勒斯\nG: 上海\nH: 马拉维\nI: 内华达\nJ: 密西西比", "label": "A"}
+{"idx": 93, "sentence": "理查德·瓦格纳死于_。\nA: 贝尔格莱德\nB: 莫斯科\nC: 华沙\nD: 巴格达\nE: 底特律\nF: 威尼斯\nG: 萨里\nH: 耶路撒冷\nI: 巴黎\nJ: 大马士革", "label": "F"}
+{"idx": 5681, "sentence": "乌克兰苏维埃社会主义共和国的首都是_。\nA: 敖德萨\nB: 布拉格\nC: 北京\nD: 麦加\nE: 哥伦布\nF: 阿勒颇\nG: 根特\nH: 贝鲁特\nI: 里尔\nJ: 基辅", "label": "J"}
+{"idx": 228, "sentence": "异养生物是_的一个子类。\nA: 煤炭\nB: 政治家\nC: 算法\nD: 防御工事\nE: 疾病\nF: 整数\nG: 牧师\nH: 服务员\nI: 有机体\nJ: 石油", "label": "I"}
+{"idx": 2344, "sentence": "卢森堡与_保持外交关系。\nA: 哥伦比亚\nB: 科威特\nC: 不丹\nD: 智利\nE: 巴哈马\nF: 塞浦路斯\nG: 尼泊尔\nH: 德国\nI: 喀麦隆\nJ: 罗马尼亚", "label": "H"}
+{"idx": 4970, "sentence": "蒙特利尔和_是姐妹城市。\nA: 利物浦\nB: 索菲亚\nC: 巴黎\nD: 马德里\nE: 萨拉热窝\nF: 达卡\nG: 内罗毕\nH: 布拉迪斯拉发\nI: 阿尔及尔\nJ: 里昂", "label": "I"}
+{"idx": 2387, "sentence": "意大利与_保持外交关系。\nA: 希腊\nB: 玻利维亚\nC: 俄罗斯\nD: 洪都拉斯\nE: 斯洛伐克\nF: 科威特\nG: 海地\nH: 尼加拉瓜\nI: 秘鲁\nJ: 萨摩亚", "label": "E"}
+{"idx": 4448, "sentence": "华沙和_是姐妹城市。\nA: 朴茨茅斯\nB: 罗马\nC: 柏林\nD: 多伦多\nE: 约翰内斯堡\nF: 的黎波里\nG: 科隆\nH: 堪培拉\nI: 西雅图\nJ: 美因茨", "label": "C"}
+{"idx": 893, "sentence": "《iCarly》最初在_播出。\nA: HBO\nB: CBS\nC: NBC\nD: 尼克国际儿童频道\nE: Netflix", "label": "D"}
+{"idx": 2571, "sentence": "萨尔瓦多与_保持外交关系。\nA: 拉脱维亚\nB: 哈萨克斯坦\nC: 瑞典\nD: 澳大利亚\nE: 汤加\nF: 危地马拉\nG: 巴林\nH: 贝宁\nI: 匈牙利\nJ: 保加利亚", "label": "D"}
+{"idx": 4288, "sentence": "娜杰日达·克鲁普斯卡娅的母语是_。\nA: 拉丁语\nB: 塞尔维亚语\nC: 波兰语\nD: 泰米尔语\nE: 西班牙语\nF: 德语\nG: 俄语\nH: 丹麦语\nI: 英语\nJ: 荷兰语", "label": "G"}
+{"idx": 323, "sentence": "查谟和克什米尔的官方语言是_。\nA: 阿塞拜疆语\nB: 斯洛文尼亚语\nC: 斯洛伐克语\nD: 匈牙利语\nE: 塞尔维亚语\nF: 希伯来语\nG: 高棉语\nH: 乌尔都语\nI: 意大利语\nJ: 波斯语", "label": "H"}
+{"idx": 2127, "sentence": "澳大利亚与_保持外交关系。\nA: 圭亚那\nB: 越南\nC: 摩尔多瓦\nD: 白俄罗斯\nE: 汤加\nF: 黑山\nG: 斯洛文尼亚\nH: 古巴\nI: 罗马尼亚\nJ: 伊拉克", "label": "I"}
+{"idx": 1941, "sentence": "南美洲包括_。\nA: 大脑\nB: 拉脱维亚\nC: 月亮\nD: 亚洲\nE: 人类学\nF: W\nG: 秘鲁\nH: 俄罗斯\nI: 黎巴嫩\nJ: 煤炭", "label": "G"}
+{"idx": 2481, "sentence": "比利时与_保持外交关系。\nA: 塔吉克斯坦\nB: 意大利\nC: 莫桑比克\nD: 芬兰\nE: 也门\nF: 塞尔维亚\nG: 智利\nH: 阿根廷\nI: 巴基斯坦\nJ: 尼日利亚", "label": "B"}
+{"idx": 3905, "sentence": "让·西贝柳斯曾在_工作。\nA: 雅典\nB: 日内瓦\nC: 汉堡\nD: 鹿特丹\nE: 巴塞罗那\nF: 巴塞尔\nG: 柏林\nH: 伯明翰\nI: 赫尔辛基\nJ: 米兰", "label": "I"}
+{"idx": 5206, "sentence": "卡拉奇和_是姐妹城市。\nA: 诺丁汉\nB: 图卢兹\nC: 马赛\nD: 伯利恒\nE: 奥克兰\nF: 贝鲁特\nG: 西雅图\nH: 安卡拉\nI: 瓜达拉哈拉\nJ: 圣地亚哥", "label": "F"}
+{"idx": 2980, "sentence": "大都会法国位于_。\nA: 非洲\nB: 欧洲\nC: 美洲\nD: 南极洲\nE: 亚洲\nF: 大洋洲", "label": "B"}
+{"idx": 4794, "sentence": "圣多明各和_是姐妹城市。\nA: 莫斯科\nB: 里斯本\nC: 利马\nD: 名古屋\nE: 堪培拉\nF: 安特卫普\nG: 西雅图\nH: 萨格勒布\nI: 第比利斯\nJ: 德里", "label": "B"}
+{"idx": 439, "sentence": "克萨尔特南戈的官方语言是_。\nA: 旁遮普语\nB: 马耳他语\nC: 孟加拉语\nD: 泰米尔语\nE: 亚美尼亚语\nF: 爱尔兰语\nG: 埃及语\nH: 印尼语\nI: 西班牙语\nJ: 波斯语", "label": "I"}
+{"idx": 296, "sentence": "纳瓦拉的官方语言是_。\nA: 荷兰语\nB: 加泰罗尼亚语\nC: 高棉语\nD: 德语\nE: 土耳其语\nF: 格鲁吉亚语\nG: 丹麦语\nH: 西班牙语\nI: 爱尔兰语\nJ: 马来语", "label": "H"}
+{"idx": 1420, "sentence": "中华人民共和国与_接壤。\nA: 宾夕法尼亚\nB: 乌克兰\nC: 巴基斯坦\nD: 玻利维亚\nE: 德里\nF: 伊拉克\nG: 冰岛\nH: 尼泊尔\nI: 维多利亚\nJ: 果阿", "label": "H"}
+{"idx": 599, "sentence": "匈牙利的官方语言是_。\nA: 意大利语\nB: 西西里语\nC: 匈牙利语\nD: 旁遮普语\nE: 爱沙尼亚语\nF: 马其顿语\nG: 爱尔兰语\nH: 索马里语\nI: 芬兰语\nJ: 威尼斯语", "label": "C"}
+{"idx": 2104, "sentence": "硫酸铜由_组成。\nA: 东帝汶\nB: 钨\nC: DNA\nD: 铜\nE: 铝\nF: 波兰\nG: 斯洛伐克\nH: 神学\nI: 步兵\nJ: 谷物", "label": "D"}
+{"idx": 3489, "sentence": "拉维·香卡过去用_交流。\nA: 拉丁语\nB: 波兰语\nC: 埃及语\nD: 匈牙利语\nE: 德语\nF: 英语\nG: 印尼语\nH: 韩语\nI: 希伯来语\nJ: 挪威语", "label": "F"}
+{"idx": 2707, "sentence": "德国与_保持外交关系。\nA: 伯利兹\nB: 秘鲁\nC: 摩纳哥\nD: 罗马尼亚\nE: 爱尔兰\nF: 毛里求斯\nG: 约旦\nH: 巴哈马\nI: 纳米比亚\nJ: 摩洛哥", "label": "I"}
+{"idx": 4294, "sentence": "吕克·贝松的母语是_。\nA: 西班牙语\nB: 德语\nC: 日语\nD: 意大利语\nE: 丹麦语\nF: 塞尔维亚语\nG: 法语\nH: 瑞典语\nI: 波兰语\nJ: 希伯来语", "label": "G"}
+{"idx": 5290, "sentence": "布尔诺和_是姐妹城市。\nA: 莫斯科\nB: 亚特兰大\nC: 新加坡\nD: 莱比锡\nE: 美因茨\nF: 马德里\nG: 柏林\nH: 明斯克\nI: 基尔\nJ: 波尔多", "label": "D"}
+{"idx": 157, "sentence": "用户界面是_的一个子类。\nA: 防御工事\nB: 望远镜\nC: 时钟\nD: 肌肉\nE: 牧师\nF: 行星\nG: 疾病\nH: 界面\nI: 汽车\nJ: 厕所", "label": "H"}
+{"idx": 2091, "sentence": "DL-蛋氨酸由_组成。\nA: 蔬菜\nB: 硫\nC: 几何\nD: 立陶宛\nE: 铝\nF: 歌剧\nG: 地球\nH: 牛奶\nI: 卢森堡\nJ: 大米", "label": "B"}
+{"idx": 4520, "sentence": "曼谷和_是姐妹城市。\nA: 罗萨里奥\nB: 明斯克\nC: 横滨\nD: 奥格斯堡\nE: 科隆\nF: 塞萨洛尼基\nG: 广州\nH: 那不勒斯\nI: 纽伦堡\nJ: 汤加", "label": "G"}
+{"idx": 2407, "sentence": "葡萄牙与_保持外交关系。\nA: 墨西哥\nB: 文莱\nC: 苏丹\nD: 保加利亚\nE: 津巴布韦\nF: 巴拉圭\nG: 德国\nH: 汤加\nI: 日本\nJ: 科威特", "label": "G"}
+{"idx": 3933, "sentence": "克里斯托夫·威利巴尔德·冯·格鲁克曾在_工作。\nA: 维也纳\nB: 克利夫兰\nC: 巴塞罗那\nD: 格拉斯哥\nE: 索非亚\nF: 莫斯科\nG: 匹兹堡\nH: 渥太华\nI: 好莱坞\nJ: 赫尔辛基", "label": "A"}
+{"idx": 5565, "sentence": "意大利王国的首都是_。\nA: 伯尔尼\nB: 奥斯陆\nC: 哈特福德\nD: 波尔多\nE: 贝鲁特\nF: 博伊西\nG: 亚丁\nH: 都灵\nI: 哥伦布\nJ: 达卡", "label": "H"}
+{"idx": 4704, "sentence": "维也纳和_是姐妹城市。\nA: 惠灵顿\nB: 埃里温\nC: 莫斯科\nD: 萨尔茨堡\nE: 克利夫兰\nF: 东京\nG: 华沙\nH: 诺丁汉\nI: 卢布尔雅那\nJ: 波士顿", "label": "C"}
+{"idx": 2521, "sentence": "德国与_保持外交关系。\nA: 尼日利亚\nB: 阿塞拜疆\nC: 秘鲁\nD: 马来西亚\nE: 阿根廷\nF: 汤加\nG: 黑山\nH: 文莱\nI: 日本\nJ: 马耳他", "label": "I"}
+{"idx": 5524, "sentence": "阿尔巴尼亚的首都是_。\nA: 塔林\nB: 汉密尔顿\nC: 华沙\nD: 京都\nE: 汉诺威\nF: 达尔文\nG: 里士满\nH: 班加罗尔\nI: 达尼丁\nJ: 地拉那", "label": "J"}
+{"idx": 2170, "sentence": "丹麦与_保持外交关系。\nA: 阿根廷\nB: 巴巴多斯\nC: 牙买加\nD: 约旦\nE: 德国\nF: 巴林\nG: 哥伦比亚\nH: 智利\nI: 阿尔及利亚\nJ: 伊拉克", "label": "E"}
+{"idx": 2095, "sentence": "葡萄糖由_组成。\nA: 人类学\nB: 面粉\nC: 匈牙利\nD: 印度尼西亚\nE: 钾\nF: 铁\nG: 锌\nH: 句法\nI: 金星\nJ: 氢", "label": "J"}
+{"idx": 4015, "sentence": "雅各布隶属于_宗教。\nA: 佛教\nB: 伊斯兰教\nC: 印度教\nD: 犹太教\nE: 穆斯林\nF: 基督教\nG: 天主教\nH: 科学", "label": "D"}
+{"idx": 2598, "sentence": "牙买加与_保持外交关系。\nA: 卢森堡\nB: 突尼斯\nC: 汤加\nD: 澳大利亚\nE: 瑞典\nF: 黑山\nG: 斯洛伐克\nH: 波兰\nI: 西班牙\nJ: 哥伦比亚", "label": "D"}
+{"idx": 3290, "sentence": "尼科西亚是_的首都。\nA: 夏威夷\nB: 墨西哥\nC: 马达加斯加\nD: 南斯拉夫\nE: 拉贾斯坦邦\nF: 塞浦路斯\nG: 康涅狄格\nH: 阿富汗\nI: 希腊\nJ: 古巴", "label": "F"}
+{"idx": 1951, "sentence": "欧亚经济联盟由_组成。\nA: 音乐\nB: 葡萄糖\nC: 几何\nD: 斧头\nE: 铝\nF: 瑞士\nG: 空间\nH: 俄罗斯\nI: 铁\nJ: 生物学", "label": "H"}
+{"idx": 2523, "sentence": "叙利亚与_保持外交关系。\nA: 委内瑞拉\nB: 乌兹别克斯坦\nC: 乌克兰\nD: 阿尔巴尼亚\nE: 斯洛文尼亚\nF: 巴拿马\nG: 日本\nH: 贝宁\nI: 孟加拉国\nJ: 厄瓜多尔", "label": "G"}
+{"idx": 156, "sentence": "磁悬浮列车是_的一个子类。\nA: 商标\nB: 狗\nC: 药物\nD: 步兵\nE: 算法\nF: 列车\nG: 细胞\nH: 地质学家\nI: 整数\nJ: 欺诈", "label": "F"}
+{"idx": 755, "sentence": "独立国家联合体的官方语言是_。\nA: 俄语\nB: 印地语\nC: 黑山语\nD: 夏威夷语\nE: 加泰罗尼亚语\nF: 希伯来语\nG: 威尼斯语\nH: 克罗地亚语\nI: 保加利亚语\nJ: 阿尔巴尼亚语", "label": "A"}
+{"idx": 1485, "sentence": "特立尼达和多巴哥是以_命名的。\nA: Unix\nB: 特立尼达\nC: 铁\nD: 利沃夫\nE: 卢瓦尔河\nF: 谢菲尔德\nG: 彼得\nH: 珀斯\nI: 大理石\nJ: 美因河畔法兰克福", "label": "B"}
+{"idx": 3825, "sentence": "波兰入侵位于_。\nA: 戛纳\nB: 柏林\nC: 波兰\nD: 非洲\nE: 哈萨克斯坦\nF: 亚历山大\nG: 乌克兰\nH: 奥斯陆\nI: 白俄罗斯\nJ: 莱比锡", "label": "C"}
+{"idx": 5047, "sentence": "阿尔及尔和_是姐妹城市。\nA: 布加勒斯特\nB: 迪拜酋长国\nC: 莫斯科\nD: 日内瓦\nE: 广岛\nF: 伦敦\nG: 卢布林\nH: 亚历山大\nI: 剑桥\nJ: 耶路撒冷", "label": "F"}
+{"idx": 31, "sentence": "Blogger 由_拥有。\nA: 巴黎\nB: 波兰\nC: 利沃夫\nD: 谷歌\nE: 米兰\nF: 奥迪\nG: 微软\nH: 丰田\nI: 亚马逊\nJ: 索尼", "label": "D"}
+{"idx": 2805, "sentence": "Wii U 是由_生产的。\nA: 空客基础\nB: 波音\nC: 微软\nD: 丰田\nE: 苹果公司\nF: 英特尔\nG: 任天堂\nH: 宝马\nI: 上帝\nJ: 法拉利", "label": "G"}
+{"idx": 2784, "sentence": "丰田凯美瑞是由_生产的。\nA: 本田\nB: 英特尔\nC: 上帝\nD: 微软\nE: 宝马\nF: 苹果公司\nG: 空中客车基本型\nH: 波音\nI: 丰田\nJ: 法拉利", "label": "I"}
+{"idx": 5328, "sentence": "俄罗斯国旗是_中的法律术语。\nA: 白俄罗斯\nB: 法国\nC: 保加利亚\nD: 意大利\nE: 澳门\nF: 澳大利亚\nG: 俄罗斯\nH: 爱尔兰\nI: 印度\nJ: 瑞士", "label": "G"}
+{"idx": 221, "sentence": "干细胞是_的一个子类。\nA: 服务员\nB: 森林\nC: 欺诈\nD: 几何\nE: 防御工事\nF: 汽车\nG: 社会主义\nH: 英语\nI: 细胞\nJ: 生物学", "label": "I"}
+{"idx": 812, "sentence": "黑山的官方语言是_。\nA: 保加利亚语\nB: 法语\nC: 夏威夷语\nD: 马其顿语\nE: 斯洛文尼亚语\nF: 拉丁语\nG: 阿塞拜疆语\nH: 匈牙利语\nI: 阿尔巴尼亚语\nJ: 波兰语", "label": "I"}
+{"idx": 2788, "sentence": "B-17 飞行堡垒是由_生产的。\nA: 空客基础\nB: 丰田\nC: 上帝\nD: 任天堂\nE: 波音\nF: 宝马\nG: 本田\nH: 英特尔\nI: 法拉利\nJ: 微软", "label": "E"}
+{"idx": 4087, "sentence": "斯坎德培与 _ 宗教有关。\nA: 伊斯兰教\nB: 科学\nC: 基督教\nD: 天主教\nE: 佛教\nF: 犹太教\nG: 印度教\nH: 穆斯林", "label": "C"}
+{"idx": 5669, "sentence": "斯洛伐克的首都是_。\nA: 罗马\nB: 热那亚\nC: 基尔\nD: 布达佩斯\nE: 里斯本\nF: 金斯顿\nG: 布拉迪斯拉发\nH: 巴塞尔\nI: 利马\nJ: 达卡", "label": "G"}
+{"idx": 3758, "sentence": "利奥十二世的职位是_。\nA: 上帝\nB: 教皇\nC: 经济学家\nD: 牧师\nE: 主教\nF: 大主教\nG: 沙阿\nH: 州长\nI: 市长\nJ: 红衣主教", "label": "B"}
+{"idx": 2517, "sentence": "南非与_保持外交关系。\nA: 冰岛\nB: 摩洛哥\nC: 立陶宛\nD: 爱沙尼亚\nE: 匈牙利\nF: 拉脱维亚\nG: 澳大利亚\nH: 新加坡\nI: 保加利亚\nJ: 圭亚那", "label": "G"}
+{"idx": 4028, "sentence": "犹太教堂与_宗教有关。\nA: 天主教\nB: 犹太教\nC: 佛教\nD: 科学\nE: 印度教\nF: 基督教\nG: 穆斯林\nH: 伊斯兰教", "label": "B"}
+{"idx": 177, "sentence": "西兰花是_的一个子类。\nA: 肉类\nB: 航天器\nC: 教皇\nD: 疾病\nE: 演员\nF: 地质学家\nG: 选举权\nH: 蔬菜\nI: 服务员\nJ: 杀人", "label": "H"}
+{"idx": 4750, "sentence": "埃里温和_是姐妹城市。\nA: 利沃夫\nB: 博洛尼亚\nC: 慕尼黑\nD: 萨格勒布\nE: 迈阿密\nF: 巴里\nG: 魁北克\nH: 丹佛\nI: 科隆\nJ: 第比利斯", "label": "J"}
+{"idx": 2350, "sentence": "莫桑比克与_保持外交关系。\nA: 毛里求斯\nB: 西班牙\nC: 加拿大\nD: 肯尼亚\nE: 爱沙尼亚\nF: 巴巴多斯\nG: 新加坡\nH: 蒙古\nI: 卡塔尔\nJ: 亚美尼亚", "label": "C"}
+{"idx": 2339, "sentence": "白俄罗斯与_保持外交关系。\nA: 塞尔维亚\nB: 罗马尼亚\nC: 黎巴嫩\nD: 立陶宛\nE: 埃塞俄比亚\nF: 泰国\nG: 丹麦\nH: 黑山\nI: 尼加拉瓜\nJ: 智利", "label": "D"}
+{"idx": 5001, "sentence": "马尼拉和_是姐妹城市。\nA: 布达佩斯\nB: 萨摩亚\nC: 不伦瑞克\nD: 阿姆斯特丹\nE: 巴里\nF: 曼谷\nG: 博洛尼亚\nH: 罗萨里奥\nI: 巴库\nJ: 台北", "label": "F"}
+{"idx": 5985, "sentence": "体质人类学是_的一部分。\nA: 闪族\nB: 性别\nC: 经济学\nD: 印度教\nE: 厕所\nF: 拓扑学\nG: 军队\nH: 人类学\nI: 犹太教\nJ: 血液", "label": "H"}
+{"idx": 4532, "sentence": "贝尔格莱德和_是姐妹城市。\nA: 阿尔伯塔\nB: 谢菲尔德\nC: 戛纳\nD: 罗萨里奥\nE: 新加坡\nF: 墨尔本\nG: 圣地亚哥\nH: 的黎波里\nI: 耶路撒冷\nJ: 卢布尔雅那", "label": "J"}
+{"idx": 1175, "sentence": "瑞士与_接壤。\nA: 奥地利\nB: 冰岛\nC: 威尔士\nD: 卡纳塔克邦\nE: 约翰内斯堡\nF: 怀俄明州\nG: 卢旺达\nH: 马尼拉\nI: 汉堡\nJ: 兰开夏郡", "label": "A"}
+{"idx": 538, "sentence": "土耳其的官方语言是_。\nA: 阿塞拜疆语\nB: 冰岛语\nC: 爱尔兰语\nD: 塞尔维亚语\nE: 日语\nF: 俄语\nG: 白俄罗斯语\nH: 立陶宛语\nI: 土耳其语\nJ: 西西里语", "label": "I"}
+{"idx": 3049, "sentence": "克里维里赫位于_。\nA: 亚洲\nB: 大洋洲\nC: 南极洲\nD: 美洲\nE: 欧洲\nF: 非洲", "label": "E"}
+{"idx": 5202, "sentence": "图卢兹和_是姐妹城市。\nA: 斯巴达\nB: 墨尔本\nC: 亚特兰大\nD: 迪拜酋长国\nE: 布加勒斯特\nF: 奥斯陆\nG: 堪培拉\nH: 巴黎\nI: 耶路撒冷\nJ: 萨格勒布", "label": "C"}
+{"idx": 1448, "sentence": "圣克卢与_接壤。\nA: 乍得\nB: 安大略\nC: 阿拉巴马州\nD: 洛林\nE: 沃里克郡\nF: 巴黎\nG: 内布拉斯加\nH: 纳米比亚\nI: 墨西哥\nJ: 伊利诺伊州", "label": "F"}
+{"idx": 2829, "sentence": "Bernardo Houssay 是 _ 公民。\nA: 英格兰王国\nB: 加拿大\nC: 以色列\nD: 越南\nE: 库尔德斯坦\nF: 瑞士\nG: 阿根廷\nH: 保加利亚\nI: 卡塔尔\nJ: 德国", "label": "G"}
+{"idx": 1942, "sentence": "griffin 包含 _。\nA: 湿婆\nB: 澳门\nC: 葡萄牙\nD: 降水\nE: 卢旺达\nF: 马\nG: 俄罗斯\nH: 火星\nI: 魔法\nJ: 拉脱维亚", "label": "F"}
+{"idx": 1893, "sentence": "吡啶由_组成。\nA: 乌拉圭\nB: 摩纳哥\nC: 葡萄牙\nD: 智利\nE: 印度\nF: 碳\nG: 奶酪\nH: 氢\nI: 有机体\nJ: 黎巴嫩", "label": "F"}
+{"idx": 5459, "sentence": "伊斯兰革命卫队的总部位于_。\nA: 西雅图\nB: 斯坦福\nC: 法兰克福\nD: 罗马\nE: 底特律\nF: 德黑兰\nG: 慕尼黑\nH: 普罗维登斯\nI: 剑桥\nJ: 雅典", "label": "F"}
+{"idx": 2850, "sentence": "Beppe Grillo 是 _ 公民。\nA: 以色列\nB: 黎巴嫩\nC: 美因河畔法兰克福\nD: 英格兰王国\nE: 印度\nF: 意大利\nG: 希腊\nH: 法国\nI: 澳大利亚\nJ: 西班牙", "label": "F"}
+{"idx": 800, "sentence": "安得拉邦的官方语言是_。\nA: 希伯来语\nB: 旁遮普语\nC: 立陶宛语\nD: 马其顿语\nE: 泰卢固语\nF: 爱沙尼亚语\nG: 爱尔兰语\nH: 威尔士语\nI: 越南语\nJ: 泰米尔语", "label": "E"}
+{"idx": 3757, "sentence": "卡利克斯特三世的职位是_。\nA: 大主教\nB: 上帝\nC: 经济学家\nD: 沙阿\nE: 红衣主教\nF: 主教\nG: 总督\nH: 教皇\nI: 市长\nJ: 牧师", "label": "H"}
+{"idx": 565, "sentence": "马哈拉施特拉邦的官方语言是_。\nA: 荷兰语\nB: 旁遮普语\nC: 俄语\nD: 罗马尼亚语\nE: 波兰语\nF: 泰米尔语\nG: 土耳其语\nH: 威尼斯语\nI: 马拉地语\nJ: 马耳他语", "label": "I"}
+{"idx": 2053, "sentence": "鲁尔由_组成。\nA: 多特蒙德\nB: 爱沙尼亚\nC: 乌克兰\nD: 印度\nE: 金星\nF: 歌剧\nG: 法国\nH: 心理学\nI: 摩纳哥\nJ: 阿根廷", "label": "A"}
+{"idx": 3903, "sentence": "保罗·埃尔利希曾在_工作。\nA: 慕尼黑\nB: 柏林\nC: 赫尔辛基\nD: 迈阿密\nE: 华沙\nF: 伦敦\nG: 哥本哈根\nH: 匹兹堡\nI: 底特律\nJ: 法兰克福", "label": "J"}
+{"idx": 1837, "sentence": "波琳娜·加加林娜的职业是_。\nA: 图书管理员\nB: 天文学家\nC: 演员\nD: 诗人\nE: 外交官\nF: 小说家\nG: 摄影师\nH: 记者\nI: 编剧\nJ: 模特", "label": "C"}
+{"idx": 2617, "sentence": "白俄罗斯与_保持外交关系。\nA: 利比亚\nB: 德国\nC: 比利时\nD: 突尼斯\nE: 白俄罗斯\nF: 萨摩亚\nG: 拉脱维亚\nH: 哈萨克斯坦\nI: 海地\nJ: 巴哈马", "label": "B"}
+{"idx": 3628, "sentence": "堪察加边疆区位于_。\nA: 匈牙利\nB: 俄罗斯\nC: 加拿大\nD: 德国\nE: 意大利\nF: 巴西\nG: 阿富汗\nH: 波兰\nI: 奥地利\nJ: 印度", "label": "B"}
+{"idx": 4251, "sentence": "安娜·库尔尼科娃的母语是_。\nA: 英语\nB: 泰米尔语\nC: 俄语\nD: 塞尔维亚语\nE: 瑞典语\nF: 意大利语\nG: 荷兰语\nH: 拉丁语\nI: 法语\nJ: 德语", "label": "C"}
+{"idx": 80, "sentence": "巴尔比努斯死于_。\nA: 伊斯坦布尔\nB: 柏林\nC: 开罗\nD: 喀布尔\nE: 斯德哥尔摩\nF: 纽伦堡\nG: 罗马\nH: 布拉格\nI: 马德里\nJ: 麦迪逊", "label": "G"}
+{"idx": 5335, "sentence": "挪威国旗是_中的一个法律术语。\nA: 奥地利\nB: 瑞典\nC: 伊朗\nD: 澳大利亚\nE: 德国\nF: 立陶宛\nG: 加拿大\nH: 摩纳哥\nI: 台湾\nJ: 挪威", "label": "J"}
+{"idx": 3128, "sentence": "Windows Vista 是由 _ 开发的。\nA: 诺基亚\nB: 苹果公司\nC: Adobe\nD: 微软\nE: 任天堂\nF: 波音公司\nG: 谷歌\nH: 空中客车基本\nI: IBM\nJ: 英特尔", "label": "D"}
+{"idx": 233, "sentence": "讽刺是_的一个子类。\nA: 英语\nB: 集合\nC: 欺诈\nD: 幽默\nE: 行星\nF: 炸弹\nG: 沙拉\nH: 蛋白质\nI: 笔记本电脑\nJ: 佛教", "label": "D"}
+{"idx": 5745, "sentence": "牙买加的首都是_。\nA: 迪拜\nB: 牛津\nC: 金斯顿\nD: 布加勒斯特\nE: 安卡拉\nF: 巴里\nG: 敖德萨\nH: 布拉迪斯拉发\nI: 横滨\nJ: 里加", "label": "C"}
+{"idx": 3210, "sentence": "堪培拉是_的首都。\nA: 摩洛哥\nB: 明尼苏达\nC: 昆士兰\nD: 澳大利亚\nE: 土耳其\nF: 哈里亚纳邦\nG: 格陵兰\nH: 克罗地亚\nI: 阿拉斯加\nJ: 保加利亚", "label": "D"}
+{"idx": 254, "sentence": "文莱的官方语言是_。\nA: 德语\nB: 西西里语\nC: 印尼语\nD: 乌尔都语\nE: 马来语\nF: 索马里语\nG: 西班牙语\nH: 阿尔巴尼亚语\nI: 意大利语\nJ: 希伯来语", "label": "E"}
+{"idx": 1747, "sentence": "爱德华·吉本的工作领域是_。\nA: 地理学\nB: 剧作家\nC: 社会学\nD: 生理学\nE: 语言学\nF: 历史\nG: 恐怖主义\nH: 神学\nI: 哲学\nJ: 种族隔离", "label": "F"}
+{"idx": 5586, "sentence": "塞尔维亚和黑山的首都是_。\nA: 贝尔格莱德\nB: 巴塞尔\nC: 巴库\nD: 里加\nE: 斯德哥尔摩\nF: 迈阿密\nG: 瓦伦西亚\nH: 迪拜\nI: 君士坦丁堡\nJ: 巴塞罗那", "label": "A"}
+{"idx": 3919, "sentence": "赫尔曼·黑塞曾在_工作过。\nA: 斯特拉斯堡\nB: 雅典\nC: 汉堡\nD: 哥本哈根\nE: 马德里\nF: 维也纳\nG: 伯尔尼\nH: 日内瓦\nI: 迈阿密\nJ: 底特律", "label": "G"}
+{"idx": 4055, "sentence": "Brahman 与 _ 宗教有关。\nA: 科学\nB: 犹太教\nC: 伊斯兰教\nD: 穆斯林\nE: 佛教\nF: 印度教\nG: 天主教\nH: 基督教", "label": "F"}
+{"idx": 3737, "sentence": "塞莱斯廷五世的职位是_。\nA: 大主教\nB: 沙阿\nC: 市长\nD: 州长\nE: 红衣主教\nF: 牧师\nG: 上帝\nH: 主教\nI: 经济学家\nJ: 教皇", "label": "J"}
+{"idx": 1962, "sentence": "氢氰酸由_组成。\nA: 火星\nB: 碳\nC: 卢旺达\nD: 出埃及记\nE: 埃及\nF: 法国\nG: 瑞典\nH: 斧头\nI: 铁\nJ: 历史", "label": "B"}
+{"idx": 672, "sentence": "特立尼达和多巴哥的官方语言是_。\nA: 越南语\nB: 诺曼语\nC: 英语\nD: 索马里语\nE: 丹麦语\nF: 罗马尼亚语\nG: 葡萄牙语\nH: 瑞典语\nI: 黑山语\nJ: 斯洛文尼亚语", "label": "C"}
+{"idx": 2072, "sentence": "胸腺嘧啶由_组成。\nA: 骑兵\nB: 溶剂\nC: 算术\nD: 法国\nE: 地球\nF: 大脑\nG: 瑞士\nH: 氧气\nI: W\nJ: 荷兰", "label": "H"}
+{"idx": 4001, "sentence": "海因里希·海涅曾在_工作。\nA: 剑桥\nB: 汉堡\nC: 赫尔辛基\nD: 维也纳\nE: 雅典\nF: 巴黎\nG: 多伦多\nH: 米兰\nI: 伯明翰\nJ: 华沙", "label": "B"}
+{"idx": 1501, "sentence": "新斯科舍省是以_命名的。\nA: 首都\nB: 巴黎\nC: 雅典\nD: 斯堪的纳维亚\nE: 苏格兰\nF: 亚伯拉罕\nG: 美因河畔法兰克福\nH: 爱尔兰\nI: 都柏林\nJ: 马赛", "label": "E"}
+{"idx": 3691, "sentence": "涅斯多留的职位是_。\nA: 市长\nB: 经济学家\nC: 教皇\nD: 州长\nE: 大主教\nF: 红衣主教\nG: 沙阿\nH: 上帝\nI: 牧师\nJ: 主教", "label": "J"}
+{"idx": 3021, "sentence": "纽埃位于_。\nA: 南极洲\nB: 美洲\nC: 亚洲\nD: 非洲\nE: 大洋洲\nF: 欧洲", "label": "E"}
+{"idx": 5136, "sentence": "贝鲁特和_是姐妹城市。\nA: 阿德莱德\nB: 布莱顿\nC: 巴里\nD: 耶路撒冷\nE: 里昂\nF: 喀山\nG: 卡拉奇\nH: 蒙特利尔\nI: 莱比锡\nJ: 拉合尔", "label": "E"}
+{"idx": 1097, "sentence": "塔斯马尼亚与_接壤。\nA: 维多利亚\nB: 加泰罗尼亚\nC: 路易斯安那\nD: 昆士兰\nE: 白俄罗斯\nF: 蒙古\nG: 黑森\nH: 埃塞俄比亚\nI: 堪萨斯\nJ: 温莎", "label": "A"}
+{"idx": 5230, "sentence": "雅加达和_是姐妹城市。\nA: 布雷斯特\nB: 横滨\nC: 内罗毕\nD: 敖德萨\nE: 贝尔格莱德\nF: 东京\nG: 首尔\nH: 梅斯\nI: 马德里\nJ: 阿德莱德", "label": "G"}
+{"idx": 5998, "sentence": "药学是_的一部分。\nA: 电子邮件\nB: 炮兵\nC: 生物学\nD: 耶路撒冷\nE: 考古学\nF: 化学\nG: 斯堪的纳维亚\nH: 北京\nI: 有机体\nJ: 地理", "label": "C"}
+{"idx": 2864, "sentence": "《星际迷航：暗黑无界》是用_写的。\nA: 保加利亚语\nB: 西班牙语\nC: 拉丁语\nD: 德语\nE: 孟加拉语\nF: 乌克兰语\nG: 英语\nH: 越南语\nI: 波兰语\nJ: 瑞典语", "label": "G"}
+{"idx": 1726, "sentence": "盖伦从事_领域的工作。\nA: 种族隔离\nB: 社会学\nC: 语言学\nD: 生物学\nE: 恐怖主义\nF: 天文学家\nG: 医学\nH: 数学家\nI: 逻辑学\nJ: 遗传学", "label": "G"}
+{"idx": 2594, "sentence": "莫桑比克与_保持外交关系。\nA: 泰国\nB: 爱沙尼亚\nC: 哈萨克斯坦\nD: 赞比亚\nE: 墨西哥\nF: 匈牙利\nG: 苏丹\nH: 博茨瓦纳\nI: 黑山\nJ: 德国", "label": "J"}
+{"idx": 1242, "sentence": "摩尔多瓦与_接壤。\nA: 多特蒙德\nB: 奥斯陆\nC: 基辅\nD: 也门\nE: 乌克兰\nF: 菲律宾\nG: 德里\nH: 萨里\nI: 康普顿\nJ: 砂拉越", "label": "E"}
+{"idx": 1665, "sentence": "美国足球联合会是_的成员。\nA: 翅膀\nB: 中北美及加勒比海足球协会\nC: 复仇者联盟\nD: 联合国教科文组织\nE: 国际足联\nF: 世界摔跤娱乐\nG: 哈马斯\nH: U2\nI: 北约", "label": "B"}
+{"idx": 4296, "sentence": "约翰·昆西·亚当斯的母语是_。\nA: 日语\nB: 瑞典语\nC: 俄语\nD: 拉丁语\nE: 希伯来语\nF: 西班牙语\nG: 德语\nH: 意大利语\nI: 丹麦语\nJ: 英语", "label": "J"}
+{"idx": 2002, "sentence": "焦糖由_组成。\nA: 原子\nB: 溶剂\nC: 葡萄糖\nD: 印度尼西亚\nE: DNA\nF: 牛奶\nG: 黑山\nH: 加拿大\nI: 湿婆\nJ: 乙醇", "label": "C"}
+{"idx": 5568, "sentence": "英国的首都是_。\nA: 斯德哥尔摩\nB: 慕尼黑\nC: 巴里\nD: 伦敦\nE: 萨尔茨堡\nF: 赫里福德\nG: 里贾纳\nH: 利默里克\nI: 都灵\nJ: 萨格勒布", "label": "D"}
+{"idx": 2781, "sentence": "本田雅阁由_生产。\nA: 本田\nB: 上帝\nC: 微软\nD: 宝马\nE: 英特尔\nF: 波音\nG: 苹果公司\nH: 任天堂\nI: 丰田\nJ: 法拉利", "label": "A"}
+{"idx": 5908, "sentence": "利未记是_的一部分。\nA: 分子\nB: 清真寺\nC: 亚洲\nD: 圣经\nE: 生物学\nF: 民主\nG: 斯堪的纳维亚\nH: 英格兰\nI: 三位一体\nJ: 地理", "label": "D"}
+{"idx": 5695, "sentence": "科克郡的首都是_。\nA: 塔林\nB: 科克\nC: 锡拉丘兹\nD: 斯特拉斯堡\nE: 维多利亚\nF: 巴格达\nG: 里加\nH: 威斯敏斯特\nI: 索菲亚\nJ: 罗利", "label": "B"}
+{"idx": 5349, "sentence": "摩纳哥的国旗是_中的一个法律术语。\nA: 丹麦\nB: 摩纳哥\nC: 印度\nD: 伊朗\nE: 台湾\nF: 伊拉克\nG: 芬兰\nH: 利比亚\nI: 白俄罗斯\nJ: 土耳其", "label": "B"}
+{"idx": 4035, "sentence": "伊拉克人属于 _ 宗教。\nA: 伊斯兰教\nB: 印度教\nC: 佛教\nD: 穆斯林\nE: 科学教\nF: 天主教\nG: 基督教\nH: 犹太教", "label": "G"}
+{"idx": 4961, "sentence": "伦敦和_是姐妹城市。\nA: 巴库\nB: 爱丁堡\nC: 索尔兹伯里\nD: 布雷斯特\nE: 德黑兰\nF: 里加\nG: 班加罗尔\nH: 伯明翰\nI: 堪培拉\nJ: 马德里", "label": "A"}
+{"idx": 5261, "sentence": "亚特兰大和_是姐妹城市。\nA: 惠灵顿\nB: 利物浦\nC: 加尔各答\nD: 汤加\nE: 不来梅\nF: 巴勒莫\nG: 上海\nH: 北京\nI: 萨尔茨堡\nJ: 海法", "label": "I"}
+{"idx": 1860, "sentence": "石黑一雄的职业是_。\nA: 摄影师\nB: 小说家\nC: 剧作家\nD: 编剧\nE: 演员\nF: 物理学家\nG: 哲学家\nH: 钢琴家\nI: 模特\nJ: 记者", "label": "B"}
+{"idx": 5158, "sentence": "米兰和_是姐妹城市。\nA: 敖德萨\nB: 里昂\nC: 布拉迪斯拉发\nD: 爱丁堡\nE: 布雷斯特\nF: 关岛\nG: 基督城\nH: 第比利斯\nI: 汉堡\nJ: 埃里温", "label": "B"}
+{"idx": 808, "sentence": "欧洲联盟的官方语言是_。\nA: 保加利亚语\nB: 匈牙利语\nC: 波斯语\nD: 意大利语\nE: 威尼斯语\nF: 爱沙尼亚语\nG: 立陶宛语\nH: 阿尔巴尼亚语\nI: 夏威夷语\nJ: 德语", "label": "J"}
+{"idx": 506, "sentence": "荷兰王国的官方语言是_。\nA: 马来语\nB: 法语\nC: 阿塞拜疆语\nD: 斯洛文尼亚语\nE: 中文\nF: 诺曼语\nG: 荷兰语\nH: 夏威夷语\nI: 印地语\nJ: 拉丁语", "label": "G"}
+{"idx": 3129, "sentence": "B-17 飞行堡垒由_开发。\nA: 英特尔\nB: 谷歌\nC: Adobe\nD: 诺基亚\nE: 微软\nF: 苹果公司\nG: 空中客车基础\nH: 任天堂\nI: 波音\nJ: IBM", "label": "I"}
+{"idx": 1119, "sentence": "加泰罗尼亚与_接壤。\nA: 赫特福德郡\nB: 阿拉贡\nC: 危地马拉\nD: 法国\nE: 日本\nF: 塞内加尔\nG: 爱达荷州\nH: 萨斯喀彻温省\nI: 明尼阿波利斯\nJ: 捷克斯洛伐克", "label": "D"}
+{"idx": 4445, "sentence": "斯德哥尔摩和_是姐妹城市。\nA: 悉尼\nB: 卡尔加里\nC: 维也纳\nD: 汤加\nE: 巴哈马\nF: 哥本哈根\nG: 广州\nH: 名古屋\nI: 卢布林\nJ: 蒙特利尔", "label": "F"}
+{"idx": 50, "sentence": "阿尔弗雷德·阿德勒出生于_。\nA: 多伦多\nB: 科隆\nC: 马德里\nD: 巴黎\nE: 慕尼黑\nF: 伊斯坦布尔\nG: 贝尔法斯特\nH: 伦敦\nI: 科莫\nJ: 维也纳", "label": "J"}
+{"idx": 5960, "sentence": "电视频道是_的一部分。\nA: 哲学\nB: 历史\nC: 社会学\nD: 分子\nE: 清真寺\nF: 电视\nG: 人类学\nH: 软件\nI: 木星\nJ: 互联网", "label": "F"}
+{"idx": 977, "sentence": "安道尔与_接壤。\nA: 赫特福德郡\nB: 科罗拉多\nC: 奥地利\nD: 沃里克郡\nE: 育空\nF: 萨克森\nG: 法国\nH: 特伦甘纳\nI: 阿尔及利亚\nJ: 萨尔茨堡", "label": "G"}
+{"idx": 5983, "sentence": "法律哲学是_的一部分。\nA: 生理学\nB: 语言学\nC: 社会学\nD: 眼睛\nE: 哲学\nF: 有机体\nG: 电视\nH: 黑塞\nI: 基督教\nJ: 爱尔兰", "label": "E"}
+{"idx": 2316, "sentence": "塞尔维亚与_保持外交关系。\nA: 挪威\nB: 澳大利亚\nC: 海地\nD: 波兰\nE: 巴西\nF: 肯尼亚\nG: 加蓬\nH: 巴拿马\nI: 安哥拉\nJ: 阿塞拜疆", "label": "B"}
+{"idx": 3787, "sentence": "David Guetta 由音乐公司 _ 代表。\nA: 摩城\nB: EMI", "label": "B"}
+{"idx": 4356, "sentence": "上海和_是姐妹城市。\nA: 布达佩斯\nB: 多伦多\nC: 匹兹堡\nD: 京都\nE: 内罗毕\nF: 卡拉奇\nG: 横滨\nH: 波士顿\nI: 直布罗陀\nJ: 瓜达拉哈拉", "label": "G"}
+{"idx": 5601, "sentence": "威尼斯共和国的首都是_。\nA: 阿德莱德\nB: 内罗毕\nC: 伊斯坦布尔\nD: 伍斯特\nE: 维多利亚\nF: 戈尔韦\nG: 奥斯汀\nH: 亚历山大\nI: 威尼斯\nJ: 纳什维尔", "label": "I"}
+{"idx": 3977, "sentence": "弗拉基米尔·日里诺夫斯基曾在_工作。\nA: 维也纳\nB: 佛罗伦萨\nC: 多伦多\nD: 莫斯科\nE: 伦敦\nF: 德累斯顿\nG: 雅典\nH: 索非亚\nI: 剑桥\nJ: 莱比锡", "label": "D"}
+{"idx": 730, "sentence": "经济合作与发展组织的官方语言是_。\nA: 斯洛文尼亚语\nB: 黑山语\nC: 芬兰语\nD: 斯洛伐克语\nE: 法语\nF: 中文\nG: 印尼语\nH: 荷兰语\nI: 威尔士语\nJ: 苏格兰语", "label": "E"}
+{"idx": 1615, "sentence": "加拿大是_的成员。\nA: 世界摔跤娱乐\nB: 中北美洲及加勒比海足球协会\nC: 复仇者联盟\nD: 国际足联\nE: 北大西洋公约组织\nF: 哈马斯\nG: U2\nH: 联合国教科文组织\nI: 翅膀", "label": "E"}
+{"idx": 401, "sentence": "吉尔吉斯斯坦的官方语言是_。\nA: 俄语\nB: 埃及语\nC: 匈牙利语\nD: 黑山语\nE: 意大利语\nF: 马拉雅拉姆语\nG: 马拉地语\nH: 马来语\nI: 巴斯克语\nJ: 波斯语", "label": "A"}
+{"idx": 1297, "sentence": "伊拉克与_接壤。\nA: 约旦\nB: 叙利亚\nC: 云南\nD: 皮埃蒙特\nE: 也门\nF: 维多利亚\nG: 委内瑞拉\nH: 巴拿马\nI: 乌兹别克斯坦\nJ: 立陶宛", "label": "A"}
+{"idx": 1194, "sentence": "欧盟与_接壤。\nA: 加泰罗尼亚\nB: 阿拉斯加\nC: 利比里亚\nD: 四川\nE: 立陶宛\nF: 萨里\nG: 菲律宾\nH: 斯洛文尼亚\nI: 马哈拉施特拉邦\nJ: 瑞士", "label": "J"}
+{"idx": 4594, "sentence": "萨尔茨堡和_是姐妹城市。\nA: 塞维利亚\nB: 斯图加特\nC: 布里斯班\nD: 弗拉基米尔\nE: 德累斯顿\nF: 惠灵顿\nG: 贝尔格莱德\nH: 里尔\nI: 卡萨布兰卡\nJ: 斯巴达", "label": "E"}
+{"idx": 4473, "sentence": "阿布扎比和_是姐妹城市。\nA: 佛罗伦萨\nB: 洛桑\nC: 鹿特丹\nD: 马德里\nE: 维也纳\nF: 孟买\nG: 丹佛\nH: 安特卫普\nI: 考文垂\nJ: 梅斯", "label": "D"}
+{"idx": 2223, "sentence": "特立尼达和多巴哥与_保持外交关系。\nA: 澳大利亚\nB: 马里\nC: 伊朗\nD: 奥地利\nE: 塞浦路斯\nF: 意大利\nG: 文莱\nH: 塞内加尔\nI: 苏丹\nJ: 秘鲁", "label": "A"}
+{"idx": 4605, "sentence": "突尼斯和_是姐妹城市。\nA: 多伦多\nB: 梅斯\nC: 瓜达拉哈拉\nD: 维也纳\nE: 地拉那\nF: 伊斯坦布尔\nG: 利马\nH: 内罗毕\nI: 洛桑\nJ: 芝加哥", "label": "D"}
+{"idx": 2770, "sentence": "澳大利亚与_保持外交关系。\nA: 希腊\nB: 伊拉克\nC: 洪都拉斯\nD: 玻利维亚\nE: 委内瑞拉\nF: 摩纳哥\nG: 叙利亚\nH: 斐济\nI: 泰国\nJ: 亚美尼亚", "label": "C"}
+{"idx": 2431, "sentence": "意大利与_保持外交关系。\nA: 巴拉圭\nB: 爱沙尼亚\nC: 伊朗\nD: 突尼斯\nE: 塞浦路斯\nF: 塔吉克斯坦\nG: 叙利亚\nH: 委内瑞拉\nI: 苏丹\nJ: 俄罗斯", "label": "J"}
+{"idx": 2228, "sentence": "中非共和国与_保持外交关系。\nA: 斐济\nB: 巴基斯坦\nC: 厄瓜多尔\nD: 哥伦比亚\nE: 格鲁吉亚\nF: 埃及\nG: 纳米比亚\nH: 喀麦隆\nI: 西班牙\nJ: 巴巴多斯", "label": "F"}
+{"idx": 319, "sentence": "北马其顿的官方语言是_。\nA: 蒙古语\nB: 白俄罗斯语\nC: 马其顿语\nD: 俄语\nE: 马耳他语\nF: 土耳其语\nG: 匈牙利语\nH: 加泰罗尼亚语\nI: 乌克兰语\nJ: 斯洛伐克语", "label": "C"}
+{"idx": 4564, "sentence": "东京和_是姐妹城市。\nA: 巴哈马\nB: 维罗纳\nC: 麦地那\nD: 里尔\nE: 鹿特丹\nF: 萨摩亚\nG: 利马\nH: 罗马\nI: 蒙特利尔\nJ: 爱丁堡", "label": "H"}
+{"idx": 994, "sentence": "卢森堡与_接壤。\nA: 什罗普郡\nB: 卢森堡\nC: 那不勒斯\nD: 路易斯安那州\nE: 温莎\nF: 韦拉克鲁斯\nG: 兰开夏郡\nH: 巴基斯坦\nI: 法国\nJ: 亚利桑那州", "label": "I"}
+{"idx": 1488, "sentence": "雅典是以_命名的。\nA: 咖啡\nB: 佛兰德斯\nC: 江户\nD: 阿姆斯特丹\nE: 雅典\nF: 大卫\nG: 复活节\nH: 布列塔尼\nI: 海王星\nJ: 珀斯", "label": "E"}
+{"idx": 2688, "sentence": "波斯尼亚和黑塞哥维那与_保持外交关系。\nA: 圭亚那\nB: 芬兰\nC: 英格兰\nD: 埃及\nE: 赞比亚\nF: 斯洛文尼亚\nG: 爱尔兰\nH: 阿尔及利亚\nI: 肯尼亚\nJ: 玻利维亚", "label": "C"}
+{"idx": 5341, "sentence": "马来西亚的国旗是_的法律术语。\nA: 俄罗斯\nB: 玻利维亚\nC: 海地\nD: 牙买加\nE: 马来西亚\nF: 澳门\nG: 挪威\nH: 罗马尼亚\nI: 瑞士\nJ: 白俄罗斯", "label": "E"}
+{"idx": 3626, "sentence": "人民自由与民主党位于_。\nA: 埃及\nB: 摩尔多瓦\nC: 阿富汗\nD: 奥地利\nE: 乌兹别克斯坦\nF: 荷兰\nG: 也门\nH: 加拿大\nI: 西班牙\nJ: 日本", "label": "F"}
+{"idx": 239, "sentence": "战列巡洋舰是_的一个子类。\nA: 集合\nB: LGBT\nC: 药物\nD: 火车\nE: 跨性别者\nF: 哲学\nG: 服务员\nH: 算法\nI: 统计学\nJ: 巡洋舰", "label": "J"}
+{"idx": 4264, "sentence": "西奥多·罗斯福的母语是_。\nA: 丹麦语\nB: 波兰语\nC: 英语\nD: 瑞典语\nE: 俄语\nF: 拉丁语\nG: 法语\nH: 意大利语\nI: 塞尔维亚语\nJ: 日语", "label": "C"}
+{"idx": 199, "sentence": "食肉动物是_的一个子类。\nA: 小说\nB: 字母表\nC: 音乐家\nD: 狗\nE: 有机体\nF: 界面\nG: 污染\nH: 欺诈\nI: 流行病\nJ: LGBT", "label": "E"}
+{"idx": 3402, "sentence": "索马里地区位于_。\nA: 西班牙\nB: 达拉斯\nC: 萨克森\nD: 阿拉贡\nE: 意大利\nF: 伊拉克\nG: 蒙大拿\nH: 阿肯色州\nI: 也门\nJ: 埃塞俄比亚", "label": "J"}
+{"idx": 2264, "sentence": "孟加拉国与_保持外交关系。\nA: 玻利维亚\nB: 阿曼\nC: 德国\nD: 荷兰\nE: 马拉维\nF: 肯尼亚\nG: 加纳\nH: 老挝\nI: 西班牙\nJ: 卡塔尔", "label": "C"}
+{"idx": 1219, "sentence": "爱荷华州与_接壤。\nA: 德里\nB: 密苏里州\nC: 马赛\nD: 纳米比亚\nE: 尼日利亚\nF: 阿萨姆\nG: 肯尼亚\nH: 肯特\nI: 喀麦隆\nJ: 皇后区", "label": "B"}
+{"idx": 4842, "sentence": "马赛和_是姐妹城市。\nA: 阿尔伯塔\nB: 孟买\nC: 托莱多\nD: 里斯本\nE: 亚历山大\nF: 里尔\nG: 那不勒斯\nH: 马尼拉\nI: 里加\nJ: 曼彻斯特", "label": "G"}
+{"idx": 4104, "sentence": "阿尔弗雷德大帝与 _ 宗教有关。\nA: 印度教\nB: 伊斯兰教\nC: 犹太教\nD: 科学\nE: 基督教\nF: 天主教\nG: 穆斯林\nH: 佛教", "label": "E"}
+{"idx": 1330, "sentence": "比尔塔维尔与_接壤。\nA: 昆士兰\nB: 莫桑比克\nC: 巴基斯坦\nD: 内华达州\nE: 尼日利亚\nF: 苏丹\nG: 密苏里州\nH: 加泰罗尼亚\nI: 俄克拉荷马州\nJ: 印度尼西亚", "label": "F"}
+{"idx": 3786, "sentence": "Charles Aznavour 由音乐公司 _ 代表。\nA: Motown\nB: EMI", "label": "B"}
+{"idx": 2918, "sentence": "The Pirate Bay 是用 _ 写的。\nA: 瑞典语\nB: 法语\nC: 芬兰语\nD: 拉丁语\nE: 匈牙利语\nF: 越南语\nG: 西班牙语\nH: 德语\nI: 韩语\nJ: 保加利亚语", "label": "G"}
+{"idx": 1044, "sentence": "哥斯达黎加与_接壤。\nA: 四川\nB: 加蓬\nC: 基辅\nD: 泰国\nE: 危地马拉\nF: 尼加拉瓜\nG: 堪萨斯\nH: 剑桥郡\nI: 丹麦\nJ: 康普顿", "label": "F"}
+{"idx": 101, "sentence": "穆罕默德·扎希尔·沙阿死于_。\nA: 耶路撒冷\nB: 喀布尔\nC: 莫斯科\nD: 威尼斯\nE: 大马士革\nF: 麦迪逊\nG: 底特律\nH: 佛罗伦萨\nI: 麦地那\nJ: 萨里", "label": "B"}
+{"idx": 3213, "sentence": "巴格达是_的首都。\nA: 荷兰\nB: 摩洛哥\nC: 阿富汗\nD: 科威特\nE: 俄罗斯\nF: 罗得西亚\nG: 巴西\nH: 伊拉克\nI: 保加利亚\nJ: 白俄罗斯", "label": "H"}
+{"idx": 810, "sentence": "波里的官方语言是_。\nA: 英语\nB: 马来语\nC: 芬兰语\nD: 马其顿语\nE: 泰卢固语\nF: 蒙古语\nG: 乌尔都语\nH: 巴斯克语\nI: 匈牙利语\nJ: 拉丁语", "label": "C"}
+{"idx": 259, "sentence": "海地的官方语言是_。\nA: 冰岛语\nB: 芬兰语\nC: 亚美尼亚语\nD: 马拉地语\nE: 泰卢固语\nF: 法语\nG: 荷兰语\nH: 爱沙尼亚语\nI: 马耳他语\nJ: 加泰罗尼亚语", "label": "F"}
+{"idx": 5878, "sentence": "伽利略卫星是_的一部分。\nA: 神经\nB: 互联网\nC: 机场\nD: 非洲\nE: 科学\nF: 木星\nG: 钢铁\nH: 历史\nI: 会计\nJ: Linux", "label": "F"}
+{"idx": 2119, "sentence": "嘌呤由_组成。\nA: 氢\nB: 智利\nC: 句法\nD: W\nE: 碳\nF: 葡萄牙\nG: 匈牙利\nH: 语言学\nI: 葡萄糖\nJ: 比利时", "label": "E"}
+{"idx": 2948, "sentence": "厄立特里亚位于_。\nA: 大洋洲\nB: 美洲\nC: 亚洲\nD: 非洲\nE: 欧洲\nF: 南极洲", "label": "D"}
+{"idx": 2526, "sentence": "哈萨克斯坦与_保持外交关系。\nA: 瑞士\nB: 博茨瓦纳\nC: 葡萄牙\nD: 巴林\nE: 土耳其\nF: 阿尔巴尼亚\nG: 喀麦隆\nH: 德国\nI: 哈萨克斯坦\nJ: 立陶宛", "label": "H"}
+{"idx": 2042, "sentence": "氧化钙由_组成。\nA: 金星\nB: 炮兵\nC: 拉脱维亚\nD: 黑山\nE: 马\nF: 生物学\nG: 骑兵\nH: 氧气\nI: 意大利\nJ: 阿尔及利亚", "label": "H"}
+{"idx": 3641, "sentence": "佩皮尼昂位于_。\nA: 保加利亚\nB: 爱尔兰\nC: 海地\nD: 奥地利\nE: 土耳其\nF: 乌兹别克斯坦\nG: 葡萄牙\nH: 日本\nI: 法国\nJ: 俄罗斯", "label": "I"}
+{"idx": 5286, "sentence": "哈瓦那和_是姐妹城市。\nA: 德黑兰\nB: 波尔图\nC: 利沃夫\nD: 圣地亚哥\nE: 美因茨\nF: 约翰内斯堡\nG: 孟买\nH: 波士顿\nI: 雅加达\nJ: 明斯克", "label": "A"}
+{"idx": 3492, "sentence": "阿布哈桑·巴尼萨德过去用_交流。\nA: 匈牙利语\nB: 德语\nC: 俄语\nD: 罗马尼亚语\nE: 阿塞拜疆语\nF: 英语\nG: 挪威语\nH: 埃及语\nI: 波兰语\nJ: 波斯语", "label": "J"}
+{"idx": 1477, "sentence": "匈牙利以_命名。\nA: 都灵\nB: 匈牙利人\nC: 里斯本\nD: 蜂蜜\nE: 斯堪的纳维亚\nF: 维也纳\nG: 明治\nH: 巴黎\nI: 海王星\nJ: 莱茵河", "label": "B"}
+{"idx": 4701, "sentence": "伊斯坦布尔和_是姐妹城市。\nA: 夏威夷\nB: 第比利斯\nC: 那不勒斯\nD: 维尔纽斯\nE: 托莱多\nF: 里加\nG: 多伦多\nH: 纽卡斯尔\nI: 塔林\nJ: 伦敦", "label": "D"}
+{"idx": 4851, "sentence": "累西腓和_是姐妹城市。\nA: 巴里\nB: 波士顿\nC: 第比利斯\nD: 克利夫兰\nE: 阿姆斯特丹\nF: 直布罗陀\nG: 哥本哈根\nH: 图卢兹\nI: 德黑兰\nJ: 台北", "label": "E"}
+{"idx": 1086, "sentence": "突尼斯与_接壤。\nA: 诺丁汉郡\nB: 瑞典\nC: 爱尔兰\nD: 德文郡\nE: 马赛\nF: 罗马\nG: 奥斯陆\nH: 利比亚\nI: 埃塞克斯\nJ: 堪萨斯", "label": "H"}
+{"idx": 4510, "sentence": "维尔纽斯和_是姐妹城市。\nA: 波尔图\nB: 罗萨里奥\nC: 巴库\nD: 广岛\nE: 巴哈马\nF: 巴勒莫\nG: 卢布林\nH: 安特卫普\nI: 斯德哥尔摩\nJ: 莱比锡", "label": "I"}
+{"idx": 3410, "sentence": "博登湖位于_。\nA: 也门\nB: 曼哈顿\nC: 阿拉贡\nD: 密苏里\nE: 巴伐利亚\nF: 约旦\nG: 阿塞拜疆\nH: 阿尔巴\nI: 乌克兰\nJ: 蒙古", "label": "E"}
+{"idx": 4696, "sentence": "迪拜酋长国和_是姐妹城市。\nA: 卡萨布兰卡\nB: 巴库\nC: 巴格达\nD: 戈尔韦\nE: 敖德萨\nF: 帕尔马\nG: 埃里温\nH: 波尔多\nI: 广州\nJ: 瓜达拉哈拉", "label": "A"}
+{"idx": 787, "sentence": "彼尔姆边疆区的官方语言是_。\nA: 索马里语\nB: 葡萄牙语\nC: 意大利语\nD: 法语\nE: 俄语\nF: 日语\nG: 丹麦语\nH: 马来语\nI: 德语\nJ: 芬兰语", "label": "E"}
+{"idx": 1657, "sentence": "阿富汗足球联合会是_的成员。\nA: 哈马斯\nB: 国际足联\nC: 翅膀\nD: 北约\nE: 中北美洲及加勒比海足球协会\nF: 联合国教科文组织\nG: 世界摔跤娱乐\nH: 复仇者联盟\nI: U2", "label": "B"}
+{"idx": 5109, "sentence": "安卡拉和_是姐妹城市。\nA: 洛桑\nB: 赫尔辛基\nC: 奥格斯堡\nD: 索菲亚\nE: 布莱顿\nF: 基尔\nG: 雅典\nH: 关岛\nI: 名古屋\nJ: 利兹", "label": "D"}
+{"idx": 2272, "sentence": "德国与_保持外交关系。\nA: 秘鲁\nB: 印度尼西亚\nC: 喀麦隆\nD: 塔吉克斯坦\nE: 摩尔多瓦\nF: 巴巴多斯\nG: 罗马尼亚\nH: 立陶宛\nI: 巴哈马\nJ: 卢森堡", "label": "C"}
+{"idx": 2029, "sentence": "波罗的海国家包括_。\nA: 奥地利\nB: 波兰\nC: 降水\nD: 有机体\nE: 音乐\nF: 歌剧\nG: 卢旺达\nH: 芬兰\nI: 谷物\nJ: 音乐剧", "label": "H"}
+{"idx": 3209, "sentence": "的黎波里是_的首都。\nA: 塔吉克斯坦\nB: 利比亚\nC: 匈牙利\nD: 吉尔吉斯斯坦\nE: 肯尼亚\nF: 卡塔尔\nG: 波兰\nH: 普罗旺斯\nI: 乌拉圭\nJ: 巴基斯坦", "label": "B"}
+{"idx": 4700, "sentence": "圣彼得堡和_是姐妹城市。\nA: 考文垂\nB: 亚历山大\nC: 托莱多\nD: 莫斯科\nE: 巴库\nF: 那不勒斯\nG: 布达佩斯\nH: 里加\nI: 多特蒙德\nJ: 利马", "label": "E"}
+{"idx": 3194, "sentence": "Windows Mobile 是由 _ 开发的。\nA: Adobe\nB: IBM\nC: 任天堂\nD: 英特尔\nE: 空中客车基础\nF: 苹果公司\nG: 谷歌\nH: 微软\nI: 波音\nJ: 诺基亚", "label": "H"}
+{"idx": 4453, "sentence": "伯明翰和_是姐妹城市。\nA: 圣地亚哥\nB: 莱比锡\nC: 罗萨里奥\nD: 波尔多\nE: 多特蒙德\nF: 约翰内斯堡\nG: 斯巴达\nH: 上海\nI: 奥格斯堡\nJ: 海法", "label": "B"}
+{"idx": 3616, "sentence": "喀尔巴阡山脉位于_。\nA: 奥地利\nB: 阿塞拜疆\nC: 俄罗斯\nD: 希腊\nE: 法国\nF: 阿富汗\nG: 葡萄牙\nH: 保加利亚\nI: 加拿大\nJ: 荷兰", "label": "A"}
+{"idx": 4574, "sentence": "雅典和_是姐妹城市。\nA: 托莱多\nB: 华沙\nC: 伦敦\nD: 巴里\nE: 安卡拉\nF: 纽卡斯尔\nG: 阿姆斯特丹\nH: 基尔\nI: 克利夫兰\nJ: 日内瓦", "label": "G"}
+{"idx": 2142, "sentence": "巴西与_保持外交关系。\nA: 格鲁吉亚\nB: 巴西\nC: 加拿大\nD: 亚美尼亚\nE: 加纳\nF: 也门\nG: 丹麦\nH: 智利\nI: 萨摩亚\nJ: 乌干达", "label": "H"}
+{"idx": 3877, "sentence": "弗雷迪·默丘里曾在_工作。\nA: 布拉格\nB: 柏林\nC: 布达佩斯\nD: 剑桥\nE: 罗马\nF: 巴塞罗那\nG: 多伦多\nH: 科隆\nI: 莱比锡\nJ: 慕尼黑", "label": "J"}
+{"idx": 4205, "sentence": "LOT波兰航空公司由_拥有。\nA: 雅虎\nB: 巴黎\nC: 亚马逊\nD: 芝加哥\nE: 阿姆斯特丹\nF: 波兰\nG: 利沃夫\nH: 德国\nI: 索尼\nJ: 谷歌", "label": "F"}
+{"idx": 3347, "sentence": "第戎是_的首都。\nA: 明尼苏达\nB: 夏威夷\nC: 卢森堡\nD: 肯尼亚\nE: 阿尔巴尼亚\nF: 尼日利亚\nG: 普罗旺斯\nH: 勃艮第\nI: 皮埃蒙特\nJ: 克罗地亚", "label": "H"}
+{"idx": 4377, "sentence": "河内和_是姐妹城市。\nA: 华沙\nB: 瓜达拉哈拉\nC: 罗马\nD: 斯图加特\nE: 亚历山大\nF: 布雷斯特\nG: 台北\nH: 托莱多\nI: 科隆\nJ: 安特卫普", "label": "A"}
+{"idx": 683, "sentence": "托利亚蒂的官方语言是_。\nA: 马其顿语\nB: 威尼斯语\nC: 马拉雅拉姆语\nD: 马耳他语\nE: 爱沙尼亚语\nF: 俄语\nG: 印地语\nH: 乌克兰语\nI: 西班牙语\nJ: 诺曼语", "label": "F"}
+{"idx": 5733, "sentence": "利古里亚的首都是_。\nA: 阿德莱德\nB: 达尔文\nC: 热那亚\nD: 曼彻斯特\nE: 赫尔辛基\nF: 俾斯麦\nG: 布拉格\nH: 那不勒斯\nI: 迈阿密\nJ: 洛桑", "label": "C"}
+{"idx": 2284, "sentence": "汤加与_保持外交关系。\nA: 意大利\nB: 瑞士\nC: 葡萄牙\nD: 土耳其\nE: 澳大利亚\nF: 斯洛文尼亚\nG: 伊拉克\nH: 马里\nI: 亚美尼亚\nJ: 拉脱维亚", "label": "E"}
+{"idx": 3590, "sentence": "Enrique Granados 演奏 _ 音乐。\nA: 爵士\nB: 诗歌\nC: 管弦乐\nD: 讽刺\nE: 歌剧\nF: 布鲁斯\nG: 放克\nH: 幻想\nI: 惊悚\nJ: 悲剧", "label": "E"}
+{"idx": 5655, "sentence": "都灵省的首都是_。\nA: 尼斯\nB: 奥克兰\nC: 巴比伦\nD: 哥本哈根\nE: 德黑兰\nF: 阿勒颇\nG: 勒克瑙\nH: 威尼斯\nI: 都灵\nJ: 巴塞罗那", "label": "I"}
+{"idx": 622, "sentence": "白俄罗斯苏维埃社会主义共和国的官方语言是_。\nA: 马耳他语\nB: 黑山语\nC: 波兰语\nD: 苏格兰语\nE: 英语\nF: 丹麦语\nG: 拉脱维亚语\nH: 爱沙尼亚语\nI: 印尼语\nJ: 西西里语", "label": "C"}
+{"idx": 4074, "sentence": "穆罕默德·阿里·真纳与 _ 宗教有关。\nA: 科学\nB: 伊斯兰教\nC: 佛教\nD: 基督教\nE: 犹太教\nF: 穆斯林\nG: 天主教\nH: 印度教", "label": "B"}
+{"idx": 2476, "sentence": "乌拉圭与_保持外交关系。\nA: 印度\nB: 安哥拉\nC: 巴西\nD: 加拿大\nE: 黎巴嫩\nF: 土耳其\nG: 意大利\nH: 叙利亚\nI: 突尼斯\nJ: 牙买加", "label": "D"}
+{"idx": 324, "sentence": "斯威士兰的官方语言是_。\nA: 英语\nB: 芬兰语\nC: 黑山语\nD: 克罗地亚语\nE: 阿塞拜疆语\nF: 诺曼语\nG: 威尼斯语\nH: 白俄罗斯语\nI: 匈牙利语\nJ: 法语", "label": "A"}
+{"idx": 1760, "sentence": "托勒密的工作领域是_。\nA: 恐怖主义\nB: 几何学\nC: 科学\nD: 鸟类\nE: 天文学家\nF: 剧作家\nG: 医学\nH: 拓扑学\nI: 数学家\nJ: 音乐家", "label": "I"}
+{"idx": 3879, "sentence": "埃米尔·阿道夫·冯·贝林曾在_工作。\nA: 慕尼黑\nB: 好莱坞\nC: 阿姆斯特丹\nD: 巴塞罗那\nE: 斯德哥尔摩\nF: 华沙\nG: 迈阿密\nH: 柏林\nI: 法兰克福\nJ: 佛罗伦萨", "label": "H"}
+{"idx": 325, "sentence": "欧洲联盟的官方语言是_。\nA: 爱尔兰语\nB: 夏威夷语\nC: 荷兰语\nD: 高棉语\nE: 威尼斯语\nF: 保加利亚语\nG: 蒙古语\nH: 阿塞拜疆语\nI: 斯洛文尼亚语\nJ: 立陶宛语", "label": "C"}
+{"idx": 6053, "sentence": "性二态性是_的一部分。\nA: 圣经\nB: 性别\nC: 木星\nD: 印度教\nE: 生态学\nF: 安第斯山脉\nG: 逻辑学\nH: 科学\nI: 耶路撒冷\nJ: 考古学", "label": "B"}
+{"idx": 2358, "sentence": "白俄罗斯与_保持外交关系。\nA: 土耳其\nB: 尼加拉瓜\nC: 马里\nD: 印度尼西亚\nE: 马达加斯加\nF: 瑞典\nG: 阿尔及利亚\nH: 格鲁吉亚\nI: 爱尔兰\nJ: 丹麦", "label": "I"}
+{"idx": 132, "sentence": "爱任纽死于_。\nA: 君士坦丁堡\nB: 底特律\nC: 莫斯科\nD: 伦敦\nE: 纽伦堡\nF: 佛罗伦萨\nG: 里昂\nH: 赫尔辛基\nI: 麦地那\nJ: 萨里", "label": "G"}
+{"idx": 691, "sentence": "多哥的官方语言是_。\nA: 爱尔兰语\nB: 西西里语\nC: 黑山语\nD: 保加利亚语\nE: 日语\nF: 威尼斯语\nG: 荷兰语\nH: 乌克兰语\nI: 拉丁语\nJ: 法语", "label": "J"}
+{"idx": 705, "sentence": "博奈尔岛的官方语言是_。\nA: 丹麦语\nB: 苏格兰语\nC: 立陶宛语\nD: 芬兰语\nE: 斯洛伐克语\nF: 荷兰语\nG: 孟加拉语\nH: 爱沙尼亚语\nI: 波斯语\nJ: 俄语", "label": "F"}
+{"idx": 1186, "sentence": "欧洲联盟与_接壤。\nA: 法国\nB: 安\nC: 希腊\nD: 老挝\nE: 白俄罗斯\nF: 巴拉圭\nG: 叙利亚\nH: 印度尼西亚\nI: 加纳\nJ: 尼加拉瓜", "label": "E"}
+{"idx": 408, "sentence": "纳粹德国的官方语言是_。\nA: 白俄罗斯语\nB: 苏格兰语\nC: 中文\nD: 罗马尼亚语\nE: 布列塔尼语\nF: 孟加拉语\nG: 斯洛伐克语\nH: 德语\nI: 塞尔维亚语\nJ: 葡萄牙语", "label": "H"}
+{"idx": 4349, "sentence": "伊斯坦布尔和_是姐妹城市。\nA: 伯明翰\nB: 雅典\nC: 地拉那\nD: 斯图加特\nE: 布伦瑞克\nF: 孟买\nG: 美因茨\nH: 温哥华\nI: 莫斯科\nJ: 名古屋", "label": "B"}
+{"idx": 2834, "sentence": "Emmanuelle Seigner 是 _ 公民。\nA: 印度\nB: 法国\nC: 波兰\nD: 卡塔尔\nE: 澳大利亚\nF: 保加利亚\nG: 库尔德斯坦\nH: 意大利\nI: 黎巴嫩\nJ: 法兰克福", "label": "B"}
+{"idx": 676, "sentence": "洛桑的官方语言是_。\nA: 加泰罗尼亚语\nB: 日语\nC: 埃及语\nD: 布列塔尼语\nE: 夏威夷语\nF: 法语\nG: 瑞典语\nH: 威尔士语\nI: 亚美尼亚语\nJ: 韩语", "label": "F"}
+{"idx": 3755, "sentence": "约翰二十三世的职位是_。\nA: 主教\nB: 大主教\nC: 经济学家\nD: 沙阿\nE: 红衣主教\nF: 上帝\nG: 市长\nH: 教皇\nI: 州长\nJ: 牧师", "label": "H"}
+{"idx": 811, "sentence": "梅诺卡岛的官方语言是_。\nA: 西班牙语\nB: 丹麦语\nC: 葡萄牙语\nD: 旁遮普语\nE: 马拉地语\nF: 马耳他语\nG: 希伯来语\nH: 波兰语\nI: 马其顿语\nJ: 保加利亚语", "label": "A"}
+{"idx": 4048, "sentence": "穆罕默德·伊克巴尔与 _ 宗教有关。\nA: 穆斯林\nB: 犹太教\nC: 伊斯兰教\nD: 佛教\nE: 印度教\nF: 科学\nG: 基督教\nH: 天主教", "label": "C"}
+{"idx": 5846, "sentence": "本州是_的一部分。\nA: 布列塔尼\nB: 海洋\nC: 北约\nD: 国防军\nE: 日本\nF: 科学\nG: 拓扑学\nH: 民主\nI: 神职人员\nJ: 市政", "label": "E"}
+{"idx": 4050, "sentence": "尼古拉斯五世与_宗教有关。\nA: 伊斯兰教\nB: 佛教\nC: 基督教\nD: 犹太教\nE: 科学\nF: 天主教\nG: 穆斯林\nH: 印度教", "label": "C"}
+{"idx": 5866, "sentence": "图论是_的一部分。\nA: 法国\nB: 会计\nC: 数学\nD: 北京\nE: 加勒比\nF: 电池\nG: 血液\nH: 金融\nI: 轨道\nJ: 北约", "label": "C"}
+{"idx": 4836, "sentence": "努尔苏丹和_是姐妹城市。\nA: 柏林\nB: 利物浦\nC: 巴格达\nD: 科隆\nE: 雅典\nF: 第比利斯\nG: 邓迪\nH: 塔林\nI: 布拉迪斯拉发\nJ: 迪拜酋长国", "label": "J"}
+{"idx": 4716, "sentence": "马德里和_是姐妹城市。\nA: 喀布尔\nB: 都柏林\nC: 上海\nD: 布拉格\nE: 达拉斯\nF: 卢布林\nG: 慕尼黑\nH: 埃里温\nI: 尼斯\nJ: 横滨", "label": "D"}
+{"idx": 1859, "sentence": "亚里士多德的职业是_。\nA: 演员\nB: 作曲家\nC: 数学家\nD: 钢琴家\nE: 剧作家\nF: 外交官\nG: 作词人\nH: 小说家\nI: 政治家\nJ: 天文学家", "label": "C"}
+{"idx": 1669, "sentence": "英国是_的成员。\nA: 翅膀乐队\nB: 中北美及加勒比海足球协会\nC: U2\nD: 世界摔跤娱乐公司\nE: 复仇者联盟\nF: 哈马斯\nG: 北大西洋公约组织\nH: 联合国教科文组织\nI: 国际足联", "label": "G"}
+{"idx": 5002, "sentence": "芝加哥和_是姐妹城市。\nA: 蒙特利尔\nB: 波士顿\nC: 维尔纽斯\nD: 伯明翰\nE: 多伦多\nF: 阿伯丁\nG: 拉各斯\nH: 利物浦\nI: 上海\nJ: 斯图加特", "label": "E"}
+{"idx": 3153, "sentence": "Pentium 是由 _ 开发的。\nA: 微软\nB: 英特尔\nC: 诺基亚\nD: 谷歌\nE: 波音\nF: IBM\nG: 空中客车基本\nH: Adobe\nI: 任天堂\nJ: 苹果公司", "label": "B"}
+{"idx": 371, "sentence": "伯尔尼州的官方语言是_。\nA: 法语\nB: 泰米尔语\nC: 德语\nD: 斯洛文尼亚语\nE: 白俄罗斯语\nF: 冰岛语\nG: 马其顿语\nH: 日语\nI: 马拉雅拉姆语\nJ: 孟加拉语", "label": "A"}
+{"idx": 1103, "sentence": "斯塔福德郡与_接壤。\nA: 捷克斯洛伐克\nB: 阿富汗\nC: 伍斯特郡\nD: 马来西亚\nE: 柴郡\nF: 佛罗里达\nG: 俄罗斯\nH: 越南\nI: 哈里亚纳邦\nJ: 哥伦比亚", "label": "E"}
+{"idx": 3540, "sentence": "米哈伊尔·霍多尔科夫斯基过去用_交流。\nA: 波斯语\nB: 俄语\nC: 中文\nD: 印尼语\nE: 匈牙利语\nF: 芬兰语\nG: 埃及语\nH: 波兰语\nI: 英语\nJ: 瑞典语", "label": "B"}
+{"idx": 1684, "sentence": "物理系统在_领域工作。\nA: 经济学\nB: 音乐家\nC: 拓扑学\nD: 歌剧\nE: 历史\nF: 物理学\nG: 地理\nH: 天文学家\nI: 恐怖主义\nJ: 心理学", "label": "F"}
+{"idx": 1963, "sentence": "硝酸由_组成。\nA: 铁\nB: 音乐剧\nC: 智利\nD: 大米\nE: 生物\nF: 罗马尼亚\nG: 氢\nH: 葡萄\nI: 原子\nJ: 乌拉圭", "label": "G"}
+{"idx": 3958, "sentence": "巴伐利亚曾在_工作。\nA: 鹿特丹\nB: 多伦多\nC: 布达佩斯\nD: 伯尔尼\nE: 匹兹堡\nF: 维也纳\nG: 底特律\nH: 柏林\nI: 米兰\nJ: 赫尔辛基", "label": "H"}
+{"idx": 5705, "sentence": "拉脱维亚的首都是_。\nA: 里加\nB: 内罗毕\nC: 巴黎\nD: 利沃夫\nE: 波士顿\nF: 里贾纳\nG: 布里斯班\nH: 阿德莱德\nI: 孟菲斯\nJ: 阿姆斯特丹", "label": "A"}
+{"idx": 168, "sentence": "可充电电池是_的一个子类。\nA: 生物学\nB: 艺术家\nC: 名人\nD: 电池\nE: 防御工事\nF: 桥梁\nG: 蛋白质\nH: 神话\nI: 煤炭\nJ: 火车", "label": "D"}
+{"idx": 4477, "sentence": "里斯本和_是姐妹城市。\nA: 达拉斯\nB: 芝加哥\nC: 斯特拉斯堡\nD: 基辅\nE: 蒙得维的亚\nF: 麦地那\nG: 米兰\nH: 那不勒斯\nI: 索尔兹伯里\nJ: 鹿特丹", "label": "E"}
+{"idx": 1407, "sentence": "伯克郡与_接壤。\nA: 格洛斯特郡\nB: 诺丁汉郡\nC: 挪威\nD: 以色列\nE: 威尔特郡\nF: 兰开夏郡\nG: 秘鲁\nH: 密歇根\nI: 四川\nJ: 乔治亚", "label": "E"}
+{"idx": 465, "sentence": "印第安纳州的官方语言是_。\nA: 法语\nB: 威尔士语\nC: 瑞典语\nD: 诺曼语\nE: 索马里语\nF: 英语\nG: 俄语\nH: 阿塞拜疆语\nI: 保加利亚语\nJ: 中文", "label": "F"}
+{"idx": 553, "sentence": "育空地区的官方语言是_。\nA: 埃及语\nB: 芬兰语\nC: 塞尔维亚语\nD: 拉脱维亚语\nE: 亚美尼亚语\nF: 英语\nG: 阿塞拜疆语\nH: 马拉雅拉姆语\nI: 瑞典语\nJ: 波兰语", "label": "F"}
+{"idx": 3615, "sentence": "沙夫豪森州位于_。\nA: 葡萄牙\nB: 爱尔兰\nC: 阿根廷\nD: 阿塞拜疆\nE: 加拿大\nF: 叙利亚\nG: 瑞士\nH: 日本\nI: 摩尔多瓦\nJ: 俄罗斯", "label": "G"}
+{"idx": 198, "sentence": "人造卫星是_的一个子类。\nA: 杀人\nB: 航天器\nC: 同性恋\nD: 民主\nE: 音乐家\nF: LGBT\nG: 教皇\nH: 星系\nI: 动脉\nJ: 防御工事", "label": "B"}
+{"idx": 3782, "sentence": "凯特·布什由音乐公司_代表。\nA: 摩城\nB: EMI", "label": "B"}
+{"idx": 2873, "sentence": "《第一滴血》是用_写的。\nA: 爱沙尼亚语\nB: 丹麦语\nC: 波兰语\nD: 西班牙语\nE: 英语\nF: 法语\nG: 意大利语\nH: 德语\nI: 保加利亚语\nJ: 克罗地亚语", "label": "E"}
+{"idx": 1559, "sentence": "汉堡包是以_命名的。\nA: 汉堡\nB: 墨西哥\nC: Unix\nD: 伯明翰\nE: 所罗门\nF: 爱尔兰\nG: 巴塞尔\nH: 法国\nI: 巴黎\nJ: 布列塔尼", "label": "A"}
+{"idx": 4864, "sentence": "墨西哥城和_是姐妹城市。\nA: 巴库\nB: 安卡拉\nC: 考文垂\nD: 里尔\nE: 都灵\nF: 基辅\nG: 华沙\nH: 休斯顿\nI: 多伦多\nJ: 日内瓦", "label": "F"}
+{"idx": 1562, "sentence": "新罕布什尔州以_命名。\nA: 罕布什尔\nB: 鼹鼠\nC: 旅馆\nD: 复活节\nE: 都灵\nF: 爱尔兰\nG: 圣诞节\nH: 巴黎\nI: 伦敦\nJ: 剑桥", "label": "A"}
+{"idx": 1869, "sentence": "洛佩·德·维加的职业是_。\nA: 剧作家\nB: 图书管理员\nC: 模特\nD: 作曲家\nE: 词曲作者\nF: 物理学家\nG: 天文学家\nH: 摄影师\nI: 数学家\nJ: 政治家", "label": "A"}
+{"idx": 4991, "sentence": "布宜诺斯艾利斯和_是姐妹城市。\nA: 圣地亚哥\nB: 迈阿密\nC: 米兰\nD: 威尼斯\nE: 斯特拉斯堡\nF: 布拉迪斯拉发\nG: 伦敦\nH: 斯巴达\nI: 维罗纳\nJ: 利马", "label": "B"}
+{"idx": 5428, "sentence": "EMI的总部在_。\nA: 德黑兰\nB: 莱比锡\nC: 巴黎\nD: 喀布尔\nE: 底特律\nF: 里昂\nG: 丰田\nH: 莫斯科\nI: 谢菲尔德\nJ: 伦敦", "label": "J"}
+{"idx": 230, "sentence": "大流行是_的一个子类。\nA: 神话\nB: 流行病\nC: 疾病\nD: 石英\nE: 火车\nF: 笔记本电脑\nG: 防御工事\nH: 蛋白质\nI: 狗\nJ: 牧师", "label": "B"}
+{"idx": 5140, "sentence": "那不勒斯和_是姐妹城市。\nA: 伯明翰\nB: 戛纳\nC: 美因茨\nD: 达卡\nE: 不伦瑞克\nF: 萨拉热窝\nG: 地拉那\nH: 博洛尼亚\nI: 大马士革\nJ: 索菲亚", "label": "F"}
+{"idx": 4275, "sentence": "夏奇拉的母语是_。\nA: 拉丁语\nB: 英语\nC: 西班牙语\nD: 法语\nE: 瑞典语\nF: 希伯来语\nG: 意大利语\nH: 荷兰语\nI: 波兰语\nJ: 泰米尔语", "label": "C"}
+{"idx": 2498, "sentence": "波兰与_保持外交关系。\nA: 白俄罗斯\nB: 澳大利亚\nC: 保加利亚\nD: 挪威\nE: 法国\nF: 玻利维亚\nG: 葡萄牙\nH: 约旦\nI: 马耳他\nJ: 西班牙", "label": "B"}
+{"idx": 1945, "sentence": "化石燃料由_组成。\nA: 钙\nB: 历史\nC: 生物学\nD: 石油\nE: 红色\nF: 面粉\nG: 空间\nH: 出埃及记\nI: 牛奶\nJ: 句法", "label": "D"}
+{"idx": 3817, "sentence": "罗马式艺术位于_。\nA: 利比亚\nB: 匈牙利\nC: 里斯本\nD: 柏林\nE: 大洋洲\nF: 欧洲\nG: 戛纳\nH: 荷兰\nI: 蒙古\nJ: 威尼斯", "label": "F"}
+{"idx": 1777, "sentence": "皮埃尔·居里从事的领域是_。\nA: 爵士乐\nB: 经济学\nC: 小说家\nD: 心理学\nE: 物理学\nF: 哲学\nG: 剧作家\nH: 考古学\nI: 神学\nJ: 几何学", "label": "E"}
+{"idx": 1374, "sentence": "罗马尼亚与_接壤。\nA: 赫尔辛基\nB: 古吉拉特邦\nC: 马哈拉施特拉邦\nD: 爱达荷州\nE: 乌克兰\nF: 佛兰德\nG: 德文郡\nH: 俄罗斯\nI: 皇后区\nJ: 玻利维亚", "label": "E"}
+{"idx": 2619, "sentence": "赞比亚与_保持外交关系。\nA: 洪都拉斯\nB: 亚美尼亚\nC: 尼加拉瓜\nD: 新加坡\nE: 爱尔兰\nF: 哈萨克斯坦\nG: 斯洛文尼亚\nH: 俄罗斯\nI: 挪威\nJ: 斯洛伐克", "label": "H"}
+{"idx": 5853, "sentence": "分子生物学是_的一部分。\nA: 印度教\nB: 西西里\nC: 机场\nD: 物种\nE: 地球\nF: 布列塔尼\nG: 生物学\nH: 法律\nI: 圣经\nJ: 巴洛克", "label": "G"}
+{"idx": 926, "sentence": "摩尔多瓦与_接壤。\nA: 阿根廷\nB: 日本\nC: 埃塞克斯\nD: 阿尔伯塔\nE: 伯利兹\nF: 俾斯麦\nG: 罗马尼亚\nH: 泰国\nI: 明尼阿波利斯\nJ: 沃里克郡", "label": "G"}
+{"idx": 17, "sentence": "科学在_领域工作。\nA: 生态学\nB: 鸟类\nC: 音乐家\nD: 心理学\nE: 几何学\nF: 科学\nG: 神学\nH: 逻辑学\nI: 爵士乐\nJ: 天文学家", "label": "F"}
+{"idx": 1513, "sentence": "巴塞尔-兰茨克莱是以_命名的。\nA: 咖啡\nB: 巴塞尔\nC: 所罗门\nD: 弗蕾亚\nE: 太阳\nF: 汉普郡\nG: 柏拉图\nH: 维纳斯\nI: 佛兰德斯\nJ: 珀斯", "label": "B"}
+{"idx": 3386, "sentence": "纳什维尔是_的首都。\nA: 尼日利亚\nB: 埃塞俄比亚\nC: 田纳西\nD: 旁遮普\nE: 荷兰\nF: 黎巴嫩\nG: 英格兰王国\nH: 巴伐利亚\nI: 魁北克\nJ: 孟加拉国", "label": "C"}
+{"idx": 1268, "sentence": "重庆与_接壤。\nA: 密苏里\nB: 蒙古\nC: 马拉维\nD: 肯塔基\nE: 墨西哥\nF: 赫勒纳\nG: 林肯郡\nH: 四川\nI: 温莎\nJ: 保加利亚", "label": "H"}
+{"idx": 5011, "sentence": "圣多明各和_是姐妹城市。\nA: 上海\nB: 蒙得维的亚\nC: 地拉那\nD: 蒙特利尔\nE: 里斯本\nF: 开罗\nG: 巴塞罗那\nH: 利物浦\nI: 明斯克\nJ: 卡拉奇", "label": "G"}
+{"idx": 4355, "sentence": "乌日霍罗德和_是姐妹城市。\nA: 卢布尔雅那\nB: 尼斯\nC: 维也纳\nD: 费城\nE: 莫斯科\nF: 广州\nG: 布莱顿\nH: 索非亚\nI: 汤加\nJ: 地拉那", "label": "E"}
+{"idx": 1379, "sentence": "沃里克郡与_接壤。\nA: 维多利亚\nB: 北安普敦郡\nC: 法国\nD: 挪威\nE: 德比郡\nF: 海德堡\nG: 意大利\nH: 德克萨斯州\nI: 斯洛文尼亚\nJ: 印度尼西亚", "label": "B"}
+{"idx": 2922, "sentence": "塞尔维亚维基百科是用_写的。\nA: 荷兰语\nB: 俄语\nC: 德语\nD: 塞尔维亚语\nE: 越南语\nF: 土耳其语\nG: 英语\nH: 拉丁语\nI: 芬兰语\nJ: 保加利亚语", "label": "D"}
+{"idx": 4862, "sentence": "特里尔和_是姐妹城市。\nA: 卡尔加里\nB: 内罗毕\nC: 多伦多\nD: 纽卡斯尔\nE: 丹佛\nF: 新加坡\nG: 阿尔伯塔\nH: 梅斯\nI: 剑桥\nJ: 卡拉奇", "label": "H"}
+{"idx": 5194, "sentence": "朴茨茅斯和_是姐妹城市。\nA: 京都\nB: 悉尼\nC: 雅加达\nD: 新加坡\nE: 美因茨\nF: 加拉加斯\nG: 拉合尔\nH: 阿尔伯塔\nI: 瓦伦西亚\nJ: 纽卡斯尔", "label": "B"}
+{"idx": 2833, "sentence": "英格兰的伊丽莎白一世是 _ 公民。\nA: 印度\nB: 加拿大\nC: 波兰\nD: 丹麦\nE: 英格兰王国\nF: 瑞典\nG: 奥地利\nH: 法国\nI: 西班牙\nJ: 阿根廷", "label": "E"}
+{"idx": 5167, "sentence": "拉各斯和_是姐妹城市。\nA: 爱丁堡\nB: 波尔多\nC: 萨尔茨堡\nD: 布加勒斯特\nE: 利物浦\nF: 布达佩斯\nG: 布里斯托尔\nH: 迪拜酋长国\nI: 美因河畔法兰克福\nJ: 帕尔马", "label": "D"}
+{"idx": 2932, "sentence": "波西米亚狂想曲是用_写的。\nA: 法语\nB: 瑞典语\nC: 荷兰语\nD: 芬兰语\nE: 俄语\nF: 保加利亚语\nG: 德语\nH: 丹麦语\nI: 克罗地亚语\nJ: 英语", "label": "J"}
+{"idx": 4912, "sentence": "维尔纽斯和_是姐妹城市。\nA: 休斯顿\nB: 明斯克\nC: 爱丁堡\nD: 奥尔巴尼\nE: 温哥华\nF: 萨格勒布\nG: 悉尼\nH: 阿德莱德\nI: 布加勒斯特\nJ: 布拉迪斯拉发", "label": "B"}
+{"idx": 5537, "sentence": "古巴的首都是_。\nA: 俾斯麦\nB: 莫斯科\nC: 斯特拉斯堡\nD: 夏延\nE: 达尔文\nF: 多伦多\nG: 哈瓦那\nH: 卢布尔雅那\nI: 布里斯班\nJ: 蒙得维的亚", "label": "G"}
+{"idx": 4925, "sentence": "奥克兰和_是姐妹城市。\nA: 布里斯托尔\nB: 孟买\nC: 图卢兹\nD: 萨摩亚\nE: 巴勒莫\nF: 麦地那\nG: 堪培拉\nH: 德黑兰\nI: 邓迪\nJ: 美因河畔法兰克福", "label": "D"}
+{"idx": 2798, "sentence": "LaFerrari 是由_生产的。\nA: 法拉利\nB: 微软\nC: 空中客车基础\nD: 英特尔\nE: 上帝\nF: 波音\nG: 宝马\nH: 丰田\nI: 本田\nJ: 任天堂", "label": "A"}
+{"idx": 3799, "sentence": "1956年匈牙利革命发生在_。\nA: 布列斯特\nB: 匈牙利\nC: 高加索\nD: 亚特兰大\nE: 苏格兰\nF: 南京\nG: 也门\nH: 里斯本\nI: 哈萨克斯坦\nJ: 爱沙尼亚", "label": "B"}
+{"idx": 2893, "sentence": "《雾都孤儿》是用_写的。\nA: 爱沙尼亚语\nB: 丹麦语\nC: 瑞典语\nD: 加泰罗尼亚语\nE: 波兰语\nF: 克罗地亚语\nG: 英语\nH: 韩语\nI: 法语\nJ: 俄语", "label": "G"}
+{"idx": 4552, "sentence": "德班和_是姐妹城市。\nA: 加的夫\nB: 图卢兹\nC: 美因河畔法兰克福\nD: 巴黎\nE: 马尼拉\nF: 丹佛\nG: 布雷斯特\nH: 阿德莱德\nI: 帕尔马\nJ: 约翰内斯堡", "label": "J"}
+{"idx": 1844, "sentence": "杰克·休斯顿的职业是_。\nA: 政治家\nB: 图书管理员\nC: 哲学家\nD: 记者\nE: 作词人\nF: 演员\nG: 编剧\nH: 诗人\nI: 小说家\nJ: 天文学家", "label": "F"}
+{"idx": 4004, "sentence": "约翰·克里斯蒂安·巴赫曾在_工作。\nA: 索菲亚\nB: 伯明翰\nC: 佛罗伦萨\nD: 波恩\nE: 巴塞罗那\nF: 迈阿密\nG: 米兰\nH: 剑桥\nI: 耶路撒冷\nJ: 哥本哈根", "label": "G"}
+{"idx": 5189, "sentence": "纽卡斯尔和_是姐妹城市。\nA: 日内瓦\nB: 科隆\nC: 横滨\nD: 罗萨里奥\nE: 利物浦\nF: 锡耶纳\nG: 波尔图\nH: 魁北克\nI: 纽卡斯尔\nJ: 卢布林", "label": "I"}
+{"idx": 5370, "sentence": "墨西哥国旗是_中的一个法律术语。\nA: 台湾\nB: 西班牙\nC: 伊拉克\nD: 爱尔兰\nE: 墨西哥\nF: 新加坡\nG: 荷兰\nH: 俄罗斯\nI: 阿尔巴尼亚\nJ: 意大利", "label": "E"}
+{"idx": 655, "sentence": "冰岛的官方语言是_。\nA: 冰岛语\nB: 马来语\nC: 西西里语\nD: 斯洛伐克语\nE: 蒙古语\nF: 爱沙尼亚语\nG: 荷兰语\nH: 埃及语\nI: 希伯来语\nJ: 希腊语", "label": "A"}
+{"idx": 2860, "sentence": "Meddle 是用 _ 写的。\nA: 孟加拉语\nB: 意大利语\nC: 德语\nD: 英语\nE: 丹麦语\nF: 土耳其语\nG: 韩语\nH: 西班牙语\nI: 保加利亚语\nJ: 法语", "label": "D"}
+{"idx": 393, "sentence": "埃里温的官方语言是_。\nA: 孟加拉语\nB: 亚美尼亚语\nC: 德语\nD: 匈牙利语\nE: 威尼斯语\nF: 布列塔尼语\nG: 波斯语\nH: 拉脱维亚语\nI: 瑞典语\nJ: 白俄罗斯语", "label": "B"}
+{"idx": 2542, "sentence": "德国与_保持外交关系。\nA: 委内瑞拉\nB: 意大利\nC: 乌拉圭\nD: 亚美尼亚\nE: 蒙古\nF: 越南\nG: 塞浦路斯\nH: 加蓬\nI: 葡萄牙\nJ: 利比亚", "label": "G"}
+{"idx": 279, "sentence": "京都府的官方语言是_。\nA: 英语\nB: 罗马尼亚语\nC: 阿塞拜疆语\nD: 日语\nE: 乌尔都语\nF: 意大利语\nG: 捷克语\nH: 埃及语\nI: 马来语\nJ: 波兰语", "label": "D"}
+{"idx": 3203, "sentence": "巴塞罗那是_的首都。\nA: 科罗拉多\nB: 巴林\nC: 托斯卡纳\nD: 四川\nE: 老挝\nF: 卢森堡\nG: 加泰罗尼亚\nH: 迪拜酋长国\nI: 伯利兹\nJ: 约旦", "label": "G"}
+{"idx": 5514, "sentence": "西西里王国的首都是_。\nA: 横滨\nB: 乔治敦\nC: 雅典\nD: 德里\nE: 布拉格\nF: 埃里温\nG: 威斯敏斯特\nH: 巴勒莫\nI: 哥伦比亚\nJ: 广州", "label": "H"}
+{"idx": 4906, "sentence": "维尔纽斯和_是姐妹城市。\nA: 布拉格\nB: 科伦坡\nC: 埃里温\nD: 达卡\nE: 广州\nF: 索尔兹伯里\nG: 慕尼黑\nH: 剑桥\nI: 塔林\nJ: 基尔", "label": "A"}
+{"idx": 1892, "sentence": "氢氧化钾由_组成。\nA: 钾\nB: 托拉\nC: 石油\nD: 匈牙利\nE: 出埃及记\nF: 澳大利亚\nG: 太空\nH: 亚洲\nI: 葡萄\nJ: 火星", "label": "A"}
+{"idx": 2163, "sentence": "冰岛与_保持外交关系。\nA: 尼泊尔\nB: 瑞典\nC: 摩纳哥\nD: 阿塞拜疆\nE: 莫桑比克\nF: 立陶宛\nG: 埃及\nH: 土耳其\nI: 意大利\nJ: 澳大利亚", "label": "I"}
+{"idx": 996, "sentence": "丹麦与_接壤。\nA: 乌克兰\nB: 韦拉克鲁斯\nC: 洛林\nD: 萨斯喀彻温\nE: 林肯郡\nF: 加利福尼亚\nG: 挪威\nH: 尼加拉瓜\nI: 加纳\nJ: 哈里亚纳", "label": "G"}
+{"idx": 14, "sentence": "爱尔兰足球协会是_的成员。\nA: 国际足球联合会\nB: 北约\nC: 中北美洲及加勒比海足球协会\nD: 哈马斯\nE: 复仇者联盟\nF: 联合国教科文组织\nG: 翅膀\nH: U2\nI: 世界摔跤娱乐", "label": "A"}
+{"idx": 4419, "sentence": "台北和_是姐妹城市。\nA: 慕尼黑\nB: 华沙\nC: 敖德萨\nD: 米兰\nE: 利马\nF: 台北\nG: 卢布尔雅那\nH: 莫斯科\nI: 科隆\nJ: 墨尔本", "label": "B"}
+{"idx": 3089, "sentence": "马哈拉施特拉邦位于_。\nA: 非洲\nB: 欧洲\nC: 亚洲\nD: 大洋洲\nE: 美洲\nF: 南极洲", "label": "C"}
+{"idx": 3705, "sentence": "大流士三世的职位是_。\nA: 牧师\nB: 州长\nC: 市长\nD: 大主教\nE: 红衣主教\nF: 经济学家\nG: 上帝\nH: 主教\nI: 教皇\nJ: 沙阿", "label": "J"}
+{"idx": 2276, "sentence": "澳大利亚与_保持外交关系。\nA: 莫桑比克\nB: 博茨瓦纳\nC: 孟加拉国\nD: 巴西\nE: 芬兰\nF: 克罗地亚\nG: 喀麦隆\nH: 斯洛伐克\nI: 尼加拉瓜\nJ: 也门", "label": "F"}
+{"idx": 561, "sentence": "北卡罗来纳州的官方语言是_。\nA: 威尼斯语\nB: 英语\nC: 芬兰语\nD: 孟加拉语\nE: 德语\nF: 印尼语\nG: 马拉地语\nH: 泰语\nI: 泰卢固语\nJ: 黑山语", "label": "B"}
+{"idx": 530, "sentence": "卢甘斯克州的官方语言是_。\nA: 泰卢固语\nB: 巴斯克语\nC: 波斯语\nD: 罗马尼亚语\nE: 泰米尔语\nF: 乌尔都语\nG: 阿塞拜疆语\nH: 马来语\nI: 俄语\nJ: 埃及语", "label": "I"}
+{"idx": 410, "sentence": "阿拉贡的官方语言是_。\nA: 阿塞拜疆语\nB: 印尼语\nC: 加泰罗尼亚语\nD: 马拉地语\nE: 威尼斯语\nF: 布列塔尼语\nG: 立陶宛语\nH: 西班牙语\nI: 巴斯克语\nJ: 日语", "label": "H"}
+{"idx": 5606, "sentence": "亚利桑那州的首都是_。\nA: 蒙得维的亚\nB: 孟菲斯\nC: 君士坦丁堡\nD: 菲尼克斯\nE: 根特\nF: 巴黎\nG: 科伦坡\nH: 卡迪夫\nI: 亚丁\nJ: 利沃夫", "label": "D"}
+{"idx": 1632, "sentence": "罗马尼亚是_的成员。\nA: 复仇者联盟\nB: 中北美洲及加勒比海足球协会\nC: 翅膀\nD: U2\nE: 北大西洋公约组织\nF: 国际足联\nG: 哈马斯\nH: 世界摔跤娱乐\nI: 联合国教科文组织", "label": "E"}
+{"idx": 604, "sentence": "巴厘岛的官方语言是_。\nA: 印度尼西亚语\nB: 荷兰语\nC: 拉丁语\nD: 巴斯克语\nE: 威尔士语\nF: 罗马尼亚语\nG: 索马里语\nH: 阿尔巴尼亚语\nI: 尼泊尔语\nJ: 芬兰语", "label": "A"}
+{"idx": 1543, "sentence": "维多利亚湖是以_命名的。\nA: 日内瓦\nB: 直布罗陀\nC: 孟加拉\nD: 爱尔兰\nE: 马赛\nF: 维多利亚女王\nG: 伦敦\nH: 因河\nI: 猎户座\nJ: 江户", "label": "F"}
+{"idx": 4669, "sentence": "鹿特丹和_是姐妹城市。\nA: 加拉加斯\nB: 京都\nC: 芝加哥\nD: 柏林\nE: 布拉迪斯拉发\nF: 戈尔韦\nG: 基辅\nH: 奥斯陆\nI: 明斯克\nJ: 阿尔及尔", "label": "E"}
+{"idx": 65, "sentence": "英格兰的爱德华一世出生在_。\nA: 多伦多\nB: 日内瓦\nC: 科隆\nD: 亚美尼亚\nE: 麦地那\nF: 威斯敏斯特\nG: 维也纳\nH: 布鲁克林\nI: 米兰\nJ: 莫斯科", "label": "F"}
+{"idx": 2908, "sentence": "《终结者：创世纪》是用_写的。\nA: 英语\nB: 德语\nC: 保加利亚语\nD: 孟加拉语\nE: 意大利语\nF: 匈牙利语\nG: 爱沙尼亚语\nH: 法语\nI: 荷兰语\nJ: 拉丁语", "label": "A"}
+{"idx": 1310, "sentence": "希腊与_接壤。\nA: 葡萄牙\nB: 威斯康星\nC: 林肯郡\nD: 阿尔巴尼亚\nE: 马里\nF: 俄克拉荷马\nG: 苏丹\nH: 纳米比亚\nI: 阿富汗\nJ: 育空", "label": "D"}
+{"idx": 4829, "sentence": "雅典和_是姐妹城市。\nA: 托莱多\nB: 孟买\nC: 贝鲁特\nD: 雅典\nE: 波尔图\nF: 开罗\nG: 慕尼黑\nH: 阿德莱德\nI: 德里\nJ: 斯巴达", "label": "D"}
+{"idx": 2240, "sentence": "加拿大与_保持外交关系。\nA: 叙利亚\nB: 塞浦路斯\nC: 利比亚\nD: 挪威\nE: 巴哈马\nF: 伯利兹\nG: 蒙古\nH: 科威特\nI: 越南\nJ: 马里", "label": "D"}
+{"idx": 6048, "sentence": "会计是_的一部分。\nA: 社会学\nB: 基因组\nC: 印度教\nD: 圣经\nE: 生物学\nF: 安第斯山脉\nG: 几何\nH: 经济学\nI: 金融\nJ: 电池", "label": "I"}
+{"idx": 351, "sentence": "欧洲安全与合作组织的官方语言是_。\nA: 印地语\nB: 阿塞拜疆语\nC: 法语\nD: 加泰罗尼亚语\nE: 旁遮普语\nF: 荷兰语\nG: 印尼语\nH: 诺曼语\nI: 保加利亚语\nJ: 罗马尼亚语", "label": "C"}
+{"idx": 1172, "sentence": "乌兹别克斯坦与_接壤。\nA: 塔吉克斯坦\nB: 土耳其\nC: 沃里克郡\nD: 路易斯安那州\nE: 赞比亚\nF: 吉尔吉斯斯坦\nG: 塞浦路斯\nH: 加蓬\nI: 巴基斯坦\nJ: 肯塔基州", "label": "A"}
+{"idx": 5620, "sentence": "西西里酋长国的首都是_。\nA: 牛津\nB: 北京\nC: 迈阿密\nD: 康科德\nE: 埃德蒙顿\nF: 加拉加斯\nG: 华沙\nH: 基辅\nI: 温彻斯特\nJ: 巴勒莫", "label": "J"}
+{"idx": 4994, "sentence": "鹿特丹和_是姐妹城市。\nA: 谢菲尔德\nB: 巴勒莫\nC: 波尔图\nD: 伦敦\nE: 雅加达\nF: 休斯顿\nG: 迈阿密\nH: 米兰\nI: 马德里\nJ: 里尔", "label": "J"}
+{"idx": 4054, "sentence": "侯赛因·伊本·阿里与 _ 宗教有关。\nA: 科学\nB: 天主教\nC: 佛教\nD: 印度教\nE: 穆斯林\nF: 犹太教\nG: 基督教\nH: 伊斯兰教", "label": "H"}
+{"idx": 3340, "sentence": "明斯克是_的首都。\nA: 拉脱维亚\nB: 斯洛文尼亚\nC: 白俄罗斯\nD: 阿尔伯塔\nE: 格陵兰\nF: 魁北克\nG: 文莱\nH: 德国\nI: 芬兰\nJ: 诺曼底", "label": "C"}
+{"idx": 1769, "sentence": "贾里德·戴蒙德从事_领域的工作。\nA: 逻辑学\nB: 地质学\nC: 科学\nD: 生态学\nE: 物理学\nF: 化学\nG: 网站\nH: 种族隔离\nI: 天文学家\nJ: 考古学", "label": "D"}
+{"idx": 3412, "sentence": "华盛顿大学位于_。\nA: 伊拉克\nB: 荷兰\nC: 俄罗斯\nD: 马里兰\nE: 西雅图\nF: 塞尔维亚\nG: 达拉斯\nH: 德克萨斯\nI: 萨克森\nJ: 英格兰王国", "label": "E"}
+{"idx": 5297, "sentence": "加拿大总理是_的法律术语。\nA: 墨西哥\nB: 土耳其\nC: 摩纳哥\nD: 荷兰\nE: 加拿大\nF: 伊拉克\nG: 爱尔兰\nH: 索马里\nI: 乌克兰\nJ: 日本", "label": "E"}
+{"idx": 88, "sentence": "罗莎·帕克斯死于_。\nA: 雅典\nB: 伊斯坦布尔\nC: 斯德哥尔摩\nD: 麦迪逊\nE: 底特律\nF: 开罗\nG: 巴格达\nH: 马德里\nI: 柏林\nJ: 巴黎", "label": "E"}
+{"idx": 625, "sentence": "阿尔泰边疆区的官方语言是_。\nA: 拉脱维亚语\nB: 白俄罗斯语\nC: 罗马尼亚语\nD: 马其顿语\nE: 乌克兰语\nF: 法语\nG: 亚美尼亚语\nH: 希腊语\nI: 俄语\nJ: 泰卢固语", "label": "I"}
+{"idx": 2488, "sentence": "阿尔巴尼亚与_保持外交关系。\nA: 意大利\nB: 日本\nC: 摩洛哥\nD: 马达加斯加\nE: 墨西哥\nF: 贝宁\nG: 塞尔维亚\nH: 伊拉克\nI: 肯尼亚\nJ: 斯洛伐克", "label": "A"}
+{"idx": 3269, "sentence": "墨西哥城是_的首都。\nA: 西班牙\nB: 撒丁岛\nC: 墨西哥\nD: 古吉拉特\nE: 阿塞拜疆\nF: 利比里亚\nG: 亚美尼亚\nH: 比哈尔\nI: 安大略\nJ: 佛罗里达", "label": "C"}
+{"idx": 5633, "sentence": "巴勒莫省的首都是_。\nA: 德里\nB: 蒙哥马利\nC: 瓜达拉哈拉\nD: 汉密尔顿\nE: 特伦顿\nF: 雅加达\nG: 大马士革\nH: 萨克拉门托\nI: 渥太华\nJ: 巴勒莫", "label": "J"}
+{"idx": 2960, "sentence": "捷克斯洛伐克位于_。\nA: 美洲\nB: 南极洲\nC: 非洲\nD: 大洋洲\nE: 欧洲\nF: 亚洲", "label": "E"}
+{"idx": 5314, "sentence": "法国总理是_的法律术语。\nA: 新加坡\nB: 法国\nC: 菲律宾\nD: 伊拉克\nE: 克罗地亚\nF: 巴基斯坦\nG: 土耳其\nH: 葡萄牙\nI: 荷兰\nJ: 印度", "label": "B"}
+{"idx": 763, "sentence": "波多黎各的官方语言是_。\nA: 英语\nB: 拉脱维亚语\nC: 中文\nD: 西班牙语\nE: 丹麦语\nF: 意大利语\nG: 土耳其语\nH: 印尼语\nI: 威尔士语\nJ: 捷克语", "label": "D"}
+{"idx": 3198, "sentence": "安卡拉是_的首都。\nA: 菲律宾\nB: 土耳其\nC: 波兰\nD: 阿肯色州\nE: 格陵兰\nF: 德国\nG: 利比亚\nH: 拉脱维亚\nI: 塞内加尔\nJ: 赞比亚", "label": "B"}
+{"idx": 3158, "sentence": "Windows 2000 是由 _ 开发的。\nA: 微软\nB: 英特尔\nC: 苹果公司\nD: 波音\nE: 任天堂\nF: 空中客车基础\nG: IBM\nH: 诺基亚\nI: 谷歌\nJ: Adobe", "label": "A"}
+{"idx": 3815, "sentence": "2012年夏季奥运会位于_。\nA: 克里特岛\nB: 英格兰王国\nC: 比利时\nD: 伊朗\nE: 戛纳\nF: 希腊\nG: 伊斯坦布尔\nH: 伦敦\nI: 热那亚\nJ: 立陶宛", "label": "H"}
+{"idx": 969, "sentence": "利比亚与_接壤。\nA: 韦拉克鲁斯\nB: 首尔\nC: 伊利诺伊州\nD: 亚美尼亚\nE: 葡萄牙\nF: 海地\nG: 新加坡\nH: 蒙大拿州\nI: 德比郡\nJ: 阿尔及利亚", "label": "J"}
+{"idx": 4411, "sentence": "高雄和_是姐妹城市。\nA: 曼谷\nB: 哈瓦那\nC: 北京\nD: 马赛\nE: 布里斯班\nF: 巴里\nG: 莫斯科\nH: 不来梅\nI: 华沙\nJ: 纽伦堡", "label": "E"}
+{"idx": 1599, "sentence": "《查理周刊》的原始语言是_。\nA: 俄语\nB: 英语\nC: 芬兰语\nD: 希腊语\nE: 荷兰语\nF: 意大利语\nG: 法语\nH: 德语", "label": "G"}
+{"idx": 1261, "sentence": "智利与_接壤。\nA: 蒙大拿\nB: 温莎\nC: 塔吉克斯坦\nD: 育空\nE: 密西西比\nF: 俄罗斯\nG: 玻利维亚\nH: 菲律宾\nI: 危地马拉\nJ: 奥斯陆", "label": "G"}
+{"idx": 420, "sentence": "贝内卢克斯的官方语言是_。\nA: 芬兰语\nB: 斯洛文尼亚语\nC: 亚美尼亚语\nD: 阿塞拜疆语\nE: 尼泊尔语\nF: 中文\nG: 荷兰语\nH: 法语\nI: 印地语\nJ: 阿尔巴尼亚语", "label": "H"}
+{"idx": 3612, "sentence": "哈塞克省位于_。\nA: 荷兰\nB: 也门\nC: 俄罗斯\nD: 土耳其\nE: 巴西\nF: 海地\nG: 奥地利\nH: 叙利亚\nI: 印度尼西亚\nJ: 埃及", "label": "H"}
+{"idx": 3914, "sentence": "罗莎·卢森堡曾在_工作。\nA: 鹿特丹\nB: 罗马\nC: 底特律\nD: 波恩\nE: 美因河畔法兰克福\nF: 巴黎\nG: 斯德哥尔摩\nH: 克利夫兰\nI: 柏林\nJ: 赫尔辛基", "label": "I"}
+{"idx": 373, "sentence": "莫斯科大公国的官方语言是_。\nA: 俄语\nB: 诺曼语\nC: 希腊语\nD: 马拉地语\nE: 黑山语\nF: 爱尔兰语\nG: 拉脱维亚语\nH: 葡萄牙语\nI: 法语\nJ: 土耳其语", "label": "A"}
+{"idx": 4936, "sentence": "圣萨尔瓦多和_是姐妹城市。\nA: 拉合尔\nB: 第比利斯\nC: 西雅图\nD: 德黑兰\nE: 雅典\nF: 基督城\nG: 塔林\nH: 美因茨\nI: 安特卫普\nJ: 加拉加斯", "label": "J"}
+{"idx": 3625, "sentence": "古根海姆博物馆位于_。\nA: 西班牙\nB: 海地\nC: 巴西\nD: 埃及\nE: 瑞士\nF: 波兰\nG: 保加利亚\nH: 加拿大\nI: 摩尔多瓦\nJ: 爱尔兰", "label": "A"}
+{"idx": 5961, "sentence": "雅歌是_的一部分。\nA: 历史\nB: 生物学\nC: 佛教\nD: 斯堪的纳维亚\nE: 伊斯兰教\nF: 圣经\nG: 骨骼\nH: 炮兵\nI: 美洲\nJ: 安第斯山脉", "label": "F"}
+{"idx": 2589, "sentence": "德国与_保持外交关系。\nA: 尼泊尔\nB: 德国\nC: 俄罗斯\nD: 索马里\nE: 塞浦路斯\nF: 希腊\nG: 土耳其\nH: 厄瓜多尔\nI: 印度\nJ: 挪威", "label": "F"}
+{"idx": 3080, "sentence": "柬埔寨位于_。\nA: 大洋洲\nB: 美洲\nC: 欧洲\nD: 亚洲\nE: 非洲\nF: 南极洲", "label": "D"}
+{"idx": 586, "sentence": "欧洲联盟的官方语言是_。\nA: 索马里语\nB: 爱沙尼亚语\nC: 泰米尔语\nD: 希伯来语\nE: 捷克语\nF: 马其顿语\nG: 德语\nH: 尼泊尔语\nI: 巴斯克语\nJ: 土耳其语", "label": "E"}
+{"idx": 4915, "sentence": "科隆和_是姊妹城市。\nA: 威尼斯\nB: 谢菲尔德\nC: 直布罗陀\nD: 法兰克福\nE: 北京\nF: 曼彻斯特\nG: 拉各斯\nH: 尼斯\nI: 巴塞罗那\nJ: 哈瓦那", "label": "E"}
+{"idx": 181, "sentence": "促红细胞生成素是_的一个子类。\nA: 狗\nB: 植物\nC: 望远镜\nD: 物理\nE: 葡萄酒\nF: 通信\nG: 气候\nH: 步兵\nI: 钟表\nJ: 蛋白质", "label": "J"}
+{"idx": 4710, "sentence": "澳门和_是姊妹城市。\nA: 美因茨\nB: 汉堡\nC: 麦地那\nD: 利沃夫\nE: 索尔兹伯里\nF: 阿德莱德\nG: 萨摩亚\nH: 米兰\nI: 波尔图\nJ: 纽卡斯尔", "label": "I"}
+{"idx": 6058, "sentence": "水文学是_的一部分。\nA: 三位一体\nB: 会计\nC: 议会\nD: 市政\nE: 生物学\nF: 海洋\nG: 巴洛克\nH: 闪米特\nI: 斯堪的纳维亚\nJ: 地质学", "label": "J"}
+{"idx": 865, "sentence": "阿布·迪亚比在 _ 位置上踢球。\nA: 中场\nB: 后卫\nC: 前锋", "label": "A"}
+{"idx": 4557, "sentence": "吉隆坡和_是姐妹城市。\nA: 巴塞罗那\nB: 阿尔及尔\nC: 布里斯托尔\nD: 哥本哈根\nE: 萨尔茨堡\nF: 魁北克\nG: 奥斯陆\nH: 埃里温\nI: 安卡拉\nJ: 墨尔本", "label": "I"}
+{"idx": 1042, "sentence": "尼日利亚与_接壤。\nA: 皇后区\nB: 布伦瑞克\nC: 尼泊尔\nD: 维也纳\nE: 智利\nF: 卢森堡\nG: 尼加拉瓜\nH: 埃恩\nI: 喀麦隆\nJ: 布鲁克林", "label": "I"}
+{"idx": 4367, "sentence": "纽约市和_是姐妹城市。\nA: 慕尼黑\nB: 里加\nC: 克利夫兰\nD: 卢布林\nE: 底特律\nF: 斯德哥尔摩\nG: 迈阿密\nH: 塞萨洛尼基\nI: 博尔德\nJ: 雅加达", "label": "J"}
+{"idx": 2107, "sentence": "硫酸由_组成。\nA: 硫\nB: 哥伦比亚\nC: 神学\nD: 突变\nE: 红色\nF: 卢森堡\nG: 冰岛\nH: 乌拉圭\nI: 黑山\nJ: 法国", "label": "A"}
+{"idx": 5137, "sentence": "悉尼和_是姐妹城市。\nA: 都灵\nB: 首尔\nC: 德里\nD: 拉合尔\nE: 佛罗伦萨\nF: 奥克兰\nG: 塔林\nH: 底特律\nI: 都柏林\nJ: 明尼阿波利斯", "label": "E"}
+{"idx": 3336, "sentence": "科威特城是_的首都。\nA: 日本\nB: 马来西亚\nC: 科威特\nD: 萨克森\nE: 佛兰德\nF: 也门\nG: 危地马拉\nH: 乌兹别克斯坦\nI: 巴西\nJ: 亚美尼亚", "label": "C"}
+{"idx": 3682, "sentence": "Vitalian 的职位是 _。\nA: 经济学家\nB: 州长\nC: 上帝\nD: 大主教\nE: 教皇\nF: 红衣主教\nG: 市长\nH: 沙阿\nI: 主教\nJ: 牧师", "label": "E"}
+{"idx": 4502, "sentence": "萨拉热窝和_是姐妹城市。\nA: 贝尔格莱德\nB: 安特卫普\nC: 不来梅\nD: 休斯顿\nE: 塞维利亚\nF: 考文垂\nG: 都灵\nH: 克利夫兰\nI: 地拉那\nJ: 维尔纽斯", "label": "I"}
+{"idx": 4791, "sentence": "波士顿和_是姐妹城市。\nA: 维尔纽斯\nB: 波尔图\nC: 日内瓦\nD: 迪拜酋长国\nE: 明斯克\nF: 卡尔加里\nG: 台北\nH: 首尔\nI: 名古屋\nJ: 梅斯", "label": "G"}
+{"idx": 5096, "sentence": "新加坡和_是姐妹城市。\nA: 谢菲尔德\nB: 马尼拉\nC: 维罗纳\nD: 索非亚\nE: 阿德莱德\nF: 威尼斯\nG: 惠灵顿\nH: 关岛\nI: 直布罗陀\nJ: 德累斯顿", "label": "I"}
+{"idx": 1499, "sentence": "硒是以_命名的。\nA: 月亮\nB: 巴林\nC: 芬兰\nD: 滑铁卢\nE: 开罗\nF: 海王星\nG: 莱斯特\nH: 汉普郡\nI: 哥本哈根\nJ: 维多利亚女王", "label": "A"}
+{"idx": 681, "sentence": "加告兹亚的官方语言是_。\nA: 印地语\nB: 马耳他语\nC: 爱尔兰语\nD: 俄语\nE: 意大利语\nF: 诺曼语\nG: 希伯来语\nH: 爱沙尼亚语\nI: 越南语\nJ: 英语", "label": "D"}
+{"idx": 2135, "sentence": "赞比亚与_保持外交关系。\nA: 卢森堡\nB: 巴哈马\nC: 阿塞拜疆\nD: 澳大利亚\nE: 保加利亚\nF: 西班牙\nG: 圭亚那\nH: 智利\nI: 哈萨克斯坦\nJ: 斯洛文尼亚", "label": "D"}
+{"idx": 4375, "sentence": "布宜诺斯艾利斯和_是姐妹城市。\nA: 美因茨\nB: 巴勒莫\nC: 基辅\nD: 哈瓦那\nE: 斯德哥尔摩\nF: 德黑兰\nG: 安特卫普\nH: 布达佩斯\nI: 伯明翰\nJ: 广岛", "label": "C"}
+{"idx": 1741, "sentence": "朱利安·施温格尔的工作领域是_。\nA: 社会学\nB: 拓扑学\nC: 神学\nD: 化学\nE: 科学\nF: 物理学\nG: 生理学\nH: 地理学\nI: 解剖学\nJ: 语言学", "label": "F"}
+{"idx": 1451, "sentence": "中央邦与_接壤。\nA: 蒙古\nB: 老挝\nC: 秘鲁\nD: 拉贾斯坦邦\nE: 田纳西\nF: 阿拉贡\nG: 英格兰\nH: 魁北克\nI: 乌克兰\nJ: 怀俄明", "label": "D"}
+{"idx": 3246, "sentence": "广州是_的首都。\nA: 巴伐利亚\nB: 乌克兰\nC: 四川\nD: 赞比亚\nE: 叙利亚\nF: 萨克森\nG: 文莱\nH: 阿尔巴\nI: 巴西\nJ: 广东", "label": "J"}
+{"idx": 4118, "sentence": "英格兰的爱德华一世与 _ 宗教有关。\nA: 佛教\nB: 伊斯兰教\nC: 印度教\nD: 科学\nE: 天主教\nF: 穆斯林\nG: 犹太教\nH: 基督教", "label": "H"}
+{"idx": 5876, "sentence": "细胞生物学是_的一部分。\nA: 生理学\nB: 染色体\nC: 骨骼\nD: 马萨诸塞州\nE: 生物学\nF: 民主\nG: 厕所\nH: 艺术\nI: 物种\nJ: 神职人员", "label": "E"}
+{"idx": 2024, "sentence": "氰化物阴离子由_组成。\nA: 氮\nB: 击剑\nC: 意大利\nD: 罗马尼亚\nE: 语言\nF: 钙\nG: 奥地利\nH: W\nI: 摩纳哥\nJ: 卢旺达", "label": "A"}
+{"idx": 805, "sentence": "阿尔泰共和国的官方语言是_。\nA: 希伯来语\nB: 日语\nC: 俄语\nD: 爱沙尼亚语\nE: 法语\nF: 加泰罗尼亚语\nG: 印尼语\nH: 布列塔尼语\nI: 越南语\nJ: 马拉雅拉姆语", "label": "C"}
+{"idx": 1973, "sentence": "盟友包括_。\nA: 马戏团\nB: 音乐剧\nC: 卢旺达\nD: 歌剧\nE: 加拿大\nF: 比利时\nG: 重力\nH: 出埃及记\nI: 匈牙利\nJ: 地球", "label": "E"}
+{"idx": 5748, "sentence": "英格兰王国的首都是_。\nA: 杰克逊\nB: 华沙\nC: 沃特福德\nD: 檀香山\nE: 科克\nF: 索菲亚\nG: 京都\nH: 伦敦\nI: 珀斯\nJ: 班加罗尔", "label": "H"}
+{"idx": 15, "sentence": "威尔士足球协会是_的成员。\nA: 国际足球联合会\nB: 哈马斯\nC: 世界摔跤娱乐\nD: 翅膀\nE: 复仇者联盟\nF: 中北美及加勒比海足球协会\nG: U2\nH: 联合国教科文组织\nI: 北约", "label": "A"}
+{"idx": 5479, "sentence": "南澳大利亚的首都是_。\nA: 孟菲斯\nB: 那不勒斯\nC: 地拉那\nD: 洛桑\nE: 赫里福德\nF: 加的夫\nG: 阿德莱德\nH: 首尔\nI: 江户\nJ: 查尔斯顿", "label": "G"}
+{"idx": 5219, "sentence": "莫斯科和_是姐妹城市。\nA: 诺丁汉\nB: 塞萨洛尼基\nC: 北京\nD: 京都\nE: 阿伯丁\nF: 布拉迪斯拉发\nG: 基尔\nH: 那不勒斯\nI: 斯图加特\nJ: 萨尔茨堡", "label": "C"}
+{"idx": 4032, "sentence": "伊本·赫勒敦与 _ 宗教有关。\nA: 佛教\nB: 伊斯兰教\nC: 穆斯林\nD: 基督教\nE: 天主教\nF: 科学\nG: 犹太教\nH: 印度教", "label": "B"}
+{"idx": 4743, "sentence": "伦敦和_是姐妹城市。\nA: 北京\nB: 开罗\nC: 悉尼\nD: 弗拉基米尔\nE: 东京\nF: 台北\nG: 利物浦\nH: 约翰内斯堡\nI: 都柏林\nJ: 汤加", "label": "A"}
+{"idx": 3349, "sentence": "俄克拉荷马城是_的首都。\nA: 加拿大\nB: 哈萨克斯坦\nC: 科罗拉多\nD: 墨西哥\nE: 俄克拉荷马州\nF: 莱斯特郡\nG: 爱沙尼亚\nH: 马萨诸塞州\nI: 牛津郡\nJ: 津巴布韦", "label": "E"}
+{"idx": 5817, "sentence": "费耶诺德成立于_。\nA: 鹿特丹\nB: 西雅图\nC: 迈阿密\nD: 曼彻斯特\nE: 柏林\nF: 伯明翰\nG: 东京\nH: 英格兰\nI: 赫尔辛基\nJ: 底特律", "label": "A"}
+{"idx": 5599, "sentence": "爱尔兰王国的首都是_。\nA: 锡耶纳\nB: 普罗维登斯\nC: 都柏林\nD: 哥伦布\nE: 广州\nF: 卢布尔雅那\nG: 名古屋\nH: 布里斯班\nI: 渥太华\nJ: 加拉加斯", "label": "C"}
+{"idx": 2456, "sentence": "美国与_保持外交关系。\nA: 津巴布韦\nB: 马里\nC: 马拉维\nD: 意大利\nE: 挪威\nF: 爱沙尼亚\nG: 斯洛文尼亚\nH: 科威特\nI: 尼日利亚\nJ: 波兰", "label": "D"}
+{"idx": 2575, "sentence": "突尼斯与_保持外交关系。\nA: 土耳其\nB: 瑞士\nC: 苏丹\nD: 毛里求斯\nE: 秘鲁\nF: 委内瑞拉\nG: 法国\nH: 葡萄牙\nI: 马来西亚\nJ: 印度", "label": "G"}
+{"idx": 3545, "sentence": "史蒂夫·乔布斯为_工作。\nA: 德国\nB: 任天堂\nC: 亚历山德里亚\nD: 雅虎\nE: 谷歌\nF: 英国广播公司\nG: 苹果公司\nH: WWE\nI: 微软\nJ: 柏林", "label": "G"}
+{"idx": 1322, "sentence": "莫雷洛斯与_接壤。\nA: 格雷罗\nB: 柬埔寨\nC: 葡萄牙\nD: 罗马尼亚\nE: 伊拉克\nF: 德文\nG: 亚利桑那\nH: 喀麦隆\nI: 加蓬\nJ: 维也纳", "label": "A"}
+{"idx": 1729, "sentence": "亨利·卡文迪什从事_领域的工作。\nA: 考古学\nB: 解剖学\nC: 物理学\nD: 音乐家\nE: 遗传学\nF: 历史\nG: 网站\nH: 数学\nI: 鸟类\nJ: 地质学", "label": "C"}
+{"idx": 2463, "sentence": "乌克兰与_保持外交关系。\nA: 蒙古\nB: 玻利维亚\nC: 利比亚\nD: 德国\nE: 汤加\nF: 立陶宛\nG: 科威特\nH: 澳大利亚\nI: 塞尔维亚\nJ: 挪威", "label": "J"}
+{"idx": 1220, "sentence": "冈比亚与_接壤。\nA: 柴郡\nB: 塞内加尔\nC: 奥斯陆\nD: 苏格兰\nE: 明尼阿波利斯\nF: 弗吉尼亚\nG: 萨默塞特\nH: 埃及\nI: 巴基斯坦\nJ: 保加利亚", "label": "B"}
+{"idx": 3014, "sentence": "沃斯托克湖位于_。\nA: 南极洲\nB: 非洲\nC: 欧洲\nD: 亚洲\nE: 美洲\nF: 大洋洲", "label": "A"}
+{"idx": 5032, "sentence": "索菲亚和_是姐妹城市。\nA: 布里斯班\nB: 惠灵顿\nC: 阿姆斯特丹\nD: 达拉斯\nE: 布拉迪斯拉发\nF: 埃里温\nG: 塔林\nH: 丹佛\nI: 萨格勒布\nJ: 堪培拉", "label": "E"}
+{"idx": 1235, "sentence": "委内瑞拉与_接壤。\nA: 巴伐利亚\nB: 科索沃\nC: 拉贾斯坦邦\nD: 俄勒冈州\nE: 台湾\nF: 宾夕法尼亚州\nG: 法国\nH: 卢旺达\nI: 皇后区\nJ: 吉尔吉斯斯坦", "label": "G"}
+{"idx": 1654, "sentence": "波兰是_的成员。\nA: 复仇者联盟\nB: 北大西洋公约组织\nC: U2\nD: 联合国教科文组织\nE: 翅膀\nF: FIFA\nG: WWE\nH: 哈马斯\nI: 中北美洲及加勒比海足球协会", "label": "B"}
+{"idx": 1755, "sentence": "朝永振一郎从事的领域是_。\nA: 心理学\nB: 物理学\nC: 科学\nD: 地质学\nE: 神学\nF: 经济学家\nG: 天文学家\nH: 哲学\nI: 逻辑学\nJ: 佛教", "label": "B"}
+{"idx": 4041, "sentence": "基督复临安息日会隶属于 _ 宗教。\nA: 佛教\nB: 犹太教\nC: 伊斯兰教\nD: 科学\nE: 印度教\nF: 穆斯林\nG: 天主教\nH: 基督教", "label": "H"}
+{"idx": 5292, "sentence": "布拉迪斯拉发和_是姐妹城市。\nA: 安卡拉\nB: 内罗毕\nC: 蒙特利尔\nD: 布达佩斯\nE: 奥格斯堡\nF: 鹿特丹\nG: 基督城\nH: 布拉格\nI: 尼斯\nJ: 萨尔茨堡", "label": "H"}
+{"idx": 4677, "sentence": "丹佛和_是姐妹城市。\nA: 德黑兰\nB: 汤加\nC: 布达佩斯\nD: 曼彻斯特\nE: 尼斯\nF: 布雷斯特\nG: 阿伯丁\nH: 加拉加斯\nI: 都柏林\nJ: 京都", "label": "F"}
+{"idx": 1971, "sentence": "申根区由_组成。\nA: 原子\nB: 印度\nC: 木星\nD: 谷物\nE: 语言\nF: 奥地利\nG: 降水\nH: 拉脱维亚\nI: 太阳\nJ: 硫磺", "label": "H"}
+{"idx": 696, "sentence": "尼古拉耶夫州的官方语言是_。\nA: 丹麦语\nB: 乌尔都语\nC: 印地语\nD: 威尼斯语\nE: 西班牙语\nF: 马耳他语\nG: 爱沙尼亚语\nH: 乌克兰语\nI: 波斯语\nJ: 意大利语", "label": "H"}
+{"idx": 712, "sentence": "欧洲安全与合作组织的官方语言是_。\nA: 乌尔都语\nB: 黑山语\nC: 西班牙语\nD: 德语\nE: 塞尔维亚语\nF: 爱尔兰语\nG: 罗马尼亚语\nH: 白俄罗斯语\nI: 巴斯克语\nJ: 加泰罗尼亚语", "label": "C"}
+{"idx": 8, "sentence": "韦斯利·斯内德在_位置上踢球。\nA: 中场\nB: 前锋\nC: 后卫", "label": "A"}
+{"idx": 2732, "sentence": "澳大利亚与_保持外交关系。\nA: 伯利兹\nB: 葡萄牙\nC: 危地马拉\nD: 约旦\nE: 卢旺达\nF: 德国\nG: 巴西\nH: 印度\nI: 阿尔及利亚\nJ: 阿尔巴尼亚", "label": "G"}
+{"idx": 2879, "sentence": "捷克维基百科是用_写的。\nA: 捷克语\nB: 克罗地亚语\nC: 瑞典语\nD: 爱沙尼亚语\nE: 越南语\nF: 孟加拉语\nG: 意大利语\nH: 法语\nI: 乌克兰语\nJ: 韩语", "label": "A"}
+{"idx": 3382, "sentence": "廷布是_的首都。\nA: 塔斯马尼亚\nB: 黑森\nC: 不丹\nD: 匈牙利\nE: 捷克斯洛伐克\nF: 马拉维\nG: 丹麦\nH: 印度\nI: 卢森堡\nJ: 越南", "label": "C"}
+{"idx": 1244, "sentence": "科特迪瓦与_接壤。\nA: 加纳\nB: 黑森\nC: 维多利亚\nD: 弗吉尼亚\nE: 俄亥俄\nF: 上海\nG: 海德堡\nH: 俄勒冈\nI: 莱斯特郡\nJ: 奥斯陆", "label": "A"}
+{"idx": 4219, "sentence": "俄罗斯人的母语是_。\nA: 英语\nB: 波兰语\nC: 西班牙语\nD: 日语\nE: 意大利语\nF: 荷兰语\nG: 法语\nH: 泰米尔语\nI: 丹麦语\nJ: 俄语", "label": "J"}
+{"idx": 549, "sentence": "加利福尼亚的官方语言是_。\nA: 捷克语\nB: 诺曼语\nC: 拉丁语\nD: 匈牙利语\nE: 英语\nF: 越南语\nG: 波兰语\nH: 克罗地亚语\nI: 法语\nJ: 威尼斯语", "label": "E"}
+{"idx": 5359, "sentence": "克罗地亚的国旗是_中的一个法律术语。\nA: 牙买加\nB: 挪威\nC: 葡萄牙\nD: 马来西亚\nE: 德国\nF: 海地\nG: 克罗地亚\nH: 索马里\nI: 加拿大\nJ: 阿根廷", "label": "G"}
+{"idx": 2845, "sentence": "威尔士亲王亚瑟是 _ 公民。\nA: 瑞典\nB: 阿根廷\nC: 爱尔兰\nD: 卡塔尔\nE: 波兰\nF: 西班牙\nG: 英格兰王国\nH: 意大利\nI: 挪威\nJ: 库尔德斯坦", "label": "G"}
+{"idx": 4715, "sentence": "雅典和_是姐妹城市。\nA: 大马士革\nB: 卢布尔雅那\nC: 阿尔伯塔\nD: 都柏林\nE: 维罗纳\nF: 布里斯班\nG: 奥斯陆\nH: 索非亚\nI: 索尔兹伯里\nJ: 关岛", "label": "A"}
+{"idx": 426, "sentence": "萨哈共和国的官方语言是_。\nA: 埃及语\nB: 爱沙尼亚语\nC: 爱尔兰语\nD: 阿塞拜疆语\nE: 希腊语\nF: 蒙古语\nG: 拉脱维亚语\nH: 越南语\nI: 俄语\nJ: 旁遮普语", "label": "I"}
+{"idx": 33, "sentence": "吉达和_是姐妹城市。\nA: 阿姆斯特丹\nB: 新加坡\nC: 伦敦\nD: 奥克兰\nE: 西雅图\nF: 海法\nG: 卡尔加里\nH: 孟买\nI: 塞萨洛尼基\nJ: 敖德萨", "label": "J"}
+{"idx": 3721, "sentence": "约翰·加尔文的职位是_。\nA: 红衣主教\nB: 牧师\nC: 沙阿\nD: 主教\nE: 大主教\nF: 上帝\nG: 州长\nH: 教皇\nI: 市长\nJ: 经济学家", "label": "B"}
+{"idx": 44, "sentence": "化学键是_的一部分。\nA: 日本\nB: 北京\nC: 伊斯兰教\nD: 电子邮件\nE: 分子\nF: 原子\nG: 鞍\nH: 国防军\nI: 黑森州\nJ: 轨道", "label": "E"}
+{"idx": 1498, "sentence": "斯堪的纳维亚半岛以_命名。\nA: 柏拉图\nB: 斯堪的纳维亚\nC: 法兰克\nD: 维纳斯\nE: 卢顿\nF: 巴黎\nG: 塞纳河\nH: 阿波罗\nI: 伯明翰\nJ: 曼彻斯特", "label": "B"}
+{"idx": 710, "sentence": "蒙特塞拉特的官方语言是_。\nA: 斯洛伐克语\nB: 希腊语\nC: 泰语\nD: 加泰罗尼亚语\nE: 英语\nF: 丹麦语\nG: 高棉语\nH: 索马里语\nI: 拉脱维亚语\nJ: 蒙古语", "label": "E"}
+{"idx": 2292, "sentence": "德国与_保持外交关系。\nA: 菲律宾\nB: 马来西亚\nC: 巴基斯坦\nD: 哈萨克斯坦\nE: 阿富汗\nF: 博茨瓦纳\nG: 瑞士\nH: 阿尔及利亚\nI: 乌兹别克斯坦\nJ: 比利时", "label": "J"}
+{"idx": 5867, "sentence": "DNA 是 _ 的一部分。\nA: 数学\nB: 法律\nC: 原子\nD: 基因组\nE: 统计学\nF: 厕所\nG: 圣经\nH: 农业\nI: 电视\nJ: 轨道", "label": "D"}
+{"idx": 5080, "sentence": "慕尼黑和_是姐妹城市。\nA: 加尔各答\nB: 基辅\nC: 巴库\nD: 德里\nE: 诺丁汉\nF: 波尔多\nG: 开罗\nH: 克利夫兰\nI: 丹佛\nJ: 埃里温", "label": "F"}
+{"idx": 4515, "sentence": "雅典和_是姐妹城市。\nA: 哈瓦那\nB: 达拉斯\nC: 巴哈马\nD: 博尔德\nE: 巴塞罗那\nF: 汉堡\nG: 首尔\nH: 西雅图\nI: 美因河畔法兰克福\nJ: 芝加哥", "label": "E"}
+{"idx": 1090, "sentence": "索马里与_接壤。\nA: 佛蒙特州\nB: 智利\nC: 维也纳\nD: 犹他州\nE: 爱达荷州\nF: 肯尼亚\nG: 危地马拉\nH: 爱荷华州\nI: 威尔士\nJ: 兰开夏", "label": "F"}
+{"idx": 1383, "sentence": "莱斯特郡与_接壤。\nA: 萨默塞特\nB: 智利\nC: 玻利维亚\nD: 肯尼亚\nE: 诺丁汉郡\nF: 萨福克\nG: 那不勒斯\nH: 海地\nI: 科罗拉多\nJ: 柴郡", "label": "E"}
+{"idx": 3481, "sentence": "萨尔瓦多·阿连德过去常用_交流。\nA: 荷兰语\nB: 阿塞拜疆语\nC: 印尼语\nD: 瑞典语\nE: 罗马尼亚语\nF: 意大利语\nG: 匈牙利语\nH: 拉丁语\nI: 挪威语\nJ: 西班牙语", "label": "J"}
+{"idx": 63, "sentence": "丹尼斯·法里纳出生在_。\nA: 莫斯科\nB: 马德里\nC: 亚美尼亚\nD: 柏林\nE: 米兰\nF: 伊斯坦布尔\nG: 芝加哥\nH: 那不勒斯\nI: 贝尔法斯特\nJ: 多伦多", "label": "G"}
+{"idx": 4387, "sentence": "安卡拉和_是姐妹城市。\nA: 直布罗陀\nB: 爱丁堡\nC: 明斯克\nD: 安特卫普\nE: 基督城\nF: 索菲亚\nG: 戛纳\nH: 萨拉热窝\nI: 马尼拉\nJ: 休斯顿", "label": "H"}
+{"idx": 2306, "sentence": "意大利与_保持外交关系。\nA: 拉脱维亚\nB: 卡塔尔\nC: 法国\nD: 爱尔兰\nE: 乌干达\nF: 葡萄牙\nG: 摩尔多瓦\nH: 巴西\nI: 不丹\nJ: 泰国", "label": "C"}
+{"idx": 3660, "sentence": "Imperia 位于 _。\nA: 也门\nB: 爱尔兰\nC: 法国\nD: 乌兹别克斯坦\nE: 俄罗斯\nF: 意大利\nG: 埃及\nH: 保加利亚\nI: 印度\nJ: 德国", "label": "F"}
+{"idx": 1566, "sentence": "科隆大教堂以_命名。\nA: 曼彻斯特\nB: 三一\nC: 彼得\nD: 卢瓦尔\nE: 直布罗陀\nF: 爱尔兰\nG: 珀斯\nH: 波兰\nI: 广岛\nJ: 鼹鼠", "label": "C"}
+{"idx": 1022, "sentence": "图林根与_接壤。\nA: 科索沃\nB: 阿拉斯加\nC: 明尼阿波利斯\nD: 巴伐利亚\nE: 赞比亚\nF: 加拿大\nG: 俄亥俄州\nH: 古吉拉特邦\nI: 埃及\nJ: 萨默塞特", "label": "D"}
+{"idx": 4927, "sentence": "米兰和_是姐妹城市。\nA: 布拉格\nB: 里加\nC: 丹佛\nD: 广岛\nE: 那不勒斯\nF: 卡迪夫\nG: 伊斯坦布尔\nH: 基辅\nI: 里斯本\nJ: 索尔兹伯里", "label": "E"}
+{"idx": 5931, "sentence": "光学是_的一部分。\nA: 安第斯山脉\nB: 物理学\nC: 圣经\nD: 计算机\nE: 斯堪的纳维亚\nF: 教育\nG: 妥拉\nH: 市政\nI: 巴洛克\nJ: 轨道", "label": "B"}
+{"idx": 5835, "sentence": "算法是_的一部分。\nA: 数学\nB: 伦理学\nC: 民主\nD: 日本\nE: 眼睛\nF: 分子\nG: 鞍\nH: 神经\nI: 互联网\nJ: 社会学", "label": "A"}
+{"idx": 2683, "sentence": "中非共和国与_保持外交关系。\nA: 贝宁\nB: 斯洛伐克\nC: 海地\nD: 尼加拉瓜\nE: 厄瓜多尔\nF: 乍得\nG: 卡塔尔\nH: 捷克斯洛伐克\nI: 喀麦隆\nJ: 苏丹", "label": "I"}
+{"idx": 2377, "sentence": "意大利与_保持外交关系。\nA: 尼泊尔\nB: 阿根廷\nC: 新加坡\nD: 冰岛\nE: 匈牙利\nF: 土耳其\nG: 奥地利\nH: 巴巴多斯\nI: 委内瑞拉\nJ: 尼日利亚", "label": "E"}
+{"idx": 3200, "sentence": "巴库是_的首都。\nA: 尼日尔\nB: 阿塞拜疆\nC: 丹麦\nD: 也门\nE: 博茨瓦纳\nF: 索马里\nG: 马哈拉施特拉邦\nH: 乌克兰\nI: 比利时\nJ: 荷兰", "label": "B"}
+{"idx": 3806, "sentence": "克里特岛战役位于_。\nA: 曼哈顿\nB: 巴塞罗那\nC: 叙利亚\nD: 匈牙利\nE: 马德里\nF: 克里特\nG: 诺曼底\nH: 科威特\nI: 滑铁卢\nJ: 悉尼", "label": "F"}
+{"idx": 932, "sentence": "马拉维与_接壤。\nA: 多塞特\nB: 尼泊尔\nC: 苏丹\nD: 明尼苏达\nE: 尼加拉瓜\nF: 加利福尼亚\nG: 德里\nH: 坦桑尼亚\nI: 东京\nJ: 哈里亚纳", "label": "H"}
+{"idx": 5422, "sentence": "椒盐卷饼是在_创造的。\nA: 英格兰\nB: 意大利\nC: 墨西哥\nD: 比利时\nE: 德国\nF: 土耳其\nG: 法国\nH: 爱尔兰\nI: 苏格兰\nJ: 日本", "label": "E"}
+{"idx": 1835, "sentence": "波伊提乌斯的职业是_。\nA: 演员\nB: 钢琴家\nC: 哲学家\nD: 政治家\nE: 外交官\nF: 诗人\nG: 天文学家\nH: 模特\nI: 小说家\nJ: 物理学家", "label": "C"}
+{"idx": 3693, "sentence": "圣瓦伦丁的职位是_。\nA: 红衣主教\nB: 经济学家\nC: 教皇\nD: 牧师\nE: 大主教\nF: 主教\nG: 州长\nH: 神\nI: 市长\nJ: 沙阿", "label": "F"}
+{"idx": 3534, "sentence": "克里斯汀·斯科特·托马斯过去常用_交流。\nA: 德语\nB: 芬兰语\nC: 埃及语\nD: 阿塞拜疆语\nE: 法语\nF: 匈牙利语\nG: 罗马尼亚语\nH: 意大利语\nI: 荷兰语\nJ: 瑞典语", "label": "E"}
+{"idx": 5668, "sentence": "奥地利的首都是_。\nA: 名古屋\nB: 加拉加斯\nC: 巴里\nD: 马德里\nE: 江户\nF: 贝鲁特\nG: 里加\nH: 班加罗尔\nI: 印第安纳波利斯\nJ: 维也纳", "label": "J"}
+{"idx": 1371, "sentence": "布隆迪与_接壤。\nA: 萨福克\nB: 卢旺达\nC: 阿富汗\nD: 维多利亚\nE: 明斯克\nF: 斯塔福德郡\nG: 昆士兰\nH: 哈里亚纳邦\nI: 希腊\nJ: 萨尔茨堡", "label": "B"}
+{"idx": 1765, "sentence": "詹姆斯·克拉克·麦克斯韦工作的领域是_。\nA: 心理学\nB: 地理学\nC: 医学\nD: 经济学\nE: 物理学\nF: 生物学\nG: 恐怖主义\nH: 天文学\nI: 佛教\nJ: 歌剧", "label": "E"}
+{"idx": 2298, "sentence": "泰国与_保持外交关系。\nA: 卡塔尔\nB: 土耳其\nC: 贝宁\nD: 莫桑比克\nE: 比利时\nF: 瑞士\nG: 博茨瓦纳\nH: 赞比亚\nI: 澳大利亚\nJ: 阿根廷", "label": "I"}
+{"idx": 2858, "sentence": "马里奥·蒙蒂是_公民。\nA: 西班牙\nB: 爱尔兰\nC: 印度\nD: 卡塔尔\nE: 法国\nF: 德国\nG: 保加利亚\nH: 英格兰王国\nI: 丹麦\nJ: 意大利", "label": "J"}
+{"idx": 5678, "sentence": "锡拉丘兹省的首都是_。\nA: 德累斯顿\nB: 威斯敏斯特\nC: 里贾纳\nD: 金斯顿\nE: 查尔斯顿\nF: 锡拉丘兹\nG: 渥太华\nH: 沃特福德\nI: 康科德\nJ: 东京", "label": "F"}
+{"idx": 3917, "sentence": "马丁·布伯曾在_工作。\nA: 耶路撒冷\nB: 莱比锡\nC: 柏林\nD: 汉堡\nE: 莫斯科\nF: 科隆\nG: 好莱坞\nH: 斯德哥尔摩\nI: 布拉格\nJ: 索菲亚", "label": "A"}
+{"idx": 881, "sentence": "阿德南·贾努扎伊在 _ 位置上踢球。\nA: 中场\nB: 前锋\nC: 后卫", "label": "A"}
+{"idx": 4077, "sentence": "阿列维派与_宗教有关。\nA: 天主教\nB: 伊斯兰教\nC: 犹太教\nD: 印度教\nE: 穆斯林\nF: 科学\nG: 基督教\nH: 佛教", "label": "B"}
+{"idx": 4679, "sentence": "墨尔本和_是姐妹城市。\nA: 奥格斯堡\nB: 拉各斯\nC: 奥克兰\nD: 基辅\nE: 塞维利亚\nF: 里斯本\nG: 丹佛\nH: 澳门\nI: 米兰\nJ: 那不勒斯", "label": "I"}
+{"idx": 4462, "sentence": "雅加达和_是姐妹城市。\nA: 华沙\nB: 上海\nC: 雅加达\nD: 第比利斯\nE: 卢布尔雅那\nF: 底特律\nG: 埃里温\nH: 哈瓦那\nI: 莫斯科\nJ: 萨拉热窝", "label": "I"}
+{"idx": 964, "sentence": "德比郡与_接壤。\nA: 亚历山德里亚\nB: 萨默塞特郡\nC: 内布拉斯加州\nD: 德国\nE: 匈牙利\nF: 黑森州\nG: 俄亥俄州\nH: 莱斯特郡\nI: 波兰\nJ: 英格兰", "label": "H"}
+{"idx": 473, "sentence": "米凯利的官方语言是_。\nA: 马其顿语\nB: 泰米尔语\nC: 黑山语\nD: 马拉地语\nE: 埃及语\nF: 芬兰语\nG: 乌尔都语\nH: 白俄罗斯语\nI: 阿塞拜疆语\nJ: 诺曼语", "label": "F"}
+{"idx": 2418, "sentence": "巴西与_保持外交关系。\nA: 乌克兰\nB: 突尼斯\nC: 阿根廷\nD: 塔吉克斯坦\nE: 萨摩亚\nF: 格鲁吉亚\nG: 莫桑比克\nH: 黎巴嫩\nI: 奥地利\nJ: 塞浦路斯", "label": "H"}
+{"idx": 5897, "sentence": "丹麦是 _ 的一部分。\nA: 外交\nB: 南极洲\nC: 斯堪的纳维亚\nD: 生物学\nE: 银河\nF: 地质学\nG: 基因组\nH: 马鞍\nI: 历史\nJ: 木星", "label": "C"}
+{"idx": 297, "sentence": "伊比萨岛的官方语言是_。\nA: 葡萄牙语\nB: 拉脱维亚语\nC: 希伯来语\nD: 布列塔尼语\nE: 韩语\nF: 芬兰语\nG: 波斯语\nH: 意大利语\nI: 印尼语\nJ: 西班牙语", "label": "J"}
+{"idx": 303, "sentence": "科伊姆巴托的官方语言是_。\nA: 爱沙尼亚语\nB: 索马里语\nC: 威尼斯语\nD: 丹麦语\nE: 威尔士语\nF: 波兰语\nG: 泰米尔语\nH: 阿尔巴尼亚语\nI: 匈牙利语\nJ: 罗马尼亚语", "label": "G"}
+{"idx": 4995, "sentence": "圣地亚哥和_是姐妹城市。\nA: 爱丁堡\nB: 卢布尔雅那\nC: 拉各斯\nD: 德累斯顿\nE: 维尔纽斯\nF: 巴里\nG: 悉尼\nH: 夏威夷\nI: 首尔\nJ: 马赛", "label": "A"}
+{"idx": 3872, "sentence": "克罗地亚独立战争位于_。\nA: 剑桥\nB: 东京\nC: 哈萨克斯坦\nD: 希腊\nE: 埃及\nF: 克罗地亚\nG: 立陶宛\nH: 古巴\nI: 卢旺达\nJ: 非洲", "label": "F"}
+{"idx": 1964, "sentence": "水循环包括_。\nA: 太阳\nB: 降水\nC: 面粉\nD: 亚美尼亚\nE: 钙\nF: 木星\nG: 罗马尼亚\nH: 匈牙利\nI: 历史\nJ: 大米", "label": "B"}
+{"idx": 3749, "sentence": "克莱门特六世的职位是_。\nA: 经济学家\nB: 州长\nC: 大主教\nD: 牧师\nE: 红衣主教\nF: 沙阿\nG: 上帝\nH: 教皇\nI: 市长\nJ: 主教", "label": "C"}
+{"idx": 2892, "sentence": "韩语维基百科是用_写的。\nA: 韩语\nB: 德语\nC: 爱沙尼亚语\nD: 孟加拉语\nE: 芬兰语\nF: 西班牙语\nG: 荷兰语\nH: 保加利亚语\nI: 波兰语\nJ: 越南语", "label": "A"}
+{"idx": 3011, "sentence": "卢比孔位于_。\nA: 非洲\nB: 大洋洲\nC: 欧洲\nD: 亚洲\nE: 美洲\nF: 南极洲", "label": "C"}
+{"idx": 4876, "sentence": "博洛尼亚和_是姐妹城市。\nA: 索尔兹伯里\nB: 阿尔及尔\nC: 北京\nD: 第比利斯\nE: 上海\nF: 布加勒斯特\nG: 塞萨洛尼基\nH: 达拉斯\nI: 加尔各答\nJ: 萨格勒布", "label": "J"}
+{"idx": 5180, "sentence": "佛罗伦萨和_是姐妹城市。\nA: 伯利恒\nB: 博洛尼亚\nC: 基辅\nD: 伦敦\nE: 萨摩亚\nF: 丹佛\nG: 里尔\nH: 爱丁堡\nI: 洛桑\nJ: 卡萨布兰卡", "label": "H"}
+{"idx": 240, "sentence": "现代历史是_的一个子类。\nA: 污染\nB: 幽默\nC: 命题\nD: 几何\nE: 算法\nF: 国际象棋\nG: 物理\nH: 民主\nI: 名人\nJ: 历史", "label": "J"}
+{"idx": 1578, "sentence": "柏拉图立体是以_命名的。\nA: 滑铁卢\nB: 斯堪的纳维亚\nC: 汉普郡\nD: 明治\nE: 匈牙利人\nF: 海王星\nG: 江户\nH: 巴黎\nI: 利沃夫\nJ: 柏拉图", "label": "J"}
+{"idx": 5519, "sentence": "荷属东印度的首都是_。\nA: 维也纳\nB: 萨拉热窝\nC: 贝鲁特\nD: 达尼丁\nE: 维尔纽斯\nF: 蒙哥马利\nG: 雅加达\nH: 耶路撒冷\nI: 布里斯班\nJ: 巴塞尔", "label": "G"}
+{"idx": 1743, "sentence": "卡尔·马克思的工作领域是_。\nA: 生态学\nB: 恐怖主义\nC: 音乐家\nD: 地质学\nE: 天文学家\nF: 心理学\nG: 哲学\nH: 夜总会\nI: 物理学\nJ: 科学", "label": "G"}
+{"idx": 5110, "sentence": "剑桥和_是姐妹城市。\nA: 伊斯坦布尔\nB: 利马\nC: 加尔各答\nD: 洛桑\nE: 阿伯丁\nF: 剑桥\nG: 匹兹堡\nH: 奥尔巴尼\nI: 维尔纽斯\nJ: 索菲亚", "label": "F"}
+{"idx": 4339, "sentence": "维吉尔的母语是_。\nA: 日语\nB: 瑞典语\nC: 荷兰语\nD: 意大利语\nE: 拉丁语\nF: 丹麦语\nG: 波兰语\nH: 俄语\nI: 希伯来语\nJ: 法语", "label": "E"}
+{"idx": 4471, "sentence": "基辅和_是姐妹城市。\nA: 巴勒莫\nB: 塔林\nC: 伊斯坦布尔\nD: 布莱顿\nE: 戛纳\nF: 考文垂\nG: 布雷斯特\nH: 新加坡\nI: 布里斯班\nJ: 伯利恒", "label": "B"}
+{"idx": 3418, "sentence": "博洛尼亚大学位于_。\nA: 也门\nB: 温哥华\nC: 西雅图\nD: 达拉斯\nE: 意大利\nF: 法兰克福\nG: 埃塞俄比亚\nH: 塞尔维亚\nI: 撒丁岛\nJ: 博洛尼亚", "label": "J"}
+{"idx": 4865, "sentence": "悉尼和_是姐妹城市。\nA: 曼谷\nB: 费城\nC: 罗马\nD: 蒙特利尔\nE: 萨尔茨堡\nF: 安卡拉\nG: 布加勒斯特\nH: 阿伯丁\nI: 首尔\nJ: 东京", "label": "I"}
+{"idx": 2259, "sentence": "沙特阿拉伯与_保持外交关系。\nA: 巴拉圭\nB: 意大利\nC: 秘鲁\nD: 土耳其\nE: 印度\nF: 尼加拉瓜\nG: 冰岛\nH: 文莱\nI: 玻利维亚\nJ: 萨摩亚", "label": "D"}
+{"idx": 4112, "sentence": "萨尔瓦帕利·拉达克里希南与 _ 宗教有关。\nA: 基督教\nB: 犹太教\nC: 伊斯兰教\nD: 穆斯林\nE: 佛教\nF: 科学\nG: 印度教\nH: 天主教", "label": "G"}
+{"idx": 5447, "sentence": "国际网球联合会总部位于_。\nA: 伦敦\nB: 普罗维登斯\nC: 剑桥\nD: 基辅\nE: 乔治敦\nF: 丰田\nG: 谢菲尔德\nH: 蒙特利尔\nI: 萨拉热窝\nJ: 巴塞罗那", "label": "A"}
+{"idx": 4614, "sentence": "图卢兹和_是姐妹城市。\nA: 地拉那\nB: 基辅\nC: 里昂\nD: 拉合尔\nE: 德黑兰\nF: 日内瓦\nG: 谢菲尔德\nH: 麦地那\nI: 巴库\nJ: 布达佩斯", "label": "B"}
+{"idx": 5767, "sentence": "盟军占领的德国首都是_。\nA: 伯尔尼\nB: 夏延\nC: 威斯敏斯特\nD: 金斯顿\nE: 南京\nF: 贝尔格莱德\nG: 柏林\nH: 伦敦\nI: 美因茨\nJ: 江户", "label": "G"}
+{"idx": 4017, "sentence": "霍诺里乌斯三世与 _ 宗教有关。\nA: 天主教\nB: 基督教\nC: 犹太教\nD: 佛教\nE: 穆斯林\nF: 科学\nG: 伊斯兰教\nH: 印度教", "label": "B"}
+{"idx": 2981, "sentence": "科摩罗位于_。\nA: 南极洲\nB: 大洋洲\nC: 非洲\nD: 美洲\nE: 欧洲\nF: 亚洲", "label": "C"}
+{"idx": 3614, "sentence": "Tarn-et-Garonne 位于 _。\nA: 法国\nB: 印度尼西亚\nC: 匈牙利\nD: 海地\nE: 奥地利\nF: 也门\nG: 阿塞拜疆\nH: 德国\nI: 葡萄牙\nJ: 印度", "label": "A"}
+{"idx": 333, "sentence": "卢旺达的官方语言是_。\nA: 泰卢固语\nB: 土耳其语\nC: 马拉地语\nD: 马拉雅拉姆语\nE: 英语\nF: 阿尔巴尼亚语\nG: 乌克兰语\nH: 瑞典语\nI: 芬兰语\nJ: 高棉语", "label": "E"}
+{"idx": 2345, "sentence": "德国与_保持外交关系。\nA: 巴巴多斯\nB: 约旦\nC: 塔吉克斯坦\nD: 土耳其\nE: 克罗地亚\nF: 乌干达\nG: 哈萨克斯坦\nH: 荷兰\nI: 索马里\nJ: 古巴", "label": "D"}
+{"idx": 2445, "sentence": "印度与_保持外交关系。\nA: 塞浦路斯\nB: 巴拿马\nC: 毛里求斯\nD: 拉脱维亚\nE: 比利时\nF: 贝宁\nG: 罗马尼亚\nH: 瑞典\nI: 德国\nJ: 卢旺达", "label": "I"}
+{"idx": 2995, "sentence": "南极板块位于_。\nA: 非洲\nB: 美洲\nC: 亚洲\nD: 南极洲\nE: 欧洲\nF: 大洋洲", "label": "D"}
+{"idx": 1209, "sentence": "西弗吉尼亚与_接壤。\nA: 马萨诸塞\nB: 田纳西\nC: 希腊\nD: 挪威\nE: 昆西\nF: 蒙古\nG: 俾斯麦\nH: 马里兰\nI: 密苏里\nJ: 威斯康星", "label": "H"}
+{"idx": 3975, "sentence": "阿尔贝·加缪曾在_工作。\nA: 柏林\nB: 克利夫兰\nC: 鹿特丹\nD: 巴黎\nE: 巴塞罗那\nF: 慕尼黑\nG: 渥太华\nH: 曼彻斯特\nI: 波恩\nJ: 多伦多", "label": "D"}
+{"idx": 2499, "sentence": "圣座与_保持外交关系。\nA: 巴西\nB: 波兰\nC: 匈牙利\nD: 冰岛\nE: 巴哈马\nF: 克罗地亚\nG: 喀麦隆\nH: 委内瑞拉\nI: 墨西哥\nJ: 哥伦比亚", "label": "I"}
+{"idx": 3313, "sentence": "昆明是_的首都。\nA: 洪都拉斯\nB: 维多利亚\nC: 比哈尔\nD: 喀拉拉邦\nE: 明尼苏达\nF: 云南\nG: 阿尔巴\nH: 加利福尼亚\nI: 苏格兰\nJ: 挪威", "label": "F"}
+{"idx": 3361, "sentence": "Bourg-en-Bresse 是 _ 的首都。\nA: 斯洛伐克\nB: 阿拉斯加\nC: 安省\nD: 奥地利\nE: 果阿\nF: 波兰\nG: 越南\nH: 洪都拉斯\nI: 不丹\nJ: 马里兰州", "label": "C"}
+{"idx": 5316, "sentence": "德国的联邦议院是_的法律术语。\nA: 德国\nB: 印度\nC: 索马里\nD: 瑞典\nE: 加拿大\nF: 以色列\nG: 利比亚\nH: 墨西哥\nI: 日本\nJ: 爱尔兰", "label": "A"}
+{"idx": 5034, "sentence": "纳布卢斯和_是姐妹城市。\nA: 帕尔马\nB: 邓迪\nC: 瓦伦西亚\nD: 的黎波里\nE: 维罗纳\nF: 迪拜酋长国\nG: 拉合尔\nH: 奥克兰\nI: 美因河畔法兰克福\nJ: 里昂", "label": "B"}
+{"idx": 5031, "sentence": "马赛和_是姐妹城市。\nA: 曼彻斯特\nB: 墨尔本\nC: 芝加哥\nD: 上海\nE: 威尼斯\nF: 梅斯\nG: 巴哈马\nH: 达卡\nI: 维罗纳\nJ: 慕尼黑", "label": "D"}
+{"idx": 247, "sentence": "电磁学是_的一个子类。\nA: 石油\nB: 商标\nC: 银河\nD: 疾病\nE: 小说\nF: 地质学家\nG: 狗\nH: 物理学\nI: 大脑\nJ: 电影", "label": "H"}
+{"idx": 746, "sentence": "萨巴的官方语言是_。\nA: 蒙古语\nB: 克罗地亚语\nC: 旁遮普语\nD: 荷兰语\nE: 马耳他语\nF: 英语\nG: 瑞典语\nH: 越南语\nI: 波斯语\nJ: 斯洛伐克语", "label": "F"}
+{"idx": 3256, "sentence": "都灵是_的首都。\nA: 南斯拉夫\nB: 几内亚\nC: 昆士兰\nD: 安大略\nE: 黑山\nF: 阿拉斯加\nG: 果阿\nH: 意大利\nI: 皮埃蒙特\nJ: 塞内加尔", "label": "I"}
+{"idx": 1033, "sentence": "刚果民主共和国与_接壤。\nA: 加利福尼亚\nB: 尼日利亚\nC: 温莎\nD: 苏丹\nE: 加纳\nF: 墨西哥\nG: 那不勒斯\nH: 柴郡\nI: 莱斯特郡\nJ: 不伦瑞克", "label": "D"}
+{"idx": 1756, "sentence": "赫尔曼·施瓦茨从事_领域的工作。\nA: 天文学家\nB: 物理学\nC: 几何学\nD: 音乐家\nE: 剧作家\nF: 生理学\nG: 数学\nH: 心理学\nI: 夜总会\nJ: 天文学", "label": "G"}
+{"idx": 4727, "sentence": "伊尔库茨克和_是姐妹城市。\nA: 都柏林\nB: 维尔纽斯\nC: 那不勒斯\nD: 科隆\nE: 瓜达拉哈拉\nF: 夏威夷\nG: 奥斯陆\nH: 关岛\nI: 加尔各答\nJ: 塞维利亚", "label": "B"}
+{"idx": 2299, "sentence": "赞比亚与_保持外交关系。\nA: 博茨瓦纳\nB: 马耳他\nC: 阿曼\nD: 圭亚那\nE: 津巴布韦\nF: 莫桑比克\nG: 老挝\nH: 乍得\nI: 德国\nJ: 阿塞拜疆", "label": "A"}
+{"idx": 3038, "sentence": "科威特位于_。\nA: 非洲\nB: 大洋洲\nC: 南极洲\nD: 欧洲\nE: 亚洲\nF: 美洲", "label": "E"}
+{"idx": 1487, "sentence": "奥黑尔国际机场以_命名。\nA: 所罗门\nB: 日内瓦\nC: 木星\nD: 伯明翰\nE: 曼彻斯特\nF: 敖德萨\nG: 芝加哥\nH: 法国\nI: 特立尼达\nJ: 珀斯", "label": "G"}
+{"idx": 1966, "sentence": "斯堪的纳维亚由_组成。\nA: 碳\nB: 哥伦比亚\nC: 乌克兰\nD: 重力\nE: 歌剧\nF: 奶酪\nG: 荷兰\nH: 印度尼西亚\nI: 氧气\nJ: 瑞典", "label": "J"}
+{"idx": 2312, "sentence": "德国与_保持外交关系。\nA: 乌干达\nB: 厄瓜多尔\nC: 斯洛文尼亚\nD: 尼日利亚\nE: 墨西哥\nF: 也门\nG: 西班牙\nH: 菲律宾\nI: 汤加\nJ: 斐济", "label": "A"}
+{"idx": 2996, "sentence": "圣彼得堡位于_。\nA: 南极洲\nB: 大洋洲\nC: 亚洲\nD: 美洲\nE: 非洲\nF: 欧洲", "label": "F"}
+{"idx": 1730, "sentence": "卡尔·马克思的工作领域是_。\nA: 经济学\nB: 佛教\nC: 考古学\nD: 拓扑学\nE: 解剖学\nF: 种族隔离\nG: 生理学\nH: 神学\nI: 天文学家\nJ: 医学", "label": "A"}
+{"idx": 907, "sentence": "新墨西哥州与_接壤。\nA: 黑森州\nB: 印度尼西亚\nC: 奥地利\nD: 埃塞克斯\nE: 伊利诺伊州\nF: 利比亚\nG: 尼日利亚\nH: 巴拉圭\nI: 摩尔多瓦\nJ: 亚利桑那州", "label": "J"}
+{"idx": 2333, "sentence": "意大利与_保持外交关系。\nA: 芬兰\nB: 克罗地亚\nC: 尼日利亚\nD: 贝宁\nE: 巴西\nF: 坦桑尼亚\nG: 塞内加尔\nH: 巴拿马\nI: 菲律宾\nJ: 亚美尼亚", "label": "J"}
+{"idx": 4663, "sentence": "马德里和_是姐妹城市。\nA: 墨尔本\nB: 邓迪\nC: 华沙\nD: 夏威夷\nE: 利马\nF: 东京\nG: 明斯克\nH: 不来梅\nI: 卡拉奇\nJ: 莱比锡", "label": "C"}
+{"idx": 598, "sentence": "刚果民主共和国的官方语言是_。\nA: 土耳其语\nB: 马拉雅拉姆语\nC: 索马里语\nD: 越南语\nE: 印地语\nF: 印尼语\nG: 芬兰语\nH: 法语\nI: 斯洛文尼亚语\nJ: 波兰语", "label": "H"}
+{"idx": 3871, "sentence": "百年战争位于_。\nA: 白俄罗斯\nB: 威尼斯\nC: 高加索\nD: 伊朗\nE: 法国\nF: 伊拉克\nG: 诺曼底\nH: 英格兰王国\nI: 布雷斯特\nJ: 戛纳", "label": "E"}
+{"idx": 315, "sentence": "圣尤斯特歇斯的官方语言是_。\nA: 泰卢固语\nB: 斯洛伐克语\nC: 法语\nD: 荷兰语\nE: 英语\nF: 冰岛语\nG: 罗马尼亚语\nH: 韩语\nI: 旁遮普语\nJ: 意大利语", "label": "E"}
+{"idx": 5885, "sentence": "突尼斯是 _ 的一部分。\nA: 原子\nB: 非洲\nC: 国防军\nD: 巴伐利亚\nE: 西西里\nF: 数学\nG: 法国\nH: 几何\nI: 艺术\nJ: 阿尔卑斯山", "label": "B"}
+{"idx": 1351, "sentence": "亚利桑那州与_接壤。\nA: 越南\nB: 塞内加尔\nC: 日本\nD: 德比郡\nE: 尼日尔\nF: 四川\nG: 加利福尼亚州\nH: 海德堡\nI: 堪萨斯州\nJ: 希腊", "label": "G"}
+{"idx": 149, "sentence": "查尔斯·路易斯·阿尔方斯·拉韦朗死于_。\nA: 巴格达\nB: 华沙\nC: 罗马\nD: 伦敦\nE: 巴黎\nF: 柏林\nG: 雅典\nH: 贝尔格莱德\nI: 耶路撒冷\nJ: 马德里", "label": "E"}
+{"idx": 2646, "sentence": "叙利亚与_保持外交关系。\nA: 津巴布韦\nB: 阿曼\nC: 俄罗斯\nD: 冰岛\nE: 巴拉圭\nF: 伯利兹\nG: 博茨瓦纳\nH: 也门\nI: 加纳\nJ: 挪威", "label": "C"}
+{"idx": 4686, "sentence": "伏尔加格勒和_是姐妹城市。\nA: 伊斯坦布尔\nB: 洛桑\nC: 蒙特利尔\nD: 迪拜酋长国\nE: 达拉斯\nF: 图卢兹\nG: 墨尔本\nH: 利物浦\nI: 阿尔及尔\nJ: 考文垂", "label": "J"}
+{"idx": 290, "sentence": "夏威夷的官方语言是_。\nA: 加泰罗尼亚语\nB: 白俄罗斯语\nC: 罗马尼亚语\nD: 塞尔维亚语\nE: 夏威夷语\nF: 乌尔都语\nG: 巴斯克语\nH: 格鲁吉亚语\nI: 泰语\nJ: 瑞典语", "label": "E"}
+{"idx": 453, "sentence": "科罗拉多州的官方语言是_。\nA: 波兰语\nB: 捷克语\nC: 法语\nD: 英语\nE: 蒙古语\nF: 斯洛伐克语\nG: 罗马尼亚语\nH: 保加利亚语\nI: 旁遮普语\nJ: 埃及语", "label": "D"}
+{"idx": 3312, "sentence": "莱斯特是_的首都。\nA: 白俄罗斯\nB: 砂拉越\nC: 阿尔巴尼亚\nD: 阿根廷\nE: 莱斯特郡\nF: 魁北克\nG: 捷克斯洛伐克\nH: 斯洛文尼亚\nI: 爱荷华\nJ: 芬兰", "label": "E"}
+{"idx": 6055, "sentence": "信息理论是_的一部分。\nA: 非洲\nB: 英格兰\nC: 生态学\nD: 考古学\nE: 数学\nF: 通信\nG: 伊斯兰教\nH: 重力\nI: 物种\nJ: 语言学", "label": "E"}
+{"idx": 2722, "sentence": "古巴与_保持外交关系。\nA: 也门\nB: 白俄罗斯\nC: 乌拉圭\nD: 加蓬\nE: 汤加\nF: 巴巴多斯\nG: 马里\nH: 葡萄牙\nI: 俄罗斯\nJ: 科威特", "label": "I"}
+{"idx": 1803, "sentence": "阿里亚巴塔从事_领域的工作。\nA: 社会学\nB: 逻辑学\nC: 天文学\nD: 经济学\nE: 数学家\nF: 种族隔离\nG: 地理学\nH: 历史学\nI: 生物学\nJ: 经济学家", "label": "C"}
+{"idx": 1193, "sentence": "内华达州与_接壤。\nA: 莱斯特郡\nB: 犹他州\nC: 挪威\nD: 乔治亚州\nE: 明尼阿波利斯\nF: 阿萨姆邦\nG: 非洲\nH: 皮埃蒙特\nI: 萨福克郡\nJ: 纳米比亚", "label": "B"}
+{"idx": 4399, "sentence": "伦敦和_是姐妹城市。\nA: 喀布尔\nB: 明尼阿波利斯\nC: 阿德莱德\nD: 罗马\nE: 维尔纽斯\nF: 夏威夷\nG: 朴茨茅斯\nH: 萨格勒布\nI: 卢布林\nJ: 基督城", "label": "H"}
+{"idx": 4778, "sentence": "塞萨洛尼基和_是姐妹城市。\nA: 美因河畔法兰克福\nB: 喀山\nC: 东京\nD: 加尔各答\nE: 迈阿密\nF: 西雅图\nG: 德黑兰\nH: 亚历山大\nI: 锡耶纳\nJ: 魁北克", "label": "D"}
+{"idx": 1170, "sentence": "尼日尔与_接壤。\nA: 萨默塞特郡\nB: 西班牙\nC: 阿尔及利亚\nD: 拉贾斯坦邦\nE: 津巴布韦\nF: 牛津郡\nG: 乌兹别克斯坦\nH: 堪萨斯州\nI: 剑桥郡\nJ: 德克萨斯州", "label": "C"}
+{"idx": 4155, "sentence": "吉米·亨德里克斯演奏_。\nA: 小提琴\nB: 钢琴\nC: 单簧管\nD: 中提琴\nE: 吉他\nF: 口琴", "label": "E"}
+{"idx": 6022, "sentence": "湖沼学是_的一部分。\nA: 生物学\nB: 骨骼\nC: 地理\nD: 轨道\nE: 黑森\nF: 市政\nG: 血液\nH: 木星\nI: 巴洛克\nJ: 银河", "label": "A"}
+{"idx": 3728, "sentence": "克莱门特八世的职位是_。\nA: 大主教\nB: 州长\nC: 沙阿\nD: 市长\nE: 教皇\nF: 经济学家\nG: 牧师\nH: 主教\nI: 红衣主教\nJ: 上帝", "label": "E"}
+{"idx": 1073, "sentence": "阿尔及利亚与_接壤。\nA: 卢旺达\nB: 哈里亚纳邦\nC: 尼日尔\nD: 特伦甘纳邦\nE: 马拉维\nF: 果阿\nG: 威尔士\nH: 拉脱维亚\nI: 肯特\nJ: 厄瓜多尔", "label": "C"}
+{"idx": 4365, "sentence": "卡萨布兰卡和_是姐妹城市。\nA: 奥格斯堡\nB: 斯图加特\nC: 贝鲁特\nD: 布里斯班\nE: 直布罗陀\nF: 斯特拉斯堡\nG: 迪拜酋长国\nH: 纽伦堡\nI: 圣地亚哥\nJ: 东京", "label": "J"}
+{"idx": 5453, "sentence": "BP的总部在_。\nA: 底特律\nB: 雅典\nC: 斯德哥尔摩\nD: 蒙特利尔\nE: 科隆\nF: 伦敦\nG: 波恩\nH: 柏林\nI: 日内瓦\nJ: 巴塞罗那", "label": "F"}
+{"idx": 2291, "sentence": "叙利亚与_保持外交关系。\nA: 文莱\nB: 马达加斯加\nC: 卢旺达\nD: 黑山\nE: 孟加拉国\nF: 卡塔尔\nG: 马耳他\nH: 瑞士\nI: 塞浦路斯\nJ: 哈萨克斯坦", "label": "F"}
+{"idx": 5884, "sentence": "北美洲是 _ 的一部分。\nA: 电视\nB: 美洲\nC: 化学\nD: 国防军\nE: 巴伐利亚\nF: 艺术\nG: 几何学\nH: 马鞍\nI: 考古学\nJ: 电池", "label": "B"}
+{"idx": 1047, "sentence": "朝鲜与_接壤。\nA: 密西西比\nB: 亚历山大\nC: 肯塔基\nD: 古吉拉特\nE: 乌克兰\nF: 日本\nG: 以色列\nH: 莫斯科\nI: 科索沃\nJ: 博茨瓦纳", "label": "F"}
+{"idx": 1176, "sentence": "广西壮族自治区与_接壤。\nA: 阿富汗\nB: 马赛\nC: 贝宁\nD: 密西西比\nE: 阿萨姆\nF: 乍得\nG: 洛林\nH: 云南\nI: 老挝\nJ: 首尔", "label": "H"}
+{"idx": 1881, "sentence": "分类单元由_组成。\nA: 土星\nB: 印度尼西亚\nC: 重力\nD: 亚美尼亚\nE: 有机体\nF: 树\nG: 卢旺达\nH: 降水\nI: 铜\nJ: 爱沙尼亚", "label": "E"}
+{"idx": 1323, "sentence": "卡卢加州与_接壤。\nA: 阿曼\nB: 诺丁汉郡\nC: 海德堡\nD: 莫斯科\nE: 加纳\nF: 温莎\nG: 犹他州\nH: 阿尔巴尼亚\nI: 密苏里\nJ: 索马里", "label": "D"}
+{"idx": 1360, "sentence": "阿拉伯联盟与_接壤。\nA: 昆士兰\nB: 希腊\nC: 厄瓜多尔\nD: 科索沃\nE: 威尔特郡\nF: 爱荷华\nG: 非洲\nH: 塞内加尔\nI: 葡萄牙\nJ: 路易斯安那", "label": "H"}
+{"idx": 5861, "sentence": "跑道是_的一部分。\nA: 数学\nB: 基因\nC: 哲学\nD: 圣经\nE: 会计\nF: 伊斯兰教\nG: 机场\nH: 头\nI: 几何学\nJ: 斯堪的纳维亚", "label": "G"}
+{"idx": 5376, "sentence": "勒拿河是一个_。\nA: 机场\nB: 广场\nC: 共和国\nD: 群岛\nE: 逻辑\nF: 猜想\nG: 动漫\nH: 灯塔\nI: 药物\nJ: 河流", "label": "J"}
+{"idx": 3484, "sentence": "乔治·埃内斯库过去常用_交流。\nA: 俄语\nB: 法语\nC: 荷兰语\nD: 阿塞拜疆语\nE: 印尼语\nF: 挪威语\nG: 罗马尼亚语\nH: 意大利语\nI: 韩语\nJ: 埃及语", "label": "G"}
+{"idx": 3317, "sentence": "万象是_的首都。\nA: 撒丁岛\nB: 几内亚\nC: 老挝\nD: 科罗拉多州\nE: 普罗旺斯\nF: 马萨诸塞州\nG: 乍得\nH: 乔治亚州\nI: 希腊\nJ: 利比亚", "label": "C"}
+{"idx": 1770, "sentence": "安德烈·柯尔莫哥洛夫从事_领域的工作。\nA: 爵士乐\nB: 语言学\nC: 剧作家\nD: 几何学\nE: 社会学\nF: 小说家\nG: 网站\nH: 生物学\nI: 物理学\nJ: 数学", "label": "D"}
+{"idx": 349, "sentence": "斯洛文尼亚的官方语言是_。\nA: 西班牙语\nB: 爱尔兰语\nC: 斯洛文尼亚语\nD: 苏格兰语\nE: 阿塞拜疆语\nF: 波兰语\nG: 日语\nH: 巴斯克语\nI: 泰卢固语\nJ: 拉丁语", "label": "C"}
+{"idx": 1192, "sentence": "不列颠哥伦比亚与_接壤。\nA: 韦拉克鲁斯\nB: 阿曼\nC: 克罗地亚\nD: 威尔特郡\nE: 卡纳塔克邦\nF: 阿拉斯加\nG: 加泰罗尼亚\nH: 汉堡\nI: 塞内加尔\nJ: 以色列", "label": "F"}
+{"idx": 1419, "sentence": "普埃布拉与_接壤。\nA: 加利福尼亚\nB: 台湾\nC: 危地马拉\nD: 爱达荷\nE: 安大略\nF: 特拉华\nG: 巴拿马\nH: 格雷罗\nI: 犹他\nJ: 密苏里", "label": "H"}
+{"idx": 3897, "sentence": "皮特·蒙德里安曾在_工作。\nA: 克利夫兰\nB: 迈阿密\nC: 德累斯顿\nD: 罗马\nE: 斯德哥尔摩\nF: 哥本哈根\nG: 汉堡\nH: 阿姆斯特丹\nI: 日内瓦\nJ: 华沙", "label": "H"}
+{"idx": 381, "sentence": "世界卫生组织的官方语言是_。\nA: 葡萄牙语\nB: 英语\nC: 希伯来语\nD: 斯洛伐克语\nE: 亚美尼亚语\nF: 保加利亚语\nG: 白俄罗斯语\nH: 波兰语\nI: 埃及语\nJ: 越南语", "label": "B"}
+{"idx": 742, "sentence": "北爱尔兰的官方语言是_。\nA: 冰岛语\nB: 波兰语\nC: 泰米尔语\nD: 越南语\nE: 法语\nF: 格鲁吉亚语\nG: 英语\nH: 西西里语\nI: 印尼语\nJ: 匈牙利语", "label": "G"}
+{"idx": 4490, "sentence": "德黑兰和_是姐妹城市。\nA: 博洛尼亚\nB: 莫斯科\nC: 墨尔本\nD: 明尼阿波利斯\nE: 锡耶纳\nF: 加拉加斯\nG: 马尼拉\nH: 奥尔巴尼\nI: 班加罗尔\nJ: 伯利恒", "label": "B"}
+{"idx": 3707, "sentence": "克莱门特七世的职位是_。\nA: 上帝\nB: 教皇\nC: 沙阿\nD: 市长\nE: 州长\nF: 经济学家\nG: 主教\nH: 牧师\nI: 红衣主教\nJ: 大主教", "label": "J"}
+{"idx": 422, "sentence": "联合国的官方语言是_。\nA: 丹麦语\nB: 西班牙语\nC: 格鲁吉亚语\nD: 乌尔都语\nE: 印尼语\nF: 苏格兰语\nG: 克罗地亚语\nH: 威尼斯语\nI: 尼泊尔语\nJ: 斯洛文尼亚语", "label": "B"}
+{"idx": 879, "sentence": "克里斯蒂安·诺博亚在_位置上踢球。\nA: 中场\nB: 前锋\nC: 后卫", "label": "A"}
+{"idx": 1438, "sentence": "欧巴涅与_接壤。\nA: 玻利维亚\nB: 东京\nC: 泰国\nD: 维也纳\nE: 马赛\nF: 埃及\nG: 马里兰\nH: 洛林\nI: 明尼苏达\nJ: 帕萨迪纳", "label": "E"}
+{"idx": 2167, "sentence": "阿尔及利亚与_保持外交关系。\nA: 苏丹\nB: 德国\nC: 委内瑞拉\nD: 纳米比亚\nE: 哈萨克斯坦\nF: 奥地利\nG: 安哥拉\nH: 葡萄牙\nI: 摩纳哥\nJ: 埃塞俄比亚", "label": "B"}
+{"idx": 5410, "sentence": "《死亡笔记》是在_创作的。\nA: 比利时\nB: 意大利\nC: 英格兰\nD: 德国\nE: 澳大利亚\nF: 苏格兰\nG: 日本\nH: 牙买加\nI: 土耳其\nJ: 爱尔兰", "label": "G"}
+{"idx": 4382, "sentence": "里昂和_是姐妹城市。\nA: 托莱多\nB: 明斯克\nC: 佛罗伦萨\nD: 名古屋\nE: 加尔各答\nF: 伯明翰\nG: 米兰\nH: 维尔纽斯\nI: 法兰克福\nJ: 安特卫普", "label": "I"}
+{"idx": 124, "sentence": "法国的路易十七死于_。\nA: 马德里\nB: 斯德哥尔摩\nC: 巴黎\nD: 麦地那\nE: 纽伦堡\nF: 威尼斯\nG: 莫斯科\nH: 佛罗伦萨\nI: 大马士革\nJ: 君士坦丁堡", "label": "C"}
+{"idx": 102, "sentence": "英诺森十一世死于_。\nA: 佛罗伦萨\nB: 雅典\nC: 迦太基\nD: 威尼斯\nE: 开罗\nF: 大马士革\nG: 柏林\nH: 罗马\nI: 麦迪逊\nJ: 伦敦", "label": "H"}
+{"idx": 5460, "sentence": "巴黎政治学院的总部在_。\nA: 基辅\nB: 南锡\nC: 日内瓦\nD: 莱比锡\nE: 巴黎\nF: 乔治敦\nG: 斯坦福德\nH: 巴塞罗那\nI: 佛罗伦萨\nJ: 北京", "label": "E"}
+{"idx": 4703, "sentence": "朴茨茅斯和_是姐妹城市。\nA: 诺丁汉\nB: 明斯克\nC: 耶路撒冷\nD: 温哥华\nE: 丹佛\nF: 萨摩亚\nG: 海法\nH: 悉尼\nI: 卡尔加里\nJ: 朴茨茅斯", "label": "J"}
+{"idx": 4908, "sentence": "利兹和_是姐妹城市。\nA: 的黎波里\nB: 斯特拉斯堡\nC: 大马士革\nD: 伯明翰\nE: 达拉斯\nF: 赫尔辛基\nG: 多特蒙德\nH: 迈阿密\nI: 米兰\nJ: 墨尔本", "label": "G"}
+{"idx": 2346, "sentence": "意大利与_保持外交关系。\nA: 巴拉圭\nB: 爱沙尼亚\nC: 加拿大\nD: 智利\nE: 摩尔多瓦\nF: 叙利亚\nG: 希腊\nH: 法国\nI: 尼加拉瓜\nJ: 阿根廷", "label": "E"}
+{"idx": 486, "sentence": "帕劳的官方语言是_。\nA: 马其顿语\nB: 西班牙语\nC: 越南语\nD: 加泰罗尼亚语\nE: 泰卢固语\nF: 阿尔巴尼亚语\nG: 爱沙尼亚语\nH: 英语\nI: 泰语\nJ: 克罗地亚语", "label": "H"}
+{"idx": 3831, "sentence": "第二次十字军东征位于_。\nA: 伊斯坦布尔\nB: 卢旺达\nC: 白俄罗斯\nD: 英格兰王国\nE: 高加索\nF: 爱沙尼亚\nG: 以色列\nH: 戛纳\nI: 克里特岛\nJ: 埃及", "label": "J"}
+{"idx": 3307, "sentence": "兰辛是_的首都。\nA: 威尔士\nB: 乌干达\nC: 密歇根\nD: 拉脱维亚\nE: 塞浦路斯\nF: 菲律宾\nG: 西西里\nH: 印度\nI: 波希米亚\nJ: 文莱", "label": "C"}
+{"idx": 5911, "sentence": "心理治疗是_的一部分。\nA: 巴黎\nB: 人类学\nC: 加勒比\nD: 心理学\nE: 生物学\nF: 闪米特\nG: 性别\nH: 伊斯兰教\nI: 物种\nJ: 佛教", "label": "D"}
+{"idx": 135, "sentence": "拉尔夫·沃恩·威廉斯死于_。\nA: 罗马\nB: 开罗\nC: 伦敦\nD: 雅典\nE: 底特律\nF: 麦地那\nG: 巴黎\nH: 里昂\nI: 马德里\nJ: 柏林", "label": "C"}
+{"idx": 1425, "sentence": "乍得与_接壤。\nA: 加拿大\nB: 帕萨迪纳\nC: 格洛斯特郡\nD: 拉贾斯坦邦\nE: 巴拉圭\nF: 乌兹别克斯坦\nG: 诺丁汉郡\nH: 云南\nI: 津巴布韦\nJ: 尼日尔", "label": "J"}
+{"idx": 3830, "sentence": "海湾战争发生在_。\nA: 英格兰王国\nB: 荷兰\nC: 克罗地亚\nD: 伊拉克\nE: 希腊\nF: 科威特\nG: 科隆\nH: 以色列\nI: 奥斯陆\nJ: 威尼斯", "label": "F"}
+{"idx": 5660, "sentence": "南达科他州的首都是_。\nA: 马略卡岛帕尔马\nB: 卡莱尔\nC: 丹佛\nD: 锡拉丘兹\nE: 威尼斯\nF: 皮尔\nG: 班加罗尔\nH: 敖德萨\nI: 菲尼克斯\nJ: 林肯", "label": "F"}
+{"idx": 2917, "sentence": "Please Please Me 是用 _ 写的。\nA: 韩语\nB: 荷兰语\nC: 加泰罗尼亚语\nD: 英语\nE: 德语\nF: 瑞典语\nG: 土耳其语\nH: 俄语\nI: 匈牙利语\nJ: 拉丁语", "label": "D"}
+{"idx": 4319, "sentence": "扬·彼得·巴尔克嫩德的母语是_。\nA: 瑞典语\nB: 荷兰语\nC: 法语\nD: 希伯来语\nE: 泰米尔语\nF: 塞尔维亚语\nG: 日语\nH: 西班牙语\nI: 丹麦语\nJ: 波兰语", "label": "B"}
+{"idx": 2232, "sentence": "美国与_保持外交关系。\nA: 马来西亚\nB: 挪威\nC: 利比亚\nD: 瑞士\nE: 格鲁吉亚\nF: 法国\nG: 委内瑞拉\nH: 也门\nI: 危地马拉\nJ: 埃及", "label": "H"}
+{"idx": 5382, "sentence": "卡托维兹是一个_。\nA: 村庄\nB: 猜想\nC: 电影\nD: 城市\nE: 货币\nF: 逻辑\nG: 动漫\nH: 岛屿\nI: 群岛\nJ: 科学", "label": "D"}
+{"idx": 1662, "sentence": "意大利是_的成员。\nA: 翅膀\nB: 北约\nC: 联合国教科文组织\nD: 国际足联\nE: U2\nF: 复仇者联盟\nG: 中北美及加勒比海足球协会\nH: WWE\nI: 哈马斯", "label": "C"}
+{"idx": 3607, "sentence": "迪迪莫蒂乔位于_。\nA: 印度\nB: 法国\nC: 阿根廷\nD: 葡萄牙\nE: 海地\nF: 德国\nG: 荷兰\nH: 阿塞拜疆\nI: 摩尔多瓦\nJ: 希腊", "label": "J"}
+{"idx": 1630, "sentence": "Bono 是 _ 的成员。\nA: 世界摔跤娱乐\nB: U2\nC: 国际足联\nD: 联合国教科文组织\nE: 中北美洲及加勒比海足球协会\nF: 北大西洋公约组织\nG: 哈马斯\nH: 复仇者联盟\nI: 翅膀乐队", "label": "B"}
+{"idx": 1912, "sentence": "森林由_组成。\nA: 稻米\nB: 法国\nC: 历史\nD: 土星\nE: 原子\nF: 煤炭\nG: 瑞典\nH: 卢森堡\nI: 托拉\nJ: 树", "label": "J"}
+{"idx": 4507, "sentence": "德黑兰和_是姐妹城市。\nA: 直布罗陀\nB: 京都\nC: 戛纳\nD: 多伦多\nE: 喀布尔\nF: 戈尔韦\nG: 温哥华\nH: 澳门\nI: 科隆\nJ: 邓迪", "label": "E"}
+{"idx": 2366, "sentence": "巴西与_保持外交关系。\nA: 巴巴多斯\nB: 不丹\nC: 西班牙\nD: 乌拉圭\nE: 比利时\nF: 安哥拉\nG: 牙买加\nH: 乌兹别克斯坦\nI: 塞内加尔\nJ: 挪威", "label": "F"}
+{"idx": 5356, "sentence": "海地的旗帜是_中的一个法律术语。\nA: 索马里\nB: 罗马尼亚\nC: 越南\nD: 阿根廷\nE: 玻利维亚\nF: 奥地利\nG: 爱尔兰\nH: 日本\nI: 摩纳哥\nJ: 海地", "label": "J"}
+{"idx": 1608, "sentence": "汤姆和杰瑞的原始语言是_。\nA: 希腊语\nB: 德语\nC: 俄语\nD: 意大利语\nE: 英语\nF: 芬兰语\nG: 荷兰语\nH: 法语", "label": "E"}
+{"idx": 5107, "sentence": "迈阿密和_是姐妹城市。\nA: 布加勒斯特\nB: 加的夫\nC: 麦地那\nD: 卢布林\nE: 拉各斯\nF: 维罗纳\nG: 横滨\nH: 巴库\nI: 里斯本\nJ: 基尔", "label": "I"}
+{"idx": 5338, "sentence": "保加利亚的国旗是_的法律术语。\nA: 乌克兰\nB: 摩纳哥\nC: 法国\nD: 瑞典\nE: 土耳其\nF: 阿尔巴尼亚\nG: 墨西哥\nH: 荷兰\nI: 白俄罗斯\nJ: 保加利亚", "label": "J"}
+{"idx": 3458, "sentence": "拉美西斯二世过去用_交流。\nA: 希伯来语\nB: 芬兰语\nC: 德语\nD: 埃及语\nE: 英语\nF: 俄语\nG: 瑞典语\nH: 波斯语\nI: 波兰语\nJ: 韩语", "label": "D"}
+{"idx": 1225, "sentence": "沃里克郡与_接壤。\nA: 阿肯色州\nB: 明斯克\nC: 俄亥俄州\nD: 意大利\nE: 托斯卡纳\nF: 非洲\nG: 亚利桑那州\nH: 吉尔吉斯斯坦\nI: 伍斯特郡\nJ: 西班牙", "label": "I"}
+{"idx": 2440, "sentence": "叙利亚与_保持外交关系。\nA: 阿富汗\nB: 博茨瓦纳\nC: 厄瓜多尔\nD: 伯利兹\nE: 乌克兰\nF: 黑山\nG: 匈牙利\nH: 日本\nI: 亚美尼亚\nJ: 巴拉圭", "label": "I"}
+{"idx": 4649, "sentence": "努尔苏丹和_是姐妹城市。\nA: 巴格达\nB: 圣地亚哥\nC: 布拉格\nD: 喀山\nE: 贝鲁特\nF: 安卡拉\nG: 广岛\nH: 布达佩斯\nI: 基督城\nJ: 德累斯顿", "label": "D"}
+{"idx": 144, "sentence": "多纳托·布拉曼特死于_。\nA: 巴格达\nB: 里昂\nC: 耶路撒冷\nD: 华沙\nE: 莫斯科\nF: 赫尔辛基\nG: 柏林\nH: 斯德哥尔摩\nI: 罗马\nJ: 喀布尔", "label": "I"}
+{"idx": 380, "sentence": "伯尔尼州的官方语言是_。\nA: 德语\nB: 捷克语\nC: 斯洛伐克语\nD: 马其顿语\nE: 威尔士语\nF: 威尼斯语\nG: 诺曼语\nH: 孟加拉语\nI: 阿塞拜疆语\nJ: 西班牙语", "label": "A"}
+{"idx": 1496, "sentence": "2 Pallas 是以 _ 命名的。\nA: 铅\nB: 红色\nC: 佛兰德斯\nD: 蜂蜜\nE: 开罗\nF: 维多利亚女王\nG: 亚伯拉罕\nH: 鼹鼠\nI: 雅典娜\nJ: 普罗旺斯", "label": "I"}
+{"idx": 4783, "sentence": "华沙和_是姐妹城市。\nA: 美因茨\nB: 里加\nC: 布达佩斯\nD: 克利夫兰\nE: 东京\nF: 邓迪\nG: 阿尔及尔\nH: 芝加哥\nI: 奥尔巴尼\nJ: 佛罗伦萨", "label": "H"}
+{"idx": 4965, "sentence": "索菲亚和_是姐妹城市。\nA: 迈阿密\nB: 哈瓦那\nC: 迪拜酋长国\nD: 巴里\nE: 维罗纳\nF: 拉合尔\nG: 马赛\nH: 赫尔辛基\nI: 纽伦堡\nJ: 达卡", "label": "H"}
+{"idx": 121, "sentence": "托马索·阿尔比诺尼死于_。\nA: 威尼斯\nB: 台北\nC: 佛罗伦萨\nD: 里昂\nE: 巴黎\nF: 麦地那\nG: 耶路撒冷\nH: 赫尔辛基\nI: 贝尔格莱德\nJ: 底特律", "label": "A"}
+{"idx": 3193, "sentence": "Google Glass 是由_开发的。\nA: 谷歌\nB: 波音\nC: Adobe\nD: IBM\nE: 苹果公司\nF: 任天堂\nG: 英特尔\nH: 微软\nI: 空客基本\nJ: 诺基亚", "label": "A"}
+{"idx": 611, "sentence": "新不伦瑞克的官方语言是_。\nA: 威尼斯语\nB: 法语\nC: 英语\nD: 立陶宛语\nE: 亚美尼亚语\nF: 希腊语\nG: 阿尔巴尼亚语\nH: 马耳他语\nI: 日语\nJ: 阿塞拜疆语", "label": "C"}
+{"idx": 2389, "sentence": "沙特阿拉伯与_保持外交关系。\nA: 荷兰\nB: 古巴\nC: 文莱\nD: 尼加拉瓜\nE: 阿塞拜疆\nF: 芬兰\nG: 塞尔维亚\nH: 摩纳哥\nI: 安哥拉\nJ: 津巴布韦", "label": "B"}
+{"idx": 1101, "sentence": "阿塞拜疆与_接壤。\nA: 塞内加尔\nB: 德文郡\nC: 多塞特郡\nD: 瑞典\nE: 弗吉尼亚州\nF: 俄克拉荷马州\nG: 亚美尼亚\nH: 希腊\nI: 哈里亚纳邦\nJ: 汉堡", "label": "G"}
+{"idx": 418, "sentence": "南蒂罗尔的官方语言是_。\nA: 德语\nB: 葡萄牙语\nC: 印地语\nD: 旁遮普语\nE: 尼泊尔语\nF: 威尼斯语\nG: 孟加拉语\nH: 泰卢固语\nI: 西班牙语\nJ: 西西里语", "label": "A"}
+{"idx": 1536, "sentence": "敖德萨是以_命名的。\nA: 复活节\nB: 敖德萨\nC: 印度\nD: 普鲁士\nE: 汉堡\nF: 慕尼黑\nG: 维多利亚女王\nH: 日内瓦\nI: 布莱克本\nJ: 阿姆斯特丹", "label": "B"}
+{"idx": 2302, "sentence": "沙特阿拉伯与_保持外交关系。\nA: 赞比亚\nB: 墨西哥\nC: 拉脱维亚\nD: 肯尼亚\nE: 越南\nF: 萨摩亚\nG: 斯洛伐克\nH: 突尼斯\nI: 塞内加尔\nJ: 莫桑比克", "label": "D"}
+{"idx": 1406, "sentence": "萨默塞特与_接壤。\nA: 菲律宾\nB: 威尔特郡\nC: 白金汉郡\nD: 白俄罗斯\nE: 尼泊尔\nF: 黑山\nG: 北京\nH: 文莱\nI: 皇后区\nJ: 俄亥俄州", "label": "B"}
+{"idx": 4586, "sentence": "布宜诺斯艾利斯和_是姐妹城市。\nA: 华沙\nB: 贝尔格莱德\nC: 拉合尔\nD: 圣地亚哥\nE: 大马士革\nF: 鹿特丹\nG: 加拉加斯\nH: 澳门\nI: 奥斯陆\nJ: 卡拉奇", "label": "D"}
+{"idx": 3135, "sentence": "Fortran 是由 _ 开发的。\nA: Boeing\nB: Adobe\nC: Apple Inc.\nD: Airbus basic\nE: Nintendo\nF: Intel\nG: Nokia\nH: IBM\nI: Google\nJ: Microsoft", "label": "H"}
+{"idx": 5326, "sentence": "参议院是_的法律术语。\nA: 马来西亚\nB: 伊朗\nC: 巴基斯坦\nD: 法国\nE: 索马里\nF: 丹麦\nG: 台湾\nH: 芬兰\nI: 葡萄牙\nJ: 古巴", "label": "D"}
+{"idx": 5717, "sentence": "英格兰西北部的首都是_。\nA: 横滨\nB: 图尔\nC: 台北\nD: 瓜达拉哈拉\nE: 首尔\nF: 戈尔韦\nG: 曼彻斯特\nH: 圣地亚哥\nI: 沃特福德\nJ: 孟菲斯", "label": "G"}
+{"idx": 1084, "sentence": "柴郡与_接壤。\nA: 布伦瑞克\nB: 什罗普郡\nC: 土耳其\nD: 莫桑比克\nE: 智利\nF: 拉贾斯坦\nG: 爱尔兰\nH: 内布拉斯加\nI: 安大略\nJ: 英格兰", "label": "B"}
+{"idx": 1357, "sentence": "荷属安的列斯与_接壤。\nA: 威尔士\nB: 也门\nC: 非洲\nD: 沙巴\nE: 伊利诺伊州\nF: 塞内加尔\nG: 安\nH: 巴基斯坦\nI: 法国\nJ: 海德堡", "label": "I"}
+{"idx": 1738, "sentence": "伊万·巴甫洛夫的工作领域是_。\nA: 种族隔离\nB: 社会学\nC: 心理学\nD: 地理学\nE: 经济学家\nF: 物理学\nG: 生物学\nH: 夜总会\nI: 生理学\nJ: 天文学家", "label": "I"}
+{"idx": 248, "sentence": "温带气候是_的一个子类。\nA: 通信\nB: 石英\nC: 沙拉\nD: 煤炭\nE: 生物学\nF: 气候\nG: 三明治\nH: 望远镜\nI: 药物\nJ: 民主", "label": "F"}
+{"idx": 1400, "sentence": "波兰与_接壤。\nA: 冰岛\nB: 赫尔辛基\nC: 立陶宛\nD: 俄罗斯\nE: 约翰内斯堡\nF: 苏丹\nG: 阿塞拜疆\nH: 哥伦比亚\nI: 阿拉巴马\nJ: 西班牙", "label": "D"}
+{"idx": 1108, "sentence": "英国与_接壤。\nA: 马萨诸塞州\nB: 爱尔兰\nC: 乔治亚州\nD: 南斯拉夫\nE: 果阿\nF: 叙利亚\nG: 勃兰登堡\nH: 黑山\nI: 冰岛\nJ: 阿拉巴马州", "label": "B"}
+{"idx": 4105, "sentence": "郑和与 _ 宗教有关。\nA: 佛教\nB: 穆斯林\nC: 印度教\nD: 基督教\nE: 犹太教\nF: 天主教\nG: 科学\nH: 伊斯兰教", "label": "H"}
+{"idx": 5803, "sentence": "西门子成立于_。\nA: 底特律\nB: 温哥华\nC: 伯明翰\nD: 柏林\nE: 北京\nF: 迈阿密\nG: 斯德哥尔摩\nH: 东京\nI: 卢布林\nJ: 芝加哥", "label": "D"}
+{"idx": 447, "sentence": "瓦努阿图的官方语言是_。\nA: 马其顿语\nB: 马拉地语\nC: 格鲁吉亚语\nD: 英语\nE: 克罗地亚语\nF: 印地语\nG: 芬兰语\nH: 立陶宛语\nI: 韩语\nJ: 索马里语", "label": "D"}
+{"idx": 2641, "sentence": "沙特阿拉伯与_保持外交关系。\nA: 约旦\nB: 保加利亚\nC: 爱沙尼亚\nD: 菲律宾\nE: 新加坡\nF: 索马里\nG: 斐济\nH: 埃及\nI: 尼日利亚\nJ: 俄罗斯", "label": "E"}
+{"idx": 4732, "sentence": "基辅和_是姐妹城市。\nA: 大马士革\nB: 美因茨\nC: 敖德萨\nD: 威尼斯\nE: 贝尔格莱德\nF: 马尼拉\nG: 萨格勒布\nH: 柏林\nI: 伯明翰\nJ: 明斯克", "label": "J"}
+{"idx": 1046, "sentence": "乍得与_接壤。\nA: 尼日利亚\nB: 海德堡\nC: 弗吉尼亚\nD: 白金汉郡\nE: 韦拉克鲁斯\nF: 越南\nG: 委内瑞拉\nH: 马里\nI: 广东\nJ: 明尼苏达", "label": "A"}
+{"idx": 4194, "sentence": "Flickr 由_拥有。\nA: 微软\nB: 英国广播公司\nC: 芝加哥\nD: 法国\nE: 雅虎\nF: 波兰\nG: 都灵\nH: 丰田\nI: 德国\nJ: 卡塔尔", "label": "E"}
+{"idx": 3103, "sentence": "爱沙尼亚位于_。\nA: 大洋洲\nB: 非洲\nC: 南极洲\nD: 欧洲\nE: 亚洲\nF: 美洲", "label": "D"}
+{"idx": 3785, "sentence": "铁娘子乐队由音乐公司_代表。\nA: 摩城\nB: EMI", "label": "B"}
+{"idx": 3624, "sentence": "1960年夏季奥运会位于_。\nA: 奥地利\nB: 法国\nC: 叙利亚\nD: 阿富汗\nE: 印度尼西亚\nF: 也门\nG: 匈牙利\nH: 意大利\nI: 日本\nJ: 土耳其", "label": "H"}
+{"idx": 2103, "sentence": "英语字母表包括_。\nA: W\nB: 挪威\nC: 地球\nD: 卢森堡\nE: 语言学\nF: 瑞士\nG: 原子\nH: 氢\nI: 罗马尼亚\nJ: 奥地利", "label": "A"}
+{"idx": 2347, "sentence": "塞尔维亚与_保持外交关系。\nA: 斯洛伐克\nB: 苏丹\nC: 马拉维\nD: 乌克兰\nE: 贝宁\nF: 古巴\nG: 津巴布韦\nH: 黎巴嫩\nI: 斐济\nJ: 爱尔兰", "label": "D"}
+{"idx": 4247, "sentence": "根纳季·久加诺夫的母语是_。\nA: 日语\nB: 波兰语\nC: 德语\nD: 俄语\nE: 拉丁语\nF: 荷兰语\nG: 英语\nH: 塞尔维亚语\nI: 法语\nJ: 意大利语", "label": "D"}
+{"idx": 1350, "sentence": "土耳其与_接壤。\nA: 密西西比\nB: 乌兹别克斯坦\nC: 约旦\nD: 玻利维亚\nE: 什罗普郡\nF: 旁遮普\nG: 亚美尼亚\nH: 伊朗\nI: 索马里\nJ: 奥斯陆", "label": "G"}
+{"idx": 3433, "sentence": "哈马省位于_。\nA: 加拿大\nB: 也门\nC: 英格兰王国\nD: 马里兰\nE: 荷兰\nF: 伊斯坦布尔\nG: 伊拉克\nH: 叙利亚\nI: 保加利亚\nJ: 美因河畔法兰克福", "label": "H"}
+{"idx": 4308, "sentence": "Georges-Louis Leclerc, Comte de Buffon 的母语是 _。\nA: 荷兰语\nB: 塞尔维亚语\nC: 丹麦语\nD: 意大利语\nE: 法语\nF: 希伯来语\nG: 瑞典语\nH: 日语\nI: 拉丁语\nJ: 泰米尔语", "label": "E"}
+{"idx": 1600, "sentence": "《低俗小说》的原语言是_。\nA: 德语\nB: 俄语\nC: 芬兰语\nD: 荷兰语\nE: 法语\nF: 意大利语\nG: 英语\nH: 希腊语", "label": "G"}
+{"idx": 414, "sentence": "赤道几内亚的官方语言是_。\nA: 芬兰语\nB: 斯洛文尼亚语\nC: 意大利语\nD: 泰米尔语\nE: 西班牙语\nF: 孟加拉语\nG: 日语\nH: 泰卢固语\nI: 泰语\nJ: 波兰语", "label": "E"}
+{"idx": 752, "sentence": "塞浦路斯的官方语言是_。\nA: 斯洛文尼亚语\nB: 巴斯克语\nC: 立陶宛语\nD: 乌尔都语\nE: 匈牙利语\nF: 土耳其语\nG: 黑山语\nH: 克罗地亚语\nI: 爱尔兰语\nJ: 索马里语", "label": "F"}
+{"idx": 4928, "sentence": "里昂和_是姐妹城市。\nA: 堪培拉\nB: 莱比锡\nC: 布拉迪斯拉发\nD: 阿姆斯特丹\nE: 维也纳\nF: 索菲亚\nG: 达拉斯\nH: 戛纳\nI: 卡尔加里\nJ: 圣地亚哥", "label": "B"}
+{"idx": 794, "sentence": "东盟的官方语言是_。\nA: 阿塞拜疆语\nB: 印尼语\nC: 马拉雅拉姆语\nD: 埃及语\nE: 拉脱维亚语\nF: 蒙古语\nG: 泰卢固语\nH: 越南语\nI: 泰语\nJ: 夏威夷语", "label": "I"}
+{"idx": 4907, "sentence": "莫斯科和_是姐妹城市。\nA: 巴勒莫\nB: 弗拉基米尔\nC: 朴茨茅斯\nD: 瓜达拉哈拉\nE: 哈瓦那\nF: 蒙得维的亚\nG: 直布罗陀\nH: 剑桥\nI: 卢布尔雅那\nJ: 加拉加斯", "label": "I"}
+{"idx": 654, "sentence": "法罗群岛的官方语言是_。\nA: 加泰罗尼亚语\nB: 俄语\nC: 尼泊尔语\nD: 越南语\nE: 希腊语\nF: 马拉地语\nG: 波斯语\nH: 韩语\nI: 威尼斯语\nJ: 丹麦语", "label": "J"}
+{"idx": 1788, "sentence": "拉里·桑格从事_领域的工作。\nA: 哲学\nB: 医学\nC: 天文学\nD: 化学\nE: 科学\nF: 生态学\nG: 考古学\nH: 天文学家\nI: 物理学\nJ: 生理学", "label": "A"}
+{"idx": 1057, "sentence": "沃伦州与_接壤。\nA: 伊利诺伊州\nB: 立陶宛\nC: 波兰\nD: 马赛\nE: 捷克斯洛伐克\nF: 埃塞克斯\nG: 威尔士\nH: 斯洛伐克\nI: 加蓬\nJ: 罗马尼亚", "label": "C"}
+{"idx": 2759, "sentence": "巴巴多斯与_保持外交关系。\nA: 澳大利亚\nB: 立陶宛\nC: 俄罗斯\nD: 乌拉圭\nE: 拉脱维亚\nF: 莫桑比克\nG: 保加利亚\nH: 卡塔尔\nI: 巴拉圭\nJ: 伊朗", "label": "A"}
+{"idx": 5902, "sentence": "埃及学是_的一部分。\nA: 法国\nB: 社会学\nC: 考古学\nD: 语言学\nE: 市政\nF: 科学\nG: 三位一体\nH: 骨骼\nI: 加勒比\nJ: 眼睛", "label": "C"}
+{"idx": 4828, "sentence": "努尔苏丹和_是姐妹城市。\nA: 瓜达拉哈拉\nB: 诺丁汉\nC: 贝鲁特\nD: 华沙\nE: 芝加哥\nF: 图卢兹\nG: 德黑兰\nH: 莫斯科\nI: 达卡\nJ: 里加", "label": "D"}
+{"idx": 960, "sentence": "北马其顿与_接壤。\nA: 德克萨斯\nB: 加蓬\nC: 佛蒙特\nD: 阿富汗\nE: 科索沃\nF: 乌克兰\nG: 马尼拉\nH: 危地马拉\nI: 怀俄明\nJ: 萨斯喀彻温", "label": "E"}
+{"idx": 4832, "sentence": "圣地亚哥和 _ 是双子城市。\nA: 明尼阿波利斯\nB: 阿德莱德\nC: 关岛\nD: 赫尔辛基\nE: 拉各斯\nF: 明斯克\nG: 法兰克福\nH: 东京\nI: 新加坡\nJ: 匹兹堡", "label": "A"}
+{"idx": 5066, "sentence": "关岛和_是姐妹城市。\nA: 罗萨里奥\nB: 日内瓦\nC: 北京\nD: 拉合尔\nE: 多伦多\nF: 卢布尔雅那\nG: 拉各斯\nH: 莱比锡\nI: 大马士革\nJ: 首尔", "label": "J"}
+{"idx": 589, "sentence": "欧洲联盟的官方语言是_。\nA: 西班牙语\nB: 布列塔尼语\nC: 塞尔维亚语\nD: 高棉语\nE: 波斯语\nF: 马拉地语\nG: 芬兰语\nH: 立陶宛语\nI: 威尼斯语\nJ: 加泰罗尼亚语", "label": "H"}
+{"idx": 2525, "sentence": "澳大利亚与_保持外交关系。\nA: 莫桑比克\nB: 荷兰\nC: 智利\nD: 斯洛文尼亚\nE: 科索沃\nF: 汤加\nG: 摩尔多瓦\nH: 拉脱维亚\nI: 加拿大\nJ: 澳大利亚", "label": "F"}
+{"idx": 2954, "sentence": "大英帝国位于_。\nA: 南极洲\nB: 亚洲\nC: 欧洲\nD: 大洋洲\nE: 美洲\nF: 非洲", "label": "F"}
+{"idx": 3805, "sentence": "突尼斯革命位于_。\nA: 黎凡特\nB: 热那亚\nC: 乌克兰\nD: 欧洲\nE: 克罗地亚\nF: 埃及\nG: 伊朗\nH: 柏林\nI: 突尼斯\nJ: 以色列", "label": "I"}
+{"idx": 1670, "sentence": "克罗地亚足球联合会是_的成员。\nA: 翅膀\nB: 中北美洲及加勒比海足球协会\nC: U2\nD: 国际足球联合会\nE: 哈马斯\nF: 北大西洋公约组织\nG: 复仇者联盟\nH: 联合国教科文组织\nI: 世界摔跤娱乐", "label": "D"}
+{"idx": 3159, "sentence": "NTFS 是由 _ 开发的。\nA: IBM\nB: 英特尔\nC: 波音\nD: 空中客车基础\nE: 苹果公司\nF: 微软\nG: 谷歌\nH: 诺基亚\nI: 任天堂\nJ: Adobe", "label": "F"}
+{"idx": 1580, "sentence": "伊斯坦布尔机场以_命名。\nA: 哥本哈根\nB: 伊斯坦布尔\nC: 斯德哥尔摩\nD: 赫尔辛基\nE: 蒙古人\nF: 法兰克人\nG: 都柏林\nH: 首都\nI: 阿尔卑斯山\nJ: 托尔", "label": "B"}
+{"idx": 5680, "sentence": "怀俄明州的首都是_。\nA: 里士满\nB: 布里斯班\nC: 赫尔辛基\nD: 洛桑\nE: 沃特福德\nF: 金斯敦\nG: 大马士革\nH: 图卢兹\nI: 塞勒姆\nJ: 夏延", "label": "J"}
+{"idx": 3574, "sentence": "Carl Orff 演奏 _ 音乐。\nA: 悲剧\nB: 爵士\nC: 放克\nD: 幻想\nE: 中篇小说\nF: 歌剧\nG: 诗歌\nH: 交响乐\nI: 管弦乐\nJ: 音乐剧", "label": "F"}
+{"idx": 701, "sentence": "图尔库的官方语言是_。\nA: 斯洛文尼亚语\nB: 巴斯克语\nC: 泰卢固语\nD: 马其顿语\nE: 瑞典语\nF: 中文\nG: 拉丁语\nH: 孟加拉语\nI: 马耳他语\nJ: 黑山语", "label": "E"}
+{"idx": 3447, "sentence": "朴赞郁过去常用_交流。\nA: 阿塞拜疆语\nB: 波斯语\nC: 拉丁语\nD: 法语\nE: 德语\nF: 中文\nG: 西班牙语\nH: 埃及语\nI: 韩语\nJ: 罗马尼亚语", "label": "I"}
+{"idx": 5462, "sentence": "F.K. Sarajevo的总部位于_。\nA: 丰田\nB: 德黑兰\nC: 巴塞罗那\nD: 剑桥\nE: 基辅\nF: 谢菲尔德\nG: 雅典\nH: 萨拉热窝\nI: 蒙特利尔\nJ: 北京", "label": "H"}
+{"idx": 3226, "sentence": "哈瓦那是_的首都。\nA: 危地马拉\nB: 路易斯安那\nC: 云南\nD: 莱斯特郡\nE: 加泰罗尼亚\nF: 普罗旺斯\nG: 突尼斯\nH: 马耳他\nI: 马来西亚\nJ: 古巴", "label": "J"}
+{"idx": 2899, "sentence": "Pinterest 是用 _ 写的。\nA: 西班牙语\nB: 荷兰语\nC: 俄语\nD: 瑞典语\nE: 乌克兰语\nF: 爱沙尼亚语\nG: 越南语\nH: 保加利亚语\nI: 拉丁语\nJ: 德语", "label": "A"}
+{"idx": 1954, "sentence": "G20 包括 _。\nA: 牛奶\nB: 剧院\nC: 氢\nD: 亚洲\nE: 摩纳哥\nF: 印度\nG: 荷兰\nH: 加勒比\nI: 面粉\nJ: 太空", "label": "F"}
+{"idx": 208, "sentence": "美式英语是_的一个子类。\nA: 葡萄酒\nB: 法律\nC: 细胞\nD: 炸弹\nE: 流行病\nF: 英语\nG: 国际象棋\nH: 蔬菜\nI: 政治家\nJ: 天文学", "label": "F"}
+{"idx": 2673, "sentence": "意大利与_保持外交关系。\nA: 巴西\nB: 阿尔及利亚\nC: 哥伦比亚\nD: 法国\nE: 巴拉圭\nF: 土耳其\nG: 克罗地亚\nH: 德国\nI: 委内瑞拉\nJ: 黎巴嫩", "label": "H"}
+{"idx": 2664, "sentence": "德国与_保持外交关系。\nA: 芬兰\nB: 委内瑞拉\nC: 叙利亚\nD: 格鲁吉亚\nE: 俄罗斯\nF: 马达加斯加\nG: 斯洛文尼亚\nH: 不丹\nI: 黑山\nJ: 哈萨克斯坦", "label": "A"}
+{"idx": 425, "sentence": "瓦萨的官方语言是_。\nA: 斯洛伐克语\nB: 诺曼语\nC: 瑞典语\nD: 格鲁吉亚语\nE: 葡萄牙语\nF: 加泰罗尼亚语\nG: 尼泊尔语\nH: 乌尔都语\nI: 泰卢固语\nJ: 威尔士语", "label": "C"}
+{"idx": 1319, "sentence": "伊利诺伊州与_接壤。\nA: 爱荷华州\nB: 纳米比亚\nC: 加泰罗尼亚\nD: 约翰内斯堡\nE: 津巴布韦\nF: 印第安纳州\nG: 萨克森\nH: 阿尔伯塔\nI: 瑞典\nJ: 密苏里州", "label": "F"}
+{"idx": 3411, "sentence": "瓦伦西亚自治区位于_。\nA: 佛罗里达\nB: 意大利\nC: 德克萨斯\nD: 英格兰王国\nE: 温哥华\nF: 乌克兰\nG: 蒙古\nH: 西班牙\nI: 阿肯色州\nJ: 米德尔斯堡", "label": "H"}
+{"idx": 5704, "sentence": "黎巴嫩的首都是_。\nA: 金奈\nB: 埃克塞特\nC: 布加勒斯特\nD: 罗利\nE: 贝鲁特\nF: 布鲁塞尔\nG: 菲尼克斯\nH: 蒙得维的亚\nI: 塞萨洛尼基\nJ: 阿姆斯特丹", "label": "E"}
+{"idx": 4797, "sentence": "昆士兰和_是姐妹城市。\nA: 班加罗尔\nB: 安特卫普\nC: 巴黎\nD: 底特律\nE: 麦地那\nF: 上海\nG: 内罗毕\nH: 开罗\nI: 圣地亚哥\nJ: 弗拉基米尔", "label": "F"}
+{"idx": 4692, "sentence": "布拉格和_是姐妹城市。\nA: 瓦伦西亚\nB: 喀布尔\nC: 博尔德\nD: 哥本哈根\nE: 加尔各答\nF: 阿姆斯特丹\nG: 卡拉奇\nH: 广岛\nI: 贝鲁特\nJ: 汤加", "label": "D"}
+{"idx": 5324, "sentence": "俄罗斯总理是_的法律术语。\nA: 马来西亚\nB: 意大利\nC: 葡萄牙\nD: 俄罗斯\nE: 海地\nF: 瑞士\nG: 乌克兰\nH: 西班牙\nI: 牙买加\nJ: 古巴", "label": "D"}
+{"idx": 110, "sentence": "阿卜杜勒·哈米德一世死于_。\nA: 伊斯坦布尔\nB: 东京\nC: 威尼斯\nD: 君士坦丁堡\nE: 开罗\nF: 喀布尔\nG: 贝尔格莱德\nH: 巴黎\nI: 麦地那\nJ: 底特律", "label": "D"}
+{"idx": 3904, "sentence": "约翰·加尔文曾在_工作。\nA: 罗马\nB: 宾夕法尼亚\nC: 米兰\nD: 剑桥\nE: 曼彻斯特\nF: 日内瓦\nG: 奥斯陆\nH: 阿姆斯特丹\nI: 科隆\nJ: 好莱坞", "label": "F"}
+{"idx": 2815, "sentence": "罗纳尔迪尼奥是 _ 公民。\nA: 保加利亚\nB: 瑞士\nC: 瑞典\nD: 以色列\nE: 越南\nF: 加拿大\nG: 黎巴嫩\nH: 巴西\nI: 西班牙\nJ: 日本", "label": "H"}
+{"idx": 2313, "sentence": "沙特阿拉伯与_保持外交关系。\nA: 哥伦比亚\nB: 委内瑞拉\nC: 阿尔巴尼亚\nD: 奥地利\nE: 马拉维\nF: 荷兰\nG: 加拿大\nH: 爱沙尼亚\nI: 冰岛\nJ: 塞尔维亚", "label": "G"}
+{"idx": 1263, "sentence": "江苏与_接壤。\nA: 伊拉克\nB: 里昂\nC: 不伦瑞克\nD: 基辅\nE: 上海\nF: 萨斯喀彻温\nG: 维也纳\nH: 叙利亚\nI: 德克萨斯\nJ: 老挝", "label": "E"}
+{"idx": 1183, "sentence": "立陶宛与_接壤。\nA: 瑞士\nB: 上海\nC: 瑞典\nD: 柴郡\nE: 喀麦隆\nF: 委内瑞拉\nG: 巴拿马\nH: 白俄罗斯\nI: 冰岛\nJ: 俾斯麦", "label": "H"}
+{"idx": 1221, "sentence": "上加龙省与_接壤。\nA: 埃及\nB: 托斯卡纳\nC: 佛蒙特\nD: 波兰\nE: 立陶宛\nF: 瑞士\nG: 约翰内斯堡\nH: 马里兰\nI: 古吉拉特邦\nJ: 加泰罗尼亚", "label": "J"}
+{"idx": 4172, "sentence": "兰博基尼的所有者是_。\nA: 亚马逊\nB: 雅虎\nC: 巴黎\nD: 奥迪\nE: 微软\nF: 米兰\nG: 热那亚\nH: 波兰\nI: 丰田\nJ: 法国", "label": "D"}
+{"idx": 5992, "sentence": "邮局协议3是_的一部分。\nA: 血液\nB: 清真寺\nC: 电子邮件\nD: 伊斯兰教\nE: 神经\nF: 科学\nG: 染色体\nH: 议会\nI: 电视\nJ: 巴洛克", "label": "C"}
+{"idx": 2820, "sentence": "奥古斯特·罗丹是 _ 公民。\nA: 法兰克福\nB: 西班牙\nC: 以色列\nD: 阿根廷\nE: 印度\nF: 法国\nG: 保加利亚\nH: 意大利\nI: 奥地利\nJ: 巴西", "label": "F"}
+{"idx": 1666, "sentence": "俄罗斯足球联盟是_的成员。\nA: U2\nB: 国际足球联合会\nC: 翅膀\nD: 世界摔跤娱乐\nE: 哈马斯\nF: 北约\nG: 联合国教科文组织\nH: 中北美洲及加勒比海足球协会\nI: 复仇者联盟", "label": "B"}
+{"idx": 5231, "sentence": "布拉格和_是姐妹城市。\nA: 北京\nB: 悉尼\nC: 马德里\nD: 敖德萨\nE: 加拉加斯\nF: 萨格勒布\nG: 布莱顿\nH: 哈瓦那\nI: 利沃夫\nJ: 奥格斯堡", "label": "C"}
+{"idx": 3475, "sentence": "瓜迪奥拉过去常用_交流。\nA: 拉丁语\nB: 法语\nC: 西班牙语\nD: 俄语\nE: 中文\nF: 阿塞拜疆语\nG: 埃及语\nH: 荷兰语\nI: 意大利语\nJ: 印尼语", "label": "C"}
+{"idx": 3519, "sentence": "约翰·厄普代克过去用_交流。\nA: 中文\nB: 韩语\nC: 荷兰语\nD: 希伯来语\nE: 法语\nF: 意大利语\nG: 俄语\nH: 匈牙利语\nI: 印尼语\nJ: 英语", "label": "J"}
+{"idx": 2640, "sentence": "澳大利亚与_保持外交关系。\nA: 立陶宛\nB: 加拿大\nC: 阿尔及利亚\nD: 巴西\nE: 蒙古\nF: 澳大利亚\nG: 冰岛\nH: 新加坡\nI: 安哥拉\nJ: 文莱", "label": "A"}
+{"idx": 3063, "sentence": "滨海边疆区位于_。\nA: 欧洲\nB: 非洲\nC: 亚洲\nD: 南极洲\nE: 美洲\nF: 大洋洲", "label": "C"}
+{"idx": 3820, "sentence": "麻省理工学院位于_。\nA: 伊拉克\nB: 卢旺达\nC: 芬兰\nD: 剑桥\nE: 突尼斯\nF: 克里特岛\nG: 巴尔干\nH: 阿塞拜疆\nI: 热那亚\nJ: 埃塞俄比亚", "label": "D"}
+{"idx": 1623, "sentence": "匈牙利是_的成员。\nA: 翅膀\nB: U2\nC: 国际足联\nD: 世界摔跤娱乐\nE: 哈马斯\nF: 北大西洋公约组织\nG: 中北美及加勒比海足球协会\nH: 联合国教科文组织\nI: 复仇者联盟", "label": "F"}
+{"idx": 437, "sentence": "比利时的官方语言是_。\nA: 瑞典语\nB: 立陶宛语\nC: 夏威夷语\nD: 法语\nE: 马来语\nF: 冰岛语\nG: 中文\nH: 马拉雅拉姆语\nI: 苏格兰语\nJ: 荷兰语", "label": "J"}
+{"idx": 1780, "sentence": "乌尔班·勒维耶尔的工作领域是_。\nA: 佛教\nB: 生理学\nC: 地理学\nD: 解剖学\nE: 夜总会\nF: 网站\nG: 神学\nH: 地质学\nI: 天文学\nJ: 生物学", "label": "I"}
+{"idx": 4589, "sentence": "卢布尔雅那和_是姐妹城市。\nA: 戛纳\nB: 萨格勒布\nC: 曼谷\nD: 东京\nE: 新加坡\nF: 利物浦\nG: 海法\nH: 哥本哈根\nI: 博洛尼亚\nJ: 加拉加斯", "label": "B"}
+{"idx": 2855, "sentence": "莉泽·迈特纳是 _ 公民。\nA: 卡塔尔\nB: 法国\nC: 波兰\nD: 加拿大\nE: 奥地利\nF: 瑞典\nG: 黎巴嫩\nH: 西班牙\nI: 瑞士\nJ: 澳大利亚", "label": "F"}
+{"idx": 3834, "sentence": "亚历山大图书馆位于_。\nA: 乌克兰\nB: 埃塞俄比亚\nC: 亚历山大\nD: 波兰\nE: 京都\nF: 滑铁卢\nG: 比利时\nH: 利比亚\nI: 巴塞罗那\nJ: 斯堪的纳维亚", "label": "C"}
+{"idx": 107, "sentence": "格里高利十六世死于_。\nA: 君士坦丁堡\nB: 伦敦\nC: 喀布尔\nD: 大马士革\nE: 巴格达\nF: 迦太基\nG: 马德里\nH: 华沙\nI: 台北\nJ: 罗马", "label": "J"}
+{"idx": 2943, "sentence": "河内位于_。\nA: 非洲\nB: 大洋洲\nC: 南极洲\nD: 美洲\nE: 亚洲\nF: 欧洲", "label": "E"}
+{"idx": 29, "sentence": "威尔士亲王查尔斯曾在_工作。\nA: 法兰克福\nB: 伦敦\nC: 伯尔尼\nD: 维也纳\nE: 雅典\nF: 巴塞罗那\nG: 罗马\nH: 柏林\nI: 慕尼黑\nJ: 渥太华", "label": "B"}
+{"idx": 2447, "sentence": "塞内加尔与_保持外交关系。\nA: 阿尔及利亚\nB: 塞内加尔\nC: 澳大利亚\nD: 西班牙\nE: 立陶宛\nF: 阿尔巴尼亚\nG: 斯洛文尼亚\nH: 日本\nI: 泰国\nJ: 保加利亚", "label": "C"}
+{"idx": 4900, "sentence": "上海和_是姐妹城市。\nA: 圣地亚哥\nB: 爱丁堡\nC: 卡拉奇\nD: 马赛\nE: 利马\nF: 克利夫兰\nG: 里加\nH: 雅加达\nI: 汤加\nJ: 拉各斯", "label": "C"}
+{"idx": 2952, "sentence": "丹麦位于_。\nA: 欧洲\nB: 南极洲\nC: 大洋洲\nD: 亚洲\nE: 美洲\nF: 非洲", "label": "A"}
+{"idx": 1612, "sentence": "克罗地亚是_的成员。\nA: 翅膀\nB: U2\nC: 复仇者联盟\nD: 联合国教科文组织\nE: 国际足联\nF: WWE\nG: 北大西洋公约组织\nH: 中北美洲及加勒比海足球协会\nI: 哈马斯", "label": "G"}
+{"idx": 2348, "sentence": "巴西与_保持外交关系。\nA: 纳米比亚\nB: 西班牙\nC: 波兰\nD: 日本\nE: 菲律宾\nF: 塔吉克斯坦\nG: 阿塞拜疆\nH: 土耳其\nI: 安哥拉\nJ: 圭亚那", "label": "D"}
+{"idx": 751, "sentence": "阿尔巴尼亚的官方语言是_。\nA: 俄语\nB: 蒙古语\nC: 埃及语\nD: 高棉语\nE: 威尼斯语\nF: 保加利亚语\nG: 越南语\nH: 希腊语\nI: 土耳其语\nJ: 阿尔巴尼亚语", "label": "J"}
+{"idx": 4769, "sentence": "匹兹堡和_是姐妹城市。\nA: 雅加达\nB: 谢菲尔德\nC: 马赛\nD: 罗马\nE: 索非亚\nF: 布里斯班\nG: 美因茨\nH: 瓦伦西亚\nI: 东京\nJ: 孟买", "label": "B"}
+{"idx": 584, "sentence": "楚瓦什共和国的官方语言是_。\nA: 保加利亚语\nB: 俄语\nC: 芬兰语\nD: 立陶宛语\nE: 韩语\nF: 克罗地亚语\nG: 阿尔巴尼亚语\nH: 荷兰语\nI: 爱沙尼亚语\nJ: 越南语", "label": "B"}
+{"idx": 5271, "sentence": "迪拜酋长国和_是双子城市。\nA: 托莱多\nB: 马赛\nC: 里昂\nD: 台北\nE: 广州\nF: 那不勒斯\nG: 巴格达\nH: 地拉那\nI: 塔林\nJ: 多特蒙德", "label": "G"}
+{"idx": 3686, "sentence": "狄俄尼索斯的职位是_。\nA: 沙阿\nB: 经济学家\nC: 上帝\nD: 市长\nE: 红衣主教\nF: 主教\nG: 大主教\nH: 牧师\nI: 州长\nJ: 教皇", "label": "J"}
+{"idx": 3878, "sentence": "卡拉·布鲁尼曾在_工作。\nA: 剑桥\nB: 安特卫普\nC: 佛罗伦萨\nD: 耶路撒冷\nE: 斯特拉斯堡\nF: 米兰\nG: 巴黎\nH: 曼彻斯特\nI: 鹿特丹\nJ: 莫斯科", "label": "G"}
+{"idx": 4239, "sentence": "奥黛丽·塔图的母语是_。\nA: 波兰语\nB: 西班牙语\nC: 塞尔维亚语\nD: 瑞典语\nE: 英语\nF: 法语\nG: 日语\nH: 俄语\nI: 意大利语\nJ: 希伯来语", "label": "F"}
+{"idx": 2236, "sentence": "德意志民主共和国与_保持外交关系。\nA: 丹麦\nB: 黑山\nC: 巴巴多斯\nD: 伊朗\nE: 蒙古\nF: 德国\nG: 葡萄牙\nH: 阿尔及利亚\nI: 泰国\nJ: 爱尔兰", "label": "F"}
+{"idx": 1215, "sentence": "奥匈帝国与_接壤。\nA: 菲律宾\nB: 北京\nC: 不来梅\nD: 弗吉尼亚\nE: 瑞士\nF: 新加坡\nG: 威尔特郡\nH: 意大利\nI: 利比亚\nJ: 安哥拉", "label": "E"}
+{"idx": 1786, "sentence": "约翰·纳皮尔的工作领域是_。\nA: 小说家\nB: 医学\nC: 遗传学\nD: 语言学\nE: 数学家\nF: 神学\nG: 歌剧\nH: 音乐家\nI: 数学\nJ: 天文学家", "label": "I"}
+{"idx": 3927, "sentence": "鲍里斯·涅姆佐夫曾在_工作。\nA: 曼彻斯特\nB: 克利夫兰\nC: 莫斯科\nD: 匹兹堡\nE: 索非亚\nF: 鹿特丹\nG: 剑桥\nH: 格拉斯哥\nI: 巴塞罗那\nJ: 纳什维尔", "label": "C"}
+{"idx": 2835, "sentence": "Grzegorz Lato 是 _ 公民。\nA: 日本\nB: 澳大利亚\nC: 德国\nD: 波兰\nE: 爱尔兰\nF: 希腊\nG: 保加利亚\nH: 西班牙\nI: 法国\nJ: 意大利", "label": "D"}
+{"idx": 3978, "sentence": "科西莫·德·美第奇曾在_工作。\nA: 曼彻斯特\nB: 多伦多\nC: 安特卫普\nD: 科隆\nE: 伯明翰\nF: 佛罗伦萨\nG: 伦敦\nH: 汉堡\nI: 斯德哥尔摩\nJ: 雅典", "label": "F"}
+{"idx": 1817, "sentence": "婆罗摩笈多从事的领域是_。\nA: 小说家\nB: 解剖学\nC: 地理学\nD: 夜总会\nE: 音乐家\nF: 爵士乐\nG: 经济学\nH: 数学\nI: 鸟类\nJ: 网站", "label": "H"}
+{"idx": 1002, "sentence": "西班牙与_接壤。\nA: 巴伐利亚\nB: 皇后区\nC: 四川\nD: 尼日利亚\nE: 法国\nF: 德里\nG: 密苏里\nH: 巴西\nI: 柴郡\nJ: 玻利维亚", "label": "E"}
+{"idx": 1397, "sentence": "法国与_接壤。\nA: 印度\nB: 尼加拉瓜\nC: 明尼苏达州\nD: 兰开夏郡\nE: 巴黎\nF: 意大利\nG: 拉贾斯坦邦\nH: 牛津郡\nI: 昆士兰州\nJ: 利比亚", "label": "F"}
+{"idx": 3921, "sentence": "文森特·梵高曾在_工作。\nA: 奥斯陆\nB: 迈阿密\nC: 马德里\nD: 伯明翰\nE: 德累斯顿\nF: 伦敦\nG: 鹿特丹\nH: 底特律\nI: 巴黎\nJ: 雅典", "label": "I"}
+{"idx": 2715, "sentence": "赞比亚与_保持外交关系。\nA: 智利\nB: 科威特\nC: 印度\nD: 菲律宾\nE: 乌克兰\nF: 秘鲁\nG: 汤加\nH: 埃塞俄比亚\nI: 加纳\nJ: 坦桑尼亚", "label": "J"}
+{"idx": 5930, "sentence": "北半球是_的一部分。\nA: 钢铁\nB: Linux\nC: 西西里\nD: 轨道\nE: 地球\nF: 加勒比海\nG: 安第斯山脉\nH: 斯堪的纳维亚\nI: 炮兵\nJ: 耶路撒冷", "label": "E"}
+{"idx": 4420, "sentence": "索菲亚和_是姐妹城市。\nA: 德累斯顿\nB: 瓦伦西亚\nC: 多特蒙德\nD: 基督城\nE: 丹佛\nF: 巴哈马\nG: 温哥华\nH: 莫斯科\nI: 横滨\nJ: 耶路撒冷", "label": "H"}
+{"idx": 179, "sentence": "简易爆炸装置是_的一个子类。\nA: 炸弹\nB: 服务员\nC: 恶魔\nD: 地质学家\nE: 三明治\nF: 疾病\nG: 巡洋舰\nH: 狗\nI: 物理学\nJ: 神话", "label": "A"}
+{"idx": 4624, "sentence": "马德里和_是姐妹城市。\nA: 德黑兰\nB: 巴哈马\nC: 哈瓦那\nD: 蒙特利尔\nE: 斯巴达\nF: 班加罗尔\nG: 费城\nH: 邓迪\nI: 安特卫普\nJ: 达卡", "label": "C"}
+{"idx": 2809, "sentence": "西班牙的查理二世是_公民。\nA: 阿根廷\nB: 瑞士\nC: 丹麦\nD: 加拿大\nE: 西班牙\nF: 越南\nG: 挪威\nH: 瑞典\nI: 以色列\nJ: 奥地利", "label": "E"}
+{"idx": 1732, "sentence": "伽利略·伽利莱的工作领域是_。\nA: 佛教\nB: 化学\nC: 天文学\nD: 歌剧\nE: 科学\nF: 生物学\nG: 医学\nH: 逻辑\nI: 夜总会\nJ: 几何学", "label": "C"}
+{"idx": 4689, "sentence": "德黑兰和_是姐妹城市。\nA: 都灵\nB: 斯图加特\nC: 戈尔韦\nD: 京都\nE: 芝加哥\nF: 维罗纳\nG: 图卢兹\nH: 北京\nI: 内罗毕\nJ: 达拉斯", "label": "H"}
+{"idx": 6014, "sentence": "外交任务是_的一部分。\nA: 社会学\nB: 染色体\nC: 外交\nD: 物理学\nE: 生物学\nF: 航天器\nG: 眼睛\nH: 地质学\nI: 原子\nJ: 日本", "label": "C"}
+{"idx": 3563, "sentence": "伊戈尔·斯特拉文斯基演奏 _ 音乐。\nA: 中篇小说\nB: 惊悚片\nC: 幻想曲\nD: 悲剧\nE: 讽刺\nF: 交响曲\nG: 歌剧\nH: 爵士\nI: 布鲁斯\nJ: 音乐剧", "label": "G"}
+{"idx": 3571, "sentence": "杜克·艾灵顿演奏 _ 音乐。\nA: 情景喜剧\nB: 音乐剧\nC: 交响乐\nD: 歌剧\nE: 布鲁斯\nF: 惊悚片\nG: 放克\nH: 爵士\nI: 诗歌\nJ: 中篇小说", "label": "H"}
+{"idx": 4085, "sentence": "五旬节与 _ 宗教有关。\nA: 犹太教\nB: 伊斯兰教\nC: 基督教\nD: 科学\nE: 天主教\nF: 印度教\nG: 佛教\nH: 穆斯林", "label": "C"}
+{"idx": 3970, "sentence": "让-保罗·马拉曾在_工作。\nA: 科隆\nB: 伯尔尼\nC: 巴黎\nD: 渥太华\nE: 哥本哈根\nF: 莱比锡\nG: 奥斯陆\nH: 安特卫普\nI: 鹿特丹\nJ: 纳什维尔", "label": "C"}
+{"idx": 3443, "sentence": "查尔斯·布朗森过去用_交流。\nA: 挪威语\nB: 匈牙利语\nC: 埃及语\nD: 俄语\nE: 英语\nF: 意大利语\nG: 希伯来语\nH: 波兰语\nI: 德语\nJ: 瑞典语", "label": "E"}
+{"idx": 4334, "sentence": "Virginie Ledoyen 的母语是 _。\nA: 俄语\nB: 日语\nC: 荷兰语\nD: 希伯来语\nE: 西班牙语\nF: 塞尔维亚语\nG: 波兰语\nH: 法语\nI: 泰米尔语\nJ: 拉丁语", "label": "H"}
+{"idx": 90, "sentence": "约翰·迪死于_。\nA: 华沙\nB: 君士坦丁堡\nC: 佛罗伦萨\nD: 萨里\nE: 布拉格\nF: 罗马\nG: 巴格达\nH: 底特律\nI: 里昂\nJ: 东京", "label": "D"}
+{"idx": 4789, "sentence": "北京和_是姐妹城市。\nA: 悉尼\nB: 阿尔及尔\nC: 惠灵顿\nD: 奥斯陆\nE: 朴茨茅斯\nF: 马德里\nG: 雅加达\nH: 伊斯坦布尔\nI: 利马\nJ: 里尔", "label": "B"}
+{"idx": 1728, "sentence": "路易·巴斯德从事_领域的工作。\nA: 哲学\nB: 社会学\nC: 鸟类\nD: 拓扑学\nE: 种族隔离\nF: 佛教\nG: 考古学\nH: 生理学\nI: 化学\nJ: 科学", "label": "I"}
+{"idx": 4250, "sentence": "伍德罗·威尔逊的母语是_。\nA: 拉丁语\nB: 荷兰语\nC: 英语\nD: 法语\nE: 日语\nF: 泰米尔语\nG: 意大利语\nH: 俄语\nI: 塞尔维亚语\nJ: 丹麦语", "label": "C"}
+{"idx": 4161, "sentence": "阿瑟·鲁宾斯坦演奏_。\nA: 小提琴\nB: 中提琴\nC: 吉他\nD: 单簧管\nE: 钢琴\nF: 口琴", "label": "E"}
+{"idx": 4945, "sentence": "华盛顿特区和_是姐妹城市。\nA: 波尔图\nB: 首尔\nC: 博洛尼亚\nD: 萨尔茨堡\nE: 开罗\nF: 布达佩斯\nG: 伦敦\nH: 布里斯班\nI: 朴茨茅斯\nJ: 拉各斯", "label": "B"}
+{"idx": 624, "sentence": "泰米尔纳德邦的官方语言是_。\nA: 丹麦语\nB: 波斯语\nC: 白俄罗斯语\nD: 匈牙利语\nE: 塞尔维亚语\nF: 法语\nG: 泰米尔语\nH: 阿尔巴尼亚语\nI: 爱沙尼亚语\nJ: 马其顿语", "label": "G"}
+{"idx": 69, "sentence": "章子怡出生在_。\nA: 贝尔格莱德\nB: 莫斯科\nC: 麦加\nD: 那不勒斯\nE: 马德里\nF: 北京\nG: 麦地那\nH: 柏林\nI: 芝加哥\nJ: 罗马", "label": "F"}
+{"idx": 1328, "sentence": "赞比亚与_接壤。\nA: 克罗地亚\nB: 巴黎\nC: 兰开夏郡\nD: 保加利亚\nE: 菲律宾\nF: 叙利亚\nG: 博茨瓦纳\nH: 乔治亚州\nI: 萨福克\nJ: 印度尼西亚", "label": "G"}
+{"idx": 889, "sentence": "《生活大爆炸》最初是在_播出的。\nA: 全国广播公司\nB: 家庭影院频道\nC: 尼克儿童频道\nD: 奈飞\nE: 哥伦比亚广播公司", "label": "E"}
+{"idx": 2458, "sentence": "澳大利亚与_保持外交关系。\nA: 德国\nB: 希腊\nC: 不丹\nD: 乌干达\nE: 阿尔及利亚\nF: 斯洛伐克\nG: 塔吉克斯坦\nH: 阿塞拜疆\nI: 芬兰\nJ: 科索沃", "label": "D"}
+{"idx": 3700, "sentence": "德斯蒙德·图图的职位是_。\nA: 牧师\nB: 经济学家\nC: 主教\nD: 红衣主教\nE: 市长\nF: 教皇\nG: 州长\nH: 沙阿\nI: 大主教\nJ: 上帝", "label": "C"}
+{"idx": 1569, "sentence": "弗拉芒布拉班特是以_命名的。\nA: 鼹鼠\nB: 汉堡\nC: 都柏林\nD: 谢菲尔德\nE: 佛兰德斯\nF: 哥本哈根\nG: 太阳\nH: 爱尔兰\nI: 慕尼黑\nJ: 匈牙利人", "label": "E"}
+{"idx": 3567, "sentence": "披头士演奏 _ 音乐。\nA: 情景喜剧\nB: 诗歌\nC: 放克\nD: 幻想\nE: 讽刺\nF: 悲剧\nG: 蓝调\nH: 管弦乐\nI: 惊悚\nJ: 歌剧", "label": "G"}
+{"idx": 877, "sentence": "Steven Nzonzi 在 _ 位置上踢球。\nA: 后卫\nB: 前锋\nC: 中场", "label": "C"}
+{"idx": 2963, "sentence": "越南位于_。\nA: 美洲\nB: 非洲\nC: 欧洲\nD: 大洋洲\nE: 亚洲\nF: 南极洲", "label": "E"}
+{"idx": 1074, "sentence": "马拉维与_接壤。\nA: 里昂\nB: 路易斯安那\nC: 阿富汗\nD: 俾斯麦\nE: 埃塞俄比亚\nF: 塞内加尔\nG: 多特蒙德\nH: 爱尔兰\nI: 苏丹\nJ: 赞比亚", "label": "J"}
+{"idx": 764, "sentence": "波多黎各的官方语言是_。\nA: 格鲁吉亚语\nB: 夏威夷语\nC: 马拉地语\nD: 斯洛文尼亚语\nE: 印地语\nF: 马耳他语\nG: 英语\nH: 诺曼语\nI: 爱尔兰语\nJ: 芬兰语", "label": "G"}
+{"idx": 293, "sentence": "比利时的官方语言是_。\nA: 亚美尼亚语\nB: 德语\nC: 马拉雅拉姆语\nD: 英语\nE: 韩语\nF: 印地语\nG: 希伯来语\nH: 意大利语\nI: 爱沙尼亚语\nJ: 格鲁吉亚语", "label": "B"}
+{"idx": 3285, "sentence": "圣地亚哥是_的首都。\nA: 乌干达\nB: 摩洛哥\nC: 印第安纳\nD: 罗得西亚\nE: 挪威\nF: 孟加拉国\nG: 智利\nH: 加利福尼亚\nI: 科威特\nJ: 葡萄牙", "label": "G"}
+{"idx": 4325, "sentence": "德米特里·梅德韦杰夫的母语是_。\nA: 日语\nB: 俄语\nC: 塞尔维亚语\nD: 丹麦语\nE: 荷兰语\nF: 德语\nG: 波兰语\nH: 拉丁语\nI: 西班牙语\nJ: 法语", "label": "B"}
+{"idx": 445, "sentence": "南非的官方语言是_。\nA: 波斯语\nB: 孟加拉语\nC: 瑞典语\nD: 威尔士语\nE: 尼泊尔语\nF: 斯洛文尼亚语\nG: 泰语\nH: 英语\nI: 越南语\nJ: 布列塔尼语", "label": "H"}
+{"idx": 468, "sentence": "俄罗斯的官方语言是_。\nA: 斯洛文尼亚语\nB: 马拉地语\nC: 乌克兰语\nD: 希伯来语\nE: 冰岛语\nF: 诺曼语\nG: 埃及语\nH: 荷兰语\nI: 西班牙语\nJ: 克罗地亚语", "label": "C"}
+{"idx": 2519, "sentence": "厄瓜多尔与_保持外交关系。\nA: 巴拉圭\nB: 瑞士\nC: 立陶宛\nD: 新加坡\nE: 印度尼西亚\nF: 拉脱维亚\nG: 肯尼亚\nH: 赞比亚\nI: 巴西\nJ: 叙利亚", "label": "I"}
+{"idx": 1075, "sentence": "Val-de-Marne 与 _ 接壤。\nA: 伊朗\nB: 阿拉斯加\nC: 巴黎\nD: 博茨瓦纳\nE: 以色列\nF: 萨默塞特\nG: 威斯康星州\nH: 特伦甘纳邦\nI: 黑森州\nJ: 伊拉克", "label": "C"}
+{"idx": 432, "sentence": "勒克瑙的官方语言是_。\nA: 乌尔都语\nB: 波兰语\nC: 索马里语\nD: 希腊语\nE: 白俄罗斯语\nF: 西西里语\nG: 捷克语\nH: 土耳其语\nI: 爱沙尼亚语\nJ: 瑞典语", "label": "A"}
+{"idx": 1514, "sentence": "日内瓦湖是以_命名的。\nA: 慕尼黑\nB: 弗蕾亚\nC: 莱茵河\nD: 日内瓦\nE: 猎户座\nF: 波尔图\nG: 三一\nH: 塞纳河\nI: 佛兰德斯\nJ: 普鲁士", "label": "D"}
+{"idx": 4301, "sentence": "凯瑟琳·德纳芙的母语是_。\nA: 拉丁语\nB: 西班牙语\nC: 德语\nD: 意大利语\nE: 波兰语\nF: 英语\nG: 俄语\nH: 瑞典语\nI: 丹麦语\nJ: 法语", "label": "J"}
+{"idx": 4634, "sentence": "地拉那和_是姐妹城市。\nA: 布达佩斯\nB: 丹佛\nC: 维尔纽斯\nD: 罗萨里奥\nE: 奥斯陆\nF: 加尔各答\nG: 索尔兹伯里\nH: 迪拜酋长国\nI: 大马士革\nJ: 卢布尔雅那", "label": "C"}
+{"idx": 1468, "sentence": "孟加拉国是以_命名的。\nA: 木星\nB: 蒙古人\nC: 土星\nD: 首都\nE: 特立尼达\nF: 爱尔兰\nG: 莱斯特\nH: 波兰\nI: 孟加拉语\nJ: 谢菲尔德", "label": "I"}
+{"idx": 3121, "sentence": "斐济位于_。\nA: 非洲\nB: 亚洲\nC: 欧洲\nD: 南极洲\nE: 大洋洲\nF: 美洲", "label": "E"}
+{"idx": 577, "sentence": "美属萨摩亚的官方语言是_。\nA: 斯洛文尼亚语\nB: 希腊语\nC: 捷克语\nD: 乌尔都语\nE: 保加利亚语\nF: 马其顿语\nG: 英语\nH: 泰米尔语\nI: 泰卢固语\nJ: 葡萄牙语", "label": "G"}
+{"idx": 5100, "sentence": "德里和_是双子城市。\nA: 达卡\nB: 东京\nC: 基督城\nD: 图卢兹\nE: 索菲亚\nF: 塞维利亚\nG: 底特律\nH: 威尼斯\nI: 塔林\nJ: 萨摩亚", "label": "B"}
+{"idx": 245, "sentence": "水污染是_的一个子类。\nA: 设防\nB: 民主\nC: 三明治\nD: 名人\nE: 骑行\nF: 跨性别者\nG: 蛋白质\nH: 污染\nI: 教皇\nJ: 哲学", "label": "H"}
+{"idx": 4717, "sentence": "达卡和_是姐妹城市。\nA: 塔林\nB: 达卡\nC: 塞维利亚\nD: 芝加哥\nE: 广州\nF: 波士顿\nG: 上海\nH: 惠灵顿\nI: 曼谷\nJ: 第比利斯", "label": "E"}
+{"idx": 367, "sentence": "顿涅茨克州的官方语言是_。\nA: 拉丁语\nB: 中文\nC: 埃及语\nD: 乌克兰语\nE: 波兰语\nF: 索马里语\nG: 拉脱维亚语\nH: 俄语\nI: 丹麦语\nJ: 加泰罗尼亚语", "label": "D"}
+{"idx": 3842, "sentence": "后苏联国家位于_。\nA: 白俄罗斯\nB: 以色列\nC: 多伦多\nD: 马德里\nE: 日内瓦\nF: 莫斯科\nG: 洛桑\nH: 克罗地亚\nI: 根特\nJ: 芬兰", "label": "A"}
+{"idx": 1174, "sentence": "艾米利亚-罗马涅与_接壤。\nA: 汉普郡\nB: 塞内加尔\nC: 皮埃蒙特\nD: 赞比亚\nE: 育空\nF: 埃及\nG: 阿拉斯加\nH: 怀俄明\nI: 马赛\nJ: 不伦瑞克", "label": "C"}
+{"idx": 3007, "sentence": "勃艮第王国位于_。\nA: 南极洲\nB: 亚洲\nC: 美洲\nD: 欧洲\nE: 非洲\nF: 大洋洲", "label": "D"}
+{"idx": 2905, "sentence": "乌克兰维基百科是用_写的。\nA: 保加利亚语\nB: 乌克兰语\nC: 意大利语\nD: 荷兰语\nE: 加泰罗尼亚语\nF: 爱沙尼亚语\nG: 西班牙语\nH: 芬兰语\nI: 俄语\nJ: 捷克语", "label": "B"}
+{"idx": 1839, "sentence": "伊娃·朗格利亚的职业是_。\nA: 演员\nB: 数学家\nC: 政治家\nD: 小说家\nE: 词曲作者\nF: 诗人\nG: 哲学家\nH: 编剧\nI: 作曲家\nJ: 钢琴家", "label": "A"}
+{"idx": 2145, "sentence": "澳大利亚与_保持外交关系。\nA: 秘鲁\nB: 伊朗\nC: 加蓬\nD: 柬埔寨\nE: 约旦\nF: 菲律宾\nG: 澳大利亚\nH: 巴拉圭\nI: 埃及\nJ: 马拉维", "label": "E"}
+{"idx": 5555, "sentence": "迈阿密-戴德县的首府是_。\nA: 慕尼黑\nB: 迈阿密\nC: 麦加\nD: 里加\nE: 奥格斯堡\nF: 巴里\nG: 布雷斯特\nH: 马尼拉\nI: 内罗毕\nJ: 图卢兹", "label": "B"}
+{"idx": 1295, "sentence": "捷克共和国与_接壤。\nA: 里昂\nB: 那不勒斯\nC: 黑森\nD: 北京\nE: 索马里\nF: 塞浦路斯\nG: 不来梅\nH: 斯洛伐克\nI: 帕萨迪纳\nJ: 约翰内斯堡", "label": "H"}
+{"idx": 3362, "sentence": "苏瓦是_的首都。\nA: 拉贾斯坦\nB: 广东\nC: 阿根廷\nD: 普罗旺斯\nE: 爱荷华\nF: 维多利亚\nG: 印度\nH: 托斯卡纳\nI: 巴伐利亚\nJ: 斐济", "label": "J"}
+{"idx": 6043, "sentence": "地球的大气层是_的一部分。\nA: 地球\nB: 语言学\nC: 生物体\nD: 性别\nE: 基因\nF: 南极洲\nG: 考古学\nH: 十字军东征\nI: 生态学\nJ: 托拉", "label": "A"}
+{"idx": 4516, "sentence": "尼斯和_是双子城市。\nA: 麦地那\nB: 堪培拉\nC: 威尼斯\nD: 塞萨洛尼基\nE: 蒙特利尔\nF: 萨摩亚\nG: 科隆\nH: 约翰内斯堡\nI: 巴勒莫\nJ: 巴黎", "label": "D"}
+{"idx": 3813, "sentence": "叙利亚内战发生在_。\nA: 亚历山大\nB: 莱比锡\nC: 苏格兰\nD: 叙利亚\nE: 克罗地亚\nF: 多伦多\nG: 卢森堡\nH: 里斯本\nI: 洛桑\nJ: 乌克兰", "label": "D"}
+{"idx": 555, "sentence": "泽西岛的官方语言是_。\nA: 法语\nB: 希腊语\nC: 保加利亚语\nD: 黑山语\nE: 乌克兰语\nF: 葡萄牙语\nG: 日语\nH: 诺曼语\nI: 西西里语\nJ: 马拉雅拉姆语", "label": "A"}
+{"idx": 2209, "sentence": "埃塞俄比亚与_保持外交关系。\nA: 叙利亚\nB: 以色列\nC: 苏丹\nD: 黎巴嫩\nE: 法国\nF: 比利时\nG: 马拉维\nH: 塞浦路斯\nI: 希腊\nJ: 马达加斯加", "label": "B"}
+{"idx": 5945, "sentence": "民间传说是_的一部分。\nA: 血液\nB: 眼睛\nC: 布列塔尼\nD: 基督教\nE: 力量\nF: 历史\nG: 巴洛克\nH: 伊斯兰教\nI: 化学\nJ: 亚洲", "label": "F"}
+{"idx": 2655, "sentence": "澳大利亚与_保持外交关系。\nA: 哥伦比亚\nB: 毛里求斯\nC: 乍得\nD: 格鲁吉亚\nE: 泰国\nF: 蒙古\nG: 乌干达\nH: 秘鲁\nI: 汤加\nJ: 克罗地亚", "label": "B"}
+{"idx": 3439, "sentence": "兹拉蒂博尔区位于_。\nA: 西雅图\nB: 伊斯坦布尔\nC: 博洛尼亚\nD: 米德尔斯堡\nE: 阿塞拜疆\nF: 德克萨斯\nG: 耶路撒冷\nH: 美因河畔法兰克福\nI: 塞尔维亚\nJ: 印度", "label": "I"}
+{"idx": 2687, "sentence": "波斯尼亚和黑塞哥维那与_保持外交关系。\nA: 斯洛伐克\nB: 肯尼亚\nC: 汤加\nD: 贝宁\nE: 新加坡\nF: 意大利\nG: 乍得\nH: 索马里\nI: 乌克兰\nJ: 斯洛文尼亚", "label": "J"}
+{"idx": 2680, "sentence": "葡萄牙与_保持外交关系。\nA: 澳大利亚\nB: 意大利\nC: 丹麦\nD: 尼日利亚\nE: 马来西亚\nF: 津巴布韦\nG: 斯洛文尼亚\nH: 西班牙\nI: 保加利亚\nJ: 也门", "label": "B"}
+{"idx": 6029, "sentence": "数学史是_的一部分。\nA: 医学\nB: 海\nC: 鞍\nD: 头\nE: 历史\nF: 人类学\nG: 北约\nH: 日本\nI: 电池\nJ: 厕所", "label": "E"}
+{"idx": 1718, "sentence": "威廉·萨默塞特·毛姆从事_领域的工作。\nA: 剧作家\nB: 天文学家\nC: 地质学\nD: 天文学\nE: 生理学\nF: 恐怖主义\nG: 考古学\nH: 生态学\nI: 遗传学\nJ: 社会学", "label": "A"}
+{"idx": 5458, "sentence": "卡罗林斯卡学院的总部位于_。\nA: 波恩\nB: 斯德哥尔摩\nC: 法兰克福\nD: 巴黎\nE: 京都\nF: 佛罗伦萨\nG: 首尔\nH: 慕尼黑\nI: 底特律\nJ: 南锡", "label": "B"}
+{"idx": 3544, "sentence": "阿尔贝·加缪过去常用_交流。\nA: 法语\nB: 意大利语\nC: 俄语\nD: 波兰语\nE: 埃及语\nF: 西班牙语\nG: 希伯来语\nH: 匈牙利语\nI: 英语\nJ: 波斯语", "label": "A"}
+{"idx": 5639, "sentence": "欧洲联盟的首都是_。\nA: 查尔斯顿\nB: 美因茨\nC: 雅典\nD: 兰辛\nE: 金奈\nF: 麦地那\nG: 贝尔法斯特\nH: 亚丁\nI: 麦迪逊\nJ: 斯特拉斯堡", "label": "J"}
+{"idx": 151, "sentence": "爱德华·希思死于_。\nA: 麦迪逊\nB: 华沙\nC: 君士坦丁堡\nD: 巴黎\nE: 柏林\nF: 台北\nG: 迦太基\nH: 索尔兹伯里\nI: 萨里\nJ: 伦敦", "label": "H"}
+{"idx": 3934, "sentence": "卡尔·菲利普·埃马努埃尔·巴赫曾在_工作。\nA: 格拉斯哥\nB: 汉堡\nC: 科隆\nD: 奥斯陆\nE: 维也纳\nF: 华沙\nG: 底特律\nH: 纳什维尔\nI: 布达佩斯\nJ: 好莱坞", "label": "B"}
+{"idx": 1335, "sentence": "瑞士与_接壤。\nA: 贝宁\nB: 安哥拉\nC: 智利\nD: 德国\nE: 北安普敦郡\nF: 汉普郡\nG: 布鲁塞尔\nH: 不伦瑞克\nI: 帕萨迪纳\nJ: 法国", "label": "D"}
+{"idx": 2117, "sentence": "L-天冬氨酸由_组成。\nA: 埃及\nB: 卢森堡\nC: 氮\nD: 拉脱维亚\nE: 心理学\nF: 钾\nG: 历史\nH: 加勒比\nI: 黑山\nJ: 马", "label": "C"}
+{"idx": 5275, "sentence": "华沙和_是姐妹城市。\nA: 布达佩斯\nB: 匹兹堡\nC: 汉堡\nD: 埃里温\nE: 魁北克\nF: 利物浦\nG: 爱丁堡\nH: 萨摩亚\nI: 塞萨洛尼基\nJ: 地拉那", "label": "A"}
+{"idx": 3221, "sentence": "奥斯陆是_的首都。\nA: 马达加斯加\nB: 挪威\nC: 皮埃蒙特\nD: 科威特\nE: 康涅狄格\nF: 坦桑尼亚\nG: 保加利亚\nH: 安大略\nI: 土耳其\nJ: 法国", "label": "B"}
+{"idx": 915, "sentence": "科罗拉多州与_接壤。\nA: 俄克拉荷马州\nB: 科罗拉多州\nC: 英格兰\nD: 威尔特郡\nE: 斯洛文尼亚\nF: 利比里亚\nG: 阿富汗\nH: 乍得\nI: 印度\nJ: 加拿大", "label": "A"}
+{"idx": 4256, "sentence": "亚历克斯·弗格森的母语是_。\nA: 希伯来语\nB: 日语\nC: 塞尔维亚语\nD: 德语\nE: 俄语\nF: 法语\nG: 泰米尔语\nH: 英语\nI: 意大利语\nJ: 波兰语", "label": "H"}
+{"idx": 5425, "sentence": "纳粹党的总部在_。\nA: 慕尼黑\nB: 蒙特利尔\nC: 伦敦\nD: 基辅\nE: 京都\nF: 罗马\nG: 台北\nH: 丰田\nI: 斯坦福\nJ: 喀布尔", "label": "A"}
+{"idx": 3077, "sentence": "大英帝国位于_。\nA: 欧洲\nB: 非洲\nC: 南极洲\nD: 大洋洲\nE: 美洲\nF: 亚洲", "label": "E"}
+{"idx": 5652, "sentence": "坎布里亚的首都是_。\nA: 蒙得维的亚\nB: 瓦伦西亚\nC: 广州\nD: 麦地那\nE: 卡莱尔\nF: 奥格斯堡\nG: 佐贺\nH: 埃里温\nI: 索非亚\nJ: 柏林", "label": "E"}
+{"idx": 3955, "sentence": "爱德华·布尔沃-利顿曾在_工作。\nA: 耶路撒冷\nB: 巴塞罗那\nC: 多伦多\nD: 伦敦\nE: 剑桥\nF: 雅典\nG: 渥太华\nH: 马德里\nI: 匹兹堡\nJ: 鹿特丹", "label": "D"}
+{"idx": 2881, "sentence": "克罗地亚维基百科是用_写的。\nA: 法语\nB: 匈牙利语\nC: 西班牙语\nD: 越南语\nE: 荷兰语\nF: 孟加拉语\nG: 俄语\nH: 丹麦语\nI: 波兰语\nJ: 克罗地亚语", "label": "J"}
+{"idx": 2550, "sentence": "埃及与_保持外交关系。\nA: 津巴布韦\nB: 伊拉克\nC: 巴林\nD: 菲律宾\nE: 匈牙利\nF: 尼泊尔\nG: 巴西\nH: 也门\nI: 巴拉圭\nJ: 保加利亚", "label": "G"}
+{"idx": 1831, "sentence": "洛可可作品属于_领域。\nA: 恐怖主义\nB: 医学\nC: 生理学\nD: 地理\nE: 拓扑学\nF: 建筑学\nG: 逻辑\nH: 化学\nI: 天文学家\nJ: 数学家", "label": "F"}
+{"idx": 5325, "sentence": "新加坡国旗是_的法律术语。\nA: 澳门\nB: 新加坡\nC: 玻利维亚\nD: 奥地利\nE: 索马里\nF: 丹麦\nG: 保加利亚\nH: 葡萄牙\nI: 德国\nJ: 越南", "label": "B"}
+{"idx": 1345, "sentence": "萨默塞特与_接壤。\nA: 北安普敦郡\nB: 赫尔辛基\nC: 越南\nD: 新加坡\nE: 玻利维亚\nF: 格洛斯特郡\nG: 弗吉尼亚\nH: 伊拉克\nI: 明尼苏达州\nJ: 挪威", "label": "F"}
+{"idx": 748, "sentence": "卢森堡的官方语言是_。\nA: 西班牙语\nB: 白俄罗斯语\nC: 德语\nD: 马来语\nE: 马耳他语\nF: 马其顿语\nG: 保加利亚语\nH: 索马里语\nI: 土耳其语\nJ: 马拉雅拉姆语", "label": "C"}
+{"idx": 5572, "sentence": "下莱茵省的首都是_。\nA: 沃特福德\nB: 哥伦比亚\nC: 马略卡岛帕尔马\nD: 阿勒颇\nE: 孟买\nF: 里贾纳\nG: 斯特拉斯堡\nH: 班加罗尔\nI: 卡莱尔\nJ: 哥伦布", "label": "G"}
+{"idx": 5346, "sentence": "印度国旗在_是一个法律术语。\nA: 克罗地亚\nB: 利比亚\nC: 荷兰\nD: 摩纳哥\nE: 立陶宛\nF: 澳门\nG: 瑞典\nH: 印度\nI: 台湾\nJ: 索马里", "label": "H"}
+{"idx": 5399, "sentence": "Tisza 是一个 _。\nA: 扩散\nB: 字母表\nC: 猜想\nD: 偏见\nE: 药物\nF: 机场\nG: 群岛\nH: 灯塔\nI: 漫画\nJ: 河流", "label": "J"}
+{"idx": 2694, "sentence": "澳大利亚与_保持外交关系。\nA: 马达加斯加\nB: 巴哈马\nC: 阿尔巴尼亚\nD: 丹麦\nE: 文莱\nF: 斯洛伐克\nG: 科威特\nH: 秘鲁\nI: 智利\nJ: 斐济", "label": "D"}
+{"idx": 3126, "sentence": "Safari 是由 _ 开发的。\nA: 空中客车基础\nB: 英特尔\nC: 苹果公司\nD: 波音\nE: IBM\nF: 任天堂\nG: Adobe\nH: 谷歌\nI: 微软\nJ: 诺基亚", "label": "C"}
+{"idx": 1586, "sentence": "《巴黎圣母院》的原始语言是_。\nA: 希腊语\nB: 荷兰语\nC: 德语\nD: 英语\nE: 法语\nF: 意大利语\nG: 俄语\nH: 芬兰语", "label": "E"}
+{"idx": 1876, "sentence": "果胶由_组成。\nA: 委内瑞拉\nB: 语法\nC: 意大利\nD: 碳\nE: 木星\nF: 钙\nG: 亚美尼亚\nH: 奶酪\nI: 石油\nJ: 氮", "label": "D"}
+{"idx": 2586, "sentence": "圣马力诺与_保持外交关系。\nA: 芬兰\nB: 摩洛哥\nC: 摩纳哥\nD: 塞尔维亚\nE: 伯利兹\nF: 文莱\nG: 马来西亚\nH: 西班牙\nI: 德国\nJ: 土耳其", "label": "I"}
+{"idx": 1671, "sentence": "Jeff Hardy 是 _ 的成员。\nA: 哈马斯\nB: 世界摔跤娱乐\nC: 翅膀\nD: 国际足联\nE: 复仇者联盟\nF: 中北美洲及加勒比海足球协会\nG: 联合国教科文组织\nH: U2\nI: 北约", "label": "B"}
+{"idx": 1421, "sentence": "中非共和国与_接壤。\nA: 马哈拉施特拉邦\nB: 砂拉越\nC: 广东\nD: 莱斯特郡\nE: 宾夕法尼亚\nF: 马拉维\nG: 叙利亚\nH: 汉堡\nI: 乍得\nJ: 古吉拉特邦", "label": "I"}
+{"idx": 491, "sentence": "古埃及王国的官方语言是_。\nA: 加泰罗尼亚语\nB: 德语\nC: 泰卢固语\nD: 苏格兰语\nE: 埃及语\nF: 马拉雅拉姆语\nG: 亚美尼亚语\nH: 阿塞拜疆语\nI: 泰语\nJ: 乌克兰语", "label": "E"}
+{"idx": 1744, "sentence": "弗里德里希·贝塞尔的工作领域是_。\nA: 数学\nB: 语言学\nC: 夜总会\nD: 神学\nE: 地质学\nF: 生物学\nG: 逻辑学\nH: 拓扑学\nI: 歌剧\nJ: 生理学", "label": "A"}
+{"idx": 4379, "sentence": "里昂和_是姐妹城市。\nA: 拉各斯\nB: 安特卫普\nC: 巴黎\nD: 布里斯班\nE: 贝鲁特\nF: 丹佛\nG: 广岛\nH: 萨摩亚\nI: 那不勒斯\nJ: 夏威夷", "label": "E"}
+{"idx": 1873, "sentence": "彼得·阿贝拉尔的职业是_。\nA: 记者\nB: 剧作家\nC: 模特\nD: 政治家\nE: 诗人\nF: 词曲作者\nG: 演员\nH: 天文学家\nI: 外交官\nJ: 哲学家", "label": "J"}
+{"idx": 2754, "sentence": "沙特阿拉伯与_保持外交关系。\nA: 埃及\nB: 叙利亚\nC: 印度尼西亚\nD: 塞浦路斯\nE: 乌克兰\nF: 贝宁\nG: 孟加拉国\nH: 马里\nI: 马达加斯加\nJ: 巴林", "label": "E"}
+{"idx": 471, "sentence": "库奥皮奥的官方语言是_。\nA: 克罗地亚语\nB: 塞尔维亚语\nC: 土耳其语\nD: 芬兰语\nE: 越南语\nF: 波斯语\nG: 斯洛伐克语\nH: 希伯来语\nI: 马拉地语\nJ: 冰岛语", "label": "D"}
+{"idx": 3043, "sentence": "伊洛瓦底江位于_。\nA: 亚洲\nB: 欧洲\nC: 南极洲\nD: 大洋洲\nE: 非洲\nF: 美洲", "label": "A"}
+{"idx": 3982, "sentence": "阿尔班·贝尔格曾在_工作。\nA: 巴塞罗那\nB: 耶路撒冷\nC: 赫尔辛基\nD: 格拉斯哥\nE: 伦敦\nF: 波恩\nG: 布拉格\nH: 莫斯科\nI: 维也纳\nJ: 斯特拉斯堡", "label": "I"}
+{"idx": 1158, "sentence": "几内亚比绍与_接壤。\nA: 科罗拉多\nB: 蒙古\nC: 马里\nD: 哥伦比亚\nE: 肯特\nF: 坦桑尼亚\nG: 西班牙\nH: 伍斯特郡\nI: 几内亚\nJ: 玻利维亚", "label": "I"}
+{"idx": 4668, "sentence": "费萨拉巴德和_是姐妹城市。\nA: 卢布尔雅那\nB: 曼彻斯特\nC: 卢布林\nD: 瓜达拉哈拉\nE: 迈阿密\nF: 波士顿\nG: 梅斯\nH: 孟买\nI: 考文垂\nJ: 的黎波里", "label": "B"}
+{"idx": 807, "sentence": "圣文森特和格林纳丁斯的官方语言是_。\nA: 马拉地语\nB: 西班牙语\nC: 斯洛伐克语\nD: 爱沙尼亚语\nE: 拉丁语\nF: 捷克语\nG: 中文\nH: 马其顿语\nI: 波兰语\nJ: 马拉雅拉姆语", "label": "B"}
+{"idx": 5726, "sentence": "芬兰的首都是_。\nA: 哈特福德\nB: 巴黎\nC: 君士坦丁堡\nD: 锡耶纳\nE: 奥克兰\nF: 赫尔辛基\nG: 达尔文\nH: 埃德蒙顿\nI: 哈利法克斯\nJ: 瓜达拉哈拉", "label": "F"}
+{"idx": 3951, "sentence": "保罗·欣德米特曾在_工作过。\nA: 慕尼黑\nB: 佛罗伦萨\nC: 安特卫普\nD: 维也纳\nE: 耶路撒冷\nF: 多伦多\nG: 哥本哈根\nH: 柏林\nI: 克利夫兰\nJ: 巴黎", "label": "H"}
+{"idx": 1161, "sentence": "田纳西州与_接壤。\nA: 捷克斯洛伐克\nB: 内华达州\nC: 塞浦路斯\nD: 卢旺达\nE: 法国\nF: 亚历山大\nG: 黑森州\nH: 马萨诸塞州\nI: 肯特\nJ: 密西西比州", "label": "J"}
+{"idx": 896, "sentence": "安得拉邦与_接壤。\nA: 黎巴嫩\nB: 越南\nC: 巴拉圭\nD: 东京\nE: 密歇根\nF: 布鲁塞尔\nG: 俄克拉荷马\nH: 基辅\nI: 犹他州\nJ: 特伦甘纳邦", "label": "J"}
+{"idx": 1789, "sentence": "菲利普·伦纳德的工作领域是_。\nA: 社会学\nB: 恐怖主义\nC: 鸟类学\nD: 经济学家\nE: 剧作家\nF: 地质学\nG: 物理学\nH: 逻辑学\nI: 歌剧\nJ: 小说家", "label": "G"}
+{"idx": 3732, "sentence": "格雷戈里十三世的职位是_。\nA: 上帝\nB: 主教\nC: 教皇\nD: 沙阿\nE: 牧师\nF: 州长\nG: 经济学家\nH: 红衣主教\nI: 市长\nJ: 大主教", "label": "C"}
+{"idx": 3901, "sentence": "阿瑟·韦尔斯利，第一代威灵顿公爵曾在_工作。\nA: 鹿特丹\nB: 巴塞尔\nC: 斯德哥尔摩\nD: 伦敦\nE: 德累斯顿\nF: 伯明翰\nG: 米兰\nH: 雅典\nI: 克利夫兰\nJ: 科隆", "label": "D"}
+{"idx": 5632, "sentence": "布列斯特地区的首都是_。\nA: 热那亚\nB: 台北\nC: 夏延\nD: 圣地亚哥\nE: 布列斯特\nF: 基督城\nG: 喀布尔\nH: 莱斯特\nI: 达尼丁\nJ: 埃克塞特", "label": "E"}
+{"idx": 354, "sentence": "科米共和国的官方语言是_。\nA: 乌克兰语\nB: 泰米尔语\nC: 白俄罗斯语\nD: 丹麦语\nE: 苏格兰语\nF: 罗马尼亚语\nG: 俄语\nH: 保加利亚语\nI: 尼泊尔语\nJ: 高棉语", "label": "G"}
+{"idx": 251, "sentence": "水生植物是_的一个子类。\nA: 政治家\nB: 恶魔\nC: 植物\nD: 幽默\nE: 社会主义\nF: 字母表\nG: 电影\nH: 艺术家\nI: 家\nJ: 骑行", "label": "C"}
+{"idx": 185, "sentence": "自然历史是_的一个子类。\nA: 小说\nB: 英语\nC: 动脉\nD: 历史\nE: 疫苗\nF: 葡萄酒\nG: 整数\nH: 炸弹\nI: 气候\nJ: 沙拉", "label": "D"}
+{"idx": 4525, "sentence": "埃里温和_是姐妹城市。\nA: 上海\nB: 基尔\nC: 伯明翰\nD: 美因茨\nE: 卡尔加里\nF: 巴哈马\nG: 加的夫\nH: 朴茨茅斯\nI: 威尼斯\nJ: 的黎波里", "label": "I"}
+{"idx": 4012, "sentence": "阿尔巴尼亚人隶属于_宗教。\nA: 犹太教\nB: 佛教\nC: 穆斯林\nD: 印度教\nE: 天主教\nF: 伊斯兰教\nG: 科学\nH: 基督教", "label": "C"}
+{"idx": 2154, "sentence": "瓦努阿图与_保持外交关系。\nA: 老挝\nB: 蒙古\nC: 冰岛\nD: 瑞典\nE: 保加利亚\nF: 索马里\nG: 西班牙\nH: 澳大利亚\nI: 突尼斯\nJ: 俄罗斯", "label": "H"}
+{"idx": 5055, "sentence": "尼科西亚和_是姐妹城市。\nA: 考文垂\nB: 剑桥\nC: 奥斯陆\nD: 邓迪\nE: 布加勒斯特\nF: 明尼阿波利斯\nG: 卡拉奇\nH: 布莱顿\nI: 多特蒙德\nJ: 奥尔巴尼", "label": "E"}
+{"idx": 227, "sentence": "火山学家是_的一个子类。\nA: 地质学家\nB: 笔记本电脑\nC: 名人\nD: 州长\nE: 集合\nF: 银河\nG: 神话\nH: 疫苗\nI: 国际象棋\nJ: 步兵", "label": "A"}
+{"idx": 2199, "sentence": "意大利与_保持外交关系。\nA: 意大利\nB: 伊朗\nC: 菲律宾\nD: 斐济\nE: 加拿大\nF: 洪都拉斯\nG: 加蓬\nH: 玻利维亚\nI: 西班牙\nJ: 塞浦路斯", "label": "I"}
+{"idx": 2118, "sentence": "斯堪的纳维亚由_组成。\nA: 挪威\nB: 氮\nC: 历史\nD: 原子\nE: 有机体\nF: 委内瑞拉\nG: 苏丹\nH: 大脑\nI: 哥伦比亚\nJ: 秘鲁", "label": "A"}
+{"idx": 5863, "sentence": "生物化学是_的一部分。\nA: 日本\nB: 软件\nC: 国防军\nD: 艺术\nE: 安第斯山脉\nF: 法国\nG: 考古学\nH: 化学\nI: 头部\nJ: 犹太教", "label": "H"}
+{"idx": 4958, "sentence": "开普敦和_是姐妹城市。\nA: 地拉那\nB: 罗马\nC: 伯明翰\nD: 迈阿密\nE: 戈尔韦\nF: 贝鲁特\nG: 维也纳\nH: 新加坡\nI: 约翰内斯堡\nJ: 雅加达", "label": "I"}
+{"idx": 3252, "sentence": "东京是_的首都。\nA: 乌干达\nB: 卢旺达\nC: 维多利亚\nD: 阿富汗\nE: 埃及\nF: 日本\nG: 台湾\nH: 黎巴嫩\nI: 撒丁岛\nJ: 匈牙利", "label": "F"}
+{"idx": 292, "sentence": "Kajaani的官方语言是_。\nA: 越南语\nB: 旁遮普语\nC: 葡萄牙语\nD: 泰米尔语\nE: 芬兰语\nF: 索马里语\nG: 埃及语\nH: 马来语\nI: 加泰罗尼亚语\nJ: 荷兰语", "label": "E"}
+{"idx": 3208, "sentence": "阿尔及尔是_的首都。\nA: 阿尔及利亚\nB: 比利时\nC: 砂拉越\nD: 巴基斯坦\nE: 海地\nF: 津巴布韦\nG: 马拉维\nH: 格鲁吉亚\nI: 塞内加尔\nJ: 几内亚", "label": "A"}
+{"idx": 3885, "sentence": "皮埃尔·特鲁多曾在_工作。\nA: 曼彻斯特\nB: 多伦多\nC: 德累斯顿\nD: 哥本哈根\nE: 伯明翰\nF: 底特律\nG: 阿姆斯特丹\nH: 米兰\nI: 汉堡\nJ: 渥太华", "label": "J"}
+{"idx": 5446, "sentence": "巴黎大学的总部在_。\nA: 巴黎\nB: 莱比锡\nC: 北京\nD: 底特律\nE: 谢菲尔德\nF: 波恩\nG: 南锡\nH: 德黑兰\nI: 首尔\nJ: 里昂", "label": "A"}
+{"idx": 5550, "sentence": "京都府的首府是_。\nA: 乔治敦\nB: 兰辛\nC: 热那亚\nD: 锡拉丘兹\nE: 阿尔及尔\nF: 塞维利亚\nG: 赫里福德\nH: 纳什维尔\nI: 京都\nJ: 美因茨", "label": "I"}
+{"idx": 4046, "sentence": "唐帝国与_宗教有关。\nA: 科学\nB: 伊斯兰教\nC: 犹太教\nD: 佛教\nE: 天主教\nF: 基督教\nG: 穆斯林\nH: 印度教", "label": "D"}
+{"idx": 1978, "sentence": "碱金属包括_。\nA: 人类学\nB: 比利时\nC: 乌拉圭\nD: 地球\nE: 乙醇\nF: 太阳\nG: 罗马尼亚\nH: 钾\nI: 算术\nJ: 糖", "label": "H"}
+{"idx": 4102, "sentence": "哈菲兹与 _ 宗教有关。\nA: 佛教\nB: 基督教\nC: 伊斯兰教\nD: 印度教\nE: 科学\nF: 穆斯林\nG: 天主教\nH: 犹太教", "label": "C"}
+{"idx": 3808, "sentence": "奥斯坦金诺塔位于_。\nA: 阿塞拜疆\nB: 日内瓦\nC: 爱沙尼亚\nD: 欧洲\nE: 卢森堡\nF: 芬兰\nG: 爱丁堡\nH: 京都\nI: 莫斯科\nJ: 东京", "label": "I"}
+{"idx": 5841, "sentence": "乔达摩·悉达多是 _ 的一部分。\nA: 几何学\nB: 加勒比\nC: 佛教\nD: 有机体\nE: 性\nF: 伦理学\nG: 心理学\nH: 电池\nI: 澳大利亚\nJ: 欧洲", "label": "C"}
+{"idx": 3669, "sentence": "塞莱斯廷四世的职位是_。\nA: 红衣主教\nB: 市长\nC: 主教\nD: 经济学家\nE: 上帝\nF: 沙阿\nG: 教皇\nH: 大主教\nI: 州长\nJ: 牧师", "label": "G"}
+{"idx": 2110, "sentence": "牛磺酸由_组成。\nA: 俄罗斯\nB: 黎巴嫩\nC: 亚洲\nD: 阿根廷\nE: 摩纳哥\nF: 大脑\nG: 罗马尼亚\nH: 亚美尼亚\nI: 侏罗纪\nJ: 碳", "label": "J"}
+{"idx": 3328, "sentence": "塔什干是_的首都。\nA: 密歇根\nB: 法国\nC: 挪威\nD: 阿尔伯塔\nE: 南斯拉夫\nF: 海地\nG: 宾夕法尼亚\nH: 立陶宛\nI: 阿富汗\nJ: 乌兹别克斯坦", "label": "J"}
+{"idx": 2067, "sentence": "乙醛由_组成。\nA: 锌\nB: 委内瑞拉\nC: 埃及\nD: 匈牙利\nE: 黑山\nF: 黎巴嫩\nG: 氧气\nH: 奥地利\nI: 马耳他\nJ: 托拉", "label": "G"}
+{"idx": 5814, "sentence": "Rammstein 成立于 _。\nA: 北京\nB: 亚特兰大\nC: 巴黎\nD: 赫尔辛基\nE: 伯明翰\nF: 温哥华\nG: 鹿特丹\nH: 法兰克福\nI: 利默里克\nJ: 柏林", "label": "J"}
+{"idx": 613, "sentence": "科摩罗的官方语言是_。\nA: 威尼斯语\nB: 斯洛文尼亚语\nC: 保加利亚语\nD: 法语\nE: 白俄罗斯语\nF: 苏格兰语\nG: 马来语\nH: 中文\nI: 印地语\nJ: 黑山语", "label": "D"}
+{"idx": 1611, "sentence": "阿尔巴尼亚是_的成员。\nA: 北大西洋公约组织\nB: WWE\nC: 翅膀\nD: 国际足联\nE: U2\nF: 联合国教科文组织\nG: 中北美洲及加勒比海足球协会\nH: 哈马斯\nI: 复仇者联盟", "label": "A"}
+{"idx": 2144, "sentence": "加拿大与_保持外交关系。\nA: 萨摩亚\nB: 尼加拉瓜\nC: 西班牙\nD: 德国\nE: 喀麦隆\nF: 拉脱维亚\nG: 乌拉圭\nH: 莫桑比克\nI: 比利时\nJ: 卢旺达", "label": "H"}
+{"idx": 2795, "sentence": "任天堂娱乐系统是由_生产的。\nA: 微软\nB: 任天堂\nC: 宝马\nD: 丰田\nE: 波音\nF: 上帝\nG: 英特尔\nH: 空中客车基础\nI: 法拉利\nJ: 本田", "label": "B"}
+{"idx": 3106, "sentence": "南极条约体系位于_。\nA: 欧洲\nB: 南极洲\nC: 非洲\nD: 美洲\nE: 大洋洲\nF: 亚洲", "label": "B"}
+{"idx": 5461, "sentence": "基辅迪纳摩足球俱乐部的总部在_。\nA: 丰田\nB: 南锡\nC: 斯坦福\nD: 日内瓦\nE: 首尔\nF: 乔治敦\nG: 罗马\nH: 雅典\nI: 基辅\nJ: 佛罗伦萨", "label": "I"}
+{"idx": 505, "sentence": "尼日利亚的官方语言是_。\nA: 芬兰语\nB: 中文\nC: 拉脱维亚语\nD: 立陶宛语\nE: 西班牙语\nF: 英语\nG: 波斯语\nH: 罗马尼亚语\nI: 加泰罗尼亚语\nJ: 阿尔巴尼亚语", "label": "F"}
+{"idx": 2149, "sentence": "约旦与_保持外交关系。\nA: 罗马尼亚\nB: 乌克兰\nC: 安哥拉\nD: 德国\nE: 津巴布韦\nF: 阿尔巴尼亚\nG: 纳米比亚\nH: 尼加拉瓜\nI: 危地马拉\nJ: 洪都拉斯", "label": "D"}
+{"idx": 272, "sentence": "梅加拉亚邦的官方语言是_。\nA: 巴斯克语\nB: 罗马尼亚语\nC: 马其顿语\nD: 威尼斯语\nE: 英语\nF: 苏格兰语\nG: 夏威夷语\nH: 土耳其语\nI: 立陶宛语\nJ: 白俄罗斯语", "label": "E"}
+{"idx": 5546, "sentence": "波兰人民共和国的首都是_。\nA: 悉尼\nB: 瓜达拉哈拉\nC: 基尔\nD: 京都\nE: 温尼伯\nF: 华沙\nG: 波恩\nH: 沃特福德\nI: 美因茨\nJ: 维多利亚", "label": "F"}
+{"idx": 2173, "sentence": "希腊与_保持外交关系。\nA: 阿富汗\nB: 科威特\nC: 爱尔兰\nD: 阿曼\nE: 乌干达\nF: 意大利\nG: 阿尔及利亚\nH: 格鲁吉亚\nI: 巴林\nJ: 巴基斯坦", "label": "F"}
+{"idx": 2210, "sentence": "拉脱维亚与_保持外交关系。\nA: 瑞士\nB: 科威特\nC: 越南\nD: 匈牙利\nE: 巴西\nF: 爱尔兰\nG: 斐济\nH: 塞尔维亚\nI: 澳大利亚\nJ: 克罗地亚", "label": "I"}
+{"idx": 5209, "sentence": "卡萨布兰卡和_是姐妹城市。\nA: 巴勒莫\nB: 瓜达拉哈拉\nC: 海法\nD: 汉诺威\nE: 威尼斯\nF: 塔林\nG: 澳门\nH: 北京\nI: 魁北克\nJ: 亚历山大", "label": "J"}
+{"idx": 106, "sentence": "阿卜杜勒·卡里姆·卡西姆死于_。\nA: 罗马\nB: 东京\nC: 巴格达\nD: 巴黎\nE: 开罗\nF: 大马士革\nG: 台北\nH: 伦敦\nI: 佛罗伦萨\nJ: 里昂", "label": "C"}
+{"idx": 2402, "sentence": "奥地利与_保持外交关系。\nA: 哥伦比亚\nB: 意大利\nC: 委内瑞拉\nD: 芬兰\nE: 喀麦隆\nF: 匈牙利\nG: 立陶宛\nH: 卡塔尔\nI: 叙利亚\nJ: 阿尔及利亚", "label": "B"}
+{"idx": 4309, "sentence": "拉斐尔·阿尔贝蒂的母语是_。\nA: 法语\nB: 西班牙语\nC: 瑞典语\nD: 荷兰语\nE: 日语\nF: 丹麦语\nG: 泰米尔语\nH: 意大利语\nI: 塞尔维亚语\nJ: 拉丁语", "label": "B"}
+{"idx": 952, "sentence": "新泽西与_接壤。\nA: 马哈拉施特拉邦\nB: 几内亚\nC: 丹麦\nD: 伯利兹\nE: 特伦甘纳邦\nF: 特拉华州\nG: 新加坡\nH: 牛津郡\nI: 萨克森\nJ: 俾斯麦", "label": "F"}
+{"idx": 1142, "sentence": "维勒班与_接壤。\nA: 阿富汗\nB: 里昂\nC: 尼日利亚\nD: 丹麦\nE: 拉贾斯坦邦\nF: 宾夕法尼亚\nG: 俄勒冈州\nH: 圭亚那\nI: 阿拉贡\nJ: 诺森伯兰郡", "label": "B"}
+{"idx": 1643, "sentence": "巴西足球联合会是_的成员。\nA: 哈马斯\nB: 北约\nC: 复仇者联盟\nD: 世界摔跤娱乐\nE: 中北美洲及加勒比海足球协会\nF: U2\nG: 国际足球联合会\nH: 联合国教科文组织\nI: 翅膀", "label": "G"}
+{"idx": 1720, "sentence": "恩里科·费米工作的领域是_。\nA: 化学\nB: 物理学\nC: 音乐家\nD: 鸟类\nE: 医学\nF: 心理学\nG: 哲学\nH: 恐怖主义\nI: 网站\nJ: 生理学", "label": "B"}
+{"idx": 4687, "sentence": "首尔和_是姐妹城市。\nA: 东京\nB: 法兰克福\nC: 都灵\nD: 布达佩斯\nE: 地拉那\nF: 伦敦\nG: 布里斯班\nH: 汤加\nI: 莫斯科\nJ: 奥尔巴尼", "label": "E"}
+{"idx": 1024, "sentence": "利沃夫州与_接壤。\nA: 埃塞克斯\nB: 西班牙\nC: 波兰\nD: 北安普敦郡\nE: 广东\nF: 白金汉郡\nG: 佛兰德\nH: 特伦甘纳\nI: 印度\nJ: 汉堡", "label": "C"}
+{"idx": 4773, "sentence": "埃里温和_是姐妹城市。\nA: 法兰克福\nB: 亚特兰大\nC: 敖德萨\nD: 雅典\nE: 卡拉奇\nF: 哥本哈根\nG: 尼斯\nH: 贝鲁特\nI: 斯特拉斯堡\nJ: 芝加哥", "label": "H"}
+{"idx": 5924, "sentence": "分形是_的一部分。\nA: 军队\nB: 巴伐利亚\nC: 地理\nD: 金融\nE: 数学\nF: 炮兵\nG: 科学\nH: 统计学\nI: 血液\nJ: 地球", "label": "E"}
+{"idx": 416, "sentence": "亚马尔-涅涅茨自治区的官方语言是_。\nA: 蒙古语\nB: 旁遮普语\nC: 拉丁语\nD: 拉脱维亚语\nE: 夏威夷语\nF: 冰岛语\nG: 俄语\nH: 泰卢固语\nI: 乌尔都语\nJ: 泰语", "label": "G"}
+{"idx": 6020, "sentence": "计算复杂性理论是_的一部分。\nA: 会计\nB: Linux\nC: 历史\nD: 犹太教\nE: 图书馆\nF: 数学\nG: 日本\nH: 中文\nI: 血液\nJ: 厕所", "label": "F"}
+{"idx": 2132, "sentence": "意大利与_保持外交关系。\nA: 毛里求斯\nB: 乌克兰\nC: 亚美尼亚\nD: 德国\nE: 喀麦隆\nF: 斐济\nG: 巴基斯坦\nH: 秘鲁\nI: 智利\nJ: 加蓬", "label": "H"}
+{"idx": 5039, "sentence": "拉巴特和_是姐妹城市。\nA: 西雅图\nB: 横滨\nC: 戈尔韦\nD: 德黑兰\nE: 雅加达\nF: 奥克兰\nG: 巴哈马\nH: 考文垂\nI: 伊斯坦布尔\nJ: 安卡拉", "label": "I"}
+{"idx": 564, "sentence": "爱达荷州的官方语言是_。\nA: 亚美尼亚语\nB: 荷兰语\nC: 捷克语\nD: 波兰语\nE: 土耳其语\nF: 高棉语\nG: 马来语\nH: 索马里语\nI: 韩语\nJ: 英语", "label": "J"}
+{"idx": 478, "sentence": "新斯科舍省的官方语言是_。\nA: 乌克兰语\nB: 高棉语\nC: 瑞典语\nD: 波兰语\nE: 波斯语\nF: 英语\nG: 拉脱维亚语\nH: 马其顿语\nI: 马耳他语\nJ: 芬兰语", "label": "F"}
+{"idx": 5084, "sentence": "布宜诺斯艾利斯和_是姐妹城市。\nA: 广州\nB: 明斯克\nC: 贝尔格莱德\nD: 基辅\nE: 名古屋\nF: 阿尔及尔\nG: 布列斯特\nH: 马德里\nI: 喀布尔\nJ: 伯明翰", "label": "H"}
+{"idx": 142, "sentence": "拜巴尔斯死于_。\nA: 萨里\nB: 大马士革\nC: 巴黎\nD: 马德里\nE: 伦敦\nF: 莫斯科\nG: 贝尔格莱德\nH: 麦地那\nI: 雅典\nJ: 耶路撒冷", "label": "B"}
+{"idx": 4559, "sentence": "利马索尔和_是姐妹城市。\nA: 威尼斯\nB: 奥斯陆\nC: 布拉格\nD: 利马\nE: 汤加\nF: 慕尼黑\nG: 开罗\nH: 台北\nI: 夏威夷\nJ: 博尔德", "label": "C"}
+{"idx": 3295, "sentence": "巴勒莫是_的首都。\nA: 摩洛哥\nB: 普罗旺斯\nC: 勃艮第\nD: 果阿\nE: 巴西\nF: 加泰罗尼亚\nG: 柬埔寨\nH: 苏格兰\nI: 文莱\nJ: 西西里", "label": "J"}
+{"idx": 1144, "sentence": "斯洛伐克与_接壤。\nA: 爱尔兰\nB: 康普顿\nC: 乌克兰\nD: 斯塔福德郡\nE: 丹麦\nF: 奥地利\nG: 皮埃蒙特\nH: 牛津郡\nI: 俄罗斯\nJ: 威尔特郡", "label": "F"}
+{"idx": 2446, "sentence": "新加坡与_保持外交关系。\nA: 文莱\nB: 黑山\nC: 匈牙利\nD: 肯尼亚\nE: 赞比亚\nF: 瑞士\nG: 老挝\nH: 摩洛哥\nI: 阿富汗\nJ: 海地", "label": "A"}
+{"idx": 605, "sentence": "北达科他州的官方语言是_。\nA: 格鲁吉亚语\nB: 丹麦语\nC: 希腊语\nD: 马拉地语\nE: 瑞典语\nF: 芬兰语\nG: 英语\nH: 马其顿语\nI: 德语\nJ: 捷克语", "label": "G"}
+{"idx": 4162, "sentence": "塞洛尼厄斯·蒙克演奏_。\nA: 吉他\nB: 单簧管\nC: 小提琴\nD: 口琴\nE: 中提琴\nF: 钢琴", "label": "F"}
+{"idx": 1188, "sentence": "哈里亚纳邦与_接壤。\nA: 拉贾斯坦邦\nB: 阿拉贡\nC: 白金汉郡\nD: 科罗拉多\nE: 密苏里\nF: 保加利亚\nG: 布鲁塞尔\nH: 马来西亚\nI: 多塞特\nJ: 斯洛文尼亚", "label": "A"}
+{"idx": 497, "sentence": "喀麦隆的官方语言是_。\nA: 保加利亚语\nB: 西西里语\nC: 越南语\nD: 德语\nE: 诺曼语\nF: 斯洛伐克语\nG: 土耳其语\nH: 希腊语\nI: 英语\nJ: 格鲁吉亚语", "label": "I"}
+{"idx": 1128, "sentence": "不列颠哥伦比亚与_接壤。\nA: 安大略\nB: 育空\nC: 勃兰登堡\nD: 密歇根\nE: 约翰内斯堡\nF: 诺森伯兰\nG: 维多利亚\nH: 非洲\nI: 文莱\nJ: 海地", "label": "B"}
+{"idx": 1509, "sentence": "雷神是以_命名的。\nA: 芝加哥\nB: 雅典娜\nC: 所罗门\nD: 慕尼黑\nE: 太阳\nF: 雷神\nG: 德文郡\nH: 法兰克福\nI: 美洲\nJ: 基辅", "label": "F"}
+{"idx": 4378, "sentence": "台北和_是姐妹城市。\nA: 温哥华\nB: 加尔各答\nC: 瓜达拉哈拉\nD: 剑桥\nE: 利马\nF: 布雷斯特\nG: 休斯顿\nH: 阿尔及尔\nI: 埃里温\nJ: 明尼阿波利斯", "label": "G"}
+{"idx": 2420, "sentence": "斯洛伐克与_保持外交关系。\nA: 坦桑尼亚\nB: 德国\nC: 巴林\nD: 孟加拉国\nE: 意大利\nF: 摩尔多瓦\nG: 科威特\nH: 葡萄牙\nI: 墨西哥\nJ: 摩纳哥", "label": "E"}
+{"idx": 721, "sentence": "巴拉圭的官方语言是_。\nA: 西班牙语\nB: 希伯来语\nC: 旁遮普语\nD: 德语\nE: 格鲁吉亚语\nF: 法语\nG: 爱尔兰语\nH: 冰岛语\nI: 英语\nJ: 斯洛伐克语", "label": "A"}
+{"idx": 2642, "sentence": "加拿大与_保持外交关系。\nA: 柬埔寨\nB: 埃及\nC: 苏丹\nD: 马来西亚\nE: 俄罗斯\nF: 保加利亚\nG: 摩尔多瓦\nH: 澳大利亚\nI: 玻利维亚\nJ: 洪都拉斯", "label": "D"}
+{"idx": 1025, "sentence": "欧洲联盟与_接壤。\nA: 密西西比\nB: 兰开夏\nC: 玻利维亚\nD: 爱尔兰\nE: 亚历山大\nF: 多塞特\nG: 南斯拉夫\nH: 佛蒙特\nI: 贝宁\nJ: 汉堡", "label": "G"}
+{"idx": 3657, "sentence": "博韦位于_。\nA: 荷兰\nB: 印度尼西亚\nC: 也门\nD: 俄罗斯\nE: 奥地利\nF: 乌兹别克斯坦\nG: 法国\nH: 摩尔多瓦\nI: 波兰\nJ: 日本", "label": "G"}
+{"idx": 1471, "sentence": "GNU 是以 _ 命名的。\nA: Unix\nB: 雅典\nC: 大卫\nD: 波兰\nE: 伦敦\nF: 三一\nG: 孟加拉语\nH: 马赛\nI: 首都\nJ: 珀斯", "label": "A"}
+{"idx": 1370, "sentence": "纳希切万自治共和国与_接壤。\nA: 威斯康星\nB: 密西西比\nC: 明尼苏达\nD: 印度\nE: 摩尔多瓦\nF: 温莎\nG: 海地\nH: 阿富汗\nI: 爱荷华\nJ: 亚美尼亚", "label": "J"}
+{"idx": 5086, "sentence": "莫斯科和_是姐妹城市。\nA: 斯图加特\nB: 多特蒙德\nC: 维罗纳\nD: 卢布林\nE: 波尔多\nF: 里加\nG: 耶路撒冷\nH: 都柏林\nI: 纽伦堡\nJ: 谢菲尔德", "label": "G"}
+{"idx": 3207, "sentence": "罗马是_的首都。\nA: 印度尼西亚\nB: 德国\nC: 不丹\nD: 意大利\nE: 马耳他\nF: 津巴布韦\nG: 巴西\nH: 委内瑞拉\nI: 阿富汗\nJ: 马萨诸塞州", "label": "D"}
+{"idx": 4880, "sentence": "伊斯坦布尔和_是姐妹城市。\nA: 德累斯顿\nB: 加的夫\nC: 布加勒斯特\nD: 加拉加斯\nE: 斯德哥尔摩\nF: 班加罗尔\nG: 地拉那\nH: 里尔\nI: 北京\nJ: 巴黎", "label": "E"}
+{"idx": 4540, "sentence": "北京和_是姐妹城市。\nA: 索非亚\nB: 约翰内斯堡\nC: 费城\nD: 布加勒斯特\nE: 达卡\nF: 谢菲尔德\nG: 锡耶纳\nH: 西雅图\nI: 卡萨布兰卡\nJ: 第比利斯", "label": "B"}
+{"idx": 5418, "sentence": "足球是在_创造的。\nA: 意大利\nB: 法国\nC: 墨西哥\nD: 土耳其\nE: 日本\nF: 比利时\nG: 英格兰\nH: 德国\nI: 澳大利亚\nJ: 爱尔兰", "label": "G"}
+{"idx": 2691, "sentence": "荷兰与_保持外交关系。\nA: 西班牙\nB: 海地\nC: 匈牙利\nD: 德国\nE: 意大利\nF: 危地马拉\nG: 乍得\nH: 尼泊尔\nI: 加拿大\nJ: 巴拿马", "label": "E"}
+{"idx": 1926, "sentence": "L-半胱氨酸由_组成。\nA: 空间\nB: 直布罗陀\nC: 动脉\nD: 葡萄\nE: 煤\nF: 碳\nG: 俄罗斯\nH: 铜\nI: 澳门\nJ: 芬兰", "label": "F"}
+{"idx": 2099, "sentence": "碳酸由_组成。\nA: 溶剂\nB: 碳\nC: 墨西哥\nD: 生物学\nE: 西班牙\nF: 东帝汶\nG: 葡萄牙\nH: 印度尼西亚\nI: 意大利\nJ: 波兰", "label": "B"}
+{"idx": 336, "sentence": "波兰的官方语言是_。\nA: 乌尔都语\nB: 波兰语\nC: 拉丁语\nD: 荷兰语\nE: 希伯来语\nF: 爱尔兰语\nG: 韩语\nH: 巴斯克语\nI: 埃及语\nJ: 马耳他语", "label": "B"}
+{"idx": 5602, "sentence": "阿勒颇省的首府是_。\nA: 布里斯班\nB: 阿勒颇\nC: 卑尔根\nD: 渥太华\nE: 加拉加斯\nF: 佐贺\nG: 孟买\nH: 利马\nI: 威尼斯\nJ: 阿尔及尔", "label": "B"}
+{"idx": 3076, "sentence": "中东位于_。\nA: 非洲\nB: 美洲\nC: 南极洲\nD: 亚洲\nE: 大洋洲\nF: 欧洲", "label": "F"}
+{"idx": 5506, "sentence": "奥斯曼帝国的首都是_。\nA: 贝鲁特\nB: 博洛尼亚\nC: 萨格勒布\nD: 巴塞罗那\nE: 埃里温\nF: 汉密尔顿\nG: 台北\nH: 佛罗伦萨\nI: 热那亚\nJ: 伊斯坦布尔", "label": "J"}
+{"idx": 2471, "sentence": "巴西与_保持外交关系。\nA: 阿塞拜疆\nB: 利比亚\nC: 斯洛文尼亚\nD: 葡萄牙\nE: 也门\nF: 捷克斯洛伐克\nG: 日本\nH: 塞内加尔\nI: 巴拉圭\nJ: 坦桑尼亚", "label": "D"}
+{"idx": 3184, "sentence": "Google Hangouts 是由 _ 开发的。\nA: 波音\nB: IBM\nC: Adobe\nD: 苹果公司\nE: 谷歌\nF: 诺基亚\nG: 任天堂\nH: 空中客车基础\nI: 微软\nJ: 英特尔", "label": "E"}
+{"idx": 2063, "sentence": "海洛因由_组成。\nA: 葡萄糖\nB: 委内瑞拉\nC: 火山\nD: 碳\nE: 土星\nF: 比利时\nG: 骑兵\nH: 算术\nI: 锌\nJ: 哥伦比亚", "label": "D"}
+{"idx": 2138, "sentence": "利比亚与_保持外交关系。\nA: 意大利\nB: 巴西\nC: 柬埔寨\nD: 利比亚\nE: 巴拉圭\nF: 坦桑尼亚\nG: 埃及\nH: 不丹\nI: 德国\nJ: 伊朗", "label": "A"}
+{"idx": 1197, "sentence": "秘鲁与_接壤。\nA: 科罗拉多\nB: 德文\nC: 里昂\nD: 冰岛\nE: 勃兰登堡\nF: 奥地利\nG: 菲律宾\nH: 加纳\nI: 明尼苏达\nJ: 哥伦比亚", "label": "J"}
+{"idx": 2751, "sentence": "德国与_保持外交关系。\nA: 乍得\nB: 葡萄牙\nC: 摩纳哥\nD: 阿塞拜疆\nE: 法国\nF: 圭亚那\nG: 阿尔及利亚\nH: 巴基斯坦\nI: 立陶宛\nJ: 赞比亚", "label": "C"}
+{"idx": 724, "sentence": "摩纳哥的官方语言是_。\nA: 蒙古语\nB: 芬兰语\nC: 英语\nD: 立陶宛语\nE: 德语\nF: 爱尔兰语\nG: 威尼斯语\nH: 西西里语\nI: 尼泊尔语\nJ: 法语", "label": "J"}
+{"idx": 765, "sentence": "爱荷华州的官方语言是_。\nA: 英语\nB: 旁遮普语\nC: 立陶宛语\nD: 瑞典语\nE: 乌尔都语\nF: 希腊语\nG: 日语\nH: 法语\nI: 罗马尼亚语\nJ: 保加利亚语", "label": "A"}
+{"idx": 286, "sentence": "以色列的官方语言是_。\nA: 乌尔都语\nB: 越南语\nC: 日语\nD: 希伯来语\nE: 索马里语\nF: 韩语\nG: 巴斯克语\nH: 格鲁吉亚语\nI: 俄语\nJ: 波兰语", "label": "D"}
+{"idx": 307, "sentence": "莱索托的官方语言是_。\nA: 乌尔都语\nB: 捷克语\nC: 俄语\nD: 巴斯克语\nE: 英语\nF: 爱尔兰语\nG: 尼泊尔语\nH: 丹麦语\nI: 马其顿语\nJ: 蒙古语", "label": "E"}
+{"idx": 2227, "sentence": "圣座与_保持外交关系。\nA: 叙利亚\nB: 阿根廷\nC: 葡萄牙\nD: 肯尼亚\nE: 乌克兰\nF: 斯洛伐克\nG: 格鲁吉亚\nH: 津巴布韦\nI: 黎巴嫩\nJ: 摩纳哥", "label": "B"}
+{"idx": 4714, "sentence": "阿雷格里港和_是姐妹城市。\nA: 安卡拉\nB: 萨尔茨堡\nC: 巴黎\nD: 美因茨\nE: 那不勒斯\nF: 加的夫\nG: 夏威夷\nH: 布达佩斯\nI: 卡萨布兰卡\nJ: 日内瓦", "label": "C"}
+{"idx": 4811, "sentence": "芝加哥和_是姐妹城市。\nA: 雅典\nB: 布达佩斯\nC: 都灵\nD: 亚特兰大\nE: 布里斯托尔\nF: 维罗纳\nG: 巴里\nH: 丹佛\nI: 汉堡\nJ: 波士顿", "label": "I"}
+{"idx": 5489, "sentence": "安德尔-卢瓦尔省的首都是_。\nA: 卡拉奇\nB: 维也纳\nC: 蒙得维的亚\nD: 雅加达\nE: 布鲁塞尔\nF: 巴塞罗那\nG: 柏林\nH: 伊斯坦布尔\nI: 乔治敦\nJ: 图尔", "label": "J"}
+{"idx": 6026, "sentence": "盘古大陆是_的一部分。\nA: 闪族\nB: 哲学\nC: 考古学\nD: 航天器\nE: 日本\nF: 地球\nG: 南极洲\nH: 市政\nI: 北京\nJ: 非洲", "label": "F"}
+{"idx": 1223, "sentence": "立陶宛与_接壤。\nA: 博茨瓦纳\nB: 印度\nC: 黑山\nD: 罗马尼亚\nE: 俄克拉荷马\nF: 沃里克郡\nG: 利比亚\nH: 托斯卡纳\nI: 尼日利亚\nJ: 波兰", "label": "J"}
+{"idx": 5925, "sentence": "神经科学是_的一部分。\nA: 人类学\nB: 加勒比\nC: 厕所\nD: 生物学\nE: 心理学\nF: 北京\nG: 市政\nH: 基因组\nI: 数学\nJ: 军队", "label": "D"}
+{"idx": 1535, "sentence": "波特酒是以_命名的。\nA: 江户\nB: 雅典娜\nC: 月亮\nD: 铁\nE: 保罗\nF: 所罗门\nG: 波尔图\nH: 德文\nI: 广岛\nJ: 弗蕾亚", "label": "G"}
+{"idx": 71, "sentence": "费尔迪南·德·索绪尔出生在_。\nA: 莫斯科\nB: 科隆\nC: 伦敦\nD: 慕尼黑\nE: 伊斯坦布尔\nF: 马德里\nG: 那不勒斯\nH: 贝尔格莱德\nI: 日内瓦\nJ: 科莫", "label": "I"}
+{"idx": 3250, "sentence": "霍巴特是_的首都。\nA: 塞尔维亚\nB: 约旦\nC: 爱荷华州\nD: 俄克拉荷马州\nE: 巴西\nF: 格鲁吉亚\nG: 塔斯马尼亚\nH: 比哈尔邦\nI: 卢森堡\nJ: 巴基斯坦", "label": "G"}
+{"idx": 711, "sentence": "索马里的官方语言是_。\nA: 法语\nB: 德语\nC: 英语\nD: 索马里语\nE: 印尼语\nF: 埃及语\nG: 瑞典语\nH: 尼泊尔语\nI: 威尔士语\nJ: 希腊语", "label": "D"}
+{"idx": 3790, "sentence": "安妮-弗里德·林斯塔德由音乐公司_代表。\nA: EMI\nB: 摩城", "label": "A"}
+{"idx": 1020, "sentence": "阿根廷与_接壤。\nA: 亚利桑那\nB: 爱尔兰\nC: 圭亚那\nD: 皮埃蒙特\nE: 堪萨斯\nF: 巴西\nG: 捷克斯洛伐克\nH: 苏丹\nI: 阿尔及利亚\nJ: 密歇根", "label": "F"}
+{"idx": 2177, "sentence": "肯尼亚与_保持外交关系。\nA: 意大利\nB: 赞比亚\nC: 瑞士\nD: 爱尔兰\nE: 突尼斯\nF: 巴巴多斯\nG: 希腊\nH: 乌干达\nI: 越南\nJ: 牙买加", "label": "A"}
+{"idx": 2670, "sentence": "加拿大与_保持外交关系。\nA: 德国\nB: 马耳他\nC: 以色列\nD: 马来西亚\nE: 巴林\nF: 古巴\nG: 俄罗斯\nH: 哥伦比亚\nI: 比利时\nJ: 圭亚那", "label": "H"}
+{"idx": 4570, "sentence": "普罗夫迪夫和_是姐妹城市。\nA: 巴格达\nB: 萨拉热窝\nC: 卢布尔雅那\nD: 剑桥\nE: 慕尼黑\nF: 雅加达\nG: 关岛\nH: 纽伦堡\nI: 莱比锡\nJ: 波尔图", "label": "I"}
+{"idx": 737, "sentence": "联合国的官方语言是_。\nA: 泰卢固语\nB: 日语\nC: 威尔士语\nD: 俄语\nE: 巴斯克语\nF: 塞尔维亚语\nG: 德语\nH: 格鲁吉亚语\nI: 加泰罗尼亚语\nJ: 中文", "label": "D"}
+{"idx": 2638, "sentence": "乌兹别克斯坦与_保持外交关系。\nA: 埃及\nB: 纳米比亚\nC: 拉脱维亚\nD: 尼日利亚\nE: 斐济\nF: 巴基斯坦\nG: 古巴\nH: 德国\nI: 罗马尼亚\nJ: 哈萨克斯坦", "label": "H"}
+{"idx": 2921, "sentence": "《安娜·卡列尼娜》是用_写的。\nA: 意大利语\nB: 西班牙语\nC: 英语\nD: 乌克兰语\nE: 芬兰语\nF: 爱沙尼亚语\nG: 俄语\nH: 匈牙利语\nI: 波兰语\nJ: 土耳其语", "label": "G"}
+{"idx": 5477, "sentence": "芬兰大公国的首都是_。\nA: 伦敦\nB: 江户\nC: 赫尔辛基\nD: 美因茨\nE: 马德里\nF: 基督城\nG: 的黎波里\nH: 维也纳\nI: 伯尔尼\nJ: 喀山", "label": "C"}
+{"idx": 5670, "sentence": "英国的首都是_。\nA: 都灵\nB: 那不勒斯\nC: 皮埃尔\nD: 戈尔韦\nE: 奥斯陆\nF: 哈瓦那\nG: 康科德\nH: 布拉迪斯拉发\nI: 伦敦\nJ: 威尼斯", "label": "I"}
+{"idx": 4056, "sentence": "萨拉丁与 _ 宗教有关。\nA: 基督教\nB: 伊斯兰教\nC: 穆斯林\nD: 印度教\nE: 犹太教\nF: 科学\nG: 佛教\nH: 天主教", "label": "B"}
+{"idx": 2623, "sentence": "德国与_保持外交关系。\nA: 巴西\nB: 巴拉圭\nC: 匈牙利\nD: 汤加\nE: 阿曼\nF: 拉脱维亚\nG: 马达加斯加\nH: 斯洛伐克\nI: 坦桑尼亚\nJ: 牙买加", "label": "A"}
+{"idx": 1095, "sentence": "波士顿与_接壤。\nA: 砂拉越\nB: 卡纳塔克邦\nC: 北京\nD: 马里兰\nE: 昆西\nF: 佛兰德斯\nG: 汉堡\nH: 布伦瑞克\nI: 冰岛\nJ: 巴西", "label": "E"}
+{"idx": 3206, "sentence": "佛罗伦萨是_的首都。\nA: 印度\nB: 黑山\nC: 广东\nD: 白俄罗斯\nE: 路易斯安那\nF: 塞尔维亚\nG: 利比里亚\nH: 挪威\nI: 托斯卡纳\nJ: 爱尔兰", "label": "I"}
+{"idx": 2998, "sentence": "卡拉哈里沙漠位于_。\nA: 非洲\nB: 美洲\nC: 大洋洲\nD: 亚洲\nE: 南极洲\nF: 欧洲", "label": "A"}
+{"idx": 5690, "sentence": "斯瓦比亚的首都是_。\nA: 大马士革\nB: 都柏林\nC: 北京\nD: 德黑兰\nE: 奥格斯堡\nF: 瓦伦西亚\nG: 喀山\nH: 爱丁堡\nI: 马尼拉\nJ: 洛桑", "label": "E"}
+{"idx": 3996, "sentence": "鲁道夫·赫斯曾在_工作。\nA: 波恩\nB: 柏林\nC: 克利夫兰\nD: 雅典\nE: 华沙\nF: 赫尔辛基\nG: 日内瓦\nH: 格拉斯哥\nI: 维也纳\nJ: 伯明翰", "label": "B"}
+{"idx": 978, "sentence": "吉尔吉斯斯坦与_接壤。\nA: 乌兹别克斯坦\nB: 立陶宛\nC: 黑山\nD: 土耳其\nE: 加拿大\nF: 斯塔福德郡\nG: 尼日利亚\nH: 赫特福德郡\nI: 诺森伯兰郡\nJ: 温莎", "label": "A"}
+{"idx": 1672, "sentence": "乌兹别克斯坦足球协会是_的成员。\nA: U2\nB: 翅膀\nC: WWE\nD: 中北美洲及加勒比海足球协会\nE: 国际足球联合会\nF: 哈马斯\nG: 北大西洋公约组织\nH: 复仇者联盟\nI: 联合国教科文组织", "label": "E"}
+{"idx": 5157, "sentence": "约翰内斯堡和_是姐妹城市。\nA: 慕尼黑\nB: 布里斯班\nC: 布莱顿\nD: 班加罗尔\nE: 罗马\nF: 波尔图\nG: 日内瓦\nH: 雅加达\nI: 敖德萨\nJ: 维尔纽斯", "label": "E"}
+{"idx": 4370, "sentence": "阿什哈巴德和_是姐妹城市。\nA: 日内瓦\nB: 惠灵顿\nC: 巴里\nD: 卡萨布兰卡\nE: 维尔纽斯\nF: 匹兹堡\nG: 雅典\nH: 巴库\nI: 波尔图\nJ: 休斯顿", "label": "G"}
+{"idx": 5342, "sentence": "白俄罗斯的国旗是_中的一个法律术语。\nA: 保加利亚\nB: 澳门\nC: 白俄罗斯\nD: 瑞典\nE: 俄罗斯\nF: 墨西哥\nG: 德国\nH: 瑞士\nI: 印度\nJ: 丹麦", "label": "C"}
+{"idx": 5333, "sentence": "牙买加的国旗是_中的一个法律术语。\nA: 瑞士\nB: 保加利亚\nC: 牙买加\nD: 马来西亚\nE: 克罗地亚\nF: 意大利\nG: 摩纳哥\nH: 德国\nI: 西班牙\nJ: 澳大利亚", "label": "C"}
+{"idx": 344, "sentence": "欧洲联盟的官方语言是_。\nA: 拉脱维亚语\nB: 布列塔尼语\nC: 马拉地语\nD: 葡萄牙语\nE: 爱尔兰语\nF: 罗马尼亚语\nG: 孟加拉语\nH: 夏威夷语\nI: 蒙古语\nJ: 泰卢固语", "label": "E"}
+{"idx": 5608, "sentence": "南斯拉夫王国的首都是_。\nA: 阿德莱德\nB: 金斯顿\nC: 首尔\nD: 佐贺\nE: 东京\nF: 贝尔格莱德\nG: 卡莱尔\nH: 斯特拉斯堡\nI: 钦奈\nJ: 曼谷", "label": "F"}
+{"idx": 911, "sentence": "河北与_接壤。\nA: 威尔士\nB: 亚利桑那\nC: 津巴布韦\nD: 萨斯喀彻温\nE: 越南\nF: 俄勒冈\nG: 北京\nH: 印度尼西亚\nI: 云南\nJ: 泰国", "label": "G"}
+{"idx": 5729, "sentence": "白俄罗斯苏维埃社会主义共和国的首都是_。\nA: 达尔文\nB: 亚历山大\nC: 都柏林\nD: 米兰\nE: 阿姆斯特丹\nF: 赫尔辛基\nG: 巴里\nH: 的黎波里\nI: 孟菲斯\nJ: 明斯克", "label": "J"}
+{"idx": 47, "sentence": "克里斯蒂娜·罗塞蒂出生在_。\nA: 苏格兰\nB: 伦敦\nC: 伊斯坦布尔\nD: 柏林\nE: 罗马\nF: 曼彻斯特\nG: 莫斯科\nH: 亚美尼亚\nI: 科莫\nJ: 贝尔法斯特", "label": "B"}
+{"idx": 2410, "sentence": "阿根廷与_保持外交关系。\nA: 摩纳哥\nB: 科威特\nC: 日本\nD: 喀麦隆\nE: 巴林\nF: 委内瑞拉\nG: 也门\nH: 文莱\nI: 约旦\nJ: 以色列", "label": "J"}
+{"idx": 5246, "sentence": "巴拿马城和_是姐妹城市。\nA: 罗马\nB: 马尼拉\nC: 瓜达拉哈拉\nD: 罗萨里奥\nE: 达拉斯\nF: 埃里温\nG: 达卡\nH: 里尔\nI: 日内瓦\nJ: 亚特兰大", "label": "C"}
+{"idx": 443, "sentence": "堪萨斯州的官方语言是_。\nA: 爱尔兰语\nB: 匈牙利语\nC: 波斯语\nD: 巴斯克语\nE: 乌尔都语\nF: 波兰语\nG: 阿尔巴尼亚语\nH: 埃及语\nI: 英语\nJ: 芬兰语", "label": "I"}
+{"idx": 1740, "sentence": "伽利略·伽利莱的工作领域是_。\nA: 逻辑学\nB: 拓扑学\nC: 剧作家\nD: 鸟类\nE: 生态学\nF: 恐怖主义\nG: 几何学\nH: 物理学\nI: 音乐家\nJ: 夜总会", "label": "H"}
+{"idx": 3196, "sentence": "《我的世界》由_开发。\nA: IBM\nB: 任天堂\nC: 英特尔\nD: 微软\nE: 空中客车基本\nF: 诺基亚\nG: Adobe\nH: 苹果公司\nI: 波音\nJ: 谷歌", "label": "D"}
+{"idx": 3750, "sentence": "英诺森十二世的职位是_。\nA: 经济学家\nB: 牧师\nC: 大主教\nD: 沙阿\nE: 市长\nF: 上帝\nG: 红衣主教\nH: 主教\nI: 教皇\nJ: 州长", "label": "I"}
+{"idx": 3023, "sentence": "Tisza 位于 _。\nA: 非洲\nB: 大洋洲\nC: 欧洲\nD: 南极洲\nE: 亚洲\nF: 美洲", "label": "C"}
+{"idx": 5159, "sentence": "莫斯科和_是姐妹城市。\nA: 哈瓦那\nB: 柏林\nC: 布伦瑞克\nD: 波士顿\nE: 迪拜酋长国\nF: 第比利斯\nG: 达拉斯\nH: 匹兹堡\nI: 温哥华\nJ: 多特蒙德", "label": "B"}
+{"idx": 4885, "sentence": "雅典和_是姐妹城市。\nA: 博洛尼亚\nB: 的黎波里\nC: 加的夫\nD: 堪培拉\nE: 大马士革\nF: 基辅\nG: 曼彻斯特\nH: 迈阿密\nI: 卢布林\nJ: 亚历山大", "label": "F"}
+{"idx": 1272, "sentence": "南卡罗来纳州与_接壤。\nA: 德克萨斯\nB: 加利福尼亚\nC: 保加利亚\nD: 拉贾斯坦邦\nE: 非洲\nF: 阿富汗\nG: 佛兰德\nH: 汉堡\nI: 砂拉越\nJ: 乔治亚", "label": "J"}
+{"idx": 5543, "sentence": "苏格兰的首都是 _。\nA: 达尼丁\nB: 塞勒姆\nC: 伍斯特\nD: 罗利\nE: 赫尔辛基\nF: 河滨\nG: 阿尔及尔\nH: 斯德哥尔摩\nI: 维也纳\nJ: 爱丁堡", "label": "J"}
+{"idx": 2318, "sentence": "斯洛文尼亚与_保持外交关系。\nA: 津巴布韦\nB: 阿根廷\nC: 圭亚那\nD: 巴拿马\nE: 土耳其\nF: 黎巴嫩\nG: 塔吉克斯坦\nH: 伯利兹\nI: 以色列\nJ: 阿塞拜疆", "label": "I"}
+{"idx": 1055, "sentence": "肯塔基州与_接壤。\nA: 叙利亚\nB: 新加坡\nC: 科罗拉多州\nD: 以色列\nE: 勃兰登堡\nF: 德里\nG: 瑞典\nH: 哥伦比亚\nI: 委内瑞拉\nJ: 密苏里州", "label": "J"}
+{"idx": 848, "sentence": "约翰·卡巴耶在 _ 位置上踢球。\nA: 后卫\nB: 中场\nC: 前锋", "label": "B"}
+{"idx": 5938, "sentence": "南欧是_的一部分。\nA: 电子邮件\nB: 统计学\nC: 南极洲\nD: 艺术\nE: 欧洲\nF: 托拉\nG: 市政\nH: 伦理学\nI: 眼睛\nJ: 圣经", "label": "E"}
+{"idx": 1992, "sentence": "表演艺术包括_。\nA: 戏剧\nB: 句法\nC: 瑞士\nD: 火山\nE: W\nF: 阿尔及利亚\nG: 葡萄\nH: 爱沙尼亚\nI: 比利时\nJ: 俄罗斯", "label": "A"}
+{"idx": 1181, "sentence": "罗马尼亚与_接壤。\nA: 立陶宛\nB: 莱斯特郡\nC: 俄亥俄\nD: 汉堡\nE: 乌克兰\nF: 阿尔伯塔\nG: 阿尔及利亚\nH: 约翰内斯堡\nI: 保加利亚\nJ: 古吉拉特", "label": "I"}
+{"idx": 2801, "sentence": "Windows Vista 是由_生产的。\nA: 法拉利\nB: 本田\nC: 空中客车基础\nD: 宝马\nE: 微软\nF: 苹果公司\nG: 任天堂\nH: 上帝\nI: 波音\nJ: 英特尔", "label": "E"}
+{"idx": 5661, "sentence": "阿尔萨斯的首都是_。\nA: 巴塞尔\nB: 明斯克\nC: 温彻斯特\nD: 斯特拉斯堡\nE: 都灵\nF: 珀斯\nG: 萨尔茨堡\nH: 哈利法克斯\nI: 迪拜\nJ: 雅典", "label": "D"}
+{"idx": 4322, "sentence": "彼得·克鲁泡特金的母语是_。\nA: 瑞典语\nB: 泰米尔语\nC: 西班牙语\nD: 日语\nE: 俄语\nF: 德语\nG: 意大利语\nH: 拉丁语\nI: 法语\nJ: 波兰语", "label": "E"}
+{"idx": 4283, "sentence": "安德鲁·杰克逊的母语是_。\nA: 瑞典语\nB: 俄语\nC: 意大利语\nD: 西班牙语\nE: 拉丁语\nF: 德语\nG: 塞尔维亚语\nH: 英语\nI: 法语\nJ: 荷兰语", "label": "H"}
+{"idx": 1112, "sentence": "塞内加尔与_接壤。\nA: 几内亚\nB: 匈牙利\nC: 什罗普郡\nD: 马萨诸塞州\nE: 佛兰德\nF: 克罗地亚\nG: 印度尼西亚\nH: 加拿大\nI: 尼日尔\nJ: 阿根廷", "label": "A"}
+{"idx": 2225, "sentence": "意大利与_保持外交关系。\nA: 马拉维\nB: 苏丹\nC: 斯洛伐克\nD: 尼日利亚\nE: 乌克兰\nF: 希腊\nG: 摩洛哥\nH: 瑞典\nI: 意大利\nJ: 俄罗斯", "label": "F"}
+{"idx": 776, "sentence": "加泰罗尼亚的官方语言是_。\nA: 白俄罗斯语\nB: 孟加拉语\nC: 英语\nD: 乌克兰语\nE: 埃及语\nF: 巴斯克语\nG: 索马里语\nH: 加泰罗尼亚语\nI: 乌尔都语\nJ: 匈牙利语", "label": "H"}
+{"idx": 5732, "sentence": "地拉那区的首都是_。\nA: 德累斯顿\nB: 河滨\nC: 亚历山大\nD: 但尼丁\nE: 达卡\nF: 哈里斯堡\nG: 地拉那\nH: 达尔文\nI: 皮埃尔\nJ: 多伦多", "label": "G"}
+{"idx": 183, "sentence": "兽医学是_的一个子类。\nA: 选举权\nB: 医学\nC: 欺诈\nD: 蛋白质\nE: 肉类\nF: 软件\nG: 管理\nH: 政治家\nI: 工业\nJ: 骑行", "label": "B"}
+{"idx": 2157, "sentence": "巴拿马与_保持外交关系。\nA: 尼泊尔\nB: 乌克兰\nC: 德国\nD: 斯洛文尼亚\nE: 波兰\nF: 冰岛\nG: 菲律宾\nH: 津巴布韦\nI: 尼日利亚\nJ: 卡塔尔", "label": "C"}
+{"idx": 4139, "sentence": "贾里德·莱托演奏_。\nA: 小提琴\nB: 口琴\nC: 中提琴\nD: 吉他\nE: 钢琴\nF: 单簧管", "label": "D"}
+{"idx": 5755, "sentence": "欧洲联盟的首都是_。\nA: 悉尼\nB: 赫里福德\nC: 勒克瑙\nD: 布鲁塞尔\nE: 罗马\nF: 哈瓦那\nG: 基督城\nH: 多伦多\nI: 都柏林\nJ: 尼斯", "label": "D"}
+{"idx": 3992, "sentence": "弗拉基米尔·列宁曾在_工作。\nA: 克利夫兰\nB: 莫斯科\nC: 鹿特丹\nD: 渥太华\nE: 耶路撒冷\nF: 阿姆斯特丹\nG: 巴塞罗那\nH: 伦敦\nI: 莱比锡\nJ: 好莱坞", "label": "B"}
+{"idx": 734, "sentence": "印度的官方语言是_。\nA: 格鲁吉亚语\nB: 丹麦语\nC: 意大利语\nD: 冰岛语\nE: 埃及语\nF: 苏格兰语\nG: 阿尔巴尼亚语\nH: 马其顿语\nI: 拉丁语\nJ: 印地语", "label": "J"}
+{"idx": 6013, "sentence": "域名是_的一部分。\nA: 原子\nB: 国防军\nC: 亚洲\nD: 地质学\nE: 染色体\nF: 互联网\nG: 大脑\nH: 十字军东征\nI: 头\nJ: 统计学", "label": "F"}
+{"idx": 1168, "sentence": "弗吉尼亚与_接壤。\nA: 肯塔基\nB: 阿拉斯加\nC: 密歇根\nD: 爱尔兰\nE: 加利福尼亚\nF: 阿富汗\nG: 阿塞拜疆\nH: 伊拉克\nI: 马里兰\nJ: 帕萨迪纳", "label": "I"}
+{"idx": 1862, "sentence": "克莱门斯·冯·梅特涅职业是_。\nA: 诗人\nB: 小说家\nC: 外交官\nD: 剧作家\nE: 图书管理员\nF: 政治家\nG: 哲学家\nH: 记者\nI: 演员\nJ: 模特", "label": "C"}
+{"idx": 4758, "sentence": "萨尔茨堡和_是姐妹城市。\nA: 加拉加斯\nB: 科伦坡\nC: 卡萨布兰卡\nD: 阿尔及尔\nE: 斯德哥尔摩\nF: 广岛\nG: 上海\nH: 悉尼\nI: 锡耶纳\nJ: 都灵", "label": "G"}
+{"idx": 5533, "sentence": "哈布斯堡君主国的首都是_。\nA: 维也纳\nB: 利马\nC: 哥伦布\nD: 德里\nE: 哈利法克斯\nF: 科伦坡\nG: 丹佛\nH: 俾斯麦\nI: 洛桑\nJ: 阿德莱德", "label": "A"}
+{"idx": 485, "sentence": "世界卫生组织的官方语言是_。\nA: 土耳其语\nB: 格鲁吉亚语\nC: 法语\nD: 芬兰语\nE: 巴斯克语\nF: 日语\nG: 乌尔都语\nH: 立陶宛语\nI: 俄语\nJ: 波兰语", "label": "I"}
+{"idx": 1212, "sentence": "阿拉伯联盟与_接壤。\nA: 海伦娜\nB: 土耳其\nC: 尼加拉瓜\nD: 明斯克\nE: 捷克斯洛伐克\nF: 四川\nG: 阿拉贡\nH: 尼泊尔\nI: 日本\nJ: 格雷罗", "label": "B"}
+{"idx": 452, "sentence": "乌德穆尔特共和国的官方语言是_。\nA: 黑山语\nB: 俄语\nC: 韩语\nD: 西班牙语\nE: 泰米尔语\nF: 荷兰语\nG: 印地语\nH: 塞尔维亚语\nI: 泰语\nJ: 马来语", "label": "B"}
+{"idx": 1507, "sentence": "环法自行车赛是以_命名的。\nA: 阿波罗\nB: 华沙\nC: 红色\nD: 木星\nE: 都柏林\nF: 法国\nG: 莫斯科\nH: 马赛\nI: 匈牙利人\nJ: 普鲁士", "label": "F"}
+{"idx": 4640, "sentence": "瓦伦西亚和_是姐妹城市。\nA: 瓦伦西亚\nB: 约翰内斯堡\nC: 波尔图\nD: 日内瓦\nE: 埃里温\nF: 多特蒙德\nG: 利沃夫\nH: 贝鲁特\nI: 波士顿\nJ: 麦地那", "label": "A"}
+{"idx": 30, "sentence": "Googleplex 由_拥有。\nA: 巴勒莫\nB: 热那亚\nC: 利沃夫\nD: 微软\nE: 米兰\nF: 阿姆斯特丹\nG: 谷歌\nH: 波兰\nI: 法国\nJ: 英国广播公司", "label": "G"}
+{"idx": 789, "sentence": "保加利亚的官方语言是_。\nA: 冰岛语\nB: 中文\nC: 西班牙语\nD: 阿塞拜疆语\nE: 乌克兰语\nF: 格鲁吉亚语\nG: 保加利亚语\nH: 波兰语\nI: 塞尔维亚语\nJ: 泰语", "label": "G"}
+{"idx": 5941, "sentence": "社会心理学是_的一部分。\nA: 巴黎\nB: 法国\nC: 外交\nD: 分子\nE: 澳大利亚\nF: 西西里\nG: 血液\nH: 心理学\nI: 科学\nJ: 电子邮件", "label": "H"}
+{"idx": 5321, "sentence": "瑞典首相是一个法律术语在_。\nA: 德国\nB: 加拿大\nC: 瑞典\nD: 瑞士\nE: 荷兰\nF: 爱尔兰\nG: 西班牙\nH: 新加坡\nI: 芬兰\nJ: 丹麦", "label": "C"}
+{"idx": 1109, "sentence": "尼日尔与_接壤。\nA: 沃里克郡\nB: 犹他州\nC: 特拉华州\nD: 加泰罗尼亚\nE: 利比亚\nF: 印度\nG: 蒙古\nH: 布伦瑞克\nI: 康普顿\nJ: 黎巴嫩", "label": "E"}
+{"idx": 100, "sentence": "夏洛特·科尔代死于_。\nA: 东京\nB: 伊斯坦布尔\nC: 台北\nD: 巴黎\nE: 巴格达\nF: 麦地那\nG: 开罗\nH: 耶路撒冷\nI: 喀布尔\nJ: 华沙", "label": "D"}
+{"idx": 4053, "sentence": "龙树与_宗教有关。\nA: 基督教\nB: 佛教\nC: 伊斯兰教\nD: 穆斯林\nE: 天主教\nF: 印度教\nG: 科学\nH: 犹太教", "label": "B"}
+{"idx": 2405, "sentence": "瑞士与_保持外交关系。\nA: 苏丹\nB: 委内瑞拉\nC: 黎巴嫩\nD: 波兰\nE: 巴哈马\nF: 博茨瓦纳\nG: 拉脱维亚\nH: 意大利\nI: 格鲁吉亚\nJ: 墨西哥", "label": "H"}
+{"idx": 4476, "sentence": "马德里和_是姐妹城市。\nA: 基尔\nB: 广州\nC: 布加勒斯特\nD: 鹿特丹\nE: 明尼阿波利斯\nF: 科伦坡\nG: 加拉加斯\nH: 纽伦堡\nI: 威尼斯\nJ: 哈瓦那", "label": "G"}
+{"idx": 3116, "sentence": "刚果自由邦位于_。\nA: 亚洲\nB: 南极洲\nC: 非洲\nD: 美洲\nE: 欧洲\nF: 大洋洲", "label": "C"}
+{"idx": 6033, "sentence": "力学是_的一部分。\nA: 三位一体\nB: 木星\nC: 耶路撒冷\nD: 斯堪的纳维亚\nE: 鞍\nF: 性别\nG: 物种\nH: 物理学\nI: 心理学\nJ: 电池", "label": "H"}
+{"idx": 4796, "sentence": "圣彼得堡和_是姐妹城市。\nA: 维罗纳\nB: 考文垂\nC: 马赛\nD: 里尔\nE: 上海\nF: 维也纳\nG: 奥斯陆\nH: 贝鲁特\nI: 瓜达拉哈拉\nJ: 京都", "label": "G"}
+{"idx": 3835, "sentence": "马伦戈战役位于_。\nA: 克罗地亚\nB: 热那亚\nC: 法国\nD: 克里特\nE: 巴尔干\nF: 高加索\nG: 黎凡特\nH: 布雷斯特\nI: 古巴\nJ: 柏林", "label": "B"}
+{"idx": 5077, "sentence": "根特和_是姐妹城市。\nA: 伯利恒\nB: 诺丁汉\nC: 东京\nD: 喀布尔\nE: 巴哈马\nF: 布拉迪斯拉发\nG: 博洛尼亚\nH: 巴库\nI: 开罗\nJ: 慕尼黑", "label": "B"}
+{"idx": 861, "sentence": "卡洛斯·阿尔贝托·托雷斯在 _ 位置上踢球。\nA: 前锋\nB: 后卫\nC: 中场", "label": "B"}
+{"idx": 3006, "sentence": "苏格兰位于_。\nA: 南极洲\nB: 亚洲\nC: 大洋洲\nD: 欧洲\nE: 美洲\nF: 非洲", "label": "D"}
+{"idx": 903, "sentence": "大伦敦与_接壤。\nA: 佛兰德\nB: 诺丁汉郡\nC: 乌干达\nD: 亚美尼亚\nE: 哈里亚纳邦\nF: 土耳其\nG: 乔治亚州\nH: 马哈拉施特拉邦\nI: 萨里\nJ: 智利", "label": "I"}
+{"idx": 2086, "sentence": "南欧包括_。\nA: 爱沙尼亚\nB: 芬兰\nC: 马耳他\nD: 人类学\nE: 哥伦比亚\nF: 挪威\nG: 炮兵\nH: 意大利\nI: 斯洛伐克\nJ: 葡萄", "label": "C"}

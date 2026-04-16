@@ -38,14 +38,14 @@ for LANGUAGE in $langs; do
         DO_TRAIN=True
         MODEL_NAME_FULL=$MODEL_NAME
 
-        mkdir -p finetune/results/finetune/$model_basename/$task/
+        mkdir -p finetune/results/$model_basename/$task/
 
         python3 finetune/finetune_classification.py \
               --model_name_or_path "$MODEL_NAME" \
               --language "$LANGUAGE" \
-              --output_dir "finetuning_babybabel_lm/results/finetune/${model_basename}/${task}" \
-              --train_file "finetuning_babybabel_lm/finetuning_data/${task}/${LANGUAGE}/${task}_${LANGUAGE}.train.jsonl" \
-              --validation_file "finetuning_babybabel_lm/finetuning_data/${task}/${LANGUAGE}/${task}_${LANGUAGE}.valid.jsonl" \
+              --output_dir "finetune/results/${model_basename}/${task}" \
+              --train_file "finetune/data/multilingual/${LANGUAGE}/${task}/${task}_${LANGUAGE}.train.jsonl" \
+              --validation_file "finetune/data/multilingual/${LANGUAGE}/${task}/${task}_${LANGUAGE}.valid.jsonl" \
               --do_train $DO_TRAIN \
               --do_eval \
               --do_predict \
