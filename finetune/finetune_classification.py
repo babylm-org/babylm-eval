@@ -50,8 +50,6 @@ from transformers.trainer_utils import get_last_checkpoint
 from transformers.utils import check_min_version, send_example_telemetry
 from transformers.utils.versions import require_version
 
-from gpt_bert import GPTBertForSequenceClassification
-
 
 # Will error if the minimal version of Transformers is not installed. Remove at your own risks.
 # check_min_version("4.27.0.dev0")
@@ -221,15 +219,6 @@ class ModelArguments:
         default="main",
         metadata={"help": "The specific model version to use (can be a branch name, tag name or commit id)."},
     )
-    use_auth_token: bool = field(
-        default=False,
-        metadata={
-            "help": (
-                "Will use the token generated when running `huggingface-cli login` (necessary to use this script "
-                "with private models)."
-            )
-        },
-    )
     ignore_mismatched_sizes: bool = field(
         default=False,
         metadata={"help": "Will enable to load a pretrained model whose head dimensions are different."},
@@ -325,7 +314,6 @@ def main():
             "glue",
             data_args.task_name,
             cache_dir=model_args.cache_dir,
-            use_auth_token=True if model_args.use_auth_token else None,
         )
     elif data_args.dataset_name is not None:
         # Downloading and loading a dataset from the hub.
@@ -333,7 +321,6 @@ def main():
             data_args.dataset_name,
             data_args.dataset_config_name,
             cache_dir=model_args.cache_dir,
-            use_auth_token=True if model_args.use_auth_token else None,
         )
     else:
         # Loading a dataset from your local files.
@@ -367,7 +354,6 @@ def main():
                 "csv",
                 data_files=data_files,
                 cache_dir=model_args.cache_dir,
-                use_auth_token=True if model_args.use_auth_token else None,
             )
         else:
             # Loading a dataset from local json files
@@ -404,9 +390,6 @@ def main():
     is_binary = (num_labels == 2)
 
     # Load pretrained model and tokenizer
-    #
-    # In distributed training, the .from_pretrained methods guarantee that only one local process can concurrently
-    # download model & vocab.
     config = AutoConfig.from_pretrained(
         model_args.config_name if model_args.config_name else model_args.model_name_or_path,
         num_labels=num_labels,
@@ -414,7 +397,6 @@ def main():
         cache_dir=model_args.cache_dir,
         revision=model_args.model_revision,
         trust_remote_code=True,
-        use_auth_token=True if model_args.use_auth_token else None,
     )
     tokenizer = AutoTokenizer.from_pretrained(
         model_args.tokenizer_name if model_args.tokenizer_name else model_args.model_name_or_path,
@@ -422,23 +404,18 @@ def main():
         use_fast=model_args.use_fast_tokenizer,
         revision=model_args.model_revision,
         trust_remote_code=True,
-        use_auth_token=True if model_args.use_auth_token else None,
     )
 
     model_name = model_args.model_name_or_path
-    if "gpt_bert" in model_name or "gptbert" in model_name:
-        model = GPTBertForSequenceClassification(model_name, config)
-    else:
-        model = AutoModelForSequenceClassification.from_pretrained(
-            model_name,
-            from_tf=bool(".ckpt" in model_args.model_name_or_path),
-            config=config,
-            cache_dir=model_args.cache_dir,
-            revision=model_args.model_revision,
-            use_auth_token=True if model_args.use_auth_token else None,
-            trust_remote_code=True,
-            ignore_mismatched_sizes=model_args.ignore_mismatched_sizes,
-        )
+    model = AutoModelForSequenceClassification.from_pretrained(
+        model_name,
+        from_tf=bool(".ckpt" in model_args.model_name_or_path),
+        config=config,
+        cache_dir=model_args.cache_dir,
+        revision=model_args.model_revision,
+        trust_remote_code=True,
+        ignore_mismatched_sizes=model_args.ignore_mismatched_sizes,
+    )
 
     model.config.pad_token_id = tokenizer.eos_token_id
 

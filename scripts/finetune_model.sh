@@ -25,25 +25,26 @@ if [[ -z "$MODEL_NAME" ]]; then
     echo "Error: --model_name is required"; exit 1
 fi
 
-
-# NOTE: if you've already run finetuning and just want to generate predictions,
-# you can set `--model_name_or_path "results/finetune/$model_basename/$TRAIN_NAME/"`
-# and remove the `--do_train` and `--do_eval` arguments.
+# Set HF_TOKEN in .env for gated models
+set -a
+source .env
+set +a
 
 model_basename=$(basename $MODEL_NAME)
 for LANGUAGE in $langs; do
+    LANGUAGE=${LANGUAGE:0:2}  # eng/nld/zho -> en/nl/zh
     for task in arc belebele bmlama include mnli sib200 truthfulqa xnli; do
         TRAIN_NAME=$task
         VALID_NAME=$task
         DO_TRAIN=True
         MODEL_NAME_FULL=$MODEL_NAME
 
-        mkdir -p finetune/results/$model_basename/$task/
+        mkdir -p finetune/results/$model_basename/${LANGUAGE}/$task/
 
         python3 finetune/finetune_classification.py \
               --model_name_or_path "$MODEL_NAME" \
               --language "$LANGUAGE" \
-              --output_dir "finetune/results/${model_basename}/${task}" \
+              --output_dir "finetune/results/${model_basename}/${LANGUAGE}/${task}" \
               --train_file "finetune/data/multilingual/${LANGUAGE}/${task}/${task}_${LANGUAGE}.train.jsonl" \
               --validation_file "finetune/data/multilingual/${LANGUAGE}/${task}/${task}_${LANGUAGE}.valid.jsonl" \
               --do_train $DO_TRAIN \
