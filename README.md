@@ -40,6 +40,7 @@ We train GPT-2 baseline models on the datasets. We provide monolingual models, a
 
 Following [BabyBabelLM](https://arxiv.org/pdf/2510.10159), we divide evaluation for the multilingual models up in zero-shot and fine-tuning evaluation. Zero-shot evaluation is done through `lm-eval`. Fine-tuning is adapted from a script of previous BabyLM editions.
 
+### Zero-shot Tasks
 | task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small | gpt2-baseline-babylm-nld | gpt2-baseline-babylm-zho | gpt2-baseline-en_nld_equal | gpt2-baseline-en_zho_equal | gpt2-baseline-nld_zho_equal | gpt2-baseline-en_nld_zho_equal |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **zeroshot_eng** |  |  |  |  |  |  |  |  |
@@ -64,3 +65,35 @@ Following [BabyBabelLM](https://arxiv.org/pdf/2510.10159), we divide evaluation 
 | xstorycloze_zh_mubench |  |  |  | 50.23 |  | **51.55** | 50.54 | 50.62 |
 | zhoblimp |  |  |  | **78.79** |  | 78.60 | 77.23 | 75.44 |
 | *avg* |  |  |  | **52.87** |  | 52.25 | 51.79 | 51.34 |
+
+### Finetuning tasks
+| task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small | gpt2-baseline-babylm-nld | gpt2-baseline-babylm-zho | gpt2-baseline-en_nld_equal | gpt2-baseline-en_zho_equal | gpt2-baseline-nld_zho_equal | gpt2-baseline-en_nld_zho_equal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **en** |  |  |  |  |  |  |  |  |
+| arc | 24.79 | 24.79 |  |  | 24.58 | **25.21** |  | 24.79 |
+| belebele | 23.30 | 26.14 |  |  | **26.70** | 22.73 |  | 22.16 |
+| bmlama | 11.26 | 10.60 |  |  | **12.83** | 9.85 |  | 9.35 |
+| mnli |  | 45.89 |  |  | 46.90 | 49.66 |  | **51.63** |
+| sib200 |  | 42.00 |  |  | **79.00** | 21.50 |  | 21.50 |
+| truthfulqa |  | 19.64 |  |  | **22.32** | **22.32** |  | **22.32** |
+| xnli |  | 43.20 |  |  | 45.25 | 44.30 |  | **46.65** |
+| *avg* | 19.78 | 30.32 |  |  | **36.80** | 27.94 |  | 28.34 |
+| **nl** |  |  |  |  |  |  |  |  |
+| arc |  |  | **24.38** |  | 24.17 |  | **24.38** | **24.38** |
+| belebele |  |  | 26.70 |  | 29.55 |  | 21.02 | **30.11** |
+| bmlama |  |  | **13.25** |  | 11.42 |  | 10.18 | 10.68 |
+| include |  |  | 19.64 |  | **35.71** |  | 34.82 | 19.64 |
+| mnli |  |  | 49.04 |  | **51.52** |  | 45.55 | 43.92 |
+| sib200 |  |  | 74.50 |  | **76.00** |  | 21.50 | 21.50 |
+| truthfulqa |  |  | **23.21** |  | 17.86 |  | **23.21** | **23.21** |
+| *avg* |  |  | 32.96 |  | **35.18** |  | 25.81 | 24.78 |
+| **zh** |  |  |  |  |  |  |  |  |
+| arc |  |  |  | 25.83 |  | 24.58 | **26.25** | 25.00 |
+| belebele |  |  |  | 21.02 |  | 22.16 | **23.30** | 22.73 |
+| bmlama |  |  |  | **11.67** |  | 9.85 | 9.35 | 9.35 |
+| include |  |  |  | **32.14** |  | 26.79 | 19.64 | 26.79 |
+| mnli |  |  |  | **48.03** |  | 46.79 | 45.16 | 45.83 |
+| sib200 |  |  |  | 21.50 |  | **80.50** | 21.50 | 21.50 |
+| truthfulqa |  |  |  | **27.68** |  | 23.21 | 25.00 | 23.21 |
+| xnli |  |  |  | 46.05 |  | **46.25** | 43.95 | 43.45 |
+| *avg* |  |  |  | 29.24 |  | **35.02** | 26.77 | 27.23 |
