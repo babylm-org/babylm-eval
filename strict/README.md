@@ -102,6 +102,9 @@ results
 
 Download the `evaluation_data` folder in [this OSF directory](https://osf.io/ryjfm/). Place it in the root directory of this repository.
 
+> [!NOTE]
+> You can download files from OSF using the osfclient. 
+
 Due to large file sizes and license restrictions, we do not provide images in the OSF directory of the evaluation tasks for the multimodal track. Instead, we link to HuggingFace datasets, two of which require approval (which is immediate). Go to this URL to download this dataset:
 - [Winoground](https://huggingface.co/datasets/facebook/winoground)
 
