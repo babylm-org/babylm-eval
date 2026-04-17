@@ -1,15 +1,8 @@
-# BabyLM Evaluation 2026
+# Multilingual Track Evaluation
 
-This repository contains the evaluation pipeline for the 2026 BabyLM Challenge. It uses [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) with custom tasks defined in `tasks/`.
-
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
+This repository contains the evaluation pipeline for the **multilingual track** of the 2026 BabyLM Challenge. It uses [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) with custom tasks defined in `tasks/`.
 
 ## Running evaluation
-
 Use `scripts/eval_model.sh` to evaluate a model across languages:
 
 ```bash
