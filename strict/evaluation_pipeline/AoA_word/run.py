@@ -142,7 +142,11 @@ def main() -> None:
 
     cdi_human = args.word_path.parent / "cdi_human.csv"
     if results_data.get("results") and cdi_human.is_file():
-        tokenizer = AutoTokenizer.from_pretrained(args.model_name, trust_remote_code=True)
+        try:
+            tokenizer = AutoTokenizer.from_pretrained(args.model_name, trust_remote_code=True)
+        except Exception:
+            from transformers import PreTrainedTokenizerFast
+            tokenizer = PreTrainedTokenizerFast.from_pretrained(args.model_name, trust_remote_code=True)
         score = AoAEvaluator(cdi_human).compute_curve_fitness(results_data, tokenizer)["curve_fitness"]
         score_file = result_file.parent / "aoa_score.json"
         JsonProcessor.save_json({"aoa": score}, score_file)
