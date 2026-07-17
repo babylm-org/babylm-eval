@@ -58,108 +58,113 @@ Following [BabyBabelLM](https://arxiv.org/pdf/2510.10159), we divide evaluation 
 
 ### Strict / Strict-Small
 #### Zero-shot
-| task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small |
-| --- | --- | --- |
-| zero_shot/blimp/blimp_filtered | **74.53** | 65.08 |
-| zero_shot/blimp/supplement_filtered | **65.00** | 57.25 |
-| zero_shot/comps/comps | **55.85** | 51.81 |
-| zero_shot/entity_tracking/entity_tracking | **23.58** | 21.07 |
+| task (metric) | Baseline-GPT2-Strict | Baseline-Strict-Interaction | Baseline-GPT2-Strict-Small | Baseline-Strict-Small-Interaction |
+| --- | ---: | ---: | ---: | ---: |
+| BLiMP (acc) | **74.73** | 72.89 | **65.23** | 63.07 |
+| BLiMP Supplement (acc) | 65.00 | **65.09** | 57.25 | **58.13** |
+| EWoK (acc) | **54.37** | 54.23 | 50.63 | **51.45** |
+| Entity Tracking (acc) | **16.91** | 15.89 | 19.10 | **19.62** |
+| COMPS (acc) | **55.85** | 55.37 | **51.81** | 51.29 |
+| GlobalPIQA (acc) | **36.62** | 36.18 | 35.09 | **36.14** |
 
-#### Finetune (GLUE)
-| task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small |
-| --- | --- | --- |
-| boolq (accuracy) | **67.46** | 65.87 |
-| mnli (accuracy) | **59.94** | 49.80 |
-| mrpc (f1) | **84.35** | 83.49 |
-| multirc (accuracy) | 63.90 | **64.52** |
-| qqp (f1) | **70.73** | 60.86 |
-| rte (accuracy) | 56.83 | **60.43** |
+#### Human-likeness
+| task (metric) | Baseline-GPT2-Strict | Baseline-Strict-Interaction | Baseline-GPT2-Strict-Small | Baseline-Strict-Small-Interaction |
+| --- | ---: | ---: | ---: | ---: |
+| Reading (delta % R2) | **6.93** | 3.43 | **5.63** | 5.10 |
+| AoA (MSE) | -11.58 | **-11.36** | **-12.15** |  |
+
+#### Finetune ((Super)GLUE)
+| task (metric) | Baseline-GPT2-Strict | Baseline-Strict-Interaction | Baseline-GPT2-Strict-Small | Baseline-Strict-Small-Interaction |
+| --- | ---: | ---: | ---: | ---: |
+| boolq (accuracy) | **69.66** | 67.46 | 67.71 | **68.01** |
+| mnli (accuracy) | **60.76** | 60.68 | 49.84 | **51.20** |
+| mrpc (f1) | 85.34 | **86.27** | **81.37** | 81.00 |
+| multirc (accuracy) | 65.92 | **66.21** | **65.76** | 65.31 |
+| qqp (f1) | **71.56** | 70.51 | 61.67 | **64.31** |
+| rte (accuracy) | 57.55 | **58.27** | **56.83** | 53.96 |
+| wsc (accuracy) | **63.46** | 61.54 | **63.46** | 61.54 |
+| *avg* | **67.75** | 67.28 | **63.80** | 63.62 |
 
 ### Multilingual Track
 
 #### Zero-shot Tasks
-| task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small | gpt2-baseline-babylm-nld | gpt2-baseline-babylm-zho | gpt2-baseline-en_nld_equal | gpt2-baseline-en_zho_equal | gpt2-baseline-nld_zho_equal | gpt2-baseline-en_nld_zho_equal |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **zeroshot_eng** |  |  |  |  |  |  |  |  |
-| blimp | **73.43** | 64.39 |  |  | 71.77 | 71.01 |  | 69.18 |
-| hellaswag_en_mubench | 26.49 | 25.70 |  |  | 26.43 | 26.30 |  | **26.66** |
-| multiblimp_eng | **88.57** | 80.39 |  |  | 87.92 | 86.49 |  | 87.14 |
-| winogrande_en_mubench | 51.44 | 51.03 |  |  | 50.54 | **52.84** |  | 48.80 |
-| xstorycloze_en_mubench | 49.23 | 48.37 |  |  | 47.37 | **49.92** |  | **49.92** |
-| *avg* | **57.83** | 53.98 |  |  | 56.81 | 57.31 |  | 56.34 |
-| **zeroshot_nld** |  |  |  |  |  |  |  |  |
-| blimp_nl |  |  | **84.12** |  | 81.70 |  | 80.47 | 79.27 |
-| hellaswag_nl_mubench |  |  | **26.79** |  | 26.38 |  | 26.71 | 26.37 |
-| multiblimp_nld |  |  | **94.72** |  | 92.62 |  | 94.04 | 91.85 |
-| winogrande_nl_mubench |  |  | **49.88** |  | 48.80 |  | 48.47 | 49.30 |
-| xcomps_nl |  |  | **54.54** |  | 53.87 |  | 52.87 | 52.68 |
-| xstorycloze_nl_mubench |  |  | 47.60 |  | 47.99 |  | **49.23** | 47.37 |
-| *avg* |  |  | **59.61** |  | 58.56 |  | 58.63 | 57.81 |
-| **zeroshot_zho** |  |  |  |  |  |  |  |  |
-| hellaswag_zh_mubench |  |  |  | **27.78** |  | 26.72 | 27.20 | 27.05 |
-| winogrande_zh_mubench |  |  |  | **51.85** |  | 50.62 | 50.37 | 49.71 |
-| xcomps_zh |  |  |  | **55.70** |  | 53.74 | 53.59 | 53.90 |
-| xstorycloze_zh_mubench |  |  |  | 50.23 |  | **51.55** | 50.54 | 50.62 |
-| zhoblimp |  |  |  | **78.79** |  | 78.60 | 77.23 | 75.44 |
-| *avg* |  |  |  | **52.87** |  | 52.25 | 51.79 | 51.34 |
+| task | GPT2-Strict | GPT2-en_nld_equal | GPT2-en_zho_equal | GPT2-nld_zho_equal | GPT2-en_nld_zho_equal |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **zeroshot_eng** |  |  |  |  |  |
+| blimp | **73.81** | 72.18 | 72.28 |  | 70.49 |
+| global_piqa | 36.62 | 34.65 | 38.58 |  | **39.12** |
+| hellaswag_en_mubench | 26.45 | **26.51** | 26.35 |  | **26.51** |
+| multiblimp_eng | **88.57** | 87.92 | 88.18 |  | 85.97 |
+| winogrande_en_mubench | **51.44** | 50.54 | 50.95 |  | 50.12 |
+| xstorycloze_en_mubench | **50.70** | 50.62 | 49.46 |  | 49.54 |
+| *avg* | 54.60 | 53.74 | 54.30 |  | 53.63 |
+| **zeroshot_nld** |  |  |  |  |  |
+| blimp_nl |  | **81.70** |  | 80.54 | 77.04 |
+| global_piqa |  | **41.61** |  | 40.65 | 38.11 |
+| hellaswag_nl_mubench |  | 26.45 |  | **26.96** | 26.65 |
+| multiblimp_nld |  | 92.62 |  | **93.69** | 92.11 |
+| winogrande_nl_mubench |  | 48.80 |  | **51.03** | 49.38 |
+| xcomps_nl |  | **53.87** |  | 52.68 | 53.04 |
+| xstorycloze_nl_mubench |  | 48.92 |  | **49.38** | 48.99 |
+| *avg* |  | 56.28 |  | 56.42 | 55.05 |
+| **zeroshot_zho** |  |  |  |  |  |
+| hellaswag_zh_mubench |  |  | **27.06** | 26.67 | 26.74 |
+| global_piqa |  |  | **39.61** | 37.18 | 31.74 |
+| winogrande_zh_mubench |  |  | 49.55 | **50.87** | 49.63 |
+| xcomps_zh |  |  | 53.61 | **54.06** | 53.47 |
+| xstorycloze_zh_mubench |  |  | **48.84** | 47.99 | 47.91 |
+| zhoblimp |  |  | **77.03** | 76.09 | 74.03 |
+| *avg* |  |  | 49.28 | 48.81 | 47.25 |
 
 #### Chinese Hanzi Zero-shot
-
-| Model | Hanzi Structure | Hanzi Pinyin |
-| --- | ---: | ---: |
-| BabyLM-2026-Baseline-GPT2-Strict | 0.00 | 0.00 |
-| BabyLM-2026-Baseline-GPT2-Strict-Small | 0.00 | 0.00 |
-| BabyLM-2026-Baseline-GPT2-nld | 56.75 | 43.55 |
-| BabyLM-2026-Baseline-GPT2-zho | **58.20** | **51.05** |
-| BabyLM-2026-Baseline-GPT2-en_nld_equal | 55.60 | 44.00 |
-| BabyLM-2026-Baseline-GPT2-en_zho_equal | 55.05 | 48.75 |
-| BabyLM-2026-Baseline-GPT2-nld_zho_equal | 56.15 | 48.20 |
-| BabyLM-2026-Baseline-GPT2-en_nld_zho_equal | 55.05 | 50.05 |
+| task | GPT2-Strict | GPT2-en_nld_equal | GPT2-en_zho_equal | GPT2-nld_zho_equal | GPT2-en_nld_zho_equal |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Hanzi Structure |  |  | 55.05 | **56.15** | 55.05 |
+| Hanzi Pinyin |  |  | 48.75 | 48.20 | **50.05** |
 
 #### MECO Reading Time
-
-| Model | L1 English | L1 Dutch | L1 Chinese | L2 Dutch | L2 Chinese |
+| task | GPT2-Strict | GPT2-en_nld_equal | GPT2-en_zho_equal | GPT2-nld_zho_equal | GPT2-en_nld_zho_equal |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| BabyLM-2026-Baseline-GPT2-Strict | 5086.50 |  |  |  |  |
-| BabyLM-2026-Baseline-GPT2-Strict-Small | 5167.64 |  |  |  |  |
-| BabyLM-2026-Baseline-GPT2-nld |  | 294.31 |  |  |  |
-| BabyLM-2026-Baseline-GPT2-zho |  |  | **651.28** |  |  |
-| BabyLM-2026-Baseline-GPT2-en_nld_equal | 5203.98 | **425.05** |  | 13.55 |  |
-| BabyLM-2026-Baseline-GPT2-en_zho_equal | **5209.61** |  | 638.52 |  | **97.08** |
-| BabyLM-2026-Baseline-GPT2-nld_zho_equal |  | 276.33 | 628.91 |  |  |
-| BabyLM-2026-Baseline-GPT2-en_nld_zho_equal | 5157.10 | 388.27 | 632.02 | **55.41** | 63.97 |
+| L1 English | 5086.50 | 5203.98 | **5209.61** |  | 5157.10 |
+| L1 Dutch |  | **425.05** |  | 276.33 | 388.27 |
+| L1 Chinese |  |  | **638.52** | 628.91 | 632.02 |
+| L2 Dutch |  | 13.80 |  |  | **55.92** |
+| L2 Chinese |  |  | **107.10** |  | 75.47 |
 
 #### Finetuning tasks
-| task | gpt2-baseline-BabyLM-2026-Strict | gpt2-baseline-BabyLM-2026-Strict-Small | gpt2-baseline-babylm-nld | gpt2-baseline-babylm-zho | gpt2-baseline-en_nld_equal | gpt2-baseline-en_zho_equal | gpt2-baseline-nld_zho_equal | gpt2-baseline-en_nld_zho_equal |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **en** |  |  |  |  |  |  |  |  |
-| arc | 24.79 | 24.79 |  |  | 24.58 | **25.21** |  | 24.79 |
-| belebele | 23.30 | 26.14 |  |  | **26.70** | 22.73 |  | 22.16 |
-| bmlama | 11.26 | 10.60 |  |  | **12.83** | 9.85 |  | 9.35 |
-| mnli |  | 45.89 |  |  | 46.90 | 49.66 |  | **51.63** |
-| sib200 |  | 42.00 |  |  | **79.00** | 21.50 |  | 21.50 |
-| truthfulqa |  | 19.64 |  |  | **22.32** | **22.32** |  | **22.32** |
-| xnli |  | 43.20 |  |  | 45.25 | 44.30 |  | **46.65** |
-| *avg* | 19.78 | 30.32 |  |  | **36.80** | 27.94 |  | 28.34 |
-| **nl** |  |  |  |  |  |  |  |  |
-| arc |  |  | **24.38** |  | 24.17 |  | **24.38** | **24.38** |
-| belebele |  |  | 26.70 |  | 29.55 |  | 21.02 | **30.11** |
-| bmlama |  |  | **13.25** |  | 11.42 |  | 10.18 | 10.68 |
-| include |  |  | 19.64 |  | **35.71** |  | 34.82 | 19.64 |
-| mnli |  |  | 49.04 |  | **51.52** |  | 45.55 | 43.92 |
-| sib200 |  |  | 74.50 |  | **76.00** |  | 21.50 | 21.50 |
-| truthfulqa |  |  | **23.21** |  | 17.86 |  | **23.21** | **23.21** |
-| *avg* |  |  | 32.96 |  | **35.18** |  | 25.81 | 24.78 |
-| **zh** |  |  |  |  |  |  |  |  |
-| arc |  |  |  | 25.83 |  | 24.58 | **26.25** | 25.00 |
-| belebele |  |  |  | 21.02 |  | 22.16 | **23.30** | 22.73 |
-| bmlama |  |  |  | **11.67** |  | 9.85 | 9.35 | 9.35 |
-| include |  |  |  | **32.14** |  | 26.79 | 19.64 | 26.79 |
-| mnli |  |  |  | **48.03** |  | 46.79 | 45.16 | 45.83 |
-| sib200 |  |  |  | 21.50 |  | **80.50** | 21.50 | 21.50 |
-| truthfulqa |  |  |  | **27.68** |  | 23.21 | 25.00 | 23.21 |
-| xnli |  |  |  | 46.05 |  | **46.25** | 43.95 | 43.45 |
-| *avg* |  |  |  | 29.24 |  | **35.02** | 26.77 | 27.23 |
+| task | GPT2-Strict | GPT2-en_nld_equal | GPT2-en_zho_equal | GPT2-nld_zho_equal | GPT2-en_nld_zho_equal |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| **en** |  |  |  |  |  |
+| arc | 24.17 | 24.38 | 23.54 |  | **24.79** |
+| belebele | **26.14** | 22.73 | **26.14** |  | **26.14** |
+| bmlama | 11.01 | 10.93 | 8.94 |  | **12.00** |
+| mnli | **51.91** | 45.61 | 49.38 |  | 50.00 |
+| pos |  | **93.83** | 93.48 |  | 93.40 |
+| sib200 | **82.50** | 77.00 | 21.50 |  | 69.50 |
+| truthfulqa | **23.21** | **23.21** | **23.21** |  | **23.21** |
+| xnli | 46.55 | **47.30** | 46.50 |  | 45.65 |
+| *avg* | 33.19 | 43.12 | 36.59 |  | 43.09 |
+| **nl** |  |  |  |  |  |
+| arc |  | **24.38** |  | **24.38** | **24.38** |
+| belebele |  | 22.73 |  | 22.73 | **26.14** |
+| bmlama |  | **12.00** |  | 9.69 | 9.93 |
+| include |  | **31.25** |  | 19.64 | 19.64 |
+| mnli |  | 45.38 |  | 48.87 | **49.27** |
+| pos |  | 95.54 |  | **95.56** | 94.97 |
+| sib200 |  | **76.00** |  | 21.50 | 71.00 |
+| truthfulqa |  | **23.21** |  | **23.21** | **23.21** |
+| *avg* |  | 41.31 |  | 33.20 | 39.82 |
+| **zh** |  |  |  |  |  |
+| arc |  |  | 23.54 | 24.79 | **25.21** |
+| belebele |  |  | **26.14** | 22.73 | 22.73 |
+| bmlama |  |  | 8.86 | **12.00** | 10.93 |
+| include |  |  | 26.79 | 26.79 | **28.57** |
+| mnli |  |  | 46.06 | 44.99 | **47.58** |
+| pos |  |  | 90.72 | **91.00** | 90.40 |
+| sib200 |  |  | **78.00** | 75.50 | 72.50 |
+| truthfulqa |  |  | **23.21** | **23.21** | **23.21** |
+| xnli |  |  | **46.30** | 43.65 | 45.05 |
+| *avg* |  |  | 41.07 | 40.52 | 40.69 |
 
 ## Citation
 ```
