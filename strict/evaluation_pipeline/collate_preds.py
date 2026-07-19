@@ -569,7 +569,6 @@ def get_revision_fast_eval_metrics(args, revision_name):
 
 def _calculate_target_results(results_dict: dict[str, dict[str, list[dict[str, str]]]], task: str, path_to_data: Path) -> dict[str, float]:
     processed_results = {}
-    data_key = "Target1" if task == "ewok" else "sentence_good"
     for subtask in results_dict.keys():
         correct = 0
         total = 0
@@ -579,7 +578,10 @@ def _calculate_target_results(results_dict: dict[str, dict[str, list[dict[str, s
                 data = json.loads(data)
                 total += 1
                 res = result["pred"].strip() if isinstance(result["pred"], str) else result["pred"]
-                target = data[data_key].strip() if isinstance(data[data_key], str) else data[data_key]
+                if task == "ewok":
+                    target = " ".join([data["Context1"], data["Target1"]]).strip()
+                else:
+                    target = data["sentence_good"].strip() if isinstance(data["sentence_good"], str) else data["sentence_good"]
                 if res == target:
                     correct += 1
             processed_results[subtask] = correct / total
