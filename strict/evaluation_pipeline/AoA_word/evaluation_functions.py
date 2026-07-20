@@ -75,6 +75,10 @@ class StepSurprisalExtractor:
         return model
 
     def load_tokenizer_for_step(self, step: int) -> AutoProcessor:
+        # 3-level fallback: AutoProcessor fails on text-only models, and
+        # AutoTokenizer cannot resolve the "TokenizersBackend" class recorded
+        # by transformers 5.x checkpoints; PreTrainedTokenizerFast loads
+        # tokenizer.json directly. Mirrors sentence_zero_shot/reading/finetune.
         try:
             processor = AutoProcessor.from_pretrained(
                 self.model_name,
@@ -82,12 +86,29 @@ class StepSurprisalExtractor:
                 padding_side="right",
                 revision=step,
             )
-            tokenizer = (
-                processor.tokenizer if hasattr(processor, "tokenizer") else processor
-            )
-        except Exception as e:
-            logger.error(f"Error loading tokenizer for step {step}: {e!s}")
-            raise
+        except Exception:
+            try:
+                processor = AutoTokenizer.from_pretrained(
+                    self.model_name,
+                    trust_remote_code=True,
+                    padding_side="right",
+                    revision=step,
+                )
+            except Exception:
+                from transformers import PreTrainedTokenizerFast
+                try:
+                    processor = PreTrainedTokenizerFast.from_pretrained(
+                        self.model_name,
+                        trust_remote_code=True,
+                        padding_side="right",
+                        revision=step,
+                    )
+                except Exception as e:
+                    logger.error(f"Error loading tokenizer for step {step}: {e!s}")
+                    raise
+        tokenizer = (
+            processor.tokenizer if hasattr(processor, "tokenizer") else processor
+        )
         return processor, tokenizer
 
     def compute_surprisal(
